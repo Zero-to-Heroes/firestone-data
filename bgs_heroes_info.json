@@ -1,0 +1,219 @@
+[
+  {
+    "cardId": "TB_BaconShop_HERO_01",
+    "heroName": "Edwin VanCleef",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "Edwin's hero power is a targeted ability, which makes it extremely valuable to buff usually hard-to-buff minions like a Cave Hydra, or give more health to key minions like Baron Rivendare or Mama Bear. The longer the game lasts, the more your buffs will stack and give Edwin an advantage."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_10",
+    "heroName": "Trade Prince Gallywix",
+    "powerLevel": "E",
+    "difficulty": "medium",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_11",
+    "heroName": "Ragnaros the Firelord",
+    "powerLevel": "C",
+    "difficulty": "easy",
+    "strategy": "Ragnaros' targets being random is not that big of a drawback, as it either kills or weakens a lot minions in the mid-game, or removes a divine shield. Late-game, the 8 damage are less significant, which makes him struggle more later in the game."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_12",
+    "heroName": "The Rat King",
+    "powerLevel": "A",
+    "difficulty": "medium",
+    "strategy": "Early game, you usually want to go for tempo and try to pick whatever the bonus tells you to pick, so that you can enter strong into the late game, where the bonus matters less."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_14",
+    "heroName": "Queen Wagtoggle",
+    "powerLevel": "D",
+    "difficulty": "easy",
+    "strategy": "You will want to find minions you want to keep as early as possible, so as to not waste too much coins on buffing weak minions, as the bonus takes a way to stack and make a real difference. However, her hero power is usually best early game, where the small health difference can win a few games and get you to the final four."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_15",
+    "heroName": "George the Fallen",
+    "powerLevel": "B",
+    "difficulty": "hard",
+    "strategy": "His late-game hero power is second only to Nefarian's. Granting a divine shield to a Cave Hydra, Mama Bear or Scagenging Hyena is immensely helpful. The hero power being very costly makes it unusable early game though, which means you will have to focus more than others on early game survival."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_16",
+    "heroName": "A. F. Kay",
+    "powerLevel": "A",
+    "difficulty": "easy",
+    "strategy": "The minions you recruit on turn 3 set up your strategy, and are usually strong enough to let you win the next couple of games while you catch up on tavern upgrades. It's important to note that A. F. Kay can still freeze the tavern in the first two turns, for instance to save up token generating minions."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_17",
+    "heroName": "Millificent Manastorm",
+    "powerLevel": "C",
+    "difficulty": "easy",
+    "strategy": "You probably will want to go for mechs as well as divine shields to maximize the effect of the +1 attack, but don't try too hard to get them, as her hero power is not strong enough to warrant sacrificing tempo just to get the right minions."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_18",
+    "heroName": "Patches the Pirate",
+    "powerLevel": "E",
+    "difficulty": "easy",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_19",
+    "heroName": "Giantfin",
+    "powerLevel": "E",
+    "difficulty": "easy",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_20",
+    "heroName": "Professor Putricide",
+    "powerLevel": "E",
+    "difficulty": "medium",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_21",
+    "heroName": "The Great Akazamzarak",
+    "powerLevel": "A",
+    "difficulty": "hard",
+    "strategy": "You want to get Ice Block, Splitting Image or Autodefense Matrix from your hero power, the others being rather inferior choices. The hero power is too expensive early game though, so you will want to make sure you tempo out as much as possible to avoid losing too quickly."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_22",
+    "heroName": "The Lich King",
+    "powerLevel": "B",
+    "difficulty": "hard",
+    "strategy": "A very difficult hero to play, he's rated pretty high by top players. You will want to use your hero power on strong deathrattles or an important minions you want to protect from dying too early, like a Scavenging Hyena or a Junkbot, or support minions like Baron Rivendare or Mama Bear."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_23",
+    "heroName": "Shudderwock",
+    "powerLevel": "A",
+    "difficulty": "hard",
+    "strategy": "The trap with Shudderwock is to try for Pogo-Hoppers. While very satisfying when it works, it's so rare that the payoff is negative. Instead, the double battlecry can be really strong when paider with powerful buff minions like Menagerie Magician. It also allows you to double a battlecry without costing you board space like Brann does, so you can use it to be stronger board than a typical Brann comp."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_25",
+    "heroName": "Lich Baz'hial",
+    "powerLevel": "B",
+    "difficulty": "hard",
+    "strategy": "You almost always want to grab a coin as often as possible early game to buy more minions, as early game advantage compounds. Getting Floating Watcher or Mal'Ganis is a huge boost for her."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_27",
+    "heroName": "Sindragosa",
+    "powerLevel": "A",
+    "difficulty": "medium",
+    "strategy": "You usually want to buy + freeze turn 1, upgrade turn 2 and freeze, and buy whatever you can turn 3, as the +2/+2 on the two tier 1 minions will likely make them better than whatever tier 2 minion you will get offered. Early game, stats are really important, which gives Sindragosa a really good head start in most games, as the buff is not dependent on getting the right minions"
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_28",
+    "heroName": "Infinite Toki",
+    "powerLevel": "C",
+    "difficulty": "medium",
+    "strategy": "You can get a lot of value early game, when you get a tier 3/4/5 minion before everyone else, giving you a strong head start. It also lets you stay on tavern 5 until the cost to upgrade has gone down enough. That said, the hero power is pretty expensive early game, and there are many minions from higher tiers that might not be worth buying, make her a high-risk, high-reward hero."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_30",
+    "heroName": "Nefarian",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "His hero power is arguably the strongest hero power in the late game, but the challenge is getting there. Since it lacks early tempo, you might have to use one gold from time to time in the mid game to stay alive until your hero power can start taking away divine shields."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_31",
+    "heroName": "Bartendotron",
+    "powerLevel": "E",
+    "difficulty": "easy",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_33",
+    "heroName": "The Curator",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "In the early game, the extra body can turn most of ties into wins, getting an early advantage. And you're guaranteed to always have a buff target, which means you will reroll less often. But be careful when facing Raf'aam not to give him a free Amalgam."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_34",
+    "heroName": "Patchwerk",
+    "powerLevel": "D",
+    "difficulty": "easy",
+    "strategy": "His high starting health lets you be more greedy early game and on your end-game condition a bit earlier. That said, the 10 extra health is probably no more than a single extra turn, so be careful. He's one of the best heroes to work with demons, since he can tank more health damage and gets more value from the Battlemaster."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_35",
+    "heroName": "Yogg-Saron, Hope's End",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "Yogg is tempo oriented, and the buff from the hero power is usually enough to get through the early game ahead and secure a top 4 finish. Don't hesitate to pick a random minion for the buff on turn 1 if all options are decent, and Yogg and recruit two minions on turn 3 without needing to sell anything."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_36",
+    "heroName": "Dancin' Deryl",
+    "powerLevel": "S",
+    "difficulty": "hard",
+    "strategy": "Deryl is probably the most difficult hero to play, because it requires a lot of planning and very quick execution. You ideally want to have a few big \"dancing\" turns where you buff a valuable minion (like a Cave Hydra) to the extreme by buying all the other minions, then selling whatever you can to land all the buffs on that target."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_37",
+    "heroName": "Lord Jaraxxus",
+    "powerLevel": "D",
+    "difficulty": "easy",
+    "strategy": "The main issue with Lord Jaraxxus is that today Demons are the weakest tribe. That said, they are pretty good mid-game, so if you can find a few early demons and buff them consistently the hero power can carry you to victory."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_38",
+    "heroName": "King Mukla",
+    "powerLevel": "B",
+    "difficulty": "easy",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_39",
+    "heroName": "Pyramad",
+    "powerLevel": "E",
+    "difficulty": "easy",
+    "strategy": ""
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_40",
+    "heroName": "Sir Finley Mrrgglton",
+    "powerLevel": "D",
+    "difficulty": "medium",
+    "strategy": "Early game you probably want to keep your minion instead of a +1/+1 buff. It can however work nicely when you have an awkward number of mana to spend and get you a small buff on a key minion. Repeated enough time, it can make a difference, especially on those minions that are difficult to buff."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_42",
+    "heroName": "Elise Starseeker",
+    "powerLevel": "B",
+    "difficulty": "easy",
+    "strategy": "Discovering a minion from a specific tier is much stronger than just refreshing the tavern, as you're guaranteed a choice from 3 high-tier mininos. You use your Discovers to find strong minions that you can build your strategy around."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_43",
+    "heroName": "Brann Bronzebeard",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "Battlecry minions can buff themselves with the hero power, so try to pick battlecry minions at the start. Brann is very tempo oriented, and you should usually try to pursue a strategy based on battlecries and early dominion."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_44",
+    "heroName": "Sylvanas Windrunner",
+    "powerLevel": "C",
+    "difficulty": "medium",
+    "strategy": "The hero power is too expensive early game, where you can't afford to lose a minion, and too weak late game. It also has a hidden cost of one gold, since you would otherwise sell the minion. Using tokens to get buffs is usually the way to go with Sylvanas to get some advantage mid game to carry you to the later stages."
+  },
+  {
+    "cardId": "TB_BaconShop_HERO_45",
+    "heroName": "Arch-Villain Rafaam",
+    "powerLevel": "S",
+    "difficulty": "easy",
+    "strategy": "With Rafaam you usually don't want to upgrade the tavern on turn 2, but rather buy a minion and use your hero power. The additional body on the board more or less guarantees you'll get a minion back, and from here get a very strong early game. Later in the game, you're usually guaranteed at least one kill, so at its worst his hero power allows you to bank one gold for later."
+  }
+]
