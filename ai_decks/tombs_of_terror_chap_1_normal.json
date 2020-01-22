@@ -1,0 +1,152 @@
+[
+	{
+		"comment": "Lt. Herring (normal)",
+		"opponentCardId": "ULDA_BOSS_15h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoICr8B2A/wD7dskcECp80C9vACnv0C4okDyqsDAAA="
+	},
+	{
+		"comment": "Sand Puffer Frog (normal)",
+		"opponentCardId": "ULDA_BOSS_56h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoICdUW5hbr4wLJiQO0kQPGmQPPpQOGqAPKqwMAAA=="
+	},
+	{
+		"comment": "Weaponized Wasp (normal)",
+		"opponentCardId": "ULDA_BOSS_68h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoICrazAq3CAt3CAvDCAo3DAovlAsWUA6+iA5amA/CnAwAA"
+	},
+	{
+		"comment": "Ermavar (normal)",
+		"opponentCardId": "ULDA_BOSS_30h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIDuwH4xGUFI2sAr/BAsrBAqzCAuvCApbTAtfhAr+kA9KlA4SoA4ipAwAA",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Taskmaster Maru (normal)",
+		"opponentCardId": "ULDA_BOSS_53h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIA7IC5dEC+6UDC7EI2+MCr5EDtJEDj5cDiZsDx5sDpaED+6ID/aUD/6UDAA==",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Thrud (normal)",
+		"opponentCardId": "ULDA_BOSS_65h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIAbf1Agy9BPEPzhXSFZK2ApS2Av3BAo+XA6iYA/uaA86iA62oAwA=",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Twizzleflux (normal)",
+		"opponentCardId": "ULDA_BOSS_18h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBb8Wj8cC58sC/KQD/aQDCpIFtKwC9q4Cw/MC9PcCq5EDiJ0DnKQD+qQD86cDAA==",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Winged Guardian (normal)",
+		"opponentCardId": "ULDA_BOSS_57h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIAeYRDPoBjwnfFIG9AqvCAur3ApGAA6ChA8WhA8OkA8ikA72mAwA=",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Tarkus (normal)",
+		"opponentCardId": "ULDA_BOSS_76h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBawIpxW5wQKGnAPDpAMKzwbJFt2uAuPLAuXLAvfQAqChA8ikA5amA5asAwA=",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "High Prophet Barim (normal)",
+		"opponentCardId": "ULDA_BOSS_74h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIAosPgpQDDtwB+wyPDvsTvhbkzAK0zgKp4gL5kwONlwPIpAOtpQOvpQOZqQMA",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Octosari (normal)",
+		"opponentCardId": "ULDA_BOSS_78h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIAyToFYfOAg3TAf0C7QPBBJoIig73EYbBAt/7Ar/9As6UA9OcA6+iAwA=",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Ol' Barkeye (normal)",
+		"opponentCardId": "ULDA_BOSS_50h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBLcCtQPtCeu9Ag2uBsUI8wzd0gLh4wLv8QKnigPmlgO7oQPkpAPlpAOipQPzpwMA",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Sinkhole (normal)",
+		"opponentCardId": "ULDA_BOSS_08h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIAoaxAovlAg7qBPkOyBb9rwLbsAKvogOcpAPPpQOWpgOQpwP4pwOBqAOGqAOYqQMA",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Ol' Toomba (normal)",
+		"opponentCardId": "ULDA_BOSS_27h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBPYEkbwC7/MC1owDDrICkgSbBfYPxRXQFZK2Aqr/Aq6FA72MA9uMA5CXA/ulA62oAwA=",
+		"deckWarning": "RANDOM_CARDS"
+	},
+	{
+		"comment": "Avozu (normal)",
+		"opponentCardId": "ULDA_BOSS_75h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIArcCgPMCDqgC7QnHD/UWzq4CubQC0MoC+ZYDu6ED5KQD5aQD86cDgagDmKkDAA=="
+	},
+	{
+		"comment": "General Husam (normal)",
+		"opponentCardId": "ULDA_BOSS_73h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBNOuAo/TAo77AoiHAw1LjgWRBu8Hggj7DPkRqRXBFprkAuT3AvCeA9ypAwA="
+	},
+	{
+		"comment": "Sazin (normal)",
+		"opponentCardId": "ULDA_BOSS_28h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBiD+BdoP+aoCwq4Cq+cCDPUEhgb1CNYPyBacwQLKwwLg6gKz9wKJ+gKP+wKGqAMA"
+	},
+	{
+		"comment": "Siamat (normal)",
+		"opponentCardId": "ULDA_BOSS_66h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBCCyBtoPmfsCDU35A/UEhgb1CJMJ1g+y6QKP+wKKgAOLhQOKlAPPpQMA"
+	},
+
+	{
+		"comment": "Vesh, Plague Lord of Murlocs (normal)",
+		"opponentCardId": "ULDA_BOSS_39h",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoICuAF2g/SFuZ/rbwC870C474CnJsDkKcDm6kDCqcIka0C+bMC47sCkcEChsQCjJQD4aUDr6cDyqsDAA==",
+		"decks": {
+			"2238": "AAEBAaoICuAF2g/SFuZ/rbwC870C474CnJsDkKcDm6kDCqcIka0C+bMC47sCkcEChsQCjJQD4aUDr6cDyqsDAA==",
+			"2239": "AAEBAaoIBeO+ApHBApybA5CnA6+nAwvgBfgHwRPfFNIWvxeRrQKJvwK60gLiiQOvpwMD2q0CA5rEAgPhpQMD",
+			"2240": "AAEBAaoIBeAF2g+6FOO+ApCnAwz4B9IWvxe3rwKGxAKaxALiiQOMlAOcmwOvpwObqQPKqwMCib8CA+GlAwM="
+		}
+	},
+	{
+		"comment": "Vesh, Plague Lord of Murlocs phase 2 (normal)",
+		"opponentCardId": "ULDA_BOSS_39h2",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBr8X474CkcECnJsDr6cDr6cDC+AF+AfBE98U0haRrQLarQKJvwK60gLiiQPhpQMBmsQCAw==",
+		"decks": {
+			"2239": "AAEBAaoIBr8X474CkcECnJsDr6cDr6cDC+AF+AfBE98U0haRrQLarQKJvwK60gLiiQPhpQMBmsQCAw==",
+			"2240": "AAEBAaoIBeAF2g+6FOO+ApCnAwz4B9IWvxe3rwKGxAKaxALiiQOMlAOcmwOvpwObqQPKqwMCib8CA+GlAwM="
+		}
+	},
+	{
+		"comment": "Vesh, Plague Lord of Murlocs phase 3 (normal)",
+		"opponentCardId": "ULDA_BOSS_39h3",
+		"scenarioIds": [3428, 3429, 3430, 3431, 3432],
+		"deckstring": "AAEBAaoIBuAF2g+6FOO+AobEAuKJAwz4B9IWvxe3rwKJvwKaxAKMlAOcmwPhpQOvpwObqQPKqwMA",
+		"decks": {
+			"2240": "AAEBAaoIBuAF2g+6FOO+AobEAuKJAwz4B9IWvxe3rwKJvwKaxAKMlAOcmwPhpQOvpwObqQPKqwMA"
+		}
+	}
+]

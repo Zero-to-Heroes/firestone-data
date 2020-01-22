@@ -1,0 +1,111 @@
+[
+	{
+		"comment": "Innkeeper Mage deck (normal)",
+		"opponentCardId": "HERO_08",
+		"scenarioIds": [252],
+		"deckstring": "AAECAf0EAA9NvwHYAZwCoQK7Ar8DqwS0BPsEngXZCtoK+QqWDQA="
+	},
+	{
+		"comment": "Innkeeper Hunter deck (normal)",
+		"opponentCardId": "HERO_05",
+		"scenarioIds": [256],
+		"deckstring": "AAECAR8AD0PYAYECpALTAp0D3gSIBe0G6weXCNkK2gr5CpcNAA=="
+	},
+	{
+		"comment": "Innkeeper Warrior deck (normal)",
+		"opponentCardId": "HERO_01",
+		"scenarioIds": [259],
+		"deckstring": "AAECAQcADymdAb8BgQKhAtgCkQOLBPsEgAaRBtAH7wfxB5YNAA=="
+	},
+	{
+		"comment": "Innkeeper Shaman deck (normal)",
+		"opponentCardId": "HERO_02",
+		"scenarioIds": [263],
+		"deckstring": "AAECAaoIAA8pM1qVAe8BoQK9A/AD+wSIBf4Fywf0CPkKlg0A"
+	},
+	{
+		"comment": "Innkeeper Druid deck (normal)",
+		"opponentCardId": "HERO_06",
+		"scenarioIds": [261],
+		"deckstring": "AAECAZICAA9DWp0B1QH+AYUDxgSeBYUGmgjkCNkK2gqWDZcNAA=="
+	},
+	{
+		"comment": "Innkeeper Priest deck (normal)",
+		"opponentCardId": "HERO_09",
+		"scenarioIds": [258],
+		"deckstring": "AAECAa0GAA8pQ1qEAdgBlwKFA6EE4ATlBPsEgAbXCvIMlw0A"
+	},
+	{
+		"comment": "Innkeeper Rogue deck (normal)",
+		"opponentCardId": "HERO_03",
+		"scenarioIds": [257],
+		"deckstring": "AAECAaIHAA+0AdgBnAK0AtMC2QKFA50DywPNA4sE7gSeBcYFmgcA"
+	},
+	{
+		"comment": "Innkeeper Paladin deck (normal)",
+		"opponentCardId": "HERO_04",
+		"scenarioIds": [262],
+		"deckstring": "AAECAZ8FAA9GnQH6AaMCtALTAv8CnQPuBIgFngXXBfEFmgf5CgA="
+	},
+	{
+		"comment": "Innkeeper Warlock deck (normal)",
+		"opponentCardId": "HERO_07",
+		"scenarioIds": [253],
+		"deckstring": "AAECAf0GAA8wWoQBvwGhAr0DxgTQBKAFyAWSB5cHtgfjB9kKAA=="
+	},
+
+	{
+		"comment": "Innkeeper Mage deck (expert)",
+		"opponentCardId": "HERO_08",
+		"scenarioIds": [260],
+		"deckstring": "AAEBAf0EAA8MTXHDAZ4CuwKLA5UDvwOABLQE5gSgBewFuQYA"
+	},
+	{
+		"comment": "Innkeeper Hunter deck (expert)",
+		"opponentCardId": "HERO_05",
+		"scenarioIds": [269],
+		"deckstring": "AAECAR8EhwTJBK4GwwgNpAKKA7UD3gSBBZ4J2QnbCe0JgQraCtsK/gwA"
+	},
+	{
+		"comment": "Innkeeper Warrior deck (expert)",
+		"opponentCardId": "HERO_01",
+		"scenarioIds": [264],
+		"deckstring": "AAECAQcCHEsOLT2dAoUDkAORA5oE/ASOBZEGlgbnB4MJ+wwA"
+	},
+	{
+		"comment": "Innkeeper Shaman deck (expert)",
+		"opponentCardId": "HERO_02",
+		"scenarioIds": [271],
+		"deckstring": "AAECAaoIAuEE9QQO7gHyAasC+QPgBOoEgQX9BeAG4gbAB9kH8AeTCQA="
+	},
+	{
+		"comment": "Innkeeper Druid deck (expert)",
+		"opponentCardId": "HERO_06",
+		"scenarioIds": [267],
+		"deckstring": "AAECAZICAA9WX80B8gGFA58D9wO3BMEE2QS0BYoGxAaKB/MMAA=="
+	},
+	{
+		"comment": "Innkeeper Priest deck (expert)",
+		"opponentCardId": "HERO_09",
+		"scenarioIds": [265],
+		"deckstring": "AAECAa0GAgjJBg7cAfsBuAOTBOUEkgX2BooH1QilCdQK1wryDPsMAA=="
+	},
+	{
+		"comment": "Innkeeper Rogue deck (expert)",
+		"opponentCardId": "HERO_03",
+		"scenarioIds": [268],
+		"deckstring": "AAECAaIHBIYB2QLEBfsFDUS0AckBmgKcArQCnwPLA/UFlwaIB+IH3QgA"
+	},
+	{
+		"comment": "Innkeeper Paladin deck (expert)",
+		"opponentCardId": "HERO_04",
+		"scenarioIds": [270],
+		"deckstring": "AAECAZ8FAA+MAZ4B6AGZAtwDyASCBfIF9AX1BfcFzwavB/4HjwkA"
+	},
+	{
+		"comment": "Innkeeper Warlock deck (expert)",
+		"opponentCardId": "HERO_07",
+		"scenarioIds": [266],
+		"deckstring": "AAEBAf0GAA8wkwHcAtUD0AT3BM4G3AaSB54H+wexCMIIxAj2CAA="
+	}
+]
