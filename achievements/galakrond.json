@@ -36,6 +36,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-mana-spent", "galakrond", "1000"] }]
 	},
 	{
+		"id": "galakrond_coin_spent_10000",
+		"type": "galakrond_coin_spent",
+		"name": "Shopper",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 10000,
+		"displayName": "Shopper (10,000 mana spent)",
+		"text": "Spend mana in Galakrond's Awakening (%%globalStats.total-mana-spent.galakrond%% mana spent so far)",
+		"completedText": "Spent 10,000 mana",
+		"displayCardId": "CS2_013t",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-mana-spent", "galakrond", "10000"] }]
+	},
+	{
 		"id": "galakrond_coin_spent_2000",
 		"type": "galakrond_coin_spent",
 		"name": "Shopper",
@@ -108,6 +126,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-mana-spent", "galakrond", "500"] }]
 	},
 	{
+		"id": "galakrond_coin_spent_5000",
+		"type": "galakrond_coin_spent",
+		"name": "Shopper",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 5000,
+		"displayName": "Shopper (5,000 mana spent)",
+		"text": "Spend mana in Galakrond's Awakening (%%globalStats.total-mana-spent.galakrond%% mana spent so far)",
+		"completedText": "Spent 5,000 mana",
+		"displayCardId": "CS2_013t",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-mana-spent", "galakrond", "5000"] }]
+	},
+	{
 		"id": "galakrond_damage_to_enemy_heroes_1000",
 		"type": "galakrond_damage_to_enemy_heroes",
 		"name": "Past the Defense",
@@ -124,6 +160,24 @@
 		"maxNumberOfRecords": 1,
 		"points": 25.0,
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-damage-to-enemy-hero", "galakrond", "1000"] }]
+	},
+	{
+		"id": "galakrond_damage_to_enemy_heroes_10000",
+		"type": "galakrond_damage_to_enemy_heroes",
+		"name": "Past the Defense",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 10000,
+		"displayName": "Past the Defense (10,000 damage)",
+		"text": "Deal damage to enemy heroes in Galakrond's Awakening (%%globalStats.total-damage-to-enemy-hero.galakrond%% damage dealt so far)",
+		"completedText": "Dealt 10,000 damage to enemy heroes",
+		"displayCardId": "TB_BaconUps_038",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-damage-to-enemy-hero", "galakrond", "10000"] }]
 	},
 	{
 		"id": "galakrond_damage_to_enemy_heroes_150",
@@ -196,6 +250,24 @@
 		"maxNumberOfRecords": 1,
 		"points": 25.0,
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-damage-to-enemy-hero", "galakrond", "500"] }]
+	},
+	{
+		"id": "galakrond_damage_to_enemy_heroes_5000",
+		"type": "galakrond_damage_to_enemy_heroes",
+		"name": "Past the Defense",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 5000,
+		"displayName": "Past the Defense (5,000 damage)",
+		"text": "Deal damage to enemy heroes in Galakrond's Awakening (%%globalStats.total-damage-to-enemy-hero.galakrond%% damage dealt so far)",
+		"completedText": "Dealt 5,000 damage to enemy heroes",
+		"displayCardId": "TB_BaconUps_038",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-damage-to-enemy-hero", "galakrond", "5000"] }]
 	},
 	{
 		"id": "galakrond_domination_druid_DRGA_BOSS_01h",
@@ -13410,6 +13482,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-enemy-minions-death", "galakrond", "1000"] }]
 	},
 	{
+		"id": "galakrond_enemy_minions_dead_10000",
+		"type": "galakrond_enemy_minions_dead",
+		"name": "Master of the Board",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 10000,
+		"displayName": "Master of the Board (10,000 enemy minions dead)",
+		"text": "Kill enemy minions in Galakrond's Awakening (%%globalStats.total-enemy-minions-death.galakrond%% minions killed so far)",
+		"completedText": "Killed 10,000 enemy minions",
+		"displayCardId": "AT_121",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-enemy-minions-death", "galakrond", "10000"] }]
+	},
+	{
 		"id": "galakrond_enemy_minions_dead_2000",
 		"type": "galakrond_enemy_minions_dead",
 		"name": "Master of the Board",
@@ -13482,6 +13572,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-enemy-minions-death", "galakrond", "500"] }]
 	},
 	{
+		"id": "galakrond_enemy_minions_dead_5000",
+		"type": "galakrond_enemy_minions_dead",
+		"name": "Master of the Board",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 5000,
+		"displayName": "Master of the Board (5,000 enemy minions dead)",
+		"text": "Kill enemy minions in Galakrond's Awakening (%%globalStats.total-enemy-minions-death.galakrond%% minions killed so far)",
+		"completedText": "Killed 5,000 enemy minions",
+		"displayCardId": "AT_121",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-enemy-minions-death", "galakrond", "5000"] }]
+	},
+	{
 		"id": "galakrond_total_duration_10",
 		"type": "galakrond_total_duration",
 		"name": "Time is the Essence",
@@ -13534,6 +13642,24 @@
 		"maxNumberOfRecords": 1,
 		"points": 25.0,
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-duration", "galakrond", "20"] }]
+	},
+	{
+		"id": "galakrond_total_duration_200",
+		"type": "galakrond_total_duration",
+		"name": "Time is the Essence",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 200,
+		"displayName": "Time is the Essence (200 hours spent in galakrond's awakening)",
+		"text": "Spend time in Galakrond's Awakening (%%globalStats.total-duration.galakrond%% hours spent so far)",
+		"completedText": "Spent 200 hours",
+		"displayCardId": "BOT_537",
+		"displayCardType": "spell",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-duration", "galakrond", "200"] }]
 	},
 	{
 		"id": "galakrond_total_duration_5",
@@ -13608,6 +13734,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "100"] }]
 	},
 	{
+		"id": "galakrond_total_match_1000",
+		"type": "galakrond_total_match",
+		"name": "Just One More Game",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 1000,
+		"displayName": "Just One More Game (1,000 enemies faced)",
+		"text": "Face enemies in Galakrond's Awakening (%%globalStats.total-number-of-matches.galakrond%% enemies faced so far)",
+		"completedText": "Faced 1,000 enemies",
+		"displayCardId": "TB_BaconUps_087",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "1000"] }]
+	},
+	{
 		"id": "galakrond_total_match_20",
 		"type": "galakrond_total_match",
 		"name": "Just One More Game",
@@ -13644,6 +13788,24 @@
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "200"] }]
 	},
 	{
+		"id": "galakrond_total_match_2000",
+		"type": "galakrond_total_match",
+		"name": "Just One More Game",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 2000,
+		"displayName": "Just One More Game (2,000 enemies faced)",
+		"text": "Face enemies in Galakrond's Awakening (%%globalStats.total-number-of-matches.galakrond%% enemies faced so far)",
+		"completedText": "Faced 2,000 enemies",
+		"displayCardId": "TB_BaconUps_087",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "2000"] }]
+	},
+	{
 		"id": "galakrond_total_match_50",
 		"type": "galakrond_total_match",
 		"name": "Just One More Game",
@@ -13660,5 +13822,41 @@
 		"maxNumberOfRecords": 1,
 		"points": 25.0,
 		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "50"] }]
+	},
+	{
+		"id": "galakrond_total_match_500",
+		"type": "galakrond_total_match",
+		"name": "Just One More Game",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 500,
+		"displayName": "Just One More Game (500 enemies faced)",
+		"text": "Face enemies in Galakrond's Awakening (%%globalStats.total-number-of-matches.galakrond%% enemies faced so far)",
+		"completedText": "Faced 500 enemies",
+		"displayCardId": "TB_BaconUps_087",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "500"] }]
+	},
+	{
+		"id": "galakrond_total_match_5000",
+		"type": "galakrond_total_match",
+		"name": "Just One More Game",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 5000,
+		"displayName": "Just One More Game (5,000 enemies faced)",
+		"text": "Face enemies in Galakrond's Awakening (%%globalStats.total-number-of-matches.galakrond%% enemies faced so far)",
+		"completedText": "Faced 5,000 enemies",
+		"displayCardId": "TB_BaconUps_087",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [{ "type": "GLOBAL_STAT", "values": ["total-number-of-matches", "galakrond", "5000"] }]
 	}
 ]
