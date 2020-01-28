@@ -289,8 +289,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -314,8 +313,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -339,8 +337,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -364,8 +361,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -389,8 +385,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -414,8 +409,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -439,8 +433,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -464,8 +457,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -489,8 +481,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -514,8 +505,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -539,8 +529,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -564,8 +553,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -589,8 +577,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -614,8 +601,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -639,8 +625,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -664,8 +649,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -689,8 +673,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -714,8 +697,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -739,8 +721,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -764,8 +745,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -789,8 +769,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -814,8 +793,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -839,8 +817,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -864,8 +841,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -889,8 +865,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -914,8 +889,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -939,8 +913,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -964,8 +937,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -989,8 +961,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1014,8 +985,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1039,8 +1009,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1064,8 +1033,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1089,8 +1057,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1114,8 +1081,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1139,8 +1105,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1164,8 +1129,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1189,8 +1153,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1214,8 +1177,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1239,8 +1201,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1264,8 +1225,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1289,8 +1249,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1314,8 +1273,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1339,8 +1297,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1364,8 +1321,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1389,8 +1345,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1414,8 +1369,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1439,8 +1393,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1464,8 +1417,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1489,8 +1441,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1514,8 +1465,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1539,8 +1489,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1564,8 +1513,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1589,8 +1537,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1614,8 +1561,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1639,8 +1585,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1664,8 +1609,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1689,8 +1633,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1714,8 +1657,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1739,8 +1681,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1764,8 +1705,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1789,8 +1729,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["druid"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1814,8 +1753,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1839,8 +1777,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1864,8 +1801,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1889,8 +1825,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1914,8 +1849,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1939,8 +1873,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1964,8 +1897,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -1989,8 +1921,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2014,8 +1945,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2039,8 +1969,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2064,8 +1993,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2089,8 +2017,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2114,8 +2041,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2139,8 +2065,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2164,8 +2089,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2189,8 +2113,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2214,8 +2137,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2239,8 +2161,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2264,8 +2185,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2289,8 +2209,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2314,8 +2233,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2339,8 +2257,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2364,8 +2281,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2389,8 +2305,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2414,8 +2329,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2439,8 +2353,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2464,8 +2377,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2489,8 +2401,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2514,8 +2425,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2539,8 +2449,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2564,8 +2473,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2589,8 +2497,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2614,8 +2521,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2639,8 +2545,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2664,8 +2569,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2689,8 +2593,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2714,8 +2617,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2739,8 +2641,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2764,8 +2665,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2789,8 +2689,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2814,8 +2713,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2839,8 +2737,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2864,8 +2761,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2889,8 +2785,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2914,8 +2809,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2939,8 +2833,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2964,8 +2857,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -2989,8 +2881,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3014,8 +2905,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3039,8 +2929,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3064,8 +2953,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3089,8 +2977,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3114,8 +3001,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3139,8 +3025,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3164,8 +3049,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3189,8 +3073,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3214,8 +3097,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3239,8 +3121,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3264,8 +3145,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3289,8 +3169,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3314,8 +3193,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["hunter"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3339,8 +3217,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3364,8 +3241,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3389,8 +3265,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3414,8 +3289,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3439,8 +3313,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3464,8 +3337,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3489,8 +3361,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3514,8 +3385,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3539,8 +3409,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3564,8 +3433,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3589,8 +3457,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3614,8 +3481,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3639,8 +3505,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3664,8 +3529,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3689,8 +3553,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3714,8 +3577,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3739,8 +3601,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3764,8 +3625,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3789,8 +3649,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3814,8 +3673,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3839,8 +3697,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3864,8 +3721,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3889,8 +3745,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3914,8 +3769,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3939,8 +3793,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3964,8 +3817,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -3989,8 +3841,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4014,8 +3865,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4039,8 +3889,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4064,8 +3913,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4089,8 +3937,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4114,8 +3961,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4139,8 +3985,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4164,8 +4009,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4189,8 +4033,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4214,8 +4057,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4239,8 +4081,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4264,8 +4105,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4289,8 +4129,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4314,8 +4153,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4339,8 +4177,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4364,8 +4201,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4389,8 +4225,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4414,8 +4249,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4439,8 +4273,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4464,8 +4297,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4489,8 +4321,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4514,8 +4345,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4539,8 +4369,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4564,8 +4393,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4589,8 +4417,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4614,8 +4441,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4639,8 +4465,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4664,8 +4489,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4689,8 +4513,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4714,8 +4537,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4739,8 +4561,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4764,8 +4585,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4789,8 +4609,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4814,8 +4633,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4839,8 +4657,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["mage"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4864,8 +4681,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4889,8 +4705,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4914,8 +4729,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4939,8 +4753,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4964,8 +4777,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -4989,8 +4801,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5014,8 +4825,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5039,8 +4849,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5064,8 +4873,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5089,8 +4897,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5114,8 +4921,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5139,8 +4945,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5164,8 +4969,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5189,8 +4993,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5214,8 +5017,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5239,8 +5041,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5264,8 +5065,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5289,8 +5089,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5314,8 +5113,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5339,8 +5137,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5364,8 +5161,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5389,8 +5185,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5414,8 +5209,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5439,8 +5233,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5464,8 +5257,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5489,8 +5281,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5514,8 +5305,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5539,8 +5329,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5564,8 +5353,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5589,8 +5377,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5614,8 +5401,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5639,8 +5425,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5664,8 +5449,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5689,8 +5473,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5714,8 +5497,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5739,8 +5521,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5764,8 +5545,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5789,8 +5569,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5814,8 +5593,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5839,8 +5617,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5864,8 +5641,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5889,8 +5665,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5914,8 +5689,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5939,8 +5713,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5964,8 +5737,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5989,8 +5761,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6014,8 +5785,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6039,8 +5809,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6064,8 +5833,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6089,8 +5857,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6114,8 +5881,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6139,8 +5905,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6164,8 +5929,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6189,8 +5953,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6214,8 +5977,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6239,8 +6001,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6264,8 +6025,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6289,8 +6049,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6314,8 +6073,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6339,8 +6097,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6364,8 +6121,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["paladin"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6389,8 +6145,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6414,8 +6169,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6439,8 +6193,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6464,8 +6217,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6489,8 +6241,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6514,8 +6265,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6539,8 +6289,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6564,8 +6313,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6589,8 +6337,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6614,8 +6361,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6639,8 +6385,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6664,8 +6409,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6689,8 +6433,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6714,8 +6457,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6739,8 +6481,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6764,8 +6505,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6789,8 +6529,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6814,8 +6553,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6839,8 +6577,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6864,8 +6601,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6889,8 +6625,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6914,8 +6649,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6939,8 +6673,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6964,8 +6697,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6989,8 +6721,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7014,8 +6745,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7039,8 +6769,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7064,8 +6793,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7089,8 +6817,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7114,8 +6841,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7139,8 +6865,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7164,8 +6889,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7189,8 +6913,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7214,8 +6937,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7239,8 +6961,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7264,8 +6985,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7289,8 +7009,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7314,8 +7033,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7339,8 +7057,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7364,8 +7081,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7389,8 +7105,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7414,8 +7129,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7439,8 +7153,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7464,8 +7177,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7489,8 +7201,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7514,8 +7225,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7539,8 +7249,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7564,8 +7273,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7589,8 +7297,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7614,8 +7321,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7639,8 +7345,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7664,8 +7369,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7689,8 +7393,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7714,8 +7417,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7739,8 +7441,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7764,8 +7465,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7789,8 +7489,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7814,8 +7513,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7839,8 +7537,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7864,8 +7561,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7889,8 +7585,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["priest"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7914,8 +7609,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7939,8 +7633,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7964,8 +7657,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -7989,8 +7681,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8014,8 +7705,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8039,8 +7729,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8064,8 +7753,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8089,8 +7777,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8114,8 +7801,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8139,8 +7825,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8164,8 +7849,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8189,8 +7873,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8214,8 +7897,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8239,8 +7921,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8264,8 +7945,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8289,8 +7969,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8314,8 +7993,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8339,8 +8017,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8364,8 +8041,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8389,8 +8065,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8414,8 +8089,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8439,8 +8113,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8464,8 +8137,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8489,8 +8161,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8514,8 +8185,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8539,8 +8209,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8564,8 +8233,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8589,8 +8257,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8614,8 +8281,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8639,8 +8305,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8664,8 +8329,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8689,8 +8353,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8714,8 +8377,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8739,8 +8401,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8764,8 +8425,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8789,8 +8449,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8814,8 +8473,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8839,8 +8497,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8864,8 +8521,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8889,8 +8545,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8914,8 +8569,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8939,8 +8593,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8964,8 +8617,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -8989,8 +8641,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9014,8 +8665,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9039,8 +8689,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9064,8 +8713,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9089,8 +8737,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9114,8 +8761,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9139,8 +8785,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9164,8 +8809,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9189,8 +8833,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9214,8 +8857,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9239,8 +8881,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9264,8 +8905,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9289,8 +8929,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9314,8 +8953,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9339,8 +8977,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9364,8 +9001,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9389,8 +9025,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9414,8 +9049,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["rogue"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9439,8 +9073,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9464,8 +9097,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9489,8 +9121,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9514,8 +9145,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9539,8 +9169,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9564,8 +9193,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9589,8 +9217,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9614,8 +9241,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9639,8 +9265,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9664,8 +9289,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9689,8 +9313,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9714,8 +9337,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9739,8 +9361,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9764,8 +9385,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9789,8 +9409,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9814,8 +9433,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9839,8 +9457,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9864,8 +9481,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9889,8 +9505,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9914,8 +9529,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9939,8 +9553,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9964,8 +9577,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -9989,8 +9601,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10014,8 +9625,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10039,8 +9649,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10064,8 +9673,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10089,8 +9697,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10114,8 +9721,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10139,8 +9745,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10164,8 +9769,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10189,8 +9793,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10214,8 +9817,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10239,8 +9841,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10264,8 +9865,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10289,8 +9889,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10314,8 +9913,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10339,8 +9937,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10364,8 +9961,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10389,8 +9985,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10414,8 +10009,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10439,8 +10033,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10464,8 +10057,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10489,8 +10081,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10514,8 +10105,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10539,8 +10129,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10564,8 +10153,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10589,8 +10177,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10614,8 +10201,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10639,8 +10225,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10664,8 +10249,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10689,8 +10273,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10714,8 +10297,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10739,8 +10321,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10764,8 +10345,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10789,8 +10369,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10814,8 +10393,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10839,8 +10417,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10864,8 +10441,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10889,8 +10465,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10914,8 +10489,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10939,8 +10513,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["shaman"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10964,8 +10537,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -10989,8 +10561,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11014,8 +10585,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11039,8 +10609,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11064,8 +10633,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11089,8 +10657,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11114,8 +10681,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11139,8 +10705,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11164,8 +10729,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11189,8 +10753,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11214,8 +10777,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11239,8 +10801,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11264,8 +10825,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11289,8 +10849,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11314,8 +10873,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11339,8 +10897,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11364,8 +10921,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11389,8 +10945,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11414,8 +10969,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11439,8 +10993,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11464,8 +11017,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11489,8 +11041,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11514,8 +11065,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11539,8 +11089,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11564,8 +11113,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11589,8 +11137,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11614,8 +11161,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11639,8 +11185,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11664,8 +11209,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11689,8 +11233,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11714,8 +11257,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11739,8 +11281,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11764,8 +11305,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11789,8 +11329,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11814,8 +11353,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11839,8 +11377,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11864,8 +11401,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11889,8 +11425,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11914,8 +11449,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11939,8 +11473,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11964,8 +11497,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -11989,8 +11521,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12014,8 +11545,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12039,8 +11569,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12064,8 +11593,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12089,8 +11617,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12114,8 +11641,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12139,8 +11665,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12164,8 +11689,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12189,8 +11713,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12214,8 +11737,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12239,8 +11761,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12264,8 +11785,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12289,8 +11809,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12314,8 +11833,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12339,8 +11857,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12364,8 +11881,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12389,8 +11905,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12414,8 +11929,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12439,8 +11953,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12464,8 +11977,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warlock"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12489,8 +12001,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12514,8 +12025,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12539,8 +12049,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12564,8 +12073,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_01h4"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12589,8 +12097,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12614,8 +12121,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_02h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12639,8 +12145,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12664,8 +12169,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12689,8 +12193,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_03h2_H"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12714,8 +12217,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12739,8 +12241,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_04h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12764,8 +12265,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12789,8 +12289,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_05h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12814,8 +12313,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12839,8 +12337,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_06h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12864,8 +12361,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12889,8 +12385,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12914,8 +12409,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_07h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12939,8 +12433,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12964,8 +12457,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_08h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -12989,8 +12481,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13014,8 +12505,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_09h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13039,8 +12529,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13064,8 +12553,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13089,8 +12577,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_11h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13114,8 +12601,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13139,8 +12625,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_12h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13164,8 +12649,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13189,8 +12673,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_13h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13214,8 +12697,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13239,8 +12721,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13264,8 +12745,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13289,8 +12769,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_16h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13314,8 +12793,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13339,8 +12817,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13364,8 +12841,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13389,8 +12865,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13414,8 +12889,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13439,8 +12913,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13464,8 +12937,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13489,8 +12961,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_23h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13514,8 +12985,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13539,8 +13009,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13564,8 +13033,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13589,8 +13057,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13614,8 +13081,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13639,8 +13105,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13664,8 +13129,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13689,8 +13153,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_30h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13714,8 +13177,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13739,8 +13201,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13764,8 +13225,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_31h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13789,8 +13249,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13814,8 +13273,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13839,8 +13297,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_33h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13864,8 +13321,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13889,8 +13345,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13914,8 +13369,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13939,8 +13393,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_36h2"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13964,8 +13417,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_37h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -13989,8 +13441,7 @@
 		"requirements": [
 			{ "type": "PLAYER_CLASS", "values": ["warrior"] },
 			{ "type": "CORRECT_OPPONENT", "values": ["DRGA_BOSS_38h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "SCENARIO_IDS", "values": ["3556", "3583", "3584", "3594", "3595", "3596"] }
+			{ "type": "GAME_WON" }
 		],
 		"resetEvents": ["GAME_START"]
 	},
