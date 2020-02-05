@@ -1502,5 +1502,725 @@
 				"Desert Hare": 2
 			}
 		}
+	},
+	{
+		"comment": "Galakrond Dragonslayer Skruk deck (Heroic) (646 games)",
+		"numberOfGames": 646,
+		"opponentCardId": "DRGA_BOSS_22h",
+		"scenarioIds": [3589],
+		"deckstring": "AAEBAcrHAwSOBKoGnsEC5toDDbAC5BOpFey7AqbBAvbPAoXSAv/nAojoAvOnA/aoA/CwA+faAwA=",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"ICC_281": 2,
+			"LOOT_041": 2,
+			"DRGA_BOSS_22t4": 2,
+			"ULD_709": 2,
+			"DRGA_BOSS_22t3": 1,
+			"ULD_184": 2,
+			"CFM_316": 2,
+			"AT_093": 2,
+			"AT_064": 2,
+			"LOOT_382": 2,
+			"DRG_063": 2,
+			"NEW1_038": 1,
+			"CFM_341": 1,
+			"LOOT_389": 2,
+			"CFM_335": 2,
+			"CS2_112": 2,
+			"EX1_411": 1
+		},
+		"totalCardsSeen": {
+			"ICC_281": 306,
+			"LOOT_041": 372,
+			"DRGA_BOSS_22t4": 213,
+			"ULD_709": 300,
+			"DRGA_BOSS_22t3": 401,
+			"ULD_184": 524,
+			"CFM_316": 552,
+			"AT_093": 356,
+			"AT_064": 328,
+			"LOOT_382": 384,
+			"DRG_063": 283,
+			"NEW1_038": 103,
+			"CFM_341": 210,
+			"LOOT_389": 238,
+			"CFM_335": 417,
+			"CS2_112": 91,
+			"EX1_411": 13
+		},
+		"cardNames": {
+			"Bash": 2,
+			"Frigid Snobold": 2,
+			"Rat Pack": 2,
+			"Dispatch Kodo": 2,
+			"Sergeant Sally": 1,
+			"Arcanite Reaper": 2,
+			"Heartseeker": 1,
+			"Dragonslayer's Greatbow": 2,
+			"Dragonmaw Poacher": 2,
+			"Gorehowl": 1,
+			"Forge of Souls": 2,
+			"Kobold Barbarian": 2,
+			"Kobold Monk": 2,
+			"Rummaging Kobold": 2,
+			"Gruul": 1,
+			"Kobold Sandtrooper": 2,
+			"Armored Goon": 2
+		},
+		"decks": {
+			"-1": "AAEBAcrHAwSOBKoGnsEC5toDDbAC5BOpFey7AqbBAvbPAoXSAv/nAojoAvOnA/aoA/CwA+faAwA="
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 30
+		},
+		"deckCards": {
+			"-1": {
+				"ICC_281": 2,
+				"LOOT_041": 2,
+				"DRGA_BOSS_22t4": 2,
+				"ULD_709": 2,
+				"DRGA_BOSS_22t3": 1,
+				"ULD_184": 2,
+				"CFM_316": 2,
+				"AT_093": 2,
+				"AT_064": 2,
+				"LOOT_382": 2,
+				"DRG_063": 2,
+				"NEW1_038": 1,
+				"CFM_341": 1,
+				"LOOT_389": 2,
+				"CFM_335": 2,
+				"CS2_112": 2,
+				"EX1_411": 1
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"ICC_281": 306,
+				"LOOT_041": 372,
+				"DRGA_BOSS_22t4": 213,
+				"ULD_709": 300,
+				"DRGA_BOSS_22t3": 401,
+				"ULD_184": 524,
+				"CFM_316": 552,
+				"AT_093": 356,
+				"AT_064": 328,
+				"LOOT_382": 384,
+				"DRG_063": 283,
+				"NEW1_038": 103,
+				"CFM_341": 210,
+				"LOOT_389": 238,
+				"CFM_335": 417,
+				"CS2_112": 91,
+				"EX1_411": 13
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Bash": 2,
+				"Frigid Snobold": 2,
+				"Rat Pack": 2,
+				"Dispatch Kodo": 2,
+				"Sergeant Sally": 1,
+				"Arcanite Reaper": 2,
+				"Heartseeker": 1,
+				"Dragonslayer's Greatbow": 2,
+				"Dragonmaw Poacher": 2,
+				"Gorehowl": 1,
+				"Forge of Souls": 2,
+				"Kobold Barbarian": 2,
+				"Kobold Monk": 2,
+				"Rummaging Kobold": 2,
+				"Gruul": 1,
+				"Kobold Sandtrooper": 2,
+				"Armored Goon": 2
+			}
+		}
+	},
+	{
+		"comment": "Galakrond The Wanderer deck (Heroic) (597 games)",
+		"numberOfGames": 597,
+		"opponentCardId": "DRGA_BOSS_30h2",
+		"scenarioIds": [3601],
+		"deckstring": "AAEBAcHXAwAD4scD5scD58cDBbfHAwThxwMI48cDBOTHAwTlxwME",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"DRGA_BOSS_30t": 8,
+			"DRGA_BOSS_30t4": 4,
+			"DRGA_BOSS_30t3": 4,
+			"DRGA_BOSS_30t5": 4,
+			"DRGA_BOSS_15t2": 4,
+			"DRGA_BOSS_30t2": 2,
+			"DRGA_BOSS_30t7": 2,
+			"DRGA_BOSS_30t6": 2
+		},
+		"totalCardsSeen": {
+			"DRGA_BOSS_30t": 1851,
+			"DRGA_BOSS_30t4": 737,
+			"DRGA_BOSS_30t3": 747,
+			"DRGA_BOSS_30t5": 737,
+			"DRGA_BOSS_15t2": 760,
+			"DRGA_BOSS_30t2": 496,
+			"DRGA_BOSS_30t7": 374,
+			"DRGA_BOSS_30t6": 175
+		},
+		"cardNames": {
+			"Bombs Away!": 4,
+			"Heavy Cannon": 8,
+			"Rocket Launcher": 2,
+			"Missile Pod": 4,
+			"Bomb Flinger": 4,
+			"Upgraded Cannon": 4,
+			"Greasemonkey": 2,
+			"Ready, Aim, FIRE!": 2
+		},
+		"decks": {
+			"-1": "AAEBAcHXAwAD4scD5scD58cDBbfHAwThxwMI48cDBOTHAwTlxwME"
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 30
+		},
+		"deckCards": {
+			"-1": {
+				"DRGA_BOSS_30t": 8,
+				"DRGA_BOSS_30t4": 4,
+				"DRGA_BOSS_30t3": 4,
+				"DRGA_BOSS_30t5": 4,
+				"DRGA_BOSS_15t2": 4,
+				"DRGA_BOSS_30t2": 2,
+				"DRGA_BOSS_30t7": 2,
+				"DRGA_BOSS_30t6": 2
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"DRGA_BOSS_30t": 1851,
+				"DRGA_BOSS_30t4": 737,
+				"DRGA_BOSS_30t3": 747,
+				"DRGA_BOSS_30t5": 737,
+				"DRGA_BOSS_15t2": 760,
+				"DRGA_BOSS_30t2": 496,
+				"DRGA_BOSS_30t7": 374,
+				"DRGA_BOSS_30t6": 175
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Bombs Away!": 4,
+				"Heavy Cannon": 8,
+				"Rocket Launcher": 2,
+				"Missile Pod": 4,
+				"Bomb Flinger": 4,
+				"Upgraded Cannon": 4,
+				"Greasemonkey": 2,
+				"Ready, Aim, FIRE!": 2
+			}
+		}
+	},
+	{
+		"comment": "Galakrond The Dragonflights deck (Heroic) (485 games)",
+		"numberOfGames": 485,
+		"opponentCardId": "DRGA_BOSS_32h",
+		"scenarioIds": [3602, 3601],
+		"deckstring": "AAEBAerHAw7rAtbsAresA/KsA/WsA/qsA4qtA7utA/atA/2tA4yuA5CuA52uA/6vAwj7EcrLAqqLA62UA5etA7CtA4iuA/+wAwA=",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"DRG_254": 1,
+			"DRG_073": 2,
+			"DRG_006": 1,
+			"EX1_189": 1,
+			"DAL_146": 2,
+			"DRG_310": 2,
+			"DRG_233": 1,
+			"DRG_106": 1,
+			"TRL_362": 2,
+			"BRM_018": 2,
+			"DRG_318": 1,
+			"DRG_219": 1,
+			"GIL_128": 1,
+			"DRG_320": 1,
+			"ICC_029": 2,
+			"DRG_229": 1,
+			"DRG_213": 2,
+			"DRG_307": 1,
+			"DRG_313": 1,
+			"EX1_562": 1,
+			"DRG_226": 2,
+			"DRG_102": 1
+		},
+		"totalCardsSeen": {
+			"DRG_254": 164,
+			"DRG_073": 264,
+			"DRG_006": 167,
+			"EX1_189": 151,
+			"DAL_146": 278,
+			"DRG_310": 268,
+			"DRG_233": 226,
+			"DRG_106": 170,
+			"TRL_362": 199,
+			"BRM_018": 266,
+			"DRG_318": 142,
+			"DRG_219": 143,
+			"GIL_128": 93,
+			"DRG_320": 252,
+			"ICC_029": 224,
+			"DRG_229": 112,
+			"DRG_213": 142,
+			"DRG_307": 68,
+			"DRG_313": 112,
+			"EX1_562": 103,
+			"DRG_226": 213,
+			"DRG_102": 109
+		},
+		"cardNames": {
+			"Dragon Consort": 2,
+			"Bronze Herald": 2,
+			"Corrosive Breath": 1,
+			"Evasive Feywing": 2,
+			"Azure Explorer": 1,
+			"Arcane Breath": 1,
+			"Twin Tyrant": 2,
+			"Lightning Breath": 1,
+			"Amber Watcher": 2,
+			"Bronze Explorer": 1,
+			"Sand Breath": 1,
+			"Primordial Explorer": 1,
+			"Breath of the Infinite": 1,
+			"Evasive Drakonid": 2,
+			"Emerald Explorer": 1,
+			"Breath of Dreams": 1,
+			"Ysera, Unleashed": 1,
+			"Brightwing": 1,
+			"Onyxia": 1,
+			"Emeriss": 1,
+			"Cobalt Scalebane": 2,
+			"Dragon Roar": 2
+		},
+		"decks": {
+			"-1": "AAEBAerHAw7rAtbsAresA/KsA/WsA/qsA4qtA7utA/atA/2tA4yuA5CuA52uA/6vAwj7EcrLAqqLA62UA5etA7CtA4iuA/+wAwA="
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 30
+		},
+		"deckCards": {
+			"-1": {
+				"DRG_254": 1,
+				"DRG_073": 2,
+				"DRG_006": 1,
+				"EX1_189": 1,
+				"DAL_146": 2,
+				"DRG_310": 2,
+				"DRG_233": 1,
+				"DRG_106": 1,
+				"TRL_362": 2,
+				"BRM_018": 2,
+				"DRG_318": 1,
+				"DRG_219": 1,
+				"GIL_128": 1,
+				"DRG_320": 1,
+				"ICC_029": 2,
+				"DRG_229": 1,
+				"DRG_213": 2,
+				"DRG_307": 1,
+				"DRG_313": 1,
+				"EX1_562": 1,
+				"DRG_226": 2,
+				"DRG_102": 1
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"DRG_254": 164,
+				"DRG_073": 264,
+				"DRG_006": 167,
+				"EX1_189": 151,
+				"DAL_146": 278,
+				"DRG_310": 268,
+				"DRG_233": 226,
+				"DRG_106": 170,
+				"TRL_362": 199,
+				"BRM_018": 266,
+				"DRG_318": 142,
+				"DRG_219": 143,
+				"GIL_128": 93,
+				"DRG_320": 252,
+				"ICC_029": 224,
+				"DRG_229": 112,
+				"DRG_213": 142,
+				"DRG_307": 68,
+				"DRG_313": 112,
+				"EX1_562": 103,
+				"DRG_226": 213,
+				"DRG_102": 109
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Dragon Consort": 2,
+				"Bronze Herald": 2,
+				"Corrosive Breath": 1,
+				"Evasive Feywing": 2,
+				"Azure Explorer": 1,
+				"Arcane Breath": 1,
+				"Twin Tyrant": 2,
+				"Lightning Breath": 1,
+				"Amber Watcher": 2,
+				"Bronze Explorer": 1,
+				"Sand Breath": 1,
+				"Primordial Explorer": 1,
+				"Breath of the Infinite": 1,
+				"Evasive Drakonid": 2,
+				"Emerald Explorer": 1,
+				"Breath of Dreams": 1,
+				"Ysera, Unleashed": 1,
+				"Brightwing": 1,
+				"Onyxia": 1,
+				"Emeriss": 1,
+				"Cobalt Scalebane": 2,
+				"Dragon Roar": 2
+			}
+		}
+	},
+	{
+		"comment": "Galakrond The Slipstream deck (Heroic) (473 games)",
+		"numberOfGames": 473,
+		"opponentCardId": "DRGA_BOSS_31h",
+		"scenarioIds": [3590],
+		"deckstring": "AAEBAejHAwAB5scDBuHHAwjixwME48cDBOXHAwTnxwMErMoDBA==",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"DRGA_BOSS_30t": 8,
+			"DRGA_BOSS_30t2": 4,
+			"DRGA_BOSS_30t3": 4,
+			"DRGA_BOSS_30t7": 4,
+			"DRGA_BOSS_31t": 4,
+			"DRGA_BOSS_30t5": 4,
+			"DRGA_BOSS_30t6": 2
+		},
+		"totalCardsSeen": {
+			"DRGA_BOSS_30t": 1234,
+			"DRGA_BOSS_30t2": 670,
+			"DRGA_BOSS_30t3": 448,
+			"DRGA_BOSS_30t7": 555,
+			"DRGA_BOSS_31t": 538,
+			"DRGA_BOSS_30t5": 442,
+			"DRGA_BOSS_30t6": 100
+		},
+		"cardNames": {
+			"Heavy Cannon": 8,
+			"Rocket Launcher": 4,
+			"Missile Pod": 4,
+			"Upgraded Cannon": 4,
+			"Greasemonkey": 2,
+			"Ready, Aim, FIRE!": 4,
+			"Death Ray Mk II": 4
+		},
+		"decks": {
+			"-1": "AAEBAejHAwAB5scDBuHHAwjixwME48cDBOXHAwTnxwMErMoDBA=="
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 30
+		},
+		"deckCards": {
+			"-1": {
+				"DRGA_BOSS_30t": 8,
+				"DRGA_BOSS_30t2": 4,
+				"DRGA_BOSS_30t3": 4,
+				"DRGA_BOSS_30t7": 4,
+				"DRGA_BOSS_31t": 4,
+				"DRGA_BOSS_30t5": 4,
+				"DRGA_BOSS_30t6": 2
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"DRGA_BOSS_30t": 1234,
+				"DRGA_BOSS_30t2": 670,
+				"DRGA_BOSS_30t3": 448,
+				"DRGA_BOSS_30t7": 555,
+				"DRGA_BOSS_31t": 538,
+				"DRGA_BOSS_30t5": 442,
+				"DRGA_BOSS_30t6": 100
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Heavy Cannon": 8,
+				"Rocket Launcher": 4,
+				"Missile Pod": 4,
+				"Upgraded Cannon": 4,
+				"Greasemonkey": 2,
+				"Ready, Aim, FIRE!": 4,
+				"Death Ray Mk II": 4
+			}
+		}
+	},
+	{
+		"comment": "Galakrond Dragonrider Talritha deck (Heroic) (418 games)",
+		"numberOfGames": 418,
+		"opponentCardId": "DRGA_BOSS_23h2",
+		"scenarioIds": [3600],
+		"deckstring": "AAEBAcLXAwbrAtIE+gafsAK36QKFsQMM+xG1tAKCtQLoiQOtlAOxlAPolAOQrgOdrgP8sAOHsQOesQMA",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"TRL_523": 2,
+			"DRG_081": 2,
+			"BRM_018": 2,
+			"LOOT_500": 1,
+			"EX1_383": 1,
+			"TRL_569": 2,
+			"DAL_146": 2,
+			"EX1_354": 1,
+			"OG_317": 1,
+			"KAR_062": 2,
+			"DRG_229": 2,
+			"DRG_086": 2,
+			"DRG_079": 1,
+			"KAR_010": 2,
+			"DRG_233": 2,
+			"DRG_070": 2,
+			"EX1_562": 1,
+			"DAL_147": 2
+		},
+		"totalCardsSeen": {
+			"TRL_523": 337,
+			"DRG_081": 318,
+			"BRM_018": 251,
+			"LOOT_500": 148,
+			"EX1_383": 103,
+			"TRL_569": 210,
+			"DAL_146": 308,
+			"EX1_354": 40,
+			"OG_317": 89,
+			"KAR_062": 306,
+			"DRG_229": 284,
+			"DRG_086": 204,
+			"DRG_079": 112,
+			"KAR_010": 314,
+			"DRG_233": 350,
+			"DRG_070": 369,
+			"EX1_562": 97,
+			"DAL_147": 154
+		},
+		"cardNames": {
+			"Dragon Consort": 2,
+			"Bronze Herald": 2,
+			"Dragon Speaker": 2,
+			"Dragon Breeder": 2,
+			"Evasive Wyrm": 1,
+			"Scalerider": 2,
+			"Chromatic Egg": 2,
+			"Bronze Explorer": 2,
+			"Sand Breath": 2,
+			"Lay on Hands": 1,
+			"Tirion Fordring": 1,
+			"Onyxia": 1,
+			"Nightbane Templar": 2,
+			"Netherspite Historian": 2,
+			"Val'anyr": 1,
+			"Deathwing, Dragonlord": 1,
+			"Firetree Witchdoctor": 2,
+			"Crowd Roaster": 2
+		},
+		"decks": {
+			"-1": "AAEBAcLXAwbrAtIE+gafsAK36QKFsQMM+xG1tAKCtQLoiQOtlAOxlAPolAOQrgOdrgP8sAOHsQOesQMA"
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 30
+		},
+		"deckCards": {
+			"-1": {
+				"TRL_523": 2,
+				"DRG_081": 2,
+				"BRM_018": 2,
+				"LOOT_500": 1,
+				"EX1_383": 1,
+				"TRL_569": 2,
+				"DAL_146": 2,
+				"EX1_354": 1,
+				"OG_317": 1,
+				"KAR_062": 2,
+				"DRG_229": 2,
+				"DRG_086": 2,
+				"DRG_079": 1,
+				"KAR_010": 2,
+				"DRG_233": 2,
+				"DRG_070": 2,
+				"EX1_562": 1,
+				"DAL_147": 2
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"TRL_523": 337,
+				"DRG_081": 318,
+				"BRM_018": 251,
+				"LOOT_500": 148,
+				"EX1_383": 103,
+				"TRL_569": 210,
+				"DAL_146": 308,
+				"EX1_354": 40,
+				"OG_317": 89,
+				"KAR_062": 306,
+				"DRG_229": 284,
+				"DRG_086": 204,
+				"DRG_079": 112,
+				"KAR_010": 314,
+				"DRG_233": 350,
+				"DRG_070": 369,
+				"EX1_562": 97,
+				"DAL_147": 154
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Dragon Consort": 2,
+				"Bronze Herald": 2,
+				"Dragon Speaker": 2,
+				"Dragon Breeder": 2,
+				"Evasive Wyrm": 1,
+				"Scalerider": 2,
+				"Chromatic Egg": 2,
+				"Bronze Explorer": 2,
+				"Sand Breath": 2,
+				"Lay on Hands": 1,
+				"Tirion Fordring": 1,
+				"Onyxia": 1,
+				"Nightbane Templar": 2,
+				"Netherspite Historian": 2,
+				"Val'anyr": 1,
+				"Deathwing, Dragonlord": 1,
+				"Firetree Witchdoctor": 2,
+				"Crowd Roaster": 2
+			}
+		}
+	},
+	{
+		"comment": "Galakrond Rotwing deck (Heroic) (288 games)",
+		"numberOfGames": 288,
+		"opponentCardId": "DRGA_BOSS_19h",
+		"scenarioIds": [3588],
+		"deckstring": "AAEBAcHHAwO5DaIQha0DDfoNuK0Cq8IC0MoCnM0Ci+ECqeIC3PUC8PUCtPYCgpQDvaYDnrEDAA==",
+		"totalCardsInDeck": 29,
+		"cards": {
+			"FP1_007": 2,
+			"DRG_308": 1,
+			"BOT_039": 2,
+			"DAL_039": 2,
+			"DRG_086": 2,
+			"ULD_174": 2,
+			"LOOT_161": 2,
+			"ICC_052": 2,
+			"EX1_016": 1,
+			"OG_179": 2,
+			"UNG_083": 2,
+			"GIL_805": 2,
+			"ICC_021": 2,
+			"LOOT_187": 2,
+			"BOT_066": 2,
+			"GVG_114": 1
+		},
+		"totalCardsSeen": {
+			"FP1_007": 277,
+			"DRG_308": 115,
+			"BOT_039": 184,
+			"DAL_039": 200,
+			"DRG_086": 165,
+			"ULD_174": 234,
+			"LOOT_161": 189,
+			"ICC_052": 249,
+			"EX1_016": 97,
+			"OG_179": 264,
+			"UNG_083": 253,
+			"GIL_805": 192,
+			"ICC_021": 173,
+			"LOOT_187": 225,
+			"BOT_066": 191,
+			"GVG_114": 81
+		},
+		"cardNames": {
+			"Necromechanic": 2,
+			"Mechanical Whelp": 2,
+			"Convincing Infiltrator": 2,
+			"Chromatic Egg": 2,
+			"Mindflayer Kaahrj": 1,
+			"Sylvanas Windrunner": 1,
+			"Nerubian Egg": 2,
+			"Coffin Crasher": 2,
+			"Sneed's Old Shredder": 1,
+			"Exploding Bloatbat": 2,
+			"Play Dead": 2,
+			"Carnivorous Cube": 2,
+			"Twilight's Call": 2,
+			"Fiery Bat": 2,
+			"Serpent Egg": 2,
+			"Devilsaur Egg": 2
+		},
+		"decks": {
+			"-1": "AAEBAcHHAwO5DaIQha0DDfoNuK0Cq8IC0MoCnM0Ci+ECqeIC3PUC8PUCtPYCgpQDvaYDnrEDAA=="
+		},
+		"deckTotalCardsInDeck": {
+			"-1": 29
+		},
+		"deckCards": {
+			"-1": {
+				"FP1_007": 2,
+				"DRG_308": 1,
+				"BOT_039": 2,
+				"DAL_039": 2,
+				"DRG_086": 2,
+				"ULD_174": 2,
+				"LOOT_161": 2,
+				"ICC_052": 2,
+				"EX1_016": 1,
+				"OG_179": 2,
+				"UNG_083": 2,
+				"GIL_805": 2,
+				"ICC_021": 2,
+				"LOOT_187": 2,
+				"BOT_066": 2,
+				"GVG_114": 1
+			}
+		},
+		"deckTotalCardsSeen": {
+			"-1": {
+				"FP1_007": 277,
+				"DRG_308": 115,
+				"BOT_039": 184,
+				"DAL_039": 200,
+				"DRG_086": 165,
+				"ULD_174": 234,
+				"LOOT_161": 189,
+				"ICC_052": 249,
+				"EX1_016": 97,
+				"OG_179": 264,
+				"UNG_083": 253,
+				"GIL_805": 192,
+				"ICC_021": 173,
+				"LOOT_187": 225,
+				"BOT_066": 191,
+				"GVG_114": 81
+			}
+		},
+		"deckCardNames": {
+			"-1": {
+				"Necromechanic": 2,
+				"Mechanical Whelp": 2,
+				"Convincing Infiltrator": 2,
+				"Chromatic Egg": 2,
+				"Mindflayer Kaahrj": 1,
+				"Sylvanas Windrunner": 1,
+				"Nerubian Egg": 2,
+				"Coffin Crasher": 2,
+				"Sneed's Old Shredder": 1,
+				"Exploding Bloatbat": 2,
+				"Play Dead": 2,
+				"Carnivorous Cube": 2,
+				"Twilight's Call": 2,
+				"Fiery Bat": 2,
+				"Serpent Egg": 2,
+				"Devilsaur Egg": 2
+			}
+		}
 	}
 ]
