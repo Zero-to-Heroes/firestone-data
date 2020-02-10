@@ -14,11 +14,22 @@
 		"displayCardType": "weapon",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
-			{ "type": "SECRET_TRIGGERED", "individualResetEvents": ["TURN_START"], "values": ["ULDA_045t"] },
-			{ "type": "DEATHRATTLE_TRIGGERED", "individualResetEvents": ["TURN_START"], "values": ["ULDA_114"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "SECRET_TRIGGERED",
+				"individualResetEvents": ["TURN_START"],
+				"values": ["ULDA_045t"]
+			},
+			{
+				"type": "DEATHRATTLE_TRIGGERED",
+				"individualResetEvents": ["TURN_START"],
+				"values": ["ULDA_114"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -54,11 +65,20 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
-			{ "type": "FATIGUE_DAMAGE", "values": ["1", "AT_LEAST", "OPPONENT"] },
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "FATIGUE_DAMAGE",
+				"values": ["1", "AT_LEAST", "OPPONENT"]
+			},
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -94,10 +114,16 @@
 		"displayCardType": "minion",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "MINIONS_CONTROLLED_DURING_TURN", "values": ["LOEA10_3", "7", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "MINIONS_CONTROLLED_DURING_TURN",
+				"values": ["LOEA10_3", "7", "AT_LEAST"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -133,14 +159,17 @@
 		"displayCardType": "spell",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
 			{
 				"type": "TOTAL_DAMAGE_DEALT",
 				"individualResetEvents": ["TURN_START"],
 				"values": ["100", "AT_LEAST", "ULDA_207"]
 			},
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -176,10 +205,16 @@
 		"displayCardType": "minion",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
-			{ "type": "MINION_ATTACK_ON_BOARD", "values": ["100", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "MINION_ATTACK_ON_BOARD",
+				"values": ["100", "AT_LEAST"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -215,10 +250,15 @@
 		"displayCardType": "spell",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "BOARD_FULL_OF_SAME_LEGENDARY_MINION" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "BOARD_FULL_OF_SAME_LEGENDARY_MINION"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -254,7 +294,7 @@
 		"displayCardType": "minion",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
 			{
 				"type": "CORRECT_OPPONENT",
@@ -274,7 +314,10 @@
 					"ULDA_BOSS_67h"
 				]
 			},
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -292,8 +335,13 @@
 					"3439"
 				]
 			},
-			{ "type": "CARD_NOT_PLAYED", "values": ["ULDA_111"] },
-			{ "type": "GAME_TIE" }
+			{
+				"type": "CARD_NOT_PLAYED",
+				"values": ["ULDA_111"]
+			},
+			{
+				"type": "GAME_TIE"
+			}
 		],
 		"resetEvents": ["GAME_END", "GAME_START"]
 	},
@@ -312,12 +360,23 @@
 		"displayCardType": "minion",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 40.0,
+		"points": 40,
 		"requirements": [
-			{ "type": "LAST_DAMAGE_DONE_BY_MINION", "values": ["ULDA_026"] },
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_66h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "LAST_DAMAGE_DONE_BY_MINION",
+				"values": ["ULDA_026"]
+			},
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_66h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -353,13 +412,27 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_37h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_37h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -378,13 +451,27 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_37h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_37h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -403,13 +490,27 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_38h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_38h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -428,13 +529,27 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_38h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_38h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -453,13 +568,27 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_39h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_39h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -478,13 +607,27 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_39h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_39h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -503,13 +646,27 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_40h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_40h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -528,13 +685,27 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_40h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_40h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -553,13 +724,27 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_67h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_67h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -578,13 +763,27 @@
 		"displayCardType": "hero",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "CORRECT_STARTING_HEALTH", "values": ["ULDA_BOSS_67h", "300"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "CORRECT_STARTING_HEALTH",
+				"values": ["ULDA_BOSS_67h", "300"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -603,10 +802,16 @@
 		"displayCardType": "minion",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_032"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_032"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -642,10 +847,16 @@
 		"displayCardType": "minion",
 		"difficulty": "legendary",
 		"maxNumberOfRecords": 3,
-		"points": 50.0,
+		"points": 50,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_033"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_033"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -681,10 +892,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_01h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_01h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -720,10 +937,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_02h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_02h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -759,10 +982,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_03h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_03h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -798,10 +1027,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_04h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_04h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -837,10 +1072,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_05h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_05h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -876,10 +1117,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_06h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_06h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -915,10 +1162,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_07h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_07h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -954,10 +1207,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_08h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_08h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -993,10 +1252,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_09h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_09h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1032,10 +1297,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_10h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_10h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1071,10 +1342,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_11h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_11h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1110,10 +1387,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_12h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_12h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1149,10 +1432,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_13h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_13h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1188,10 +1477,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_14h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_14h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1227,10 +1522,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_15h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_15h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1266,10 +1567,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_16h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_16h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1305,10 +1612,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_17h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_17h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1344,10 +1657,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_18h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_18h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1383,10 +1702,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_19h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_19h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1422,10 +1747,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_20h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_20h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1461,10 +1792,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_21h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_21h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1500,10 +1837,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_22h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_22h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1539,10 +1882,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_23h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_23h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1578,10 +1927,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_24h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_24h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1617,10 +1972,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_25h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_25h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1656,10 +2017,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_26h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_26h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1695,10 +2062,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_27h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_27h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1734,10 +2107,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_28h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_28h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1773,10 +2152,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_29h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_29h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1812,10 +2197,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_30h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_30h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1851,10 +2242,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_31h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_31h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1890,10 +2287,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_32h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_32h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1929,10 +2332,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_33h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_33h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -1968,10 +2377,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_34h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_34h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2007,10 +2422,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_35h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_35h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2046,10 +2467,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_36h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_36h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2085,11 +2512,20 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2108,11 +2544,20 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2131,11 +2576,20 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2154,11 +2608,20 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2177,11 +2640,20 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2200,11 +2672,20 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2223,11 +2704,20 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2246,11 +2736,20 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -2269,10 +2768,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_41h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_41h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2308,10 +2813,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_42h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_42h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2347,10 +2858,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_43h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_43h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2386,10 +2903,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_44h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_44h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2425,10 +2948,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_45h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_45h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2464,10 +2993,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_46h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_46h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2503,10 +3038,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_47h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_47h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2542,10 +3083,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_48h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_48h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2581,10 +3128,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_49h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_49h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2620,10 +3173,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_50h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_50h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2659,10 +3218,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_51h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_51h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2698,10 +3263,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_52h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_52h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2737,10 +3308,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_53h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_53h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2776,10 +3353,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_54h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_54h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2815,10 +3398,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_55h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_55h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2854,10 +3443,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_56h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_56h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2893,10 +3488,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_57h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_57h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2932,10 +3533,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_58h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_58h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -2971,10 +3578,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_59h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_59h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3010,10 +3623,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_60h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_60h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3049,10 +3668,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_61h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_61h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3088,10 +3713,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_62h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_62h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3127,10 +3758,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_63h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_63h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3166,10 +3803,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_65h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_65h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3205,10 +3848,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_66h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_66h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3244,11 +3893,20 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -3267,11 +3925,20 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 20.0,
+		"points": 20,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_END"]
 	},
@@ -3290,10 +3957,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_68h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_68h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3329,10 +4002,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_69h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_69h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3368,10 +4047,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_70h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_70h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3407,10 +4092,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_71h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_71h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3446,10 +4137,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_72h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_72h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3485,10 +4182,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_73h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_73h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3524,10 +4227,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_74h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_74h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3563,10 +4272,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_75h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_75h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3602,10 +4317,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_76h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_76h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3641,10 +4362,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_77h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_77h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3680,10 +4407,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_78h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_78h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3719,10 +4452,16 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 1.0,
+		"points": 1,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_79h"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_79h"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3758,11 +4497,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_01h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_01h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3798,11 +4545,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_02h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_02h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3838,11 +4593,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_03h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_03h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3878,11 +4641,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_04h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_04h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3918,11 +4689,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_05h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_05h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3958,11 +4737,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_06h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_06h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -3998,11 +4785,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_07h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_07h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4038,11 +4833,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_08h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_08h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4078,11 +4881,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_09h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_09h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4118,11 +4929,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_10h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_10h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4158,11 +4977,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_11h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_11h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4198,11 +5025,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_12h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_12h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4238,11 +5073,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_13h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_13h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4278,11 +5121,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_14h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_14h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4318,11 +5169,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_15h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_15h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4358,11 +5217,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_16h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_16h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4398,11 +5265,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_17h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_17h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4438,11 +5313,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_18h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_18h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4478,11 +5361,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_19h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_19h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4518,11 +5409,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_20h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_20h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4558,11 +5457,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_21h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_21h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4598,11 +5505,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_22h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_22h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4638,11 +5553,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_23h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_23h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4678,11 +5601,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_24h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_24h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4718,11 +5649,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_25h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_25h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4758,11 +5697,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_26h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_26h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4798,11 +5745,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_27h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_27h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4838,11 +5793,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_28h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_28h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4878,11 +5841,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_29h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_29h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4918,11 +5889,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_30h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_30h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4958,11 +5937,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_31h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_31h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -4998,11 +5985,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_32h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_32h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5038,11 +6033,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_33h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_33h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5078,11 +6081,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_34h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_34h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5118,11 +6129,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_35h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_35h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5158,11 +6177,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_36h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_36h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5198,12 +6225,23 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5222,12 +6260,23 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 30.0,
+		"points": 30,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_37h", "ULDA_BOSS_37h2", "ULDA_BOSS_37h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5246,12 +6295,23 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5270,12 +6330,23 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 30.0,
+		"points": 30,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_38h", "ULDA_BOSS_38h2", "ULDA_BOSS_38h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5294,12 +6365,23 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5318,12 +6400,23 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 30.0,
+		"points": 30,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_39h", "ULDA_BOSS_39h2", "ULDA_BOSS_39h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5342,12 +6435,23 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5366,12 +6470,23 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 30.0,
+		"points": 30,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_40h", "ULDA_BOSS_40h2", "ULDA_BOSS_40h3"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -5390,11 +6505,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_41h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_41h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5430,11 +6553,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_42h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_42h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5470,11 +6601,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_43h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_43h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5510,11 +6649,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_44h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_44h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5550,11 +6697,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_45h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_45h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5590,11 +6745,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_46h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_46h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5630,11 +6793,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_47h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_47h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5670,11 +6841,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_48h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_48h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5710,11 +6889,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_49h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_49h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5750,11 +6937,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_50h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_50h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5790,11 +6985,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_51h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_51h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5830,11 +7033,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_52h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_52h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5870,11 +7081,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_53h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_53h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5910,11 +7129,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_54h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_54h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5950,11 +7177,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_55h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_55h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -5990,11 +7225,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_56h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_56h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6030,11 +7273,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_57h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_57h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6070,11 +7321,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_58h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_58h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6110,11 +7369,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_59h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_59h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6150,11 +7417,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_60h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_60h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6190,11 +7465,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_61h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_61h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6230,11 +7513,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_62h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_62h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6270,11 +7561,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_63h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_63h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6310,11 +7609,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_65h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_65h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6350,11 +7657,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_66h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_66h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6390,12 +7705,23 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3428", "3429", "3430", "3431", "3432", "3438"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3428", "3429", "3430", "3431", "3432", "3438"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6414,12 +7740,23 @@
 		"displayCardType": "hero",
 		"difficulty": "epic",
 		"maxNumberOfRecords": 3,
-		"points": 30.0,
+		"points": 30,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_67h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
-			{ "type": "SCENARIO_IDS", "values": ["3433", "3434", "3435", "3436", "3437", "3439"] }
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_67h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
+			{
+				"type": "SCENARIO_IDS",
+				"values": ["3433", "3434", "3435", "3436", "3437", "3439"]
+			}
 		],
 		"resetEvents": ["GAME_START"]
 	},
@@ -6438,11 +7775,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_68h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_68h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6478,11 +7823,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_69h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_69h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6518,11 +7871,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_70h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_70h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6558,11 +7919,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_71h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_71h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6598,11 +7967,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_72h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_72h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6638,11 +8015,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_73h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_73h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6678,11 +8063,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_74h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_74h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6718,11 +8111,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_75h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_75h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6758,11 +8159,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_76h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_76h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6798,11 +8207,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_77h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_77h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6838,11 +8255,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_78h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_78h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6878,11 +8303,19 @@
 		"displayCardType": "hero",
 		"difficulty": "common",
 		"maxNumberOfRecords": 1,
-		"points": 2.0,
+		"points": 2,
 		"requirements": [
-			{ "type": "CORRECT_OPPONENT", "values": ["ULDA_BOSS_79h"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CORRECT_OPPONENT",
+				"values": ["ULDA_BOSS_79h"]
+			},
+			{
+				"type": "GAME_WON"
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6918,10 +8351,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_728"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_728"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6957,10 +8396,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_731"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_731"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -6996,10 +8441,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_737"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_737"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7035,10 +8486,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_739"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_739"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7074,10 +8531,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_746"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_746"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7113,10 +8576,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["DALA_747"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["DALA_747"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7152,10 +8621,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["GILA_506"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["GILA_506"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7191,10 +8666,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_803"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_803"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7230,10 +8711,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_824"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_824"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7269,10 +8756,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_828"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_828"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7308,10 +8801,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_831"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_831"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7347,10 +8846,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_832"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_832"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7386,10 +8891,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_833"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_833"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7425,10 +8936,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["LOOTA_846"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["LOOTA_846"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7464,10 +8981,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_005"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_005"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7503,10 +9026,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_007"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_007"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7542,10 +9071,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_009"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_009"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7581,10 +9116,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_011"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_011"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7620,10 +9161,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_014"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_014"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7659,10 +9206,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_042"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_042"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7698,10 +9251,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_045"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_045"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7737,10 +9296,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_046"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_046"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7776,10 +9341,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_101"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_101"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7815,10 +9386,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_102"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_102"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7854,10 +9431,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_103"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_103"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7893,10 +9476,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_116"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_116"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7932,10 +9521,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_117"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_117"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -7971,10 +9566,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_205"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_205"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8010,10 +9611,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_208"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_208"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8049,10 +9656,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 1,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "PASSIVE_BUFF", "values": ["ULDA_508"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "PASSIVE_BUFF",
+				"values": ["ULDA_508"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8088,10 +9701,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_902"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_902"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8127,10 +9746,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_903"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_903"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8166,10 +9791,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_904"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_904"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8205,10 +9836,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_905"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_905"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8244,10 +9881,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_906"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_906"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8283,10 +9926,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_907"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_907"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8322,10 +9971,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_908"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_908"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8361,10 +10016,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_909"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_909"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8400,10 +10061,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_910"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_910"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8439,10 +10106,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_912"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_912"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8478,10 +10151,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_913"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_913"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8517,10 +10196,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["DALA_914"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["DALA_914"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8556,10 +10241,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_001"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_001"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8595,10 +10286,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_002"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_002"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8634,10 +10331,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_003"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_003"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8673,10 +10376,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_004"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_004"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8712,10 +10421,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_006"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_006"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8751,10 +10466,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_008"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_008"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8790,10 +10511,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_010"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_010"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8829,10 +10556,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_012"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_012"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8868,10 +10601,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_013"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_013"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8907,10 +10646,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_015"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_015"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8946,10 +10691,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_016"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_016"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -8985,10 +10736,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_017"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_017"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9024,10 +10781,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_018"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_018"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9063,10 +10826,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_019"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_019"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9102,10 +10871,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_020"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_020"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9124,7 +10899,8 @@
 				]
 			}
 		],
-		"resetEvents": ["GAME_START", "GAME_END"]
+		"resetEvents": ["GAME_START", "GAME_END"],
+		"linkedAchievementIds": ["tombs_of_terror_treasure_play_ULDA_015"]
 	},
 	{
 		"id": "tombs_of_terror_treasure_play_ULDA_021",
@@ -9141,10 +10917,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_021"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_021"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9163,7 +10945,8 @@
 				]
 			}
 		],
-		"resetEvents": ["GAME_START", "GAME_END"]
+		"resetEvents": ["GAME_START", "GAME_END"],
+		"linkedAchievementIds": ["tombs_of_terror_treasure_play_ULDA_016"]
 	},
 	{
 		"id": "tombs_of_terror_treasure_play_ULDA_022",
@@ -9180,10 +10963,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_022"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_022"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9202,7 +10991,8 @@
 				]
 			}
 		],
-		"resetEvents": ["GAME_START", "GAME_END"]
+		"resetEvents": ["GAME_START", "GAME_END"],
+		"linkedAchievementIds": ["tombs_of_terror_treasure_play_ULDA_017"]
 	},
 	{
 		"id": "tombs_of_terror_treasure_play_ULDA_023",
@@ -9219,10 +11009,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_023"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_023"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9241,7 +11037,8 @@
 				]
 			}
 		],
-		"resetEvents": ["GAME_START", "GAME_END"]
+		"resetEvents": ["GAME_START", "GAME_END"],
+		"linkedAchievementIds": ["tombs_of_terror_treasure_play_ULDA_018"]
 	},
 	{
 		"id": "tombs_of_terror_treasure_play_ULDA_024",
@@ -9258,10 +11055,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_024"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_024"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9297,10 +11100,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_034"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_034"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9336,10 +11145,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_035"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_035"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9375,10 +11190,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_036"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_036"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9414,10 +11235,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_038"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_038"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9453,10 +11280,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_040"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_040"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9492,10 +11325,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_041"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_041"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9531,10 +11370,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_043"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_043"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9570,10 +11415,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_044"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_044"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9609,10 +11460,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_110"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_110"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9648,10 +11505,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_111"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_111"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9687,10 +11550,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_112"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_112"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9726,10 +11595,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_113"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_113"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9765,10 +11640,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_114"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_114"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9804,10 +11685,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_115"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_115"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9843,10 +11730,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_118"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_118"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9882,10 +11775,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_201"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_201"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9921,10 +11820,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_202"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_202"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9960,10 +11865,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_203"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_203"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -9999,10 +11910,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_204"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_204"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10038,10 +11955,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_206"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_206"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10077,10 +12000,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_207"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_207"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10116,10 +12045,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_301"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_301"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10155,10 +12090,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_302"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_302"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10194,10 +12135,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_303"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_303"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10233,10 +12180,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_304"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_304"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10272,10 +12225,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_305"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_305"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10311,10 +12270,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_306"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_306"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10350,10 +12315,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_307"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_307"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10389,10 +12360,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_401"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_401"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10428,10 +12405,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_402"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_402"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10467,10 +12450,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_403"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_403"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10506,10 +12495,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_404"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_404"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10545,10 +12540,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_405"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_405"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10584,10 +12585,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_406"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_406"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10623,10 +12630,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_407"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_407"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10662,10 +12675,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_501"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_501"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10701,10 +12720,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_502"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_502"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10740,10 +12765,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_503"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_503"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10779,10 +12810,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_504"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_504"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10818,10 +12855,16 @@
 		"displayCardType": "weapon",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_505"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_505"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10857,10 +12900,16 @@
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_507"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_507"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10896,10 +12945,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_601"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_601"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10935,10 +12990,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_602"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_602"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -10974,10 +13035,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_603"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_603"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11013,10 +13080,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_604"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_604"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11052,10 +13125,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_605"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_605"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11091,10 +13170,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_606"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_606"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11130,10 +13215,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_607"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_607"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11169,10 +13260,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_608"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_608"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11208,10 +13305,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_911"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_911"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
@@ -11247,10 +13350,16 @@
 		"displayCardType": "spell",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
-		"points": 3.0,
+		"points": 3,
 		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["ULDA_912"] },
-			{ "type": "GAME_TYPE", "values": ["1"] },
+			{
+				"type": "CARD_PLAYED_OR_CHANGED_ON_BOARD",
+				"values": ["ULDA_912"]
+			},
+			{
+				"type": "GAME_TYPE",
+				"values": ["1"]
+			},
 			{
 				"type": "SCENARIO_IDS",
 				"values": [
