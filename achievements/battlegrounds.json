@@ -3821,28 +3821,6 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
-		"id": "battlegrounds_minion_play_BGS_041",
-		"type": "battlegrounds_minion_play_BGS_041",
-		"name": "Kalecgos, Arcane Aspect",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Kalecgos, Arcane Aspect",
-		"text": "Get a Triple version of Kalecgos, Arcane Aspect",
-		"completedText": "Played a Triple of Kalecgos, Arcane Aspect",
-		"displayCardId": "BGS_041",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_041"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
 		"id": "battlegrounds_minion_play_BGS_068",
 		"type": "battlegrounds_minion_play_BGS_068",
 		"name": "Holy Mackerel",
@@ -3904,28 +3882,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["FP1_010"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_GIL_681",
-		"type": "battlegrounds_minion_play_GIL_681",
-		"name": "Nightmare Amalgam",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Nightmare Amalgam",
-		"text": "Get a Triple version of Nightmare Amalgam",
-		"completedText": "Played a Triple of Nightmare Amalgam",
-		"displayCardId": "GIL_681",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GIL_681"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -5620,6 +5576,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_038", "TB_BaconUps_108"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_BGS_041",
+		"type": "battlegrounds_minion_play_BGS_041",
+		"name": "Kalecgos, Arcane Aspect",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Kalecgos, Arcane Aspect",
+		"text": "Get a Triple version of Kalecgos, Arcane Aspect",
+		"completedText": "Played a Triple of Kalecgos, Arcane Aspect",
+		"displayCardId": "TB_BaconUps_109",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_041", "TB_BaconUps_109"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
