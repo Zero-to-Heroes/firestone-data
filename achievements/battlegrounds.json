@@ -937,6 +937,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_08",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_08",
+		"name": "Illidan Stormrage",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Illidan Stormrage",
+		"emptyText": "Win a Battlegrounds with Illidan Stormrage",
+		"completedText": "You won a Battlegrounds with Illidan Stormrage",
+		"displayCardId": "TB_BaconShop_HERO_08",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_08"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_10",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_10",
 		"name": "Trade Prince Gallywix",
@@ -1880,6 +1903,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_08",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_08",
+		"name": "Illidan Stormrage",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Illidan Stormrage",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Illidan Stormrage",
+		"completedText": "You finished Top 4 with Illidan Stormrage",
+		"displayCardId": "TB_BaconShop_HERO_08",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_08"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_10",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_10",
 		"name": "Trade Prince Gallywix",
@@ -2816,6 +2862,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_02"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_08",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_08",
+		"name": "Illidan Stormrage",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Illidan Stormrage",
+		"emptyText": "Take part in a Battlegrounds with Illidan Stormrage",
+		"completedText": "You played Illidan Stormrage",
+		"displayCardId": "TB_BaconShop_HERO_08",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_08"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -3972,28 +4040,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["FP1_010"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_GVG_062",
-		"type": "battlegrounds_minion_play_GVG_062",
-		"name": "Cobalt Guardian",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Cobalt Guardian",
-		"text": "Get a Triple version of Cobalt Guardian",
-		"completedText": "Played a Triple of Cobalt Guardian",
-		"displayCardId": "GVG_062",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GVG_062"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -5842,6 +5888,50 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ICC_029", "TB_BaconUps_120"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_123",
+		"type": "battlegrounds_minion_play_TB_BaconUps_123",
+		"name": "Deflect-o-Bot",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Deflect-o-Bot",
+		"text": "Get a Triple version of Deflect-o-Bot",
+		"completedText": "Played a Triple of Deflect-o-Bot",
+		"displayCardId": "TB_BaconUps_123",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_071", "TB_BaconUps_123"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_124",
+		"type": "battlegrounds_minion_play_TB_BaconUps_124",
+		"name": "Felfin Navigator",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Felfin Navigator",
+		"text": "Get a Triple version of Felfin Navigator",
+		"completedText": "Played a Triple of Felfin Navigator",
+		"displayCardId": "TB_BaconUps_124",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BT_010", "TB_BaconUps_124"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
