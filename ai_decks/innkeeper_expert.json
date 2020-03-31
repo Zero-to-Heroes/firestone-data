@@ -389,5 +389,131 @@
 			"Shadowflame": 2,
 			"Felstalker": 2
 		}
+	},
+	{
+		"comment": "Innkeeper Illidan Stormrage deck (Expert) (1255 games)",
+		"numberOfGames": 1255,
+		"opponentCardId": "HERO_10",
+		"scenarioIds": [3609],
+		"deckstring": "AAEBAea5AwLZB9vTAw7TAZkCjQOrBtAH4gexCIe6A9e7A9i7A+a7A429A/nIA/7IAwA=",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"BT_921": 2,
+			"EX1_010": 2,
+			"EX1_162": 1,
+			"tt_004": 2,
+			"BT_323": 2,
+			"EX1_067": 2,
+			"EX1_586": 2,
+			"NEW1_019": 2,
+			"BT_036": 2,
+			"BT_352": 2,
+			"BT_035": 2,
+			"BT_142": 2,
+			"BT_495": 2,
+			"EX1_595": 2,
+			"EX1_506": 2,
+			"BT_512": 1
+		},
+		"totalCardsSeen": {
+			"BT_921": 1070,
+			"EX1_010": 1122,
+			"EX1_162": 567,
+			"tt_004": 1073,
+			"BT_323": 1044,
+			"EX1_067": 914,
+			"EX1_586": 898,
+			"NEW1_019": 1120,
+			"BT_036": 1115,
+			"BT_352": 1032,
+			"BT_035": 972,
+			"BT_142": 1199,
+			"BT_495": 985,
+			"EX1_595": 852,
+			"EX1_506": 1077,
+			"BT_512": 280
+		},
+		"cardNames": {
+			"Chaos Strike": 2,
+			"Coordinated Strike": 2,
+			"Shadowhoof Slayer": 2,
+			"Sightless Watcher": 2,
+			"Satyr Overseer": 2,
+			"Glaivebound Adept": 2,
+			"Inner Demon": 1,
+			"Aldrachi Warblades": 2,
+			"Worgen Infiltrator": 2,
+			"Argent Commander": 2,
+			"Dire Wolf Alpha": 1,
+			"Murloc Tidehunter": 2,
+			"Sea Giant": 2,
+			"Cult Master": 2,
+			"Knife Juggler": 2,
+			"Flesheating Ghoul": 2
+		},
+		"decks": {
+			"HERO_10": "AAEBAea5AwLZB9vTAw7TAZkCjQOrBtAH4gexCIe6A9e7A9i7A+a7A429A/nIA/7IAwA="
+		},
+		"deckTotalCardsInDeck": { "HERO_10": 30 },
+		"deckCards": {
+			"HERO_10": {
+				"BT_921": 2,
+				"EX1_010": 2,
+				"EX1_162": 1,
+				"tt_004": 2,
+				"BT_323": 2,
+				"EX1_067": 2,
+				"EX1_586": 2,
+				"NEW1_019": 2,
+				"BT_036": 2,
+				"BT_352": 2,
+				"BT_035": 2,
+				"BT_142": 2,
+				"BT_495": 2,
+				"EX1_595": 2,
+				"EX1_506": 2,
+				"BT_512": 1
+			}
+		},
+		"deckTotalCardsSeen": {
+			"HERO_10": {
+				"BT_921": 1070,
+				"EX1_010": 1122,
+				"EX1_162": 567,
+				"tt_004": 1073,
+				"BT_323": 1044,
+				"EX1_067": 914,
+				"EX1_586": 898,
+				"NEW1_019": 1120,
+				"BT_036": 1115,
+				"BT_352": 1032,
+				"BT_035": 972,
+				"BT_142": 1199,
+				"BT_495": 985,
+				"EX1_595": 852,
+				"EX1_506": 1077,
+				"BT_512": 280
+			}
+		},
+		"deckCardNames": {
+			"HERO_10": {
+				"Chaos Strike": 2,
+				"Coordinated Strike": 2,
+				"Shadowhoof Slayer": 2,
+				"Sightless Watcher": 2,
+				"Satyr Overseer": 2,
+				"Glaivebound Adept": 2,
+				"Inner Demon": 1,
+				"Aldrachi Warblades": 2,
+				"Worgen Infiltrator": 2,
+				"Argent Commander": 2,
+				"Dire Wolf Alpha": 1,
+				"Murloc Tidehunter": 2,
+				"Sea Giant": 2,
+				"Cult Master": 2,
+				"Knife Juggler": 2,
+				"Flesheating Ghoul": 2
+			}
+		}
 	}
 ]

@@ -358,5 +358,125 @@
 			"Windfury": 2,
 			"Boulderfist Ogre": 2
 		}
+	},
+	{
+		"comment": "Innkeeper Illidan Stormrage deck (Normal) (1079 games)",
+		"numberOfGames": 1079,
+		"opponentCardId": "HERO_10",
+		"scenarioIds": [3608],
+		"deckstring": "AAEBAea5AwAPWtgBhQO9A/AD4AT7BJ4F0Af5Coe6A9e7A9i7A+a7A429AwA=",
+		"totalCardsInDeck": 30,
+		"cards": {
+			"CS2_189": 2,
+			"CS2_172": 2,
+			"BT_036": 2,
+			"BT_323": 2,
+			"EX1_506": 2,
+			"CS2_226": 2,
+			"BT_142": 2,
+			"CS2_213": 2,
+			"CS2_122": 2,
+			"BT_921": 2,
+			"EX1_593": 2,
+			"BT_035": 2,
+			"CS2_182": 2,
+			"CS2_179": 2,
+			"EX1_019": 2
+		},
+		"totalCardsSeen": {
+			"CS2_189": 878,
+			"CS2_172": 835,
+			"BT_036": 808,
+			"BT_323": 864,
+			"EX1_506": 850,
+			"CS2_226": 626,
+			"BT_142": 856,
+			"CS2_213": 616,
+			"CS2_122": 784,
+			"BT_921": 728,
+			"EX1_593": 644,
+			"BT_035": 761,
+			"CS2_182": 690,
+			"CS2_179": 748,
+			"EX1_019": 798
+		},
+		"cardNames": {
+			"Chaos Strike": 2,
+			"Coordinated Strike": 2,
+			"Shadowhoof Slayer": 2,
+			"Sightless Watcher": 2,
+			"Aldrachi Warblades": 2,
+			"Raid Leader": 2,
+			"Bloodfen Raptor": 2,
+			"Sen'jin Shieldmasta": 2,
+			"Chillwind Yeti": 2,
+			"Elven Archer": 2,
+			"Reckless Rocketeer": 2,
+			"Frostwolf Warlord": 2,
+			"Shattered Sun Cleric": 2,
+			"Murloc Tidehunter": 2,
+			"Nightblade": 2
+		},
+		"decks": {
+			"HERO_10": "AAEBAea5AwAPWtgBhQO9A/AD4AT7BJ4F0Af5Coe6A9e7A9i7A+a7A429AwA="
+		},
+		"deckTotalCardsInDeck": { "HERO_10": 30 },
+		"deckCards": {
+			"HERO_10": {
+				"CS2_189": 2,
+				"CS2_172": 2,
+				"BT_036": 2,
+				"BT_323": 2,
+				"EX1_506": 2,
+				"CS2_226": 2,
+				"BT_142": 2,
+				"CS2_213": 2,
+				"CS2_122": 2,
+				"BT_921": 2,
+				"EX1_593": 2,
+				"BT_035": 2,
+				"CS2_182": 2,
+				"CS2_179": 2,
+				"EX1_019": 2
+			}
+		},
+		"deckTotalCardsSeen": {
+			"HERO_10": {
+				"CS2_189": 878,
+				"CS2_172": 835,
+				"BT_036": 808,
+				"BT_323": 864,
+				"EX1_506": 850,
+				"CS2_226": 626,
+				"BT_142": 856,
+				"CS2_213": 616,
+				"CS2_122": 784,
+				"BT_921": 728,
+				"EX1_593": 644,
+				"BT_035": 761,
+				"CS2_182": 690,
+				"CS2_179": 748,
+				"EX1_019": 798
+			}
+		},
+		"deckCardNames": {
+			"HERO_10": {
+				"Chaos Strike": 2,
+				"Coordinated Strike": 2,
+				"Shadowhoof Slayer": 2,
+				"Sightless Watcher": 2,
+				"Aldrachi Warblades": 2,
+				"Raid Leader": 2,
+				"Bloodfen Raptor": 2,
+				"Sen'jin Shieldmasta": 2,
+				"Chillwind Yeti": 2,
+				"Elven Archer": 2,
+				"Reckless Rocketeer": 2,
+				"Frostwolf Warlord": 2,
+				"Shattered Sun Cleric": 2,
+				"Murloc Tidehunter": 2,
+				"Nightblade": 2
+			}
+		}
 	}
 ]
