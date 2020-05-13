@@ -1857,6 +1857,75 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_60",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
+		"name": "Kael'thas Sunstrider",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Kael'thas Sunstrider",
+		"emptyText": "Win a Battlegrounds with Kael'thas Sunstrider",
+		"completedText": "You won a Battlegrounds with Kael'thas Sunstrider",
+		"displayCardId": "TB_BaconShop_HERO_60",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_60"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_61",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
+		"name": "Lady Vashj",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Lady Vashj",
+		"emptyText": "Win a Battlegrounds with Lady Vashj",
+		"completedText": "You won a Battlegrounds with Lady Vashj",
+		"displayCardId": "TB_BaconShop_HERO_61",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_62",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_62",
+		"name": "Maiev Shadowsong",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Maiev Shadowsong",
+		"emptyText": "Win a Battlegrounds with Maiev Shadowsong",
+		"completedText": "You won a Battlegrounds with Maiev Shadowsong",
+		"displayCardId": "TB_BaconShop_HERO_62",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -2823,6 +2892,75 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_60",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
+		"name": "Kael'thas Sunstrider",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Kael'thas Sunstrider",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Kael'thas Sunstrider",
+		"completedText": "You finished Top 4 with Kael'thas Sunstrider",
+		"displayCardId": "TB_BaconShop_HERO_60",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_60"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_61",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
+		"name": "Lady Vashj",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Lady Vashj",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Lady Vashj",
+		"completedText": "You finished Top 4 with Lady Vashj",
+		"displayCardId": "TB_BaconShop_HERO_61",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_62",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_62",
+		"name": "Maiev Shadowsong",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Maiev Shadowsong",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Maiev Shadowsong",
+		"completedText": "You finished Top 4 with Maiev Shadowsong",
+		"displayCardId": "TB_BaconShop_HERO_62",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -3742,6 +3880,72 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_58"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_60",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
+		"name": "Kael'thas Sunstrider",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Kael'thas Sunstrider",
+		"emptyText": "Take part in a Battlegrounds with Kael'thas Sunstrider",
+		"completedText": "You played Kael'thas Sunstrider",
+		"displayCardId": "TB_BaconShop_HERO_60",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_60"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_61",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
+		"name": "Lady Vashj",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Lady Vashj",
+		"emptyText": "Take part in a Battlegrounds with Lady Vashj",
+		"completedText": "You played Lady Vashj",
+		"displayCardId": "TB_BaconShop_HERO_61",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_62",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_62",
+		"name": "Maiev Shadowsong",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Maiev Shadowsong",
+		"emptyText": "Take part in a Battlegrounds with Maiev Shadowsong",
+		"completedText": "You played Maiev Shadowsong",
+		"displayCardId": "TB_BaconShop_HERO_62",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -5343,28 +5547,6 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_088",
-		"type": "battlegrounds_minion_play_TB_BaconUps_088",
-		"name": "Dire Wolf Alpha",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Dire Wolf Alpha",
-		"text": "Get a Triple version of Dire Wolf Alpha",
-		"completedText": "Played a Triple of Dire Wolf Alpha",
-		"displayCardId": "TB_BaconUps_088",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["EX1_162", "TB_BaconUps_088"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
 		"id": "battlegrounds_minion_play_TB_BaconUps_089",
 		"type": "battlegrounds_minion_play_TB_BaconUps_089",
 		"name": "Primalfin Lookout",
@@ -5932,6 +6114,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BT_010", "TB_BaconUps_124"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_125",
+		"type": "battlegrounds_minion_play_TB_BaconUps_125",
+		"name": "Rabid Saurolisk",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Rabid Saurolisk",
+		"text": "Get a Triple version of Rabid Saurolisk",
+		"completedText": "Played a Triple of Rabid Saurolisk",
+		"displayCardId": "TB_BaconUps_125",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_075", "TB_BaconUps_125"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
