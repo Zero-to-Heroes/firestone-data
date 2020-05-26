@@ -1,0 +1,23 @@
+{
+	"patches": [
+		{
+			"number": 47374,
+			"version": "17.2.0",
+			"name": "Ashes of Outland 17.2",
+			"date": "2020-05-12"
+		},
+		{
+			"number": 48313,
+			"version": "17.2.1",
+			"name": "Ashes of Outland 17.2.1",
+			"date": "2020-05-18"
+		},
+		{
+			"number": 48705,
+			"version": "17.2.2",
+			"name": "Ashes of Outland 17.2.2",
+			"date": "2020-05-21"
+		}
+	],
+	"currentBattlegroundsMetaPatch": 47374
+}

@@ -1,5 +1,6 @@
 aws s3 cp bgs_heroes_info.json s3://static.zerotoheroes.com/hearthstone/data/ --acl public-read
 aws s3 cp secrets_config.json s3://static.zerotoheroes.com/hearthstone/data/ --acl public-read
+aws s3 cp patches.json s3://static.zerotoheroes.com/hearthstone/data/ --acl public-read
 aws s3 cp ai_decks s3://static.zerotoheroes.com/hearthstone/data/ai_decks --recursive --acl public-read
 aws s3 cp achievements s3://static.zerotoheroes.com/hearthstone/data/achievements --recursive --acl public-read
 
