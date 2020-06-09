@@ -1857,6 +1857,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_59",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_59",
+		"name": "Aranna Starseeker",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Aranna Starseeker",
+		"emptyText": "Win a Battlegrounds with Aranna Starseeker",
+		"completedText": "You won a Battlegrounds with Aranna Starseeker",
+		"displayCardId": "TB_BaconShop_HERO_59",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_59"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_60",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
 		"name": "Kael'thas Sunstrider",
@@ -1920,6 +1943,75 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_64",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_64",
+		"name": "Captain Eudora",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Captain Eudora",
+		"emptyText": "Win a Battlegrounds with Captain Eudora",
+		"completedText": "You won a Battlegrounds with Captain Eudora",
+		"displayCardId": "TB_BaconShop_HERO_64",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_64"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_67",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
+		"name": "Captain Hooktusk",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Captain Hooktusk",
+		"emptyText": "Win a Battlegrounds with Captain Hooktusk",
+		"completedText": "You won a Battlegrounds with Captain Hooktusk",
+		"displayCardId": "TB_BaconShop_HERO_67",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_67"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_68",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_68",
+		"name": "Skycap'n Kragg",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Skycap'n Kragg",
+		"emptyText": "Win a Battlegrounds with Skycap'n Kragg",
+		"completedText": "You won a Battlegrounds with Skycap'n Kragg",
+		"displayCardId": "TB_BaconShop_HERO_68",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2892,6 +2984,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_59",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_59",
+		"name": "Aranna Starseeker",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Aranna Starseeker",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Aranna Starseeker",
+		"completedText": "You finished Top 4 with Aranna Starseeker",
+		"displayCardId": "TB_BaconShop_HERO_59",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_59"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_60",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
 		"name": "Kael'thas Sunstrider",
@@ -2955,6 +3070,75 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_64",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_64",
+		"name": "Captain Eudora",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Captain Eudora",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Captain Eudora",
+		"completedText": "You finished Top 4 with Captain Eudora",
+		"displayCardId": "TB_BaconShop_HERO_64",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_64"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_67",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
+		"name": "Captain Hooktusk",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Captain Hooktusk",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Captain Hooktusk",
+		"completedText": "You finished Top 4 with Captain Hooktusk",
+		"displayCardId": "TB_BaconShop_HERO_67",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_67"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_68",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_68",
+		"name": "Skycap'n Kragg",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Skycap'n Kragg",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Skycap'n Kragg",
+		"completedText": "You finished Top 4 with Skycap'n Kragg",
+		"displayCardId": "TB_BaconShop_HERO_68",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -3885,6 +4069,28 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_59",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_59",
+		"name": "Aranna Starseeker",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Aranna Starseeker",
+		"emptyText": "Take part in a Battlegrounds with Aranna Starseeker",
+		"completedText": "You played Aranna Starseeker",
+		"displayCardId": "TB_BaconShop_HERO_59",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_59"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_60",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_60",
 		"name": "Kael'thas Sunstrider",
@@ -3946,6 +4152,72 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_62"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_64",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_64",
+		"name": "Captain Eudora",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Captain Eudora",
+		"emptyText": "Take part in a Battlegrounds with Captain Eudora",
+		"completedText": "You played Captain Eudora",
+		"displayCardId": "TB_BaconShop_HERO_64",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_64"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_67",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
+		"name": "Captain Hooktusk",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Captain Hooktusk",
+		"emptyText": "Take part in a Battlegrounds with Captain Hooktusk",
+		"completedText": "You played Captain Hooktusk",
+		"displayCardId": "TB_BaconShop_HERO_67",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_67"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_68",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_68",
+		"name": "Skycap'n Kragg",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Skycap'n Kragg",
+		"emptyText": "Take part in a Battlegrounds with Skycap'n Kragg",
+		"completedText": "You played Skycap'n Kragg",
+		"displayCardId": "TB_BaconShop_HERO_68",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -4178,6 +4450,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_041", "TB_BaconUps_109"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_BGS_060",
+		"type": "battlegrounds_minion_play_BGS_060",
+		"name": "Yo-Ho-Ogre",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Yo-Ho-Ogre",
+		"text": "Get a Triple version of Yo-Ho-Ogre",
+		"completedText": "Played a Triple of Yo-Ho-Ogre",
+		"displayCardId": "BGS_060",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_060"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -6136,6 +6430,358 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_075", "TB_BaconUps_125"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_126",
+		"type": "battlegrounds_minion_play_TB_BaconUps_126",
+		"name": "Deck Swabbie",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Deck Swabbie",
+		"text": "Get a Triple version of Deck Swabbie",
+		"completedText": "Played a Triple of Deck Swabbie",
+		"displayCardId": "TB_BaconUps_126",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_055", "TB_BaconUps_126"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_127",
+		"type": "battlegrounds_minion_play_TB_BaconUps_127",
+		"name": "Freedealing Gambler",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Freedealing Gambler",
+		"text": "Get a Triple version of Freedealing Gambler",
+		"completedText": "Played a Triple of Freedealing Gambler",
+		"displayCardId": "TB_BaconUps_127",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_049", "TB_BaconUps_127"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_128",
+		"type": "battlegrounds_minion_play_TB_BaconUps_128",
+		"name": "Arcane Cannon",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Arcane Cannon",
+		"text": "Get a Triple version of Arcane Cannon",
+		"completedText": "Played a Triple of Arcane Cannon",
+		"displayCardId": "TB_BaconUps_128",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_077", "TB_BaconUps_128"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_130",
+		"type": "battlegrounds_minion_play_TB_BaconUps_130",
+		"name": "Goldgrubber",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Goldgrubber",
+		"text": "Get a Triple version of Goldgrubber",
+		"completedText": "Played a Triple of Goldgrubber",
+		"displayCardId": "TB_BaconUps_130",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_066", "TB_BaconUps_130"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_132",
+		"type": "battlegrounds_minion_play_TB_BaconUps_132",
+		"name": "Nat Pagle, Extreme Angler",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Nat Pagle, Extreme Angler",
+		"text": "Get a Triple version of Nat Pagle, Extreme Angler",
+		"completedText": "Played a Triple of Nat Pagle, Extreme Angler",
+		"displayCardId": "TB_BaconUps_132",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_046", "TB_BaconUps_132"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_133",
+		"type": "battlegrounds_minion_play_TB_BaconUps_133",
+		"name": "Cap'n Hoggarr",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Cap'n Hoggarr",
+		"text": "Get a Triple version of Cap'n Hoggarr",
+		"completedText": "Played a Triple of Cap'n Hoggarr",
+		"displayCardId": "TB_BaconUps_133",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_072", "TB_BaconUps_133"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_134",
+		"type": "battlegrounds_minion_play_TB_BaconUps_134",
+		"name": "Dread Admiral Eliza",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Dread Admiral Eliza",
+		"text": "Get a Triple version of Dread Admiral Eliza",
+		"completedText": "Played a Triple of Dread Admiral Eliza",
+		"displayCardId": "TB_BaconUps_134",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_047", "TB_BaconUps_134"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_135",
+		"type": "battlegrounds_minion_play_TB_BaconUps_135",
+		"name": "Monstrous Macaw",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Monstrous Macaw",
+		"text": "Get a Triple version of Monstrous Macaw",
+		"completedText": "Played a Triple of Monstrous Macaw",
+		"displayCardId": "TB_BaconUps_135",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_078", "TB_BaconUps_135"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_136",
+		"type": "battlegrounds_minion_play_TB_BaconUps_136",
+		"name": "Southsea Captain",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Southsea Captain",
+		"text": "Get a Triple version of Southsea Captain",
+		"completedText": "Played a Triple of Southsea Captain",
+		"displayCardId": "TB_BaconUps_136",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["NEW1_027", "TB_BaconUps_136"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_137",
+		"type": "battlegrounds_minion_play_TB_BaconUps_137",
+		"name": "The Tide Razor",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! The Tide Razor",
+		"text": "Get a Triple version of The Tide Razor",
+		"completedText": "Played a Triple of The Tide Razor",
+		"displayCardId": "TB_BaconUps_137",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_079", "TB_BaconUps_137"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_138",
+		"type": "battlegrounds_minion_play_TB_BaconUps_138",
+		"name": "Bloodsail Cannoneer",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Bloodsail Cannoneer",
+		"text": "Get a Triple version of Bloodsail Cannoneer",
+		"completedText": "Played a Triple of Bloodsail Cannoneer",
+		"displayCardId": "TB_BaconUps_138",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_053", "TB_BaconUps_138"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_139",
+		"type": "battlegrounds_minion_play_TB_BaconUps_139",
+		"name": "Ripsnarl Captain",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Ripsnarl Captain",
+		"text": "Get a Triple version of Ripsnarl Captain",
+		"completedText": "Played a Triple of Ripsnarl Captain",
+		"displayCardId": "TB_BaconUps_139",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_056", "TB_BaconUps_139"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_140",
+		"type": "battlegrounds_minion_play_TB_BaconUps_140",
+		"name": "Southsea Strongarm",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Southsea Strongarm",
+		"text": "Get a Triple version of Southsea Strongarm",
+		"completedText": "Played a Triple of Southsea Strongarm",
+		"displayCardId": "TB_BaconUps_140",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_048", "TB_BaconUps_140"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_141",
+		"type": "battlegrounds_minion_play_TB_BaconUps_141",
+		"name": "Scallywag",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Scallywag",
+		"text": "Get a Triple version of Scallywag",
+		"completedText": "Played a Triple of Scallywag",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_061", "TB_BaconUps_141"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_142",
+		"type": "battlegrounds_minion_play_TB_BaconUps_142",
+		"name": "Seabreaker Goliath",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Seabreaker Goliath",
+		"text": "Get a Triple version of Seabreaker Goliath",
+		"completedText": "Played a Triple of Seabreaker Goliath",
+		"displayCardId": "TB_BaconUps_142",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_080", "TB_BaconUps_142"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_143",
+		"type": "battlegrounds_minion_play_TB_BaconUps_143",
+		"name": "Salty Looter",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Salty Looter",
+		"text": "Get a Triple version of Salty Looter",
+		"completedText": "Played a Triple of Salty Looter",
+		"displayCardId": "TB_BaconUps_143",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_081", "TB_BaconUps_143"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
