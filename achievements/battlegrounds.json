@@ -960,52 +960,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_10",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_10",
-		"name": "Trade Prince Gallywix",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Trade Prince Gallywix",
-		"emptyText": "Win a Battlegrounds with Trade Prince Gallywix",
-		"completedText": "You won a Battlegrounds with Trade Prince Gallywix",
-		"displayCardId": "TB_BaconShop_HERO_10",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_10"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_11",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_11",
-		"name": "Ragnaros the Firelord",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Ragnaros the Firelord",
-		"emptyText": "Win a Battlegrounds with Ragnaros the Firelord",
-		"completedText": "You won a Battlegrounds with Ragnaros the Firelord",
-		"displayCardId": "TB_BaconShop_HERO_11",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_11"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_12",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_12",
 		"name": "The Rat King",
@@ -1161,29 +1115,6 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_20",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_20",
-		"name": "Professor Putricide",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Professor Putricide",
-		"emptyText": "Win a Battlegrounds with Professor Putricide",
-		"completedText": "You won a Battlegrounds with Professor Putricide",
-		"displayCardId": "TB_BaconShop_HERO_20",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_20"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -1604,52 +1535,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_43",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
-		"name": "Dinotamer Brann",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Dinotamer Brann",
-		"emptyText": "Win a Battlegrounds with Dinotamer Brann",
-		"completedText": "You won a Battlegrounds with Dinotamer Brann",
-		"displayCardId": "TB_BaconShop_HERO_43",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_44",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_44",
-		"name": "Sylvanas Windrunner",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Sylvanas Windrunner",
-		"emptyText": "Win a Battlegrounds with Sylvanas Windrunner",
-		"completedText": "You won a Battlegrounds with Sylvanas Windrunner",
-		"displayCardId": "TB_BaconShop_HERO_44",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_44"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -1713,6 +1598,29 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_49"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_50",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_50",
+		"name": "Tess Greymane",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Tess Greymane",
+		"emptyText": "Win a Battlegrounds with Tess Greymane",
+		"completedText": "You won a Battlegrounds with Tess Greymane",
+		"displayCardId": "TB_BaconShop_HERO_50",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_50"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2087,52 +1995,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_10",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_10",
-		"name": "Trade Prince Gallywix",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Trade Prince Gallywix",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Trade Prince Gallywix",
-		"completedText": "You finished Top 4 with Trade Prince Gallywix",
-		"displayCardId": "TB_BaconShop_HERO_10",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_10"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_11",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_11",
-		"name": "Ragnaros the Firelord",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Ragnaros the Firelord",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Ragnaros the Firelord",
-		"completedText": "You finished Top 4 with Ragnaros the Firelord",
-		"displayCardId": "TB_BaconShop_HERO_11",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_11"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_12",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_12",
 		"name": "The Rat King",
@@ -2288,29 +2150,6 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_20",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_20",
-		"name": "Professor Putricide",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Professor Putricide",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Professor Putricide",
-		"completedText": "You finished Top 4 with Professor Putricide",
-		"displayCardId": "TB_BaconShop_HERO_20",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_20"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2731,52 +2570,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_43",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
-		"name": "Dinotamer Brann",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Dinotamer Brann",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Dinotamer Brann",
-		"completedText": "You finished Top 4 with Dinotamer Brann",
-		"displayCardId": "TB_BaconShop_HERO_43",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_44",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_44",
-		"name": "Sylvanas Windrunner",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Sylvanas Windrunner",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Sylvanas Windrunner",
-		"completedText": "You finished Top 4 with Sylvanas Windrunner",
-		"displayCardId": "TB_BaconShop_HERO_44",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_44"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -2840,6 +2633,29 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_49"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_50",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_50",
+		"name": "Tess Greymane",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Tess Greymane",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Tess Greymane",
+		"completedText": "You finished Top 4 with Tess Greymane",
+		"displayCardId": "TB_BaconShop_HERO_50",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_50"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -3211,50 +3027,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_10",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_10",
-		"name": "Trade Prince Gallywix",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Trade Prince Gallywix",
-		"emptyText": "Take part in a Battlegrounds with Trade Prince Gallywix",
-		"completedText": "You played Trade Prince Gallywix",
-		"displayCardId": "TB_BaconShop_HERO_10",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_10"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_11",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_11",
-		"name": "Ragnaros the Firelord",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Ragnaros the Firelord",
-		"emptyText": "Take part in a Battlegrounds with Ragnaros the Firelord",
-		"completedText": "You played Ragnaros the Firelord",
-		"displayCardId": "TB_BaconShop_HERO_11",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_11"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_12",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_12",
 		"name": "The Rat King",
@@ -3404,28 +3176,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_20",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_20",
-		"name": "Professor Putricide",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Professor Putricide",
-		"emptyText": "Take part in a Battlegrounds with Professor Putricide",
-		"completedText": "You played Professor Putricide",
-		"displayCardId": "TB_BaconShop_HERO_20",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_20"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -3827,50 +3577,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_43",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
-		"name": "Dinotamer Brann",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Dinotamer Brann",
-		"emptyText": "Take part in a Battlegrounds with Dinotamer Brann",
-		"completedText": "You played Dinotamer Brann",
-		"displayCardId": "TB_BaconShop_HERO_43",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_44",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_44",
-		"name": "Sylvanas Windrunner",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Sylvanas Windrunner",
-		"emptyText": "Take part in a Battlegrounds with Sylvanas Windrunner",
-		"completedText": "You played Sylvanas Windrunner",
-		"displayCardId": "TB_BaconShop_HERO_44",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_44"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -3932,6 +3638,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_49"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_50",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_50",
+		"name": "Tess Greymane",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Tess Greymane",
+		"emptyText": "Take part in a Battlegrounds with Tess Greymane",
+		"completedText": "You played Tess Greymane",
+		"displayCardId": "TB_BaconShop_HERO_50",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_50"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -6364,6 +6092,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ICC_029", "TB_BaconUps_120"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_121",
+		"type": "battlegrounds_minion_play_TB_BaconUps_121",
+		"name": "Amalgadon",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Amalgadon",
+		"text": "Get a Triple version of Amalgadon",
+		"completedText": "Played a Triple of Amalgadon",
+		"displayCardId": "TB_BaconUps_121",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_069", "TB_BaconUps_121"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]

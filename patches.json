@@ -29,7 +29,13 @@
 			"version": "17.4.1",
 			"name": "Ashes of Outland 17.4.1",
 			"date": "2020-06-18"
+		},
+		{
+			"number": 53261,
+			"version": "17.6.0",
+			"name": "Ashes of Outland 17.6.0",
+			"date": "2020-07-14"
 		}
 	],
-	"currentBattlegroundsMetaPatch": 51510
+	"currentBattlegroundsMetaPatch": 53261
 }
