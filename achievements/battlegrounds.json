@@ -1535,6 +1535,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_43",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
+		"name": "Dinotamer Brann",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Dinotamer Brann",
+		"emptyText": "Win a Battlegrounds with Dinotamer Brann",
+		"completedText": "You won a Battlegrounds with Dinotamer Brann",
+		"displayCardId": "TB_BaconShop_HERO_43",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -1552,29 +1575,6 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_45"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_47",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_47",
-		"name": "Tirion Fordring",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Tirion Fordring",
-		"emptyText": "Win a Battlegrounds with Tirion Fordring",
-		"completedText": "You won a Battlegrounds with Tirion Fordring",
-		"displayCardId": "TB_BaconShop_HERO_47",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_47"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -1920,6 +1920,29 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_70",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_70",
+		"name": "Mr. Bigglesworth",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Mr. Bigglesworth",
+		"emptyText": "Win a Battlegrounds with Mr. Bigglesworth",
+		"completedText": "You won a Battlegrounds with Mr. Bigglesworth",
+		"displayCardId": "TB_BaconShop_HERO_70",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_70"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2570,6 +2593,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_43",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
+		"name": "Dinotamer Brann",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Dinotamer Brann",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Dinotamer Brann",
+		"completedText": "You finished Top 4 with Dinotamer Brann",
+		"displayCardId": "TB_BaconShop_HERO_43",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -2587,29 +2633,6 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_45"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_47",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_47",
-		"name": "Tirion Fordring",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Tirion Fordring",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Tirion Fordring",
-		"completedText": "You finished Top 4 with Tirion Fordring",
-		"displayCardId": "TB_BaconShop_HERO_47",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_47"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2955,6 +2978,29 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_70",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_70",
+		"name": "Mr. Bigglesworth",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Mr. Bigglesworth",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Mr. Bigglesworth",
+		"completedText": "You finished Top 4 with Mr. Bigglesworth",
+		"displayCardId": "TB_BaconShop_HERO_70",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_70"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -3577,6 +3623,28 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_43",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_43",
+		"name": "Dinotamer Brann",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Dinotamer Brann",
+		"emptyText": "Take part in a Battlegrounds with Dinotamer Brann",
+		"completedText": "You played Dinotamer Brann",
+		"displayCardId": "TB_BaconShop_HERO_43",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_43"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_45",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_45",
 		"name": "Arch-Villain Rafaam",
@@ -3594,28 +3662,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_45"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_47",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_47",
-		"name": "Tirion Fordring",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Tirion Fordring",
-		"emptyText": "Take part in a Battlegrounds with Tirion Fordring",
-		"completedText": "You played Tirion Fordring",
-		"displayCardId": "TB_BaconShop_HERO_47",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_47"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -3946,6 +3992,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_68"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_70",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_70",
+		"name": "Mr. Bigglesworth",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Mr. Bigglesworth",
+		"emptyText": "Take part in a Battlegrounds with Mr. Bigglesworth",
+		"completedText": "You played Mr. Bigglesworth",
+		"displayCardId": "TB_BaconShop_HERO_70",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_70"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -4359,6 +4427,28 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
+		"id": "battlegrounds_minion_play_TB_BaconShop_HP_033t",
+		"type": "battlegrounds_minion_play_TB_BaconShop_HP_033t",
+		"name": "Amalgam",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Amalgam",
+		"text": "Get a Triple version of Amalgam",
+		"completedText": "Played a Triple of Amalgam",
+		"displayCardId": "TB_BaconShop_HP_033t",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["TB_BaconShop_HP_033t"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
 		"id": "battlegrounds_minion_play_TB_BaconUps_002",
 		"type": "battlegrounds_minion_play_TB_BaconUps_002",
 		"name": "Mecharoo",
@@ -4398,6 +4488,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["EX1_506", "TB_BaconUps_003"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_003t",
+		"type": "battlegrounds_minion_play_TB_BaconUps_003t",
+		"name": "Murloc Scout",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Murloc Scout",
+		"text": "Get a Triple version of Murloc Scout",
+		"completedText": "Played a Triple of Murloc Scout",
+		"displayCardId": "TB_BaconUps_003t",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["EX1_506a", "TB_BaconUps_003t"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -5431,7 +5543,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GVG_114", "TB_BaconUps_080"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_006", "TB_BaconUps_080"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -5652,6 +5764,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["CFM_315", "TB_BaconUps_093"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_093t",
+		"type": "battlegrounds_minion_play_TB_BaconUps_093t",
+		"name": "Tabbycat",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Tabbycat",
+		"text": "Get a Triple version of Tabbycat",
+		"completedText": "Played a Triple of Tabbycat",
+		"displayCardId": "TB_BaconUps_093t",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["CFM_315t", "TB_BaconUps_093t"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -7656,6 +7790,126 @@
 		"points": 25.0,
 		"requirements": [
 			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-murloc", "battlegrounds", "500"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_100",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 100,
+		"displayName": "Pirate Invasion (100 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 100 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "100"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_1000",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 1000,
+		"displayName": "Pirate Invasion (1,000 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 1,000 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "1000"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_200",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 200,
+		"displayName": "Pirate Invasion (200 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 200 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "200"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_2000",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 2000,
+		"displayName": "Pirate Invasion (2,000 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 2,000 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "2000"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_50",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 50,
+		"displayName": "Pirate Invasion (50 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 50 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "50"] }
+		]
+	},
+	{
+		"id": "battlegrounds_tribe_played_pirate_500",
+		"type": "battlegrounds_tribe_played_pirate",
+		"name": "Pirate Invasion",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 500,
+		"displayName": "Pirate Invasion (500 pirates played)",
+		"text": "Play pirates in Battlegrounds (%%globalStats.total-minions-played-by-tribe-pirate.battlegrounds%% pirates played so far)",
+		"completedText": "Played 500 pirates",
+		"displayCardId": "TB_BaconUps_141",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 1,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GLOBAL_STAT", "values": ["total-minions-played-by-tribe-pirate", "battlegrounds", "500"] }
 		]
 	}
 ]
