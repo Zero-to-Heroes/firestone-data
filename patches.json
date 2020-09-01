@@ -35,6 +35,12 @@
 			"version": "17.6.0",
 			"name": "Ashes of Outland 17.6.0",
 			"date": "2020-07-14"
+		},
+		{
+			"number": 54613,
+			"version": "18.0",
+			"name": "Scholomance 18.0",
+			"date": "2020-07-30"
 		}
 	],
 	"currentBattlegroundsMetaPatch": 53261

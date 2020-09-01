@@ -192,6 +192,168 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "competitive_ladder_nemesis_demonhunter_3",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 3,
+		"displayName": "Achievement completed: Demonhunter Nemesis (3 games)",
+		"emptyText": "Win 3 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 3 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 19.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["3", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "competitive_ladder_nemesis_demonhunter_4",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 4,
+		"displayName": "Achievement completed: Demonhunter Nemesis (4 games)",
+		"emptyText": "Win 4 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 4 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 22.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["4", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "competitive_ladder_nemesis_demonhunter_5",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 5,
+		"displayName": "Achievement completed: Demonhunter Nemesis (5 games)",
+		"emptyText": "Win 5 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 5 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 25.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["5", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "competitive_ladder_nemesis_demonhunter_6",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 6,
+		"displayName": "Achievement completed: Demonhunter Nemesis (6 games)",
+		"emptyText": "Win 6 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 6 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 28.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["6", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "competitive_ladder_nemesis_demonhunter_7",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 7,
+		"displayName": "Achievement completed: Demonhunter Nemesis (7 games)",
+		"emptyText": "Win 7 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 7 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 31.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["7", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "competitive_ladder_nemesis_demonhunter_8",
+		"type": "competitive_ladder_nemesis_demonhunter",
+		"name": "Nemesis - Demonhunter",
+		"icon": "boss_victory",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 8,
+		"displayName": "Achievement completed: Demonhunter Nemesis (8 games)",
+		"emptyText": "Win 8 games against Demonhunter in less than 12 hours in Ranked Standard",
+		"completedText": "You won 8 games against Demonhunter in less than 12 hours",
+		"displayCardId": "CRED_10",
+		"displayCardType": "minion",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 3,
+		"points": 34.0,
+		"requirements": [
+			{ "type": "GAME_TYPE", "values": ["7"] },
+			{ "type": "RANKED_FORMAT_TYPE", "values": ["2"] },
+			{ "type": "GAME_WON" },
+			{
+				"type": "WINS_AGAINST_CLASS_IN_RANKED_STANDARD_IN_LIMITED_TIME",
+				"values": ["8", "AT_LEAST", "demonhunter", "12"]
+			}
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "competitive_ladder_nemesis_druid_3",
 		"type": "competitive_ladder_nemesis_druid",
 		"name": "Nemesis - Druid",
