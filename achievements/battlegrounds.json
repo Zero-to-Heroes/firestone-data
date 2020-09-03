@@ -1098,29 +1098,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_19",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_19",
-		"name": "Giantfin",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Giantfin",
-		"emptyText": "Win a Battlegrounds with Giantfin",
-		"completedText": "You won a Battlegrounds with Giantfin",
-		"displayCardId": "TB_BaconShop_HERO_19",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_21",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_21",
 		"name": "The Great Akazamzarak",
@@ -1811,29 +1788,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_61",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
-		"name": "Lady Vashj",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Lady Vashj",
-		"emptyText": "Win a Battlegrounds with Lady Vashj",
-		"completedText": "You won a Battlegrounds with Lady Vashj",
-		"displayCardId": "TB_BaconShop_HERO_61",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_62",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_62",
 		"name": "Maiev Shadowsong",
@@ -2150,29 +2104,6 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_18"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_19",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_19",
-		"name": "Giantfin",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Giantfin",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Giantfin",
-		"completedText": "You finished Top 4 with Giantfin",
-		"displayCardId": "TB_BaconShop_HERO_19",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2869,29 +2800,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_61",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
-		"name": "Lady Vashj",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Lady Vashj",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Lady Vashj",
-		"completedText": "You finished Top 4 with Lady Vashj",
-		"displayCardId": "TB_BaconShop_HERO_61",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_62",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_62",
 		"name": "Maiev Shadowsong",
@@ -3200,28 +3108,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_18"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_19",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_19",
-		"name": "Giantfin",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Giantfin",
-		"emptyText": "Take part in a Battlegrounds with Giantfin",
-		"completedText": "You played Giantfin",
-		"displayCardId": "TB_BaconShop_HERO_19",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_19"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -3882,28 +3768,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_60"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_61",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_61",
-		"name": "Lady Vashj",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Lady Vashj",
-		"emptyText": "Take part in a Battlegrounds with Lady Vashj",
-		"completedText": "You played Lady Vashj",
-		"displayCardId": "TB_BaconShop_HERO_61",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "CARD_PLAYED_OR_CHANGED_ON_BOARD", "values": ["TB_BaconShop_HERO_61"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
