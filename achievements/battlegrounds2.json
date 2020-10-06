@@ -4519,7 +4519,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_034"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_034", "TB_BaconUps_149"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4541,7 +4541,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_039"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_039", "TB_BaconUps_146"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4563,7 +4563,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_040"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_040", "TB_BaconUps_154"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4607,7 +4607,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_060"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_060", "TB_BaconUps_150"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4651,7 +4651,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["DAL_077"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["DAL_077", "TB_BaconUps_152"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4673,7 +4673,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["FP1_010"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["FP1_010", "TB_BaconUps_155"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4695,7 +4695,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GVG_113"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GVG_113", "TB_BaconUps_153"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4717,7 +4717,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ICC_038"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ICC_038", "TB_BaconUps_147"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4739,7 +4739,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["LOOT_013"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["LOOT_013", "TB_BaconUps_148"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -4761,7 +4761,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["LOOT_078"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["LOOT_078", "TB_BaconUps_151"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -7313,7 +7313,7 @@
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ULD_217"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["ULD_217", "TB_BaconUps_250"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
