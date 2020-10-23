@@ -1282,29 +1282,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_31",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_31",
-		"name": "Bartendotron",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Bartendotron",
-		"emptyText": "Win a Battlegrounds with Bartendotron",
-		"completedText": "You won a Battlegrounds with Bartendotron",
-		"displayCardId": "TB_BaconShop_HERO_31",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_31"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_33",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_33",
 		"name": "The Curator",
@@ -2064,6 +2041,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_91",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_91",
+		"name": "Zephrys, the Great",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Zephrys, the Great",
+		"emptyText": "Win a Battlegrounds with Zephrys, the Great",
+		"completedText": "You won a Battlegrounds with Zephrys, the Great",
+		"displayCardId": "TB_BaconShop_HERO_91",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_91"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -2449,29 +2449,6 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_30"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_31",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_31",
-		"name": "Bartendotron",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Bartendotron",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Bartendotron",
-		"completedText": "You finished Top 4 with Bartendotron",
-		"displayCardId": "TB_BaconShop_HERO_31",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_31"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -3237,6 +3214,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_91",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_91",
+		"name": "Zephrys, the Great",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Zephrys, the Great",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Zephrys, the Great",
+		"completedText": "You finished Top 4 with Zephrys, the Great",
+		"displayCardId": "TB_BaconShop_HERO_91",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_91"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -3606,28 +3606,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_30"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_31",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_31",
-		"name": "Bartendotron",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Bartendotron",
-		"emptyText": "Take part in a Battlegrounds with Bartendotron",
-		"completedText": "You played Bartendotron",
-		"displayCardId": "TB_BaconShop_HERO_31",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_31"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -4354,6 +4332,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_78"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_91",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_91",
+		"name": "Zephrys, the Great",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Zephrys, the Great",
+		"emptyText": "Take part in a Battlegrounds with Zephrys, the Great",
+		"completedText": "You played Zephrys, the Great",
+		"displayCardId": "TB_BaconShop_HERO_91",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_91"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -5752,28 +5752,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_002", "TB_BaconUps_075"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_077",
-		"type": "battlegrounds_minion_play_TB_BaconUps_077",
-		"name": "Pogo-Hopper",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Pogo-Hopper",
-		"text": "Get a Triple version of Pogo-Hopper",
-		"completedText": "Played a Triple of Pogo-Hopper",
-		"displayCardId": "TB_BaconUps_077",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_028", "TB_BaconUps_077"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -7182,28 +7160,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_104", "TB_BaconUps_201"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_206",
-		"type": "battlegrounds_minion_play_TB_BaconUps_206",
-		"name": "Whirlwind Tempest",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Whirlwind Tempest",
-		"text": "Get a Triple version of Whirlwind Tempest",
-		"completedText": "Played a Triple of Whirlwind Tempest",
-		"displayCardId": "TB_BaconUps_206",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["DAL_742", "TB_BaconUps_206"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
