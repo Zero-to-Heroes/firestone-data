@@ -61,11 +61,12 @@
 			"date": "2020-10-15"
 		},
 		{
-			"number": 63163,
+			"number": 63160,
 			"version": "18.6.0",
 			"name": "Scholomance 18.6.0",
 			"date": "2020-10-22"
 		}
 	],
-	"currentBattlegroundsMetaPatch": 62331
+	"currentBattlegroundsMetaPatch": 62331,
+	"currentDuelsMetaPatch": 63160
 }
