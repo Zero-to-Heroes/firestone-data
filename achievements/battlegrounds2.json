@@ -1259,29 +1259,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_30",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_30",
-		"name": "Nefarian",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Nefarian",
-		"emptyText": "Win a Battlegrounds with Nefarian",
-		"completedText": "You won a Battlegrounds with Nefarian",
-		"displayCardId": "TB_BaconShop_HERO_30",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_30"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_33",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_33",
 		"name": "The Curator",
@@ -2432,29 +2409,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_30",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_30",
-		"name": "Nefarian",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Nefarian",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Nefarian",
-		"completedText": "You finished Top 4 with Nefarian",
-		"displayCardId": "TB_BaconShop_HERO_30",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_30"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_33",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_33",
 		"name": "The Curator",
@@ -3584,28 +3538,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_28"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_30",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_30",
-		"name": "Nefarian",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Nefarian",
-		"emptyText": "Take part in a Battlegrounds with Nefarian",
-		"completedText": "You played Nefarian",
-		"displayCardId": "TB_BaconShop_HERO_30",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_30"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -5488,28 +5420,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["LOOT_368", "TB_BaconUps_059"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_059t",
-		"type": "battlegrounds_minion_play_TB_BaconUps_059t",
-		"name": "Voidwalker",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Voidwalker",
-		"text": "Get a Triple version of Voidwalker",
-		"completedText": "Played a Triple of Voidwalker",
-		"displayCardId": "TB_BaconUps_059t",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["CS2_065", "TB_BaconUps_059t"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
