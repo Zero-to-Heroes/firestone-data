@@ -71,8 +71,14 @@
 			"version": "18.6.1",
 			"name": "Scholomance 18.6.1",
 			"date": "2020-11-05"
+		},
+		{
+			"number": 65614,
+			"version": "19.0.0",
+			"name": "Dark Moon Faire 19.0.0",
+			"date": "2020-11-12"
 		}
 	],
 	"currentBattlegroundsMetaPatch": 65000,
-	"currentDuelsMetaPatch": 65000
+	"currentDuelsMetaPatch": 65614
 }

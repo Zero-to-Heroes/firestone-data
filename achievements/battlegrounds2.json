@@ -2018,6 +2018,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_90",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_90",
+		"name": "Silas Darkmoon",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Silas Darkmoon",
+		"emptyText": "Win a Battlegrounds with Silas Darkmoon",
+		"completedText": "You won a Battlegrounds with Silas Darkmoon",
+		"displayCardId": "TB_BaconShop_HERO_90",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_90"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_91",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_91",
 		"name": "Zephrys, the Great",
@@ -3168,6 +3191,29 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_90",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_90",
+		"name": "Silas Darkmoon",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Silas Darkmoon",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Silas Darkmoon",
+		"completedText": "You finished Top 4 with Silas Darkmoon",
+		"displayCardId": "TB_BaconShop_HERO_90",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_90"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_91",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_91",
 		"name": "Zephrys, the Great",
@@ -4264,6 +4310,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_78"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_90",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_90",
+		"name": "Silas Darkmoon",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Silas Darkmoon",
+		"emptyText": "Take part in a Battlegrounds with Silas Darkmoon",
+		"completedText": "You played Silas Darkmoon",
+		"displayCardId": "TB_BaconShop_HERO_90",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_90"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
