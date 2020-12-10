@@ -1,0 +1,12 @@
+{
+	"id": "global",
+	"name": "Global",
+	"icon": "globals",
+	"achievementTypes": [
+		"global_damage_to_enemy_heroes",
+		"global_enemy_minions_dead",
+		"global_mana_spent",
+		"global_total_duration",
+		"global_total_match"
+	]
+}
