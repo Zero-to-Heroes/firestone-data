@@ -1,0 +1,16 @@
+{
+	"name": "@firestone-hs/data-generator",
+	"version": "1.0.0",
+	"description": "",
+	"repository": {},
+	"author": "",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	},
+	"devDependencies": {
+		"@types/node": "^14.14.11",
+		"@types/node-fetch": "^2.5.7"
+	}
+}
