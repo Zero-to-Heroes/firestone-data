@@ -77,8 +77,14 @@
 			"version": "19.0.0",
 			"name": "Dark Moon Faire 19.0.0",
 			"date": "2020-11-12"
+		},
+		{
+			"number": 68600,
+			"version": "19.2.0",
+			"name": "Dark Moon Faire 19.2.0",
+			"date": "2020-12-15"
 		}
 	],
-	"currentBattlegroundsMetaPatch": 65000,
-	"currentDuelsMetaPatch": 65614
+	"currentBattlegroundsMetaPatch": 68600,
+	"currentDuelsMetaPatch": 68600
 }

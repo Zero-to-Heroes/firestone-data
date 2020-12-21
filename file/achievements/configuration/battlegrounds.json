@@ -34,7 +34,6 @@
 				"battlegrounds_0ranking",
 				"battlegrounds_0win_streak",
 				"battlegrounds_hero_TB_BaconShop_HERO_01",
-				"battlegrounds_hero_TB_BaconShop_HERO_02",
 				"battlegrounds_hero_TB_BaconShop_HERO_08",
 				"battlegrounds_hero_TB_BaconShop_HERO_11",
 				"battlegrounds_hero_TB_BaconShop_HERO_12",
@@ -49,6 +48,7 @@
 				"battlegrounds_hero_TB_BaconShop_HERO_25",
 				"battlegrounds_hero_TB_BaconShop_HERO_27",
 				"battlegrounds_hero_TB_BaconShop_HERO_28",
+				"battlegrounds_hero_TB_BaconShop_HERO_29",
 				"battlegrounds_hero_TB_BaconShop_HERO_33",
 				"battlegrounds_hero_TB_BaconShop_HERO_34",
 				"battlegrounds_hero_TB_BaconShop_HERO_35",
@@ -83,7 +83,9 @@
 				"battlegrounds_hero_TB_BaconShop_HERO_76",
 				"battlegrounds_hero_TB_BaconShop_HERO_78",
 				"battlegrounds_hero_TB_BaconShop_HERO_90",
-				"battlegrounds_hero_TB_BaconShop_HERO_91"
+				"battlegrounds_hero_TB_BaconShop_HERO_91",
+				"battlegrounds_hero_TB_BaconShop_HERO_92",
+				"battlegrounds_hero_TB_BaconShop_HERO_93"
 			]
 		},
 		{
@@ -112,6 +114,7 @@
 				"battlegrounds_minion_play_TB_BaconUps_156",
 				"battlegrounds_minion_play_TB_BaconUps_167",
 				"battlegrounds_minion_play_BGS_115t",
+				"battlegrounds_minion_play_TB_BaconUps_255",
 				"battlegrounds_minion_play_TB_BaconUps_006",
 				"battlegrounds_minion_play_TB_BaconUps_028",
 				"battlegrounds_minion_play_TB_BaconUps_004",
@@ -134,6 +137,7 @@
 				"battlegrounds_minion_play_TB_BaconUps_160",
 				"battlegrounds_minion_play_TB_Baconups_202",
 				"battlegrounds_minion_play_TB_BaconUps_014",
+				"battlegrounds_minion_play_TB_BaconUps_257",
 				"battlegrounds_minion_play_TB_BaconUps_064",
 				"battlegrounds_minion_play_TB_BaconUps_037",
 				"battlegrounds_minion_play_TB_BaconUps_070",
@@ -158,6 +162,8 @@
 				"battlegrounds_minion_play_TB_BaconUps_161",
 				"battlegrounds_minion_play_TB_Baconups_203",
 				"battlegrounds_minion_play_TB_BaconUps_159",
+				"battlegrounds_minion_play_TB_BaconUps_256",
+				"battlegrounds_minion_play_TB_BaconUps_302",
 				"battlegrounds_minion_play_TB_BaconUps_099",
 				"battlegrounds_minion_play_TB_BaconUps_047",
 				"battlegrounds_minion_play_LOOT_078",
@@ -178,6 +184,9 @@
 				"battlegrounds_minion_play_TB_BaconUps_145",
 				"battlegrounds_minion_play_TB_BaconUps_166",
 				"battlegrounds_minion_play_TB_BaconUps_207",
+				"battlegrounds_minion_play_TB_BaconUps_304",
+				"battlegrounds_minion_play_TB_BaconUps_303",
+				"battlegrounds_minion_play_TB_BaconUps_301",
 				"battlegrounds_minion_play_TB_BaconUps_083",
 				"battlegrounds_minion_play_TB_BaconUps_055",
 				"battlegrounds_minion_play_TB_BaconUps_045",
@@ -199,6 +208,8 @@
 				"battlegrounds_minion_play_TB_BaconUps_162",
 				"battlegrounds_minion_play_TB_BaconUps_251",
 				"battlegrounds_minion_play_TB_BaconUps_165",
+				"battlegrounds_minion_play_TB_BaconUps_305",
+				"battlegrounds_minion_play_TB_BaconUps_258",
 				"battlegrounds_minion_play_TB_BaconUps_085",
 				"battlegrounds_minion_play_GVG_113",
 				"battlegrounds_minion_play_TB_BaconUps_057",
@@ -215,7 +226,8 @@
 				"battlegrounds_minion_play_TB_BaconUps_121",
 				"battlegrounds_minion_play_TB_BaconUps_137",
 				"battlegrounds_minion_play_TB_BaconUps_163",
-				"battlegrounds_minion_play_TB_BaconUps_200"
+				"battlegrounds_minion_play_TB_BaconUps_200",
+				"battlegrounds_minion_play_TB_BaconUps_306"
 			]
 		}
 	]

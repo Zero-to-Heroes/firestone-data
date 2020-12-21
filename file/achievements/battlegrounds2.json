@@ -914,29 +914,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_02",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_02",
-		"name": "Galakrond",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Galakrond",
-		"emptyText": "Win a Battlegrounds with Galakrond",
-		"completedText": "You won a Battlegrounds with Galakrond",
-		"displayCardId": "TB_BaconShop_HERO_02",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_02"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_08",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_08",
 		"name": "Illidan Stormrage",
@@ -1253,6 +1230,29 @@
 		"points": 20.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_28"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_29",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_29",
+		"name": "C'Thun",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with C'Thun",
+		"emptyText": "Win a Battlegrounds with C'Thun",
+		"completedText": "You won a Battlegrounds with C'Thun",
+		"displayCardId": "TB_BaconShop_HERO_29",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_29"] },
 			{ "type": "GAME_WON" },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2064,6 +2064,52 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_92",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_92",
+		"name": "Y'Shaarj",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Y'Shaarj",
+		"emptyText": "Win a Battlegrounds with Y'Shaarj",
+		"completedText": "You won a Battlegrounds with Y'Shaarj",
+		"displayCardId": "TB_BaconShop_HERO_92",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_92"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_93",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_93",
+		"name": "N'Zoth",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with N'Zoth",
+		"emptyText": "Win a Battlegrounds with N'Zoth",
+		"completedText": "You won a Battlegrounds with N'Zoth",
+		"displayCardId": "TB_BaconShop_HERO_93",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_93"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -2081,29 +2127,6 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_01"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_02",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_02",
-		"name": "Galakrond",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Galakrond",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Galakrond",
-		"completedText": "You finished Top 4 with Galakrond",
-		"displayCardId": "TB_BaconShop_HERO_02",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_02"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -2426,6 +2449,29 @@
 		"points": 10.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_28"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_29",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_29",
+		"name": "C'Thun",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with C'Thun",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with C'Thun",
+		"completedText": "You finished Top 4 with C'Thun",
+		"displayCardId": "TB_BaconShop_HERO_29",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_29"] },
 			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
@@ -3237,6 +3283,52 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_92",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_92",
+		"name": "Y'Shaarj",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Y'Shaarj",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Y'Shaarj",
+		"completedText": "You finished Top 4 with Y'Shaarj",
+		"displayCardId": "TB_BaconShop_HERO_92",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_92"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_93",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_93",
+		"name": "N'Zoth",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with N'Zoth",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with N'Zoth",
+		"completedText": "You finished Top 4 with N'Zoth",
+		"displayCardId": "TB_BaconShop_HERO_93",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_93"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -3254,28 +3346,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_01"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_02",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_02",
-		"name": "Galakrond",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Galakrond",
-		"emptyText": "Take part in a Battlegrounds with Galakrond",
-		"completedText": "You played Galakrond",
-		"displayCardId": "TB_BaconShop_HERO_02",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_02"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -3584,6 +3654,28 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_28"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_29",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_29",
+		"name": "C'Thun",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played C'Thun",
+		"emptyText": "Take part in a Battlegrounds with C'Thun",
+		"completedText": "You played C'Thun",
+		"displayCardId": "TB_BaconShop_HERO_29",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_29"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -4354,6 +4446,50 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_91"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_92",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_92",
+		"name": "Y'Shaarj",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Y'Shaarj",
+		"emptyText": "Take part in a Battlegrounds with Y'Shaarj",
+		"completedText": "You played Y'Shaarj",
+		"displayCardId": "TB_BaconShop_HERO_92",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_92"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_93",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_93",
+		"name": "N'Zoth",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played N'Zoth",
+		"emptyText": "Take part in a Battlegrounds with N'Zoth",
+		"completedText": "You played N'Zoth",
+		"displayCardId": "TB_BaconShop_HERO_93",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_93"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -7182,6 +7318,226 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_131", "TB_BaconUps_251"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_255",
+		"type": "battlegrounds_minion_play_TB_BaconUps_255",
+		"name": "Acolyte of C'Thun",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Acolyte of C'Thun",
+		"text": "Get a Triple version of Acolyte of C'Thun",
+		"completedText": "Played a Triple of Acolyte of C'Thun",
+		"displayCardId": "TB_BaconUps_255",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_106", "TB_BaconUps_255"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_256",
+		"type": "battlegrounds_minion_play_TB_BaconUps_256",
+		"name": "Warden of Old",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Warden of Old",
+		"text": "Get a Triple version of Warden of Old",
+		"completedText": "Played a Triple of Warden of Old",
+		"displayCardId": "TB_BaconUps_256",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_200", "TB_BaconUps_256"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_257",
+		"type": "battlegrounds_minion_play_TB_BaconUps_257",
+		"name": "Tormented Ritualist",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Tormented Ritualist",
+		"text": "Get a Triple version of Tormented Ritualist",
+		"completedText": "Played a Triple of Tormented Ritualist",
+		"displayCardId": "TB_BaconUps_257",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_201", "TB_BaconUps_257"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_258",
+		"type": "battlegrounds_minion_play_TB_BaconUps_258",
+		"name": "Mythrax the Unraveler",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Mythrax the Unraveler",
+		"text": "Get a Triple version of Mythrax the Unraveler",
+		"completedText": "Played a Triple of Mythrax the Unraveler",
+		"displayCardId": "TB_BaconUps_258",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_202", "TB_BaconUps_258"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_301",
+		"type": "battlegrounds_minion_play_TB_BaconUps_301",
+		"name": "Champion of Y'Shaarj",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Champion of Y'Shaarj",
+		"text": "Get a Triple version of Champion of Y'Shaarj",
+		"completedText": "Played a Triple of Champion of Y'Shaarj",
+		"displayCardId": "TB_BaconUps_301",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_111", "TB_BaconUps_301"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_302",
+		"type": "battlegrounds_minion_play_TB_BaconUps_302",
+		"name": "Arm of the Empire",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Arm of the Empire",
+		"text": "Get a Triple version of Arm of the Empire",
+		"completedText": "Played a Triple of Arm of the Empire",
+		"displayCardId": "TB_BaconUps_302",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_110", "TB_BaconUps_302"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_303",
+		"type": "battlegrounds_minion_play_TB_BaconUps_303",
+		"name": "Qiraji Harbinger",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Qiraji Harbinger",
+		"text": "Get a Triple version of Qiraji Harbinger",
+		"completedText": "Played a Triple of Qiraji Harbinger",
+		"displayCardId": "TB_BaconUps_303",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_112", "TB_BaconUps_303"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_304",
+		"type": "battlegrounds_minion_play_TB_BaconUps_304",
+		"name": "Bigfernal",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Bigfernal",
+		"text": "Get a Triple version of Bigfernal",
+		"completedText": "Played a Triple of Bigfernal",
+		"displayCardId": "TB_BaconUps_304",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_204", "TB_BaconUps_304"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_305",
+		"type": "battlegrounds_minion_play_TB_BaconUps_305",
+		"name": "Faceless Taverngoer",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Faceless Taverngoer",
+		"text": "Get a Triple version of Faceless Taverngoer",
+		"completedText": "Played a Triple of Faceless Taverngoer",
+		"displayCardId": "TB_BaconUps_305",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_113", "TB_BaconUps_305"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_306",
+		"type": "battlegrounds_minion_play_TB_BaconUps_306",
+		"name": "Elistra the Immortal",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Elistra the Immortal",
+		"text": "Get a Triple version of Elistra the Immortal",
+		"completedText": "Played a Triple of Elistra the Immortal",
+		"displayCardId": "TB_BaconUps_306",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_205", "TB_BaconUps_306"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
