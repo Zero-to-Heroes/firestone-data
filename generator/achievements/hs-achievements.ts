@@ -28,7 +28,7 @@ const buildCategory = (cat: Category, config: HsAchievementsConfig): Achievement
 	return {
 		id: `hearthstone_game_${cat.id}`,
 		name: cat.name,
-		icon: 'achievements_boss',
+		icon: buildIcon(cat.name),
 		categories: subCategories.length === 1 ? subCategories[0].categories : subCategories,
 		// achievementTypes: subCategories.length === 1
 	};
@@ -42,7 +42,7 @@ const buildSubCategory = (sub: SubCategory, config: HsAchievementsConfig): Achie
 	return {
 		id: `hearthstone_game_sub_${sub.id}`,
 		name: sub.name,
-		icon: 'achievements_boss',
+		icon: buildIcon(sub.name),
 		categories: sections.length === 1 ? undefined : sections,
 		achievementTypes: sections.length === 1 ? sections[0].achievementTypes : undefined,
 	};
@@ -57,9 +57,87 @@ const buildSection = (sectionItem: SectionItem, config: HsAchievementsConfig): A
 	return {
 		id: `hearthstone_game_section_${sectionItem.id}`,
 		name: section.name,
-		icon: 'achievements_boss',
+		icon: buildIcon(section.name),
 		achievementTypes: [...new Set(firestoneAchievements.map((ach) => ach.type))],
 	};
+};
+
+const buildIcon = (name: string): string => {
+	switch (name?.trim()?.toLowerCase()) {
+		case 'darkmoon faire':
+		case 'madness at the darkmoon faire':
+			return 'darkmoon_faire';
+		case 'ashes of outland':
+			return 'ashes';
+		case 'scholomance academy':
+			return 'scholomance';
+		case 'curse of naxxramas':
+			return 'naxx';
+		case 'goblins vs gnomes':
+			return 'gvg';
+		case 'blackrock mountain':
+			return 'brm';
+		case 'the grand tournament':
+			return 'tgt';
+		case 'whispers of the old gods':
+			return 'og';
+		case 'one night in karazhan':
+			return 'kara';
+		case 'mean streets of gadgetzan':
+			return 'gadgetzan';
+		case "journey to un'goro":
+			return 'ungoro';
+		case 'knights of the frozen throne':
+			return 'icc';
+		case 'kobolds and catacombs':
+			return 'loot';
+		case 'the witchwood':
+			return 'wood';
+		case 'the boomsday project':
+			return 'boom';
+		case "rastakhan's rumble":
+			return 'troll';
+		case 'rise of shadows':
+			return 'shadows';
+		case 'saviors of uldum':
+			return 'saviors';
+		case 'descent of dragons':
+			return 'dragons';
+		case "galakrond's awakening":
+			return 'galakrond_set';
+		case 'league of explorers':
+			return 'loe';
+		case 'classic':
+			return name.trim().toLowerCase();
+
+		case 'book of heroes':
+			return 'book';
+
+		case 'battlegrounds':
+			return 'mode_battlegrounds';
+		case 'duels':
+			return 'mode_duels';
+		// case 'arena':
+		// 	return 'mode_arena';
+		// case 'tavern brawl':
+		// 	return 'mode_tavernbrawl';
+		case 'ranked':
+			return 'mode_ranked';
+
+		case 'demon hunter':
+			return 'demon_hunter';
+		case 'druid':
+		case 'hunter':
+		case 'mage':
+		case 'paladin':
+		case 'priest':
+		case 'rogue':
+		case 'shaman':
+		case 'warrior':
+		case 'warlock':
+			return name.trim().toLowerCase();
+	}
+	return 'general';
 };
 
 const buildFirestoneAchievements = (achievements: readonly Achievement[]): readonly RawAchievement[] => {
