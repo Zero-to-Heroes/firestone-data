@@ -83,6 +83,12 @@
 			"version": "19.2.0",
 			"name": "Dark Moon Faire 19.2.0",
 			"date": "2020-12-15"
+		},
+		{
+			"number": 70986,
+			"version": "19.2.1",
+			"name": "Dark Moon Faire 19.2.1",
+			"date": "2021-01-08"
 		}
 	],
 	"currentBattlegroundsMetaPatch": 68600,
