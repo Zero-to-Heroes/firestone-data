@@ -162,6 +162,7 @@ const buildFirestoneAchievements = (achievements: readonly Achievement[]): reado
 			text: text,
 			emptyText: text,
 			completedText: text,
+			quota: achievement.quota,
 			displayCardId: 'ULDA_111', // Hearthstone
 			displayCardType: 'spell',
 			points: achievement.points,
@@ -253,6 +254,7 @@ interface RawAchievement {
 	readonly completedText?: string;
 	readonly displayCardId: string;
 	readonly displayCardType: string;
+	readonly quota: number;
 	readonly points: number;
 	readonly linkedAchievementIds?: readonly string[];
 }

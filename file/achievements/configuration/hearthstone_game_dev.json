@@ -164,7 +164,8 @@
 							"achievementTypes": [
 								"hearthstone_game_good_arm",
 								"hearthstone_game_not_so_lonely",
-								"hearthstone_game_feeling_ill_gynoth"
+								"hearthstone_game_feeling_ill_gynoth",
+								"hearthstone_game_highway_to_fel"
 							]
 						},
 						{
@@ -174,7 +175,8 @@
 							"achievementTypes": [
 								"hearthstone_game_rigged",
 								"hearthstone_game_sun_and_moon_to_me",
-								"hearthstone_game_leaf_us_alone"
+								"hearthstone_game_leaf_us_alone",
+								"hearthstone_game_forest_fights_back"
 							]
 						},
 						{
@@ -184,7 +186,8 @@
 							"achievementTypes": [
 								"hearthstone_game_ride_together_die_together",
 								"hearthstone_game_toss_me",
-								"hearthstone_game_tonk_commander"
+								"hearthstone_game_tonk_commander",
+								"hearthstone_game_three_for_one_sale"
 							]
 						},
 						{
@@ -194,7 +197,8 @@
 							"achievementTypes": [
 								"hearthstone_game_you_cant_take_it_off",
 								"hearthstone_game_hall_of_mirrors",
-								"hearthstone_game_your_future_is_clouded"
+								"hearthstone_game_your_future_is_clouded",
+								"hearthstone_game_hard_tack"
 							]
 						},
 						{
@@ -204,7 +208,8 @@
 							"achievementTypes": [
 								"hearthstone_game_yrang",
 								"hearthstone_game_yoggchamp",
-								"hearthstone_game_lothraxions_balloon_shop"
+								"hearthstone_game_lothraxions_balloon_shop",
+								"hearthstone_game_so_judgey"
 							]
 						},
 						{
@@ -214,7 +219,8 @@
 							"achievementTypes": [
 								"hearthstone_game_spoilers",
 								"hearthstone_game_one_has_no_name",
-								"hearthstone_game_youre_ghuunna_be_sorry"
+								"hearthstone_game_youre_ghuunna_be_sorry",
+								"hearthstone_game_darkmoon_express"
 							]
 						},
 						{
@@ -224,7 +230,8 @@
 							"achievementTypes": [
 								"hearthstone_game_forbidden_jutsu",
 								"hearthstone_game_myras_unstable_empress",
-								"hearthstone_game_its_so_fluffy"
+								"hearthstone_game_its_so_fluffy",
+								"hearthstone_game_monkey_business"
 							]
 						},
 						{
@@ -234,7 +241,8 @@
 							"achievementTypes": [
 								"hearthstone_game_scarygoround",
 								"hearthstone_game_two_punch_man",
-								"hearthstone_game_darkmoon_woodshop"
+								"hearthstone_game_darkmoon_woodshop",
+								"hearthstone_game_win_by_a_landslide"
 							]
 						},
 						{
@@ -244,7 +252,8 @@
 							"achievementTypes": [
 								"hearthstone_game_missing_holy_hand_grenade",
 								"hearthstone_game_my_friend_is_at_the_front",
-								"hearthstone_game_escalating_antics"
+								"hearthstone_game_escalating_antics",
+								"hearthstone_game_cannot_run_cannot_hide"
 							]
 						},
 						{
@@ -254,7 +263,8 @@
 							"achievementTypes": [
 								"hearthstone_game_mine_mine_mine",
 								"hearthstone_game_tent_of_out_tent",
-								"hearthstone_game_bass_in_your_face"
+								"hearthstone_game_bass_in_your_face",
+								"hearthstone_game_the_best_defense"
 							]
 						},
 						{
@@ -270,7 +280,9 @@
 								"hearthstone_game_its_nzothing_really",
 								"hearthstone_game_f2pbtw",
 								"hearthstone_game_yogg_take_the_wheel",
-								"hearthstone_game_wheel_of_misfortune"
+								"hearthstone_game_wheel_of_misfortune",
+								"hearthstone_game_cant_touch_this",
+								"hearthstone_game_who_let_the_dragon_out"
 							]
 						}
 					]
@@ -668,7 +680,9 @@
 					"achievementTypes": [
 						"hearthstone_game_my_magic_will_tear_you_apart",
 						"hearthstone_game_i_will_hunt_you_down",
-						"hearthstone_game_victory_or_death"
+						"hearthstone_game_victory_or_death",
+						"hearthstone_game_the_light_shall_burn_you",
+						"hearthstone_game_justice_demands_retribution"
 					]
 				}
 			]
@@ -770,7 +784,9 @@
 								"hearthstone_game_iron_hand_of_justice",
 								"hearthstone_game_gone_fishing",
 								"hearthstone_game_rage_your_dream",
-								"hearthstone_game_mathematically_impossible"
+								"hearthstone_game_mathematically_impossible",
+								"hearthstone_game_ticketmaster",
+								"hearthstone_game_sprouting_your_roots"
 							]
 						}
 					]
@@ -787,6 +803,8 @@
 							"achievementTypes": [
 								"hearthstone_game_duel_of_the_fates",
 								"hearthstone_game_duelist",
+								"hearthstone_game_twotime_duelist",
+								"hearthstone_game_twotime_flawless_duelist",
 								"hearthstone_game_flawless_duelist",
 								"hearthstone_game_duelitall",
 								"hearthstone_game_flawless_duelitall"

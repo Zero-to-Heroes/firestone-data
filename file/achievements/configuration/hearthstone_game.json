@@ -6,12 +6,12 @@
 		{
 			"id": "hearthstone_game_1",
 			"name": "Progression",
-			"icon": "achievements_boss",
+			"icon": "general",
 			"categories": [
 				{
 					"id": "hearthstone_game_section_1",
 					"name": "General",
-					"icon": "achievements_boss",
+					"icon": "general",
 					"achievementTypes": [
 						"hearthstone_game_a_simple_request",
 						"hearthstone_game_a_candle_a_day",
@@ -24,7 +24,7 @@
 				{
 					"id": "hearthstone_game_section_11",
 					"name": "Demon Hunter",
-					"icon": "achievements_boss",
+					"icon": "demon_hunter",
 					"achievementTypes": [
 						"hearthstone_game_demon_hunter_victory",
 						"hearthstone_game_demon_hunter_mastery"
@@ -33,55 +33,55 @@
 				{
 					"id": "hearthstone_game_section_7",
 					"name": "Druid",
-					"icon": "achievements_boss",
+					"icon": "druid",
 					"achievementTypes": ["hearthstone_game_druid_victory", "hearthstone_game_druid_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_6",
 					"name": "Hunter",
-					"icon": "achievements_boss",
+					"icon": "hunter",
 					"achievementTypes": ["hearthstone_game_hunter_victory", "hearthstone_game_hunter_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_9",
 					"name": "Mage",
-					"icon": "achievements_boss",
+					"icon": "mage",
 					"achievementTypes": ["hearthstone_game_mage_victory", "hearthstone_game_mage_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_5",
 					"name": "Paladin",
-					"icon": "achievements_boss",
+					"icon": "paladin",
 					"achievementTypes": ["hearthstone_game_paladin_victory", "hearthstone_game_paladin_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_10",
 					"name": "Priest",
-					"icon": "achievements_boss",
+					"icon": "priest",
 					"achievementTypes": ["hearthstone_game_priest_victory", "hearthstone_game_priest_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_4",
 					"name": "Rogue",
-					"icon": "achievements_boss",
+					"icon": "rogue",
 					"achievementTypes": ["hearthstone_game_rogue_victory", "hearthstone_game_rogue_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_2",
 					"name": "Shaman",
-					"icon": "achievements_boss",
+					"icon": "shaman",
 					"achievementTypes": ["hearthstone_game_shaman_victory", "hearthstone_game_shaman_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_8",
 					"name": "Warlock",
-					"icon": "achievements_boss",
+					"icon": "warlock",
 					"achievementTypes": ["hearthstone_game_warlock_victory", "hearthstone_game_warlock_mastery"]
 				},
 				{
 					"id": "hearthstone_game_section_3",
 					"name": "Warrior",
-					"icon": "achievements_boss",
+					"icon": "warrior",
 					"achievementTypes": ["hearthstone_game_warrior_victory", "hearthstone_game_warrior_mastery"]
 				}
 			]
@@ -89,17 +89,17 @@
 		{
 			"id": "hearthstone_game_2",
 			"name": "Gameplay",
-			"icon": "achievements_boss",
+			"icon": "general",
 			"categories": [
 				{
 					"id": "hearthstone_game_sub_2",
 					"name": "General",
-					"icon": "achievements_boss",
+					"icon": "general",
 					"categories": [
 						{
 							"id": "hearthstone_game_section_99",
 							"name": "Classes",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_unpopular_kids",
 								"hearthstone_game_analysis_paralysis",
@@ -116,7 +116,7 @@
 						{
 							"id": "hearthstone_game_section_22",
 							"name": "Neutral",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_uh_actually_theyre_venomous",
 								"hearthstone_game_windfast_and_windfurious",
@@ -155,112 +155,122 @@
 				{
 					"id": "hearthstone_game_sub_3",
 					"name": "Darkmoon Faire",
-					"icon": "achievements_boss",
+					"icon": "darkmoon_faire",
 					"categories": [
 						{
 							"id": "hearthstone_game_section_31",
 							"name": "Demon Hunter",
-							"icon": "achievements_boss",
+							"icon": "demon_hunter",
 							"achievementTypes": [
 								"hearthstone_game_good_arm",
 								"hearthstone_game_not_so_lonely",
-								"hearthstone_game_feeling_ill_gynoth"
+								"hearthstone_game_feeling_ill_gynoth",
+								"hearthstone_game_highway_to_fel"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_28",
 							"name": "Druid",
-							"icon": "achievements_boss",
+							"icon": "druid",
 							"achievementTypes": [
 								"hearthstone_game_rigged",
 								"hearthstone_game_sun_and_moon_to_me",
-								"hearthstone_game_leaf_us_alone"
+								"hearthstone_game_leaf_us_alone",
+								"hearthstone_game_forest_fights_back"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_27",
 							"name": "Hunter",
-							"icon": "achievements_boss",
+							"icon": "hunter",
 							"achievementTypes": [
 								"hearthstone_game_ride_together_die_together",
 								"hearthstone_game_toss_me",
-								"hearthstone_game_tonk_commander"
+								"hearthstone_game_tonk_commander",
+								"hearthstone_game_three_for_one_sale"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_30",
 							"name": "Mage",
-							"icon": "achievements_boss",
+							"icon": "mage",
 							"achievementTypes": [
 								"hearthstone_game_you_cant_take_it_off",
 								"hearthstone_game_hall_of_mirrors",
-								"hearthstone_game_your_future_is_clouded"
+								"hearthstone_game_your_future_is_clouded",
+								"hearthstone_game_hard_tack"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_26",
 							"name": "Paladin",
-							"icon": "achievements_boss",
+							"icon": "paladin",
 							"achievementTypes": [
 								"hearthstone_game_yrang",
 								"hearthstone_game_yoggchamp",
-								"hearthstone_game_lothraxions_balloon_shop"
+								"hearthstone_game_lothraxions_balloon_shop",
+								"hearthstone_game_so_judgey"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_32",
 							"name": "Priest",
-							"icon": "achievements_boss",
+							"icon": "priest",
 							"achievementTypes": [
 								"hearthstone_game_spoilers",
 								"hearthstone_game_one_has_no_name",
-								"hearthstone_game_youre_ghuunna_be_sorry"
+								"hearthstone_game_youre_ghuunna_be_sorry",
+								"hearthstone_game_darkmoon_express"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_25",
 							"name": "Rogue",
-							"icon": "achievements_boss",
+							"icon": "rogue",
 							"achievementTypes": [
 								"hearthstone_game_forbidden_jutsu",
 								"hearthstone_game_myras_unstable_empress",
-								"hearthstone_game_its_so_fluffy"
+								"hearthstone_game_its_so_fluffy",
+								"hearthstone_game_monkey_business"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_23",
 							"name": "Shaman",
-							"icon": "achievements_boss",
+							"icon": "shaman",
 							"achievementTypes": [
 								"hearthstone_game_scarygoround",
 								"hearthstone_game_two_punch_man",
-								"hearthstone_game_darkmoon_woodshop"
+								"hearthstone_game_darkmoon_woodshop",
+								"hearthstone_game_win_by_a_landslide"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_29",
 							"name": "Warlock",
-							"icon": "achievements_boss",
+							"icon": "warlock",
 							"achievementTypes": [
 								"hearthstone_game_missing_holy_hand_grenade",
 								"hearthstone_game_my_friend_is_at_the_front",
-								"hearthstone_game_escalating_antics"
+								"hearthstone_game_escalating_antics",
+								"hearthstone_game_cannot_run_cannot_hide"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_24",
 							"name": "Warrior",
-							"icon": "achievements_boss",
+							"icon": "warrior",
 							"achievementTypes": [
 								"hearthstone_game_mine_mine_mine",
 								"hearthstone_game_tent_of_out_tent",
-								"hearthstone_game_bass_in_your_face"
+								"hearthstone_game_bass_in_your_face",
+								"hearthstone_game_the_best_defense"
 							]
 						},
 						{
 							"id": "hearthstone_game_section_33",
 							"name": "Neutral",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_coulrophobia",
 								"hearthstone_game_dermatology",
@@ -270,7 +280,9 @@
 								"hearthstone_game_its_nzothing_really",
 								"hearthstone_game_f2pbtw",
 								"hearthstone_game_yogg_take_the_wheel",
-								"hearthstone_game_wheel_of_misfortune"
+								"hearthstone_game_wheel_of_misfortune",
+								"hearthstone_game_cant_touch_this",
+								"hearthstone_game_who_let_the_dragon_out"
 							]
 						}
 					]
@@ -280,18 +292,18 @@
 		{
 			"id": "hearthstone_game_3",
 			"name": "Collection",
-			"icon": "achievements_boss",
+			"icon": "general",
 			"categories": [
 				{
 					"id": "hearthstone_game_sub_6",
 					"name": "Cosmetics",
-					"icon": "achievements_boss",
+					"icon": "general",
 					"achievementTypes": ["hearthstone_game_its_cozy_by_the_fire", "hearthstone_game_corrupted_blood"]
 				},
 				{
 					"id": "hearthstone_game_sub_7",
 					"name": "Classic",
-					"icon": "achievements_boss",
+					"icon": "classic",
 					"achievementTypes": [
 						"hearthstone_game_a_true_classic",
 						"hearthstone_game_classic_legendary_collector",
@@ -310,7 +322,7 @@
 				{
 					"id": "hearthstone_game_sub_8",
 					"name": "Ashes of Outland",
-					"icon": "achievements_boss",
+					"icon": "ashes",
 					"achievementTypes": [
 						"hearthstone_game_from_the_embers",
 						"hearthstone_game_outland_legendary_collector",
@@ -330,7 +342,7 @@
 				{
 					"id": "hearthstone_game_sub_9",
 					"name": "Scholomance Academy",
-					"icon": "achievements_boss",
+					"icon": "scholomance",
 					"achievementTypes": [
 						"hearthstone_game_perfect_attendance",
 						"hearthstone_game_scholomance_legendary_collector",
@@ -350,7 +362,7 @@
 				{
 					"id": "hearthstone_game_sub_21",
 					"name": "Madness at the Darkmoon Faire",
-					"icon": "achievements_boss",
+					"icon": "darkmoon_faire",
 					"achievementTypes": [
 						"hearthstone_game_come_one_come_all",
 						"hearthstone_game_darkmoon_legendary_collector",
@@ -370,13 +382,13 @@
 				{
 					"id": "hearthstone_game_sub_30",
 					"name": "Curse of Naxxramas",
-					"icon": "achievements_boss",
+					"icon": "naxx",
 					"achievementTypes": ["hearthstone_game_soldiers_of_the_cold_dark"]
 				},
 				{
 					"id": "hearthstone_game_sub_31",
 					"name": "Goblins vs Gnomes",
-					"icon": "achievements_boss",
+					"icon": "gvg",
 					"achievementTypes": [
 						"hearthstone_game_goblins_and_gnomes",
 						"hearthstone_game_gvg_legendary_collector",
@@ -395,13 +407,13 @@
 				{
 					"id": "hearthstone_game_sub_32",
 					"name": "Blackrock Mountain",
-					"icon": "achievements_boss",
+					"icon": "brm",
 					"achievementTypes": ["hearthstone_game_blackrock_and_roll"]
 				},
 				{
 					"id": "hearthstone_game_sub_33",
 					"name": "The Grand Tournament",
-					"icon": "achievements_boss",
+					"icon": "tgt",
 					"achievementTypes": [
 						"hearthstone_game_medieval_times",
 						"hearthstone_game_tournament_legendary_collector",
@@ -420,7 +432,7 @@
 				{
 					"id": "hearthstone_game_sub_34",
 					"name": "Whispers of the Old Gods",
-					"icon": "achievements_boss",
+					"icon": "og",
 					"achievementTypes": [
 						"hearthstone_game_ok_now_theyre_shouting",
 						"hearthstone_game_old_gods_legendary_collector",
@@ -439,13 +451,13 @@
 				{
 					"id": "hearthstone_game_sub_35",
 					"name": "One Night in Karazhan",
-					"icon": "achievements_boss",
+					"icon": "kara",
 					"achievementTypes": ["hearthstone_game_disco_arcano"]
 				},
 				{
 					"id": "hearthstone_game_sub_36",
 					"name": "Mean Streets of Gadgetzan",
-					"icon": "achievements_boss",
+					"icon": "gadgetzan",
 					"achievementTypes": [
 						"hearthstone_game_say_hello_to_my_little_friends",
 						"hearthstone_game_gadgetzan_legendary_collector",
@@ -464,7 +476,7 @@
 				{
 					"id": "hearthstone_game_sub_37",
 					"name": "Journey to Un'Goro",
-					"icon": "achievements_boss",
+					"icon": "ungoro",
 					"achievementTypes": [
 						"hearthstone_game_look_out_dinosaurs_about",
 						"hearthstone_game_ungoro_legendary_collector",
@@ -483,7 +495,7 @@
 				{
 					"id": "hearthstone_game_sub_38",
 					"name": "Knights of the Frozen Throne",
-					"icon": "achievements_boss",
+					"icon": "icc",
 					"achievementTypes": [
 						"hearthstone_game_frostmourne_hungers",
 						"hearthstone_game_frozen_throne_legendary_collector",
@@ -502,7 +514,7 @@
 				{
 					"id": "hearthstone_game_sub_39",
 					"name": "Kobolds and Catacombs",
-					"icon": "achievements_boss",
+					"icon": "loot",
 					"achievementTypes": [
 						"hearthstone_game_dungeon_master",
 						"hearthstone_game_kobolds_legendary_collector",
@@ -521,7 +533,7 @@
 				{
 					"id": "hearthstone_game_sub_40",
 					"name": "The Witchwood",
-					"icon": "achievements_boss",
+					"icon": "wood",
 					"achievementTypes": [
 						"hearthstone_game_into_the_woods",
 						"hearthstone_game_witchwood_legendary_collector",
@@ -540,7 +552,7 @@
 				{
 					"id": "hearthstone_game_sub_41",
 					"name": "The Boomsday Project",
-					"icon": "achievements_boss",
+					"icon": "boom",
 					"achievementTypes": [
 						"hearthstone_game_bombs_mostly",
 						"hearthstone_game_boomsday_legendary_collector",
@@ -559,7 +571,7 @@
 				{
 					"id": "hearthstone_game_sub_42",
 					"name": "Rastakhan's Rumble",
-					"icon": "achievements_boss",
+					"icon": "troll",
 					"achievementTypes": [
 						"hearthstone_game_lets_get_ready_to_rumble",
 						"hearthstone_game_rastakhan_legendary_collector",
@@ -578,7 +590,7 @@
 				{
 					"id": "hearthstone_game_sub_43",
 					"name": "Rise of Shadows",
-					"icon": "achievements_boss",
+					"icon": "shadows",
 					"achievementTypes": [
 						"hearthstone_game_so_what_does_evil_stand_for",
 						"hearthstone_game_dalaran_legendary_collector",
@@ -597,7 +609,7 @@
 				{
 					"id": "hearthstone_game_sub_44",
 					"name": "Saviors of Uldum",
-					"icon": "achievements_boss",
+					"icon": "saviors",
 					"achievementTypes": [
 						"hearthstone_game_grab_your_whip_and_fedora",
 						"hearthstone_game_uldum_legendary_collector",
@@ -616,7 +628,7 @@
 				{
 					"id": "hearthstone_game_sub_45",
 					"name": "Descent of Dragons",
-					"icon": "achievements_boss",
+					"icon": "dragons",
 					"achievementTypes": [
 						"hearthstone_game_where_are_my_dragons",
 						"hearthstone_game_descent_legendary_collector",
@@ -635,13 +647,13 @@
 				{
 					"id": "hearthstone_game_sub_46",
 					"name": "Galakrond's Awakening",
-					"icon": "achievements_boss",
+					"icon": "galakrond_set",
 					"achievementTypes": ["hearthstone_game_wake_up_its_time_to_burn"]
 				},
 				{
 					"id": "hearthstone_game_sub_48",
 					"name": "League of Explorers",
-					"icon": "achievements_boss",
+					"icon": "loe",
 					"achievementTypes": ["hearthstone_game_raiders_of_the_lost_cards"]
 				}
 			]
@@ -649,12 +661,12 @@
 		{
 			"id": "hearthstone_game_4",
 			"name": "Adventures",
-			"icon": "achievements_boss",
+			"icon": "general",
 			"categories": [
 				{
 					"id": "hearthstone_game_sub_23",
 					"name": "Ashes of Outland",
-					"icon": "achievements_boss",
+					"icon": "ashes",
 					"achievementTypes": [
 						"hearthstone_game_ten_thousand_years",
 						"hearthstone_game_girls_just_aranna_have_fun",
@@ -664,11 +676,13 @@
 				{
 					"id": "hearthstone_game_sub_24",
 					"name": "Book of Heroes",
-					"icon": "achievements_boss",
+					"icon": "book",
 					"achievementTypes": [
 						"hearthstone_game_my_magic_will_tear_you_apart",
 						"hearthstone_game_i_will_hunt_you_down",
-						"hearthstone_game_victory_or_death"
+						"hearthstone_game_victory_or_death",
+						"hearthstone_game_the_light_shall_burn_you",
+						"hearthstone_game_justice_demands_retribution"
 					]
 				}
 			]
@@ -676,17 +690,17 @@
 		{
 			"id": "hearthstone_game_6",
 			"name": "Game Modes",
-			"icon": "achievements_boss",
+			"icon": "general",
 			"categories": [
 				{
 					"id": "hearthstone_game_sub_13",
 					"name": "Battlegrounds",
-					"icon": "achievements_boss",
+					"icon": "mode_battlegrounds",
 					"categories": [
 						{
 							"id": "hearthstone_game_section_48",
 							"name": "Challenges",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_mug_half_full",
 								"hearthstone_game_lord_of_the_battlegrounds",
@@ -705,7 +719,7 @@
 						{
 							"id": "hearthstone_game_section_49",
 							"name": "Heroes",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_lost_dog_call_curator",
 								"hearthstone_game_brb",
@@ -770,7 +784,9 @@
 								"hearthstone_game_iron_hand_of_justice",
 								"hearthstone_game_gone_fishing",
 								"hearthstone_game_rage_your_dream",
-								"hearthstone_game_mathematically_impossible"
+								"hearthstone_game_mathematically_impossible",
+								"hearthstone_game_ticketmaster",
+								"hearthstone_game_sprouting_your_roots"
 							]
 						}
 					]
@@ -778,15 +794,17 @@
 				{
 					"id": "hearthstone_game_sub_14",
 					"name": "Duels",
-					"icon": "achievements_boss",
+					"icon": "mode_duels",
 					"categories": [
 						{
 							"id": "hearthstone_game_section_89",
 							"name": "General",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_duel_of_the_fates",
 								"hearthstone_game_duelist",
+								"hearthstone_game_twotime_duelist",
+								"hearthstone_game_twotime_flawless_duelist",
 								"hearthstone_game_flawless_duelist",
 								"hearthstone_game_duelitall",
 								"hearthstone_game_flawless_duelitall"
@@ -795,7 +813,7 @@
 						{
 							"id": "hearthstone_game_section_50",
 							"name": "Demon Hunter ",
-							"icon": "achievements_boss",
+							"icon": "demon_hunter",
 							"achievementTypes": [
 								"hearthstone_game_demon_hunter_duelist",
 								"hearthstone_game_flawless_demon_hunter_duelist"
@@ -804,7 +822,7 @@
 						{
 							"id": "hearthstone_game_section_90",
 							"name": "Druid",
-							"icon": "achievements_boss",
+							"icon": "druid",
 							"achievementTypes": [
 								"hearthstone_game_druid_duelist",
 								"hearthstone_game_flawless_druid_duelist"
@@ -813,7 +831,7 @@
 						{
 							"id": "hearthstone_game_section_91",
 							"name": "Hunter",
-							"icon": "achievements_boss",
+							"icon": "hunter",
 							"achievementTypes": [
 								"hearthstone_game_hunter_duelist",
 								"hearthstone_game_flawless_hunter_duelist"
@@ -822,7 +840,7 @@
 						{
 							"id": "hearthstone_game_section_92",
 							"name": "Mage",
-							"icon": "achievements_boss",
+							"icon": "mage",
 							"achievementTypes": [
 								"hearthstone_game_mage_duelist",
 								"hearthstone_game_flawless_mage_duelist"
@@ -831,7 +849,7 @@
 						{
 							"id": "hearthstone_game_section_93",
 							"name": "Paladin",
-							"icon": "achievements_boss",
+							"icon": "paladin",
 							"achievementTypes": [
 								"hearthstone_game_paladin_duelist",
 								"hearthstone_game_flawless_paladin_duelist"
@@ -840,7 +858,7 @@
 						{
 							"id": "hearthstone_game_section_94",
 							"name": "Priest",
-							"icon": "achievements_boss",
+							"icon": "priest",
 							"achievementTypes": [
 								"hearthstone_game_priest_duelist",
 								"hearthstone_game_flawless_priest_duelist"
@@ -849,7 +867,7 @@
 						{
 							"id": "hearthstone_game_section_95",
 							"name": "Rogue",
-							"icon": "achievements_boss",
+							"icon": "rogue",
 							"achievementTypes": [
 								"hearthstone_game_rogue_duelist",
 								"hearthstone_game_flawless_rogue_duelist"
@@ -858,7 +876,7 @@
 						{
 							"id": "hearthstone_game_section_96",
 							"name": "Shaman",
-							"icon": "achievements_boss",
+							"icon": "shaman",
 							"achievementTypes": [
 								"hearthstone_game_shaman_duelist",
 								"hearthstone_game_flawless_shaman_duelist"
@@ -867,7 +885,7 @@
 						{
 							"id": "hearthstone_game_section_97",
 							"name": "Warlock",
-							"icon": "achievements_boss",
+							"icon": "warlock",
 							"achievementTypes": [
 								"hearthstone_game_warlock_duelist",
 								"hearthstone_game_flawless_warlock_duelist"
@@ -876,7 +894,7 @@
 						{
 							"id": "hearthstone_game_section_98",
 							"name": "Warrior",
-							"icon": "achievements_boss",
+							"icon": "warrior",
 							"achievementTypes": [
 								"hearthstone_game_warrior_duelist",
 								"hearthstone_game_flawless_warrior_duelist"
@@ -887,12 +905,12 @@
 				{
 					"id": "hearthstone_game_sub_15",
 					"name": "Arena",
-					"icon": "achievements_boss",
+					"icon": "general",
 					"categories": [
 						{
 							"id": "hearthstone_game_section_51",
 							"name": "General",
-							"icon": "achievements_boss",
+							"icon": "general",
 							"achievementTypes": [
 								"hearthstone_game_lord_of_the_arena",
 								"hearthstone_game_azeroth_gladiator",
@@ -902,7 +920,7 @@
 						{
 							"id": "hearthstone_game_section_100",
 							"name": "Demon Hunter",
-							"icon": "achievements_boss",
+							"icon": "demon_hunter",
 							"achievementTypes": [
 								"hearthstone_game_demon_hunter_gladiator",
 								"hearthstone_game_flawless_demon_hunter_gladiator"
@@ -911,7 +929,7 @@
 						{
 							"id": "hearthstone_game_section_101",
 							"name": "Druid",
-							"icon": "achievements_boss",
+							"icon": "druid",
 							"achievementTypes": [
 								"hearthstone_game_druid_gladiator",
 								"hearthstone_game_flawless_druid_gladiator"
@@ -920,7 +938,7 @@
 						{
 							"id": "hearthstone_game_section_102",
 							"name": "Hunter",
-							"icon": "achievements_boss",
+							"icon": "hunter",
 							"achievementTypes": [
 								"hearthstone_game_hunter_gladiator",
 								"hearthstone_game_flawless_hunter_gladiator"
@@ -929,7 +947,7 @@
 						{
 							"id": "hearthstone_game_section_103",
 							"name": "Mage",
-							"icon": "achievements_boss",
+							"icon": "mage",
 							"achievementTypes": [
 								"hearthstone_game_mage_gladiator",
 								"hearthstone_game_flawless_mage_gladiator"
@@ -938,7 +956,7 @@
 						{
 							"id": "hearthstone_game_section_104",
 							"name": "Paladin",
-							"icon": "achievements_boss",
+							"icon": "paladin",
 							"achievementTypes": [
 								"hearthstone_game_paladin_gladiator",
 								"hearthstone_game_flawless_paladin_gladiator"
@@ -947,7 +965,7 @@
 						{
 							"id": "hearthstone_game_section_105",
 							"name": "Priest",
-							"icon": "achievements_boss",
+							"icon": "priest",
 							"achievementTypes": [
 								"hearthstone_game_priest_gladiator",
 								"hearthstone_game_flawless_priest_gladiator"
@@ -956,7 +974,7 @@
 						{
 							"id": "hearthstone_game_section_106",
 							"name": "Rogue",
-							"icon": "achievements_boss",
+							"icon": "rogue",
 							"achievementTypes": [
 								"hearthstone_game_rogue_gladiator",
 								"hearthstone_game_flawless_rogue_gladiator"
@@ -965,7 +983,7 @@
 						{
 							"id": "hearthstone_game_section_107",
 							"name": "Shaman",
-							"icon": "achievements_boss",
+							"icon": "shaman",
 							"achievementTypes": [
 								"hearthstone_game_shaman_gladiator",
 								"hearthstone_game_flawless_shaman_gladiator"
@@ -974,7 +992,7 @@
 						{
 							"id": "hearthstone_game_section_108",
 							"name": "Warlock",
-							"icon": "achievements_boss",
+							"icon": "warlock",
 							"achievementTypes": [
 								"hearthstone_game_warlock_gladiator",
 								"hearthstone_game_flawless_warlock_gladiator"
@@ -983,7 +1001,7 @@
 						{
 							"id": "hearthstone_game_section_109",
 							"name": "Warrior",
-							"icon": "achievements_boss",
+							"icon": "warrior",
 							"achievementTypes": [
 								"hearthstone_game_warrior_gladiator",
 								"hearthstone_game_flawless_warrior_gladiator"
@@ -994,13 +1012,13 @@
 				{
 					"id": "hearthstone_game_sub_16",
 					"name": "Tavern Brawl",
-					"icon": "achievements_boss",
+					"icon": "general",
 					"achievementTypes": ["hearthstone_game_lord_of_the_brawl"]
 				},
 				{
 					"id": "hearthstone_game_sub_17",
 					"name": "Ranked",
-					"icon": "achievements_boss",
+					"icon": "mode_ranked",
 					"achievementTypes": [
 						"hearthstone_game_on_a_roll",
 						"hearthstone_game_climbing_the_ranks",

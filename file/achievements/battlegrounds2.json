@@ -2110,6 +2110,52 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_94",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_94",
+		"name": "Tickatus",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Tickatus",
+		"emptyText": "Win a Battlegrounds with Tickatus",
+		"completedText": "You won a Battlegrounds with Tickatus",
+		"displayCardId": "TB_BaconShop_HERO_94",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_94"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_95",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_95",
+		"name": "Greybough",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 2,
+		"displayName": "Battlegrounds won with Greybough",
+		"emptyText": "Win a Battlegrounds with Greybough",
+		"completedText": "You won a Battlegrounds with Greybough",
+		"displayCardId": "TB_BaconShop_HERO_95",
+		"displayCardType": "hero",
+		"difficulty": "epic",
+		"maxNumberOfRecords": 4,
+		"points": 20.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_95"] },
+			{ "type": "GAME_WON" },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -3329,6 +3375,52 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_94",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_94",
+		"name": "Tickatus",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Tickatus",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Tickatus",
+		"completedText": "You finished Top 4 with Tickatus",
+		"displayCardId": "TB_BaconShop_HERO_94",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_94"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_95",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_95",
+		"name": "Greybough",
+		"icon": "boss_encounter",
+		"root": false,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 1,
+		"displayName": "Top 4 with Greybough",
+		"emptyText": "Finish in the top 4 of a Battlegrounds with Greybough",
+		"completedText": "You finished Top 4 with Greybough",
+		"displayCardId": "TB_BaconShop_HERO_95",
+		"displayCardType": "hero",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 3,
+		"points": 10.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_95"] },
+			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
 		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_01",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_01",
 		"name": "Edwin VanCleef",
@@ -4490,6 +4582,50 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_93"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_94",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_94",
+		"name": "Tickatus",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Tickatus",
+		"emptyText": "Take part in a Battlegrounds with Tickatus",
+		"completedText": "You played Tickatus",
+		"displayCardId": "TB_BaconShop_HERO_94",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_94"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START"]
+	},
+	{
+		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_95",
+		"type": "battlegrounds_hero_TB_BaconShop_HERO_95",
+		"name": "Greybough",
+		"icon": "boss_encounter",
+		"root": true,
+		"canBeCompletedOnlyOnce": false,
+		"priority": 0,
+		"displayName": "Played Greybough",
+		"emptyText": "Take part in a Battlegrounds with Greybough",
+		"completedText": "You played Greybough",
+		"displayCardId": "TB_BaconShop_HERO_95",
+		"displayCardType": "hero",
+		"difficulty": "common",
+		"maxNumberOfRecords": 1,
+		"points": 1.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_95"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -6223,28 +6359,6 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_101",
-		"type": "battlegrounds_minion_play_TB_BaconUps_101",
-		"name": "Floating Watcher",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Floating Watcher",
-		"text": "Get a Triple version of Floating Watcher",
-		"completedText": "Played a Triple of Floating Watcher",
-		"displayCardId": "TB_BaconUps_101",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["GVG_100", "TB_BaconUps_101"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
 		"id": "battlegrounds_minion_play_TB_BaconUps_102",
 		"type": "battlegrounds_minion_play_TB_BaconUps_102",
 		"name": "Red Whelp",
@@ -6548,6 +6662,28 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["FP1_024", "TB_BaconUps_118"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
+		"id": "battlegrounds_minion_play_TB_BaconUps_119",
+		"type": "battlegrounds_minion_play_TB_BaconUps_119",
+		"name": "Soul Devourer",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Soul Devourer",
+		"text": "Get a Triple version of Soul Devourer",
+		"completedText": "Played a Triple of Soul Devourer",
+		"displayCardId": "TB_BaconUps_119",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_059", "TB_BaconUps_119"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
@@ -7543,23 +7679,23 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_307",
-		"type": "battlegrounds_minion_play_TB_BaconUps_307",
-		"name": "Fish of N'Zoth",
+		"id": "battlegrounds_minion_play_TB_BaconUps_309",
+		"type": "battlegrounds_minion_play_TB_BaconUps_309",
+		"name": "Ring Matron",
 		"icon": "boss_victory",
 		"root": true,
 		"canBeCompletedOnlyOnce": true,
 		"priority": 0,
-		"displayName": "That's Triple! Fish of N'Zoth",
-		"text": "Get a Triple version of Fish of N'Zoth",
-		"completedText": "Played a Triple of Fish of N'Zoth",
-		"displayCardId": "TB_BaconUps_307",
+		"displayName": "That's Triple! Ring Matron",
+		"text": "Get a Triple version of Ring Matron",
+		"completedText": "Played a Triple of Ring Matron",
+		"displayCardId": "TB_BaconUps_309",
 		"displayCardType": "minion",
 		"difficulty": "rare",
 		"maxNumberOfRecords": 2,
 		"points": 3.0,
 		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["TB_BaconShop_HP_105t", "TB_BaconUps_307"] },
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["DMF_533", "TB_BaconUps_309"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
