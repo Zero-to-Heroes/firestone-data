@@ -11,3 +11,5 @@ throughout the game, we could probably just rely on this ID to fetch the correct
 # Generator
 
 You will need `ts-node` installed globally to run the generators
+
+curl -v -X POST -H "Content-Type: text/csv" -H "X-Firestone-Third-Party-Token: <token>" --data-binary @./source.csv https://api.firestoneapp.com/updateDeckIds

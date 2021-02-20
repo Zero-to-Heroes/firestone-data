@@ -1811,29 +1811,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_67",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
-		"name": "Captain Hooktusk",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 2,
-		"displayName": "Battlegrounds won with Captain Hooktusk",
-		"emptyText": "Win a Battlegrounds with Captain Hooktusk",
-		"completedText": "You won a Battlegrounds with Captain Hooktusk",
-		"displayCardId": "TB_BaconShop_HERO_67",
-		"displayCardType": "hero",
-		"difficulty": "epic",
-		"maxNumberOfRecords": 4,
-		"points": 20.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_67"] },
-			{ "type": "GAME_WON" },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_1_TB_BaconShop_HERO_68",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_68",
 		"name": "Skycap'n Kragg",
@@ -3076,29 +3053,6 @@
 		"resetEvents": ["GAME_START"]
 	},
 	{
-		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_67",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
-		"name": "Captain Hooktusk",
-		"icon": "boss_encounter",
-		"root": false,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 1,
-		"displayName": "Top 4 with Captain Hooktusk",
-		"emptyText": "Finish in the top 4 of a Battlegrounds with Captain Hooktusk",
-		"completedText": "You finished Top 4 with Captain Hooktusk",
-		"displayCardId": "TB_BaconShop_HERO_67",
-		"displayCardType": "hero",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 3,
-		"points": 10.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_67"] },
-			{ "type": "BATTLEGROUNDS_FINISH", "values": ["4", "AT_LEAST"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
 		"id": "battlegrounds_hero_finish_4_TB_BaconShop_HERO_68",
 		"type": "battlegrounds_hero_TB_BaconShop_HERO_68",
 		"name": "Skycap'n Kragg",
@@ -4296,28 +4250,6 @@
 		"points": 1.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_64"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START"]
-	},
-	{
-		"id": "battlegrounds_hero_play_TB_BaconShop_HERO_67",
-		"type": "battlegrounds_hero_TB_BaconShop_HERO_67",
-		"name": "Captain Hooktusk",
-		"icon": "boss_encounter",
-		"root": true,
-		"canBeCompletedOnlyOnce": false,
-		"priority": 0,
-		"displayName": "Played Captain Hooktusk",
-		"emptyText": "Take part in a Battlegrounds with Captain Hooktusk",
-		"completedText": "You played Captain Hooktusk",
-		"displayCardId": "TB_BaconShop_HERO_67",
-		"displayCardType": "hero",
-		"difficulty": "common",
-		"maxNumberOfRecords": 1,
-		"points": 1.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_HERO_SELECTED", "values": ["TB_BaconShop_HERO_67"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START"]
@@ -7652,28 +7584,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_113", "TB_BaconUps_305"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_306",
-		"type": "battlegrounds_minion_play_TB_BaconUps_306",
-		"name": "Elistra the Immortal",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Elistra the Immortal",
-		"text": "Get a Triple version of Elistra the Immortal",
-		"completedText": "Played a Triple of Elistra the Immortal",
-		"displayCardId": "TB_BaconUps_306",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BGS_205", "TB_BaconUps_306"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]

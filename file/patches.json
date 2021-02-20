@@ -95,9 +95,33 @@
 			"version": "19.4.0",
 			"name": "Dark Moon Faire 19.4.0",
 			"date": "2021-01-21"
+		},
+		{
+			"number": 71603,
+			"version": "19.4.0",
+			"name": "Dark Moon Faire 19.4.0",
+			"date": "2021-01-22"
+		},
+		{
+			"number": 72661,
+			"version": "19.4.1",
+			"name": "Dark Moon Faire 19.4.1",
+			"date": "2021-01-28"
+		},
+		{
+			"number": 73652,
+			"version": "19.4.1",
+			"name": "Dark Moon Faire 19.4.1",
+			"date": "2021-02-10"
+		},
+		{
+			"number": 74257,
+			"version": "19.6.0",
+			"name": "Dark Moon Faire 19.6.0",
+			"date": "2021-02-19"
 		}
 	],
-	"currentConstructedMetaPatch": 70986,
-	"currentBattlegroundsMetaPatch": 68600,
-	"currentDuelsMetaPatch": 71003
+	"currentConstructedMetaPatch": 71003,
+	"currentBattlegroundsMetaPatch": 74257,
+	"currentDuelsMetaPatch": 74257
 }
