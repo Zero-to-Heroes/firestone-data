@@ -29714,5 +29714,22 @@
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"points": 30
+	},
+	{
+		"hsAchievementId": 2585,
+		"id": "hearthstone_game_2585",
+		"type": "hearthstone_game_i_will_be_your_death",
+		"name": "I Will Be Your Death!",
+		"displayName": "I Will Be Your Death!",
+		"icon": "boss_victory",
+		"root": true,
+		"priority": 0,
+		"text": "Complete Valeera's story in the Book of Heroes.",
+		"emptyText": "Complete Valeera's story in the Book of Heroes.",
+		"completedText": "Complete Valeera's story in the Book of Heroes.",
+		"quota": 8,
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"points": 30
 	}
 ]

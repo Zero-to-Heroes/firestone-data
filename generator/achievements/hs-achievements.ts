@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import slugify from 'slugify';
 
 const generateAchievements = async () => {
-	const response = await fetch('https://static.zerotoheroes.com/hearthstone/jsoncards/hs-achievements.json?v=3');
+	const response = await fetch('https://static.zerotoheroes.com/hearthstone/jsoncards/hs-achievements.json?v=4');
 	const config: HsAchievementsConfig = await response.json();
 
 	const firestoneAchievements = buildFirestoneAchievements(config.achievements);
