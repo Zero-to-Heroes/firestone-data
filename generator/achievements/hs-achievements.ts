@@ -2,10 +2,10 @@ import fetch from 'node-fetch';
 import slugify from 'slugify';
 
 const generateAchievements = async () => {
-	const response = await fetch('https://static.zerotoheroes.com/hearthstone/jsoncards/hs-achievements.json?v=4');
+	const response = await fetch('https://static.zerotoheroes.com/hearthstone/jsoncards/hs-achievements.json?v=5');
 	const config: HsAchievementsConfig = await response.json();
 
-	const firestoneAchievements = buildFirestoneAchievements(config.achievements);
+	const firestoneAchievements = buildFirestoneAchievements(config.achievements.filter((ach) => ach.name));
 
 	const firestoneCategories: readonly AchievementCategoryConfiguration[] = config.categories.map((cat) =>
 		buildCategory(cat, config),
@@ -17,8 +17,8 @@ const generateAchievements = async () => {
 		categories: firestoneCategories,
 	};
 
-	// console.log(JSON.stringify(firestoneAchievements));
-	console.log(JSON.stringify(hearthstoneCategory));
+	console.log(JSON.stringify(firestoneAchievements));
+	// console.log(JSON.stringify(hearthstoneCategory));
 };
 
 const buildCategory = (cat: Category, config: HsAchievementsConfig): AchievementCategoryConfiguration => {

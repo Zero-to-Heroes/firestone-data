@@ -119,9 +119,15 @@
 			"version": "19.6.0",
 			"name": "Dark Moon Faire 19.6.0",
 			"date": "2021-02-19"
+		},
+		{
+			"number": 77662,
+			"version": "20.0.0",
+			"name": "Forged in the Barrens 20.0",
+			"date": "2021-03-25"
 		}
 	],
-	"currentConstructedMetaPatch": 71003,
+	"currentConstructedMetaPatch": 77662,
 	"currentBattlegroundsMetaPatch": 74257,
-	"currentDuelsMetaPatch": 74257
+	"currentDuelsMetaPatch": 77662
 }
