@@ -1203,7 +1203,7 @@
 		"comment": "Rexxar deck (Expert) (30 games)",
 		"numberOfGames": 30,
 		"opponentCardId": "HERO_05",
-		"scenarioIds": [269, 2],
+		"scenarioIds": [269],
 		"deckstring": "AAEBAR8BmKAEDurpA6mfBKqfBN+fBOCfBOKfBOOfBOSfBOWfBLugBLygBL6gBL+gBLi0BAA=",
 		"totalCardsInDeck": 29,
 		"cards": {
