@@ -131,9 +131,15 @@
 			"version": "20.0.2",
 			"name": "Forged in the Barrens 20.0.2",
 			"date": "2021-04-13"
+		},
+		{
+			"number": 81706,
+			"version": "20.2.0",
+			"name": "Forged in the Barrens 20.2",
+			"date": "2021-05-04"
 		}
 	],
 	"currentConstructedMetaPatch": 79904,
-	"currentBattlegroundsMetaPatch": 79904,
-	"currentDuelsMetaPatch": 79904
+	"currentBattlegroundsMetaPatch": 81706,
+	"currentDuelsMetaPatch": 81706
 }

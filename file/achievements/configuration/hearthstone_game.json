@@ -146,7 +146,8 @@
 								"hearthstone_game_bucket_of_bolts",
 								"hearthstone_game_up_to_my_gills",
 								"hearthstone_game_but_you_have_heard_of_me",
-								"hearthstone_game_totemly_awesome"
+								"hearthstone_game_totemly_awesome",
+								"hearthstone_game_up_to_my_quills"
 							]
 						},
 						{
@@ -589,7 +590,7 @@
 								"hearthstone_game_top_secret_snoop",
 								"hearthstone_game_equivalent_exchange",
 								"hearthstone_game_buildarock_workshop",
-								"hearthstone_game_nyi",
+								"hearthstone_game_",
 								"hearthstone_game_spawn_shop",
 								"hearthstone_game_grand_guardian",
 								"hearthstone_game_hog_wild",
@@ -1022,7 +1023,8 @@
 								"hearthstone_game_the_light_shall_burn_you",
 								"hearthstone_game_justice_demands_retribution",
 								"hearthstone_game_i_will_be_your_death",
-								"hearthstone_game_the_elements_will_destroy_you"
+								"hearthstone_game_the_elements_will_destroy_you",
+								"hearthstone_game_nature_will_rise_against_you"
 							]
 						},
 						{
@@ -1422,6 +1424,24 @@
 							"name": "Zephrys the Great",
 							"icon": "general",
 							"achievementTypes": ["hearthstone_game_phenomenal_cosmic_powers"]
+						},
+						{
+							"id": "hearthstone_game_section_215",
+							"name": "Xyrella",
+							"icon": "general",
+							"achievementTypes": ["hearthstone_game_brightest_kid_around"]
+						},
+						{
+							"id": "hearthstone_game_section_216",
+							"name": "Vol'jin",
+							"icon": "general",
+							"achievementTypes": ["hearthstone_game_da_voodoo_shuffle"]
+						},
+						{
+							"id": "hearthstone_game_section_217",
+							"name": "Death Speaker Blackthorn",
+							"icon": "general",
+							"achievementTypes": ["hearthstone_game_killer_speech"]
 						}
 					]
 				},
@@ -1658,7 +1678,8 @@
 						"hearthstone_game_climbing_the_ranks",
 						"hearthstone_game_set_the_standard",
 						"hearthstone_game_one_with_the_wild",
-						"hearthstone_game_ladder_grinder"
+						"hearthstone_game_ladder_grinder",
+						"hearthstone_game_back_in_my_day"
 					]
 				}
 			]
