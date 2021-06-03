@@ -498,7 +498,8 @@
 							"achievementTypes": [
 								"hearthstone_game_dont_dead_open_inside",
 								"hearthstone_game_to_the_leftmooost_to_the_waaall",
-								"hearthstone_game_vengeance_next_turn"
+								"hearthstone_game_vengeance_next_turn",
+								"hearthstone_game_tormented_hearts"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_126",
@@ -508,7 +509,8 @@
 							"achievementTypes": [
 								"hearthstone_game_do_it_for_the_vines",
 								"hearthstone_game_the_final_frontier",
-								"hearthstone_game_buy_one_get_one_free_of_taunt"
+								"hearthstone_game_buy_one_get_one_free_of_taunt",
+								"hearthstone_game_puppy_power"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_127",
@@ -518,7 +520,8 @@
 							"achievementTypes": [
 								"hearthstone_game_pack_attack",
 								"hearthstone_game_like_raptor_like_son",
-								"hearthstone_game_who_let_the_dogs_out"
+								"hearthstone_game_who_let_the_dogs_out",
+								"hearthstone_game_poison_poisoff"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_128",
@@ -528,7 +531,8 @@
 							"achievementTypes": [
 								"hearthstone_game_shatter_combo",
 								"hearthstone_game_barrens_bubbler",
-								"hearthstone_game_its_not_spamming_its_art"
+								"hearthstone_game_its_not_spamming_its_art",
+								"hearthstone_game_dont_move_a_muscle"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_129",
@@ -538,7 +542,8 @@
 							"achievementTypes": [
 								"hearthstone_game_spell_slingin_savior",
 								"hearthstone_game_just_between_you_and_me",
-								"hearthstone_game_wear_your_sunday_best"
+								"hearthstone_game_wear_your_sunday_best",
+								"hearthstone_game_friends_like_me"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_130",
@@ -548,7 +553,8 @@
 							"achievementTypes": [
 								"hearthstone_game_two_health_bars",
 								"hearthstone_game_blood_donation",
-								"hearthstone_game_why_cant_i_hold_all_these_cards"
+								"hearthstone_game_why_cant_i_hold_all_these_cards",
+								"hearthstone_game_even_steven"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_131",
@@ -558,7 +564,8 @@
 							"achievementTypes": [
 								"hearthstone_game_identity_theft_is_not_a_joke",
 								"hearthstone_game_just_dont_touch_the_blade",
-								"hearthstone_game_magnets_how_do_they_work"
+								"hearthstone_game_magnets_how_do_they_work",
+								"hearthstone_game_hiding_in_plain_sight"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_132",
@@ -568,7 +575,8 @@
 							"achievementTypes": [
 								"hearthstone_game_my_dear_watson",
 								"hearthstone_game_murlockdown",
-								"hearthstone_game_extra_organic"
+								"hearthstone_game_extra_organic",
+								"hearthstone_game_spit_hot_fire"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_133",
@@ -578,7 +586,8 @@
 							"achievementTypes": [
 								"hearthstone_game_discard_inferno",
 								"hearthstone_game_shadow_of_a_shadow",
-								"hearthstone_game_whats_better_than_two_imps"
+								"hearthstone_game_whats_better_than_two_imps",
+								"hearthstone_game_ugh_its_my_life_mom"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_134",
@@ -588,7 +597,8 @@
 							"achievementTypes": [
 								"hearthstone_game_gym_buddies",
 								"hearthstone_game_hardcor_rancor",
-								"hearthstone_game_itll_take_more_than_that"
+								"hearthstone_game_itll_take_more_than_that",
+								"hearthstone_game_kresh_got_back"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_135",
@@ -609,7 +619,9 @@
 								"hearthstone_game_spawn_shop",
 								"hearthstone_game_grand_guardian",
 								"hearthstone_game_hog_wild",
-								"hearthstone_game_sting_operation"
+								"hearthstone_game_sting_operation",
+								"hearthstone_game_adventure_is_out_there",
+								"hearthstone_game_hungry_hungry_murloc"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_136",
@@ -1060,7 +1072,9 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_the_final_lesson"
+								"hearthstone_game_the_final_lesson",
+								"hearthstone_game_the_iron_tower",
+								"hearthstone_game_friends_forever"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -1588,6 +1602,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_217",
 							"name": "Death Speaker Blackthorn"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_insatiable"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_350",
+							"name": "Mutanus the Devourer"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_perfectly_balanced"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_351",
+							"name": "Guff Runetotem"
 						}
 					],
 					"icon": "mode_battlegrounds",

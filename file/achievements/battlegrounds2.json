@@ -1343,6 +1343,28 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
+		"id": "battlegrounds_minion_play_BG20_210_G",
+		"type": "battlegrounds_minion_play_BG20_210_G",
+		"name": "Hexruin Marauder",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Hexruin Marauder",
+		"text": "Get a Triple version of Hexruin Marauder",
+		"completedText": "Played a Triple of Hexruin Marauder",
+		"displayCardId": "BG20_210_G",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BG20_210", "BG20_210_G"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
 		"id": "battlegrounds_minion_play_BG20_301_G",
 		"type": "battlegrounds_minion_play_BG20_301_G",
 		"name": "Sun-Bacon Relaxer",
@@ -2262,28 +2284,6 @@
 		"points": 3.0,
 		"requirements": [
 			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["TRL_232", "TB_BaconUps_051"] },
-			{ "type": "GAME_TYPE", "values": ["23"] }
-		],
-		"resetEvents": ["GAME_START", "GAME_END"]
-	},
-	{
-		"id": "battlegrounds_minion_play_TB_BaconUps_053",
-		"type": "battlegrounds_minion_play_TB_BaconUps_053",
-		"name": "Siegebreaker",
-		"icon": "boss_victory",
-		"root": true,
-		"canBeCompletedOnlyOnce": true,
-		"priority": 0,
-		"displayName": "That's Triple! Siegebreaker",
-		"text": "Get a Triple version of Siegebreaker",
-		"completedText": "Played a Triple of Siegebreaker",
-		"displayCardId": "TB_BaconUps_053",
-		"displayCardType": "minion",
-		"difficulty": "rare",
-		"maxNumberOfRecords": 2,
-		"points": 3.0,
-		"requirements": [
-			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["EX1_185", "TB_BaconUps_053"] },
 			{ "type": "GAME_TYPE", "values": ["23"] }
 		],
 		"resetEvents": ["GAME_START", "GAME_END"]
