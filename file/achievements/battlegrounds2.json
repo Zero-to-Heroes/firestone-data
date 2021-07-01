@@ -1431,6 +1431,28 @@
 		"resetEvents": ["GAME_START", "GAME_END"]
 	},
 	{
+		"id": "battlegrounds_minion_play_BG20_304_G",
+		"type": "battlegrounds_minion_play_BG20_304_G",
+		"name": "Archdruid Hamuul",
+		"icon": "boss_victory",
+		"root": true,
+		"canBeCompletedOnlyOnce": true,
+		"priority": 0,
+		"displayName": "That's Triple! Archdruid Hamuul",
+		"text": "Get a Triple version of Archdruid Hamuul",
+		"completedText": "Played a Triple of Archdruid Hamuul",
+		"displayCardId": "BG20_304_G",
+		"displayCardType": "minion",
+		"difficulty": "rare",
+		"maxNumberOfRecords": 2,
+		"points": 3.0,
+		"requirements": [
+			{ "type": "BATTLEGROUNDS_TRIPLE_PLAY", "values": ["BG20_304", "BG20_304_G"] },
+			{ "type": "GAME_TYPE", "values": ["23"] }
+		],
+		"resetEvents": ["GAME_START", "GAME_END"]
+	},
+	{
 		"id": "battlegrounds_minion_play_BGS_034",
 		"type": "battlegrounds_minion_play_BGS_034",
 		"name": "Bronze Warden",
