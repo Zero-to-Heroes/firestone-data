@@ -1064,7 +1064,8 @@
 								"hearthstone_game_justice_demands_retribution",
 								"hearthstone_game_i_will_be_your_death",
 								"hearthstone_game_the_elements_will_destroy_you",
-								"hearthstone_game_nature_will_rise_against_you"
+								"hearthstone_game_nature_will_rise_against_you",
+								"hearthstone_game_your_soul_shall_suffer"
 							],
 							"icon": "book",
 							"id": "hearthstone_game_section_42",
@@ -1074,7 +1075,8 @@
 							"achievementTypes": [
 								"hearthstone_game_the_final_lesson",
 								"hearthstone_game_the_iron_tower",
-								"hearthstone_game_friends_forever"
+								"hearthstone_game_friends_forever",
+								"hearthstone_game_awake"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -1618,6 +1620,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_351",
 							"name": "Guff Runetotem"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_ashfallen_in_love_with_you"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_498",
+							"name": "Kurtrus Ashfallen"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_profit_prophet"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_499",
+							"name": "Trade Prince Gallywix"
 						}
 					],
 					"icon": "mode_battlegrounds",
