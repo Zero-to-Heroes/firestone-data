@@ -13056,20 +13056,20 @@
 		"type": "hearthstone_game_witchwood_druid_collector"
 	},
 	{
-		"completedText": "Collect all 9 Witchwood Druid cards.",
+		"completedText": "Collect all 10 Witchwood Druid cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Druid Collector",
-		"emptyText": "Collect all 9 Witchwood Druid cards.",
+		"emptyText": "Collect all 10 Witchwood Druid cards.",
 		"hsAchievementId": 968,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_968",
 		"name": "Witchwood Druid Collector",
 		"points": 10,
 		"priority": 2,
-		"quota": 9,
+		"quota": 10,
 		"root": false,
-		"text": "Collect all 9 Witchwood Druid cards.",
+		"text": "Collect all 10 Witchwood Druid cards.",
 		"type": "hearthstone_game_witchwood_druid_collector"
 	},
 	{
@@ -13158,20 +13158,20 @@
 		"type": "hearthstone_game_witchwood_mage_collector"
 	},
 	{
-		"completedText": "Collect all 9 Witchwood Mage cards.",
+		"completedText": "Collect all 10 Witchwood Mage cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Mage Collector",
-		"emptyText": "Collect all 9 Witchwood Mage cards.",
+		"emptyText": "Collect all 10 Witchwood Mage cards.",
 		"hsAchievementId": 974,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_974",
 		"name": "Witchwood Mage Collector",
 		"points": 10,
 		"priority": 2,
-		"quota": 9,
+		"quota": 10,
 		"root": false,
-		"text": "Collect all 9 Witchwood Mage cards.",
+		"text": "Collect all 10 Witchwood Mage cards.",
 		"type": "hearthstone_game_witchwood_mage_collector"
 	},
 	{
@@ -13260,20 +13260,20 @@
 		"type": "hearthstone_game_witchwood_priest_collector"
 	},
 	{
-		"completedText": "Collect all 9 Witchwood Priest cards.",
+		"completedText": "Collect all 10 Witchwood Priest cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Priest Collector",
-		"emptyText": "Collect all 9 Witchwood Priest cards.",
+		"emptyText": "Collect all 10 Witchwood Priest cards.",
 		"hsAchievementId": 980,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_980",
 		"name": "Witchwood Priest Collector",
 		"points": 10,
 		"priority": 2,
-		"quota": 9,
+		"quota": 10,
 		"root": false,
-		"text": "Collect all 9 Witchwood Priest cards.",
+		"text": "Collect all 10 Witchwood Priest cards.",
 		"type": "hearthstone_game_witchwood_priest_collector"
 	},
 	{
@@ -13362,20 +13362,20 @@
 		"type": "hearthstone_game_witchwood_shaman_collector"
 	},
 	{
-		"completedText": "Collect all 9 Witchwood Shaman cards.",
+		"completedText": "Collect all 10 Witchwood Shaman cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Shaman Collector",
-		"emptyText": "Collect all 9 Witchwood Shaman cards.",
+		"emptyText": "Collect all 10 Witchwood Shaman cards.",
 		"hsAchievementId": 986,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_986",
 		"name": "Witchwood Shaman Collector",
 		"points": 10,
 		"priority": 2,
-		"quota": 9,
+		"quota": 10,
 		"root": false,
-		"text": "Collect all 9 Witchwood Shaman cards.",
+		"text": "Collect all 10 Witchwood Shaman cards.",
 		"type": "hearthstone_game_witchwood_shaman_collector"
 	},
 	{
@@ -13549,20 +13549,20 @@
 		"type": "hearthstone_game_witchwood_neutral_collector"
 	},
 	{
-		"completedText": "Collect all 43 Witchwood Neutral cards.",
+		"completedText": "Collect all 45 Witchwood Neutral cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Neutral Collector",
-		"emptyText": "Collect all 43 Witchwood Neutral cards.",
+		"emptyText": "Collect all 45 Witchwood Neutral cards.",
 		"hsAchievementId": 997,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_997",
 		"name": "Witchwood Neutral Collector",
 		"points": 10,
 		"priority": 4,
-		"quota": 43,
+		"quota": 45,
 		"root": false,
-		"text": "Collect all 43 Witchwood Neutral cards.",
+		"text": "Collect all 45 Witchwood Neutral cards.",
 		"type": "hearthstone_game_witchwood_neutral_collector"
 	},
 	{
@@ -13634,20 +13634,20 @@
 		"type": "hearthstone_game_into_the_woods"
 	},
 	{
-		"completedText": "Collect all 129 Witchwood cards.",
+		"completedText": "Collect all 135 Witchwood cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Into the Woods",
-		"emptyText": "Collect all 129 Witchwood cards.",
+		"emptyText": "Collect all 135 Witchwood cards.",
 		"hsAchievementId": 1002,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_1002",
 		"name": "Into the Woods",
 		"points": 20,
 		"priority": 4,
-		"quota": 129,
+		"quota": 135,
 		"root": false,
-		"text": "Collect all 129 Witchwood cards.",
+		"text": "Collect all 135 Witchwood cards.",
 		"type": "hearthstone_game_into_the_woods"
 	},
 	{
@@ -13719,20 +13719,20 @@
 		"type": "hearthstone_game_witchwood_legendary_collector"
 	},
 	{
-		"completedText": "Collect all 21 Witchwood Legendary cards.",
+		"completedText": "Collect all 23 Witchwood Legendary cards.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Witchwood Legendary Collector",
-		"emptyText": "Collect all 21 Witchwood Legendary cards.",
+		"emptyText": "Collect all 23 Witchwood Legendary cards.",
 		"hsAchievementId": 1007,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_1007",
 		"name": "Witchwood Legendary Collector",
 		"points": 20,
 		"priority": 4,
-		"quota": 21,
+		"quota": 23,
 		"root": false,
-		"text": "Collect all 21 Witchwood Legendary cards.",
+		"text": "Collect all 23 Witchwood Legendary cards.",
 		"type": "hearthstone_game_witchwood_legendary_collector"
 	},
 	{
