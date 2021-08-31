@@ -753,7 +753,8 @@
 								"hearthstone_game_butter_my_biscuits",
 								"hearthstone_game_snakes_on_a_blade",
 								"hearthstone_game_inside_sources",
-								"hearthstone_game_no_layover"
+								"hearthstone_game_no_layover",
+								"hearthstone_game_"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_365",
@@ -1229,7 +1230,8 @@
 								"hearthstone_game_the_final_lesson",
 								"hearthstone_game_the_iron_tower",
 								"hearthstone_game_friends_forever",
-								"hearthstone_game_awake"
+								"hearthstone_game_awake",
+								"hearthstone_game_stormwind_ablaze"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -1797,6 +1799,29 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_504",
 							"name": "Galewing"
+						},
+						{
+							"achievementTypes": [
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_506",
+							"name": "Hero Skins"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_courageous_conviction"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_508",
+							"name": "Cariel Roame"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_a_masters_tribute"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_509",
+							"name": "Master Nguyen"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -1818,6 +1843,13 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_89",
 							"name": "General"
+						},
+						{
+							"achievementTypes": [
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_507",
+							"name": "Hidden"
 						},
 						{
 							"achievementTypes": [
