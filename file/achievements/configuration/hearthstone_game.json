@@ -2073,6 +2073,152 @@
 					"icon": "mode_ranked",
 					"id": "hearthstone_game_sub_17",
 					"name": "Ranked"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_protector_collector",
+								"hearthstone_game_caster_collector",
+								"hearthstone_game_fighter_collector",
+								"hearthstone_game_unlock_10_peices_of_equipment"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_500",
+							"name": "Progression"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_protector_novice_training",
+								"hearthstone_game_fighter_novice_training",
+								"hearthstone_game_caster_novice_training",
+								"hearthstone_game_protector_intermediate_training",
+								"hearthstone_game_fighter_intermediate_training",
+								"hearthstone_game_caster_intermediate_training",
+								"hearthstone_game_protector_expert_training",
+								"hearthstone_game_fighter_expert_training",
+								"hearthstone_game_caster_expert_training"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_501",
+							"name": "Training"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_protector_equipment_collector",
+								"hearthstone_game_fighter_equipment_collector",
+								"hearthstone_game_caster_equipment_collector"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_502",
+							"name": "Equipment"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_barrens_conqueror",
+								"hearthstone_game_felwood_conqueror",
+								"hearthstone_game_winterspring_conqueror",
+								"hearthstone_game_blackrock_conqueror",
+								"hearthstone_game_barrens_heroic_conqueror",
+								"hearthstone_game_felwood_heroic_conqueror",
+								"hearthstone_game_winterspring_heroic_conqueror",
+								"hearthstone_game_blackrock_heroic_conqueror",
+								"hearthstone_game_heroic_victory",
+								"hearthstone_game_fully_healed",
+								"hearthstone_game_trimming_the_fat",
+								"hearthstone_game_my_favorite_mercenary",
+								"hearthstone_game_tutorial_conqueror",
+								"hearthstone_game_bounties_kodobane",
+								"hearthstone_game_bounties_air_elemental",
+								"hearthstone_game_bounties_neeru_fireblade",
+								"hearthstone_game_bounties_lord_banehollow",
+								"hearthstone_game_bounties_ahune",
+								"hearthstone_game_bounties_ragnaros"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_503",
+							"name": "Bounties"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_a_simple_task",
+								"hearthstone_game_making_friends",
+								"hearthstone_game_building_rapport",
+								"hearthstone_game_proving_our_worth",
+								"hearthstone_game_plenty_of_tasks",
+								"hearthstone_game_work_for_the_village",
+								"hearthstone_game_a_greater_cause",
+								"hearthstone_game_a_multitude_of_tasks",
+								"hearthstone_game_a_mountain_of_tasks",
+								"hearthstone_game_the_task_master"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_505",
+							"name": "Village"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_geared_up_alexstrasza",
+								"hearthstone_game_geared_up_anduin",
+								"hearthstone_game_geared_up_lich_king",
+								"hearthstone_game_geared_up_baron_geddon",
+								"hearthstone_game_geared_up_samuro",
+								"hearthstone_game_geared_up_blink_fox",
+								"hearthstone_game_geared_up_brightwing",
+								"hearthstone_game_geared_up_brukan",
+								"hearthstone_game_geared_up_cairne",
+								"hearthstone_game_geared_up_cariel",
+								"hearthstone_game_geared_up_cornelius",
+								"hearthstone_game_geared_up_diablo",
+								"hearthstone_game_geared_up_antonidas",
+								"hearthstone_game_geared_up_grommash",
+								"hearthstone_game_geared_up_gruul",
+								"hearthstone_game_geared_up_guff",
+								"hearthstone_game_geared_up_guldan",
+								"hearthstone_game_geared_up_illidan",
+								"hearthstone_game_geared_up_jaina",
+								"hearthstone_game_geared_up_jaraxxus",
+								"hearthstone_game_geared_up_king_krush",
+								"hearthstone_game_geared_up_king_mukla",
+								"hearthstone_game_geared_up_kurtrus",
+								"hearthstone_game_geared_up_lady_anacondra",
+								"hearthstone_game_geared_up_malfurion",
+								"hearthstone_game_geared_up_mannoroth",
+								"hearthstone_game_geared_up_millhouse",
+								"hearthstone_game_geared_up_morgl",
+								"hearthstone_game_geared_up_mutanus",
+								"hearthstone_game_geared_up_natalie",
+								"hearthstone_game_geared_up_old_murkeye",
+								"hearthstone_game_geared_up_saurfang",
+								"hearthstone_game_geared_up_prophet_velen",
+								"hearthstone_game_geared_up_ragnaros",
+								"hearthstone_game_geared_up_rathorian",
+								"hearthstone_game_geared_up_rexxar",
+								"hearthstone_game_geared_up_rokara",
+								"hearthstone_game_geared_up_scabbs",
+								"hearthstone_game_geared_up_voljin",
+								"hearthstone_game_geared_up_sylvanas",
+								"hearthstone_game_geared_up_tamsin",
+								"hearthstone_game_geared_up_tavish",
+								"hearthstone_game_geared_up_thrall",
+								"hearthstone_game_geared_up_tirion",
+								"hearthstone_game_geared_up_tyrande",
+								"hearthstone_game_geared_up_uther",
+								"hearthstone_game_geared_up_valeera",
+								"hearthstone_game_geared_up_varden",
+								"hearthstone_game_geared_up_varian",
+								"hearthstone_game_geared_up_voone",
+								"hearthstone_game_geared_up_xyrella",
+								"hearthstone_game_geared_up_garrosh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_510",
+							"name": "Mercenary Mastery"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_156",
+					"name": "Mercenaries"
 				}
 			],
 			"icon": "general",
