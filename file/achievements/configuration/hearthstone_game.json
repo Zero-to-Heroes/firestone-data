@@ -1244,7 +1244,8 @@
 								"hearthstone_game_friends_forever",
 								"hearthstone_game_awake",
 								"hearthstone_game_stormwind_ablaze",
-								"hearthstone_game_divided_in_stormwind"
+								"hearthstone_game_divided_in_stormwind",
+								"hearthstone_game_double_dungeon_hidden_dragon"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -1851,6 +1852,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_547",
 							"name": "Cookie the Cook"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_aroameatherapy"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_549",
+							"name": "Tamsin Roame"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2248,7 +2257,10 @@
 								"hearthstone_game_geared_up_voone",
 								"hearthstone_game_geared_up_xyrella",
 								"hearthstone_game_geared_up_garrosh",
+								"hearthstone_game_geared_up_eudora",
 								"hearthstone_game_geared_up_cookie",
+								"hearthstone_game_geared_up_sneed",
+								"hearthstone_game_geared_up_mr_smite",
 								"hearthstone_game_geared_up_edwin"
 							],
 							"icon": "general",
