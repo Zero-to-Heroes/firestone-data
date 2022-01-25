@@ -1400,7 +1400,8 @@
 								"hearthstone_game_awake",
 								"hearthstone_game_stormwind_ablaze",
 								"hearthstone_game_divided_in_stormwind",
-								"hearthstone_game_double_dungeon_hidden_dragon"
+								"hearthstone_game_double_dungeon_hidden_dragon",
+								"hearthstone_game_scarier_fleas"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -2021,8 +2022,40 @@
 								"hearthstone_game_you_made_this_i_made_this"
 							],
 							"icon": "general",
-							"id": "hearthstone_game_section_551",
+							"id": "hearthstone_game_section_550",
 							"name": "Scabbs Cutterbutter"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_360_no_scope"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_551",
+							"name": "Tavish Stormpike"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_elements_of_style"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_563",
+							"name": "Bru'kan"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_frostwolf_fame"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_564",
+							"name": "Drek'Thar"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_stormpike_stardom"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_565",
+							"name": "Vanndar Stormpike"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2054,93 +2087,93 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_demon_hunter_duelist",
-								"hearthstone_game_flawless_demon_hunter_duelist"
+								"hearthstone_game_stelina_duelist",
+								"hearthstone_game_flawless_stelina_duelist"
 							],
-							"icon": "demon_hunter",
+							"icon": "general",
 							"id": "hearthstone_game_section_50",
-							"name": "Demon Hunter "
+							"name": "Stelina"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_druid_duelist",
-								"hearthstone_game_flawless_druid_duelist"
+								"hearthstone_game_omu_duelist",
+								"hearthstone_game_flawless_omu_duelist"
 							],
-							"icon": "druid",
+							"icon": "general",
 							"id": "hearthstone_game_section_90",
-							"name": "Druid"
+							"name": "Omu"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_hunter_duelist",
-								"hearthstone_game_flawless_hunter_duelist"
+								"hearthstone_game_slate_duelist",
+								"hearthstone_game_flawless_slate_duelist"
 							],
-							"icon": "hunter",
+							"icon": "general",
 							"id": "hearthstone_game_section_91",
-							"name": "Hunter"
+							"name": "Slate"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_mage_duelist",
-								"hearthstone_game_flawless_mage_duelist"
+								"hearthstone_game_mozaki_duelist",
+								"hearthstone_game_flawless_mozaki_duelist"
 							],
-							"icon": "mage",
+							"icon": "general",
 							"id": "hearthstone_game_section_92",
-							"name": "Mage"
+							"name": "Mozaki"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_paladin_duelist",
-								"hearthstone_game_flawless_paladin_duelist"
+								"hearthstone_game_turalyon_duelist",
+								"hearthstone_game_flawless_turalyon_duelist"
 							],
-							"icon": "paladin",
+							"icon": "general",
 							"id": "hearthstone_game_section_93",
-							"name": "Paladin"
+							"name": "Turalyon"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_priest_duelist",
-								"hearthstone_game_flawless_priest_duelist"
+								"hearthstone_game_illucia_duelist",
+								"hearthstone_game_flawless_illucia_duelist"
 							],
-							"icon": "priest",
+							"icon": "general",
 							"id": "hearthstone_game_section_94",
-							"name": "Priest"
+							"name": "Illucia"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_rogue_duelist",
-								"hearthstone_game_flawless_rogue_duelist"
+								"hearthstone_game_lilian_duelist",
+								"hearthstone_game_flawless_lilian_duelist"
 							],
-							"icon": "rogue",
+							"icon": "general",
 							"id": "hearthstone_game_section_95",
-							"name": "Rogue"
+							"name": "Lilian"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_shaman_duelist",
-								"hearthstone_game_flawless_shaman_duelist"
+								"hearthstone_game_fireheart_duelist",
+								"hearthstone_game_flawless_fireheart_duelist"
 							],
-							"icon": "shaman",
+							"icon": "general",
 							"id": "hearthstone_game_section_96",
-							"name": "Shaman"
+							"name": "Fireheart"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_warlock_duelist",
-								"hearthstone_game_flawless_warlock_duelist"
+								"hearthstone_game_willow_duelist",
+								"hearthstone_game_flawless_willow_duelist"
 							],
-							"icon": "warlock",
+							"icon": "general",
 							"id": "hearthstone_game_section_97",
-							"name": "Warlock"
+							"name": "Willow"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_warrior_duelist",
-								"hearthstone_game_flawless_warrior_duelist"
+								"hearthstone_game_rattlegore_duelist",
+								"hearthstone_game_flawless_rattlegore_duelist"
 							],
-							"icon": "warrior",
+							"icon": "general",
 							"id": "hearthstone_game_section_98",
-							"name": "Warrior"
+							"name": "Rattlegore"
 						},
 						{
 							"achievementTypes": [
@@ -2149,7 +2182,25 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_548",
-							"name": "General"
+							"name": "Diablo"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_drekthar_duelist",
+								"hearthstone_game_flawless_drekthar_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_566",
+							"name": "Drek'Thar"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_vanndar_duelist",
+								"hearthstone_game_flawless_vanndar_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_567",
+							"name": "Vanndar"
 						}
 					],
 					"icon": "mode_duels",
@@ -2427,7 +2478,12 @@
 								"hearthstone_game_geared_up_edwin",
 								"hearthstone_game_geared_up_vanessa_vancleef",
 								"hearthstone_game_geared_up_sky_admiral_rogers",
-								"hearthstone_game_geared_up_trigore"
+								"hearthstone_game_geared_up_trigore",
+								"hearthstone_game_geared_up_balinda_stonehearth",
+								"hearthstone_game_geared_up_captain_galvangar",
+								"hearthstone_game_geared_up_lokholar",
+								"hearthstone_game_geared_up_wrathion",
+								"hearthstone_game_geared_up_sinestra"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
