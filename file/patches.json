@@ -41,11 +41,12 @@
 		{ "number": 126807, "version": "22.0.0", "name": "Forged in the Barrens 22.0", "date": "2021-11-30" },
 		{ "number": 127581, "version": "22.0.0", "name": "Forged in the Barrens 22.0", "date": "2021-12-06" },
 		{ "number": 128654, "version": "22.0.2", "name": "Forged in the Barrens 22.0.2", "date": "2021-12-20" },
-		{ "number": 131337, "version": "22.4.0", "name": "Forged in the Barrens 22.4.0", "date": "2022-02-15" }
+		{ "number": 131337, "version": "22.4.0", "name": "Forged in the Barrens 22.4.0", "date": "2022-02-15" },
+		{ "number": 131660, "version": "22.4.0", "name": "Forged in the Barrens 22.4.0", "date": "2022-02-15" }
 	],
-	"currentConstructedMetaPatch": 131337,
-	"currentBattlegroundsMetaPatch": 131337,
-	"currentDuelsMetaPatch": 131337,
-	"currentArenaMetaPatch": 131337,
-	"currentMercenariesMetaPatch": 131337
+	"currentConstructedMetaPatch": 131660,
+	"currentBattlegroundsMetaPatch": 131660,
+	"currentDuelsMetaPatch": 131660,
+	"currentArenaMetaPatch": 131660,
+	"currentMercenariesMetaPatch": 131660
 }
