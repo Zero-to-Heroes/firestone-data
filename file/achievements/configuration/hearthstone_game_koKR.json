@@ -1,0 +1,2506 @@
+{
+	"categories": [
+		{
+			"categories": [
+				{
+					"achievementTypes": [
+						"hearthstone_game_66_a_simple_request",
+						"hearthstone_game_66_a_candle_a_day",
+						"hearthstone_game_66_entertainment_weekly",
+						"hearthstone_game_66_keeps_the_darkness_away",
+						"hearthstone_game_66_track_attack",
+						"hearthstone_game_66_level_up",
+						"hearthstone_game_66_great_victory",
+						"hearthstone_game_66_tavern_regular"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_section_1",
+					"name": "일반"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_76_demon_hunter_victory",
+						"hearthstone_game_76_demon_hunter_mastery"
+					],
+					"icon": "demon_hunter",
+					"id": "hearthstone_game_section_11",
+					"name": "악마사냥꾼"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_72_druid_victory",
+						"hearthstone_game_72_druid_mastery"
+					],
+					"icon": "druid",
+					"id": "hearthstone_game_section_7",
+					"name": "드루이드"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_71_hunter_victory",
+						"hearthstone_game_71_hunter_mastery"
+					],
+					"icon": "hunter",
+					"id": "hearthstone_game_section_6",
+					"name": "사냥꾼"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_74_mage_victory",
+						"hearthstone_game_74_mage_mastery"
+					],
+					"icon": "mage",
+					"id": "hearthstone_game_section_9",
+					"name": "마법사"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_70_paladin_victory",
+						"hearthstone_game_70_paladin_mastery"
+					],
+					"icon": "paladin",
+					"id": "hearthstone_game_section_5",
+					"name": "성기사"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_75_priest_victory",
+						"hearthstone_game_75_priest_mastery"
+					],
+					"icon": "priest",
+					"id": "hearthstone_game_section_10",
+					"name": "사제"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_69_rogue_victory",
+						"hearthstone_game_69_rogue_mastery"
+					],
+					"icon": "rogue",
+					"id": "hearthstone_game_section_4",
+					"name": "도적"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_67_shaman_victory",
+						"hearthstone_game_67_shaman_mastery"
+					],
+					"icon": "shaman",
+					"id": "hearthstone_game_section_2",
+					"name": "주술사"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_73_warlock_victory",
+						"hearthstone_game_73_warlock_mastery"
+					],
+					"icon": "warlock",
+					"id": "hearthstone_game_section_8",
+					"name": "흑마법사"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_68_warrior_victory",
+						"hearthstone_game_68_warrior_mastery"
+					],
+					"icon": "warrior",
+					"id": "hearthstone_game_section_3",
+					"name": "전사"
+				}
+			],
+			"icon": "general",
+			"id": "hearthstone_game_1",
+			"name": "진척도"
+		},
+		{
+			"categories": [
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_162_unpopular_kids",
+								"hearthstone_game_162_analysis_paralysis",
+								"hearthstone_game_162_me_go_face",
+								"hearthstone_game_162_burn_baby_burn",
+								"hearthstone_game_162_thatll_buff_right_out",
+								"hearthstone_game_162_all_in_good_health",
+								"hearthstone_game_162_extra_value_meal",
+								"hearthstone_game_162_sensory_overload",
+								"hearthstone_game_162_counting_cards",
+								"hearthstone_game_162_over_encumbered"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_99",
+							"name": "직업"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_78_uh_actually_theyre_venomous",
+								"hearthstone_game_78_windfast_and_windfurious",
+								"hearthstone_game_78_damage",
+								"hearthstone_game_78_i_vant_to_suck_your_blood",
+								"hearthstone_game_78_bubble_buddies_for_life",
+								"hearthstone_game_78_you_didnt_see_anything",
+								"hearthstone_game_78_finleys_thesis",
+								"hearthstone_game_78_dear_diary",
+								"hearthstone_game_78_i_wanna_play_now",
+								"hearthstone_game_78_tanks_youre_welcome",
+								"hearthstone_game_78_dance_with_death",
+								"hearthstone_game_78_for_the_achievement"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_22",
+							"name": "중립 키워드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_173_whos_a_good_boy",
+								"hearthstone_game_173_youve_got_a_fiend_in_me",
+								"hearthstone_game_173_burninating_the_countryside",
+								"hearthstone_game_173_heed_my_call",
+								"hearthstone_game_173_bucket_of_bolts",
+								"hearthstone_game_173_up_to_my_gills",
+								"hearthstone_game_173_but_you_have_heard_of_me",
+								"hearthstone_game_173_totemly_awesome",
+								"hearthstone_game_173_up_to_my_quills"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_112",
+							"name": "하수인 종족"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_174_master_of_the_arcane",
+								"hearthstone_game_174_great_balls_of_fire",
+								"hearthstone_game_174_ice_ice_baby",
+								"hearthstone_game_174_growing_strong",
+								"hearthstone_game_174_call_of_the_void",
+								"hearthstone_game_174_holy_moly",
+								"hearthstone_game_174_all_fel_breaks_loose"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_113",
+							"name": "주문 속성"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_175_unique_just_like_everyone_else",
+								"hearthstone_game_175_slugfest",
+								"hearthstone_game_175_game_done_quick",
+								"hearthstone_game_175_flawless_victory",
+								"hearthstone_game_175_not_even_a_scratch",
+								"hearthstone_game_175_had_it_all_along",
+								"hearthstone_game_175_dude_wheres_my_cards",
+								"hearthstone_game_175_an_even_larger_man",
+								"hearthstone_game_175_i_could_do_this_all_day",
+								"hearthstone_game_175_cant_spell_minion_without_no"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_114",
+							"name": "특별"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_2",
+					"name": "일반"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_99_good_arm",
+								"hearthstone_game_99_not_so_lonely",
+								"hearthstone_game_99_feeling_ill_gynoth",
+								"hearthstone_game_99_highway_to_fel"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_31",
+							"name": "악마사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_95_rigged",
+								"hearthstone_game_95_sun_and_moon_to_me",
+								"hearthstone_game_95_leaf_us_alone",
+								"hearthstone_game_95_forest_fights_back"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_28",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_94_ride_together_die_together",
+								"hearthstone_game_94_toss_me",
+								"hearthstone_game_94_tonk_commander",
+								"hearthstone_game_94_three_for_one_sale"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_27",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_97_you_cant_take_it_off",
+								"hearthstone_game_97_hall_of_mirrors",
+								"hearthstone_game_97_your_future_is_clouded",
+								"hearthstone_game_97_hard_tack"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_30",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_93_yrang",
+								"hearthstone_game_93_yoggchamp",
+								"hearthstone_game_93_lothraxions_balloon_shop",
+								"hearthstone_game_93_so_judgey"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_26",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_98_spoilers",
+								"hearthstone_game_98_one_has_no_name",
+								"hearthstone_game_98_youre_ghuunna_be_sorry",
+								"hearthstone_game_98_darkmoon_express"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_32",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_92_forbidden_jutsu",
+								"hearthstone_game_92_myras_unstable_empress",
+								"hearthstone_game_92_its_so_fluffy",
+								"hearthstone_game_92_monkey_business"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_25",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_90_scarygoround",
+								"hearthstone_game_90_two_punch_man",
+								"hearthstone_game_90_darkmoon_woodshop",
+								"hearthstone_game_90_win_by_a_landslide"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_23",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_96_missing_holy_hand_grenade",
+								"hearthstone_game_96_my_friend_is_at_the_front",
+								"hearthstone_game_96_escalating_antics",
+								"hearthstone_game_96_cannot_run_cannot_hide"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_29",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_91_mine_mine_mine",
+								"hearthstone_game_91_tent_of_out_tent",
+								"hearthstone_game_91_bass_in_your_face",
+								"hearthstone_game_91_the_best_defense"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_24",
+							"name": "전사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_89_coulrophobia",
+								"hearthstone_game_89_dermatology",
+								"hearthstone_game_89_embrace_the_void",
+								"hearthstone_game_89_harmless_little_bunny",
+								"hearthstone_game_89_no_pathetic_cards",
+								"hearthstone_game_89_its_nzothing_really",
+								"hearthstone_game_89_f2pbtw",
+								"hearthstone_game_89_yogg_take_the_wheel",
+								"hearthstone_game_89_wheel_of_misfortune",
+								"hearthstone_game_89_cant_touch_this",
+								"hearthstone_game_89_who_let_the_dragon_out"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_33",
+							"name": "중립"
+						}
+					],
+					"icon": "darkmoon_faire",
+					"id": "hearthstone_game_sub_3",
+					"name": "다크문 축제"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_184_never_forgeti",
+								"hearthstone_game_184_natural_causes",
+								"hearthstone_game_184_econotsofriendly"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_117",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_183_all_you_can_eat_buffet",
+								"hearthstone_game_183_always_huffer",
+								"hearthstone_game_183_full_quiver"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_118",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_186_mahna_mahna",
+								"hearthstone_game_186_gg_was_close",
+								"hearthstone_game_186_aha"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_119",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_182_molten_wrath",
+								"hearthstone_game_182_enough_to_share_with_everyone",
+								"hearthstone_game_182_i_owe_you_one"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_120",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_187_the_fire_within",
+								"hearthstone_game_187_circle_of_healing",
+								"hearthstone_game_187_never_go_full_northshire"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_121",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_181_final_flurry",
+								"hearthstone_game_181_blunt_force_trauma",
+								"hearthstone_game_181_now_you_see_me"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_122",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_179_caught_in_the_storm",
+								"hearthstone_game_179_flyswatter",
+								"hearthstone_game_179_the_thirst_quencher"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_123",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_185_you_face_a_0mana_spell",
+								"hearthstone_game_185_your_death_was_useful",
+								"hearthstone_game_185_anything_but_dis_card"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_124",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_180_no_whetstone_no_problem",
+								"hearthstone_game_180_armorsmith_always_wins",
+								"hearthstone_game_180_who_you_want_me_kill"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_125",
+							"name": "전사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_178_nothing_can_go_wrong",
+								"hearthstone_game_178_dawn_of_the_aspects",
+								"hearthstone_game_178_like_one_of_your_suramari_murlocs",
+								"hearthstone_game_178_anger_management",
+								"hearthstone_game_178_ragnaros_the_snipelord",
+								"hearthstone_game_178_standing_on_the_shoulders",
+								"hearthstone_game_178_this_time_for_sure",
+								"hearthstone_game_178_doom_doom_dooooooom",
+								"hearthstone_game_178_the_irate_poultry",
+								"hearthstone_game_178_chicken_dinner",
+								"hearthstone_game_178_what_do_you_mean_random",
+								"hearthstone_game_178_auctionmaster"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_148",
+							"name": "중립"
+						}
+					],
+					"icon": "classic",
+					"id": "hearthstone_game_sub_61",
+					"name": "클래식"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_199_in_and_outcast",
+								"hearthstone_game_199_reforestation",
+								"hearthstone_game_199_loaded_for_bear",
+								"hearthstone_game_199_aegwynning",
+								"hearthstone_game_199_doom_lords_doom",
+								"hearthstone_game_199_killer_headache",
+								"hearthstone_game_199_ill_be_taking_that_one",
+								"hearthstone_game_199_funbound_elemental",
+								"hearthstone_game_199_jaraxxus_face_you",
+								"hearthstone_game_199_lootbox"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_137",
+							"name": "직업"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_189_hellooooooo",
+								"hearthstone_game_189_hello_hello_hello",
+								"hearthstone_game_189_sunny_side_uh_oh",
+								"hearthstone_game_189_you_can_run_but_you_cant_thak",
+								"hearthstone_game_189_twilight_of_the_aspects",
+								"hearthstone_game_189_itll_be_done_in_no_time"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_147",
+							"name": "중립"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_62",
+					"name": "핵심"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_210_dont_dead_open_inside",
+								"hearthstone_game_210_to_the_leftmooost_to_the_waaall",
+								"hearthstone_game_210_vengeance_next_turn",
+								"hearthstone_game_210_tormented_hearts"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_126",
+							"name": "악마사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_206_do_it_for_the_vines",
+								"hearthstone_game_206_the_final_frontier",
+								"hearthstone_game_206_buy_one_get_one_free_of_taunt",
+								"hearthstone_game_206_puppy_power"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_127",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_205_pack_attack",
+								"hearthstone_game_205_like_raptor_like_son",
+								"hearthstone_game_205_who_let_the_dogs_out",
+								"hearthstone_game_205_poison_poisoff"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_128",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_208_shatter_combo",
+								"hearthstone_game_208_barrens_bubbler",
+								"hearthstone_game_208_its_not_spamming_its_art",
+								"hearthstone_game_208_dont_move_a_muscle"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_129",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_204_spell_slingin_savior",
+								"hearthstone_game_204_just_between_you_and_me",
+								"hearthstone_game_204_wear_your_sunday_best",
+								"hearthstone_game_204_friends_like_me"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_130",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_209_two_health_bars",
+								"hearthstone_game_209_blood_donation",
+								"hearthstone_game_209_why_cant_i_hold_all_these_cards",
+								"hearthstone_game_209_even_steven"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_131",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_203_identity_theft_is_not_a_joke",
+								"hearthstone_game_203_just_dont_touch_the_blade",
+								"hearthstone_game_203_magnets_how_do_they_work",
+								"hearthstone_game_203_hiding_in_plain_sight"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_132",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_201_my_dear_watson",
+								"hearthstone_game_201_murlockdown",
+								"hearthstone_game_201_extra_organic",
+								"hearthstone_game_201_spit_hot_fire"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_133",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_207_discard_inferno",
+								"hearthstone_game_207_shadow_of_a_shadow",
+								"hearthstone_game_207_whats_better_than_two_imps",
+								"hearthstone_game_207_ugh_its_my_life_mom"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_134",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_202_gym_buddies",
+								"hearthstone_game_202_hardcor_rancor",
+								"hearthstone_game_202_itll_take_more_than_that",
+								"hearthstone_game_202_kresh_got_back"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_135",
+							"name": "전사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_200_life_is_a_highway",
+								"hearthstone_game_200_signature_moves",
+								"hearthstone_game_200_frenzy_friends",
+								"hearthstone_game_200_maximum_security",
+								"hearthstone_game_200_everyones_in_here",
+								"hearthstone_game_200_has_anyone_seen_mankriks_wife",
+								"hearthstone_game_200_top_secret_snoop",
+								"hearthstone_game_200_equivalent_exchange",
+								"hearthstone_game_200_buildarock_workshop",
+								"hearthstone_game_200_",
+								"hearthstone_game_200_spawn_shop",
+								"hearthstone_game_200_grand_guardian",
+								"hearthstone_game_200_hog_wild",
+								"hearthstone_game_200_sting_operation",
+								"hearthstone_game_200_adventure_is_out_there",
+								"hearthstone_game_200_hungry_hungry_murloc"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_136",
+							"name": "중립"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_63",
+					"name": "불모의 땅"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_306_drawing_frenzy",
+								"hearthstone_game_306_spam_caller",
+								"hearthstone_game_306_vengeance_doesnt_come_cheap",
+								"hearthstone_game_306_even_playing_field"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_363",
+							"name": "악마사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_302_everybody_shufflin",
+								"hearthstone_game_302_rotten_but_not_forgotten",
+								"hearthstone_game_302_claws_out",
+								"hearthstone_game_302_por_que_no_los_dos"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_364",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_301_looking_for_health_inspector",
+								"hearthstone_game_301_how_many_arrows_do_you_have",
+								"hearthstone_game_301_line_of_succession",
+								"hearthstone_game_301_carrion_my_wayward_son"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_366",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_304_bbq_broiler",
+								"hearthstone_game_304_not_the_face",
+								"hearthstone_game_304_caligraphy_lessons",
+								"hearthstone_game_304_i_prefer_leftovers"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_367",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_298_broadside",
+								"hearthstone_game_298_why_you_bully_me",
+								"hearthstone_game_298_a_pirates_life_for_me",
+								"hearthstone_game_298_hammer_down"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_368",
+							"name": "전사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_303_my_little_dreadsteed",
+								"hearthstone_game_303_simply_enchanting",
+								"hearthstone_game_303_share_your_pain",
+								"hearthstone_game_303_who_ordered_imps"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_369",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_297_debt_forgiveness",
+								"hearthstone_game_297_little_legends",
+								"hearthstone_game_297_the_brave_and_the_bolner",
+								"hearthstone_game_297_thanks_for_the_loaner_thrall"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_370",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_299_a_girl_has_no_face",
+								"hearthstone_game_299_expecting_an_exploding_pen",
+								"hearthstone_game_299_nobody_makes_me_bleed_my_own_blood",
+								"hearthstone_game_299_theyre_more_like_guidelines"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_371",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_305_instant_gratification",
+								"hearthstone_game_305_circus_show",
+								"hearthstone_game_305_join_the_dark_side",
+								"hearthstone_game_305_should_have_seen_this_coming"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_372",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_300_dark_side_of_light",
+								"hearthstone_game_300_all_hands_on_deck",
+								"hearthstone_game_300_pop_goes_divine_shield",
+								"hearthstone_game_300_robin_hood"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_373",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_296_wts",
+								"hearthstone_game_296_they_carry_my_potions",
+								"hearthstone_game_296_heros_journey",
+								"hearthstone_game_296_what_is_your_profession",
+								"hearthstone_game_296_its_my_way_or_hoggers_highway",
+								"hearthstone_game_296_wtb",
+								"hearthstone_game_296_the_adorable_aspect",
+								"hearthstone_game_296_toss_a_coin_to_your_dancer",
+								"hearthstone_game_296_lets_ride",
+								"hearthstone_game_296_guild_vault",
+								"hearthstone_game_296_return_of_the_king",
+								"hearthstone_game_296_that_which_has_no_life",
+								"hearthstone_game_296_the_usual_suspects",
+								"hearthstone_game_296_forgot_this_at_home",
+								"hearthstone_game_296_butter_my_biscuits",
+								"hearthstone_game_296_snakes_on_a_blade",
+								"hearthstone_game_296_inside_sources",
+								"hearthstone_game_296_no_layover",
+								"hearthstone_game_296_",
+								"hearthstone_game_296_magicians_assistant",
+								"hearthstone_game_296_sneeds_new_shredder"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_365",
+							"name": "중립"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_149",
+					"name": "스톰윈드"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_340_smash_that_fury_button",
+								"hearthstone_game_340_the_harder_they_fall",
+								"hearthstone_game_340_wreckoning"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_512",
+							"name": "악마사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_336_mo_mana_mo_problems",
+								"hearthstone_game_336_choose_one_choose_all",
+								"hearthstone_game_336_puppies"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_513",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_335_krush_from_above",
+								"hearthstone_game_335_out_for_blood",
+								"hearthstone_game_335_its_a_trap"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_514",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_338_do_you_wanna_build_a_snowtroll",
+								"hearthstone_game_338_honorably_die_insect",
+								"hearthstone_game_338_makes_yogg_proud"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_515",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_334_not_maroon_not_crimson_scarlet",
+								"hearthstone_game_334_bold_and_brass",
+								"hearthstone_game_334_you_are_not_worthy"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_516",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_339_salvation_army",
+								"hearthstone_game_339_gesundheit",
+								"hearthstone_game_339_i_will_remember_you"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_517",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_333_top_10_alterac_betrayals",
+								"hearthstone_game_333_third_cousins_twice_removed",
+								"hearthstone_game_333_rolling_in_their_grave"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_518",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_331_snowball_effect",
+								"hearthstone_game_331_1800element",
+								"hearthstone_game_331_winter_vacation"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_519",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_337_get_over_here",
+								"hearthstone_game_337_get_busy_living_or_get_busy_dying",
+								"hearthstone_game_337_dreading_this_one"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_520",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_332_what_happens_when",
+								"hearthstone_game_332_uncle_drek_wants_you",
+								"hearthstone_game_332_my_lair_my_terms"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_521",
+							"name": "전사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_328_wrecking_ball",
+								"hearthstone_game_328_king_of_the_hill",
+								"hearthstone_game_328_from_zero_to_hero",
+								"hearthstone_game_328_teamkill",
+								"hearthstone_game_328_snivvle_no_more",
+								"hearthstone_game_328_1600_dust_bounty",
+								"hearthstone_game_328_big_bird",
+								"hearthstone_game_328_youre_in_irondeep_trouble",
+								"hearthstone_game_328_the_everliving",
+								"hearthstone_game_328_reflecto_failure",
+								"hearthstone_game_328_ganksters_paradise",
+								"hearthstone_game_328_yummy_in_my_tummy",
+								"hearthstone_game_328_the_trees_speak_for_themselves",
+								"hearthstone_game_328_battlefield_master",
+								"hearthstone_game_328_congealing_essence",
+								"hearthstone_game_328_flappy_bird",
+								"hearthstone_game_328_look_holar",
+								"hearthstone_game_328_one_for_all_marshall_for_1",
+								"hearthstone_game_328_snowblind_sno_problem",
+								"hearthstone_game_328_harder_better_warmaster_stronger",
+								"hearthstone_game_328_mary_had_a_little_ram"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_511",
+							"name": "중립"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_157",
+					"name": "알터랙 계곡"
+				}
+			],
+			"icon": "general",
+			"id": "hearthstone_game_2",
+			"name": "게임플레이"
+		},
+		{
+			"categories": [
+				{
+					"achievementTypes": [
+						"hearthstone_game_100_its_cozy_by_the_fire",
+						"hearthstone_game_100_corrupted_blood"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_6",
+					"name": "외형"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_101_a_true_classic",
+						"hearthstone_game_101_classic_legendary_collector",
+						"hearthstone_game_101_arrrrrr",
+						"hearthstone_game_101_mrglglglgl",
+						"hearthstone_game_101_classic_druid_collector",
+						"hearthstone_game_101_classic_hunter_collector",
+						"hearthstone_game_101_classic_mage_collector",
+						"hearthstone_game_101_classic_paladin_collector",
+						"hearthstone_game_101_classic_priest_collector",
+						"hearthstone_game_101_classic_rogue_collector",
+						"hearthstone_game_101_classic_shaman_collector",
+						"hearthstone_game_101_classic_warlock_collector",
+						"hearthstone_game_101_classic_warrior_collector",
+						"hearthstone_game_101_classic_neutral_collector"
+					],
+					"icon": "classic",
+					"id": "hearthstone_game_sub_7",
+					"name": "오리지널"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_102_from_the_embers",
+						"hearthstone_game_102_outland_legendary_collector",
+						"hearthstone_game_102_outland_demon_hunter_collector",
+						"hearthstone_game_102_outland_druid_collector",
+						"hearthstone_game_102_outland_hunter_collector",
+						"hearthstone_game_102_outland_mage_collector",
+						"hearthstone_game_102_outland_paladin_collector",
+						"hearthstone_game_102_outland_priest_collector",
+						"hearthstone_game_102_outland_rogue_collector",
+						"hearthstone_game_102_outland_shaman_collector",
+						"hearthstone_game_102_outland_warlock_collector",
+						"hearthstone_game_102_outland_warrior_collector",
+						"hearthstone_game_102_outland_neutral_collector"
+					],
+					"icon": "ashes",
+					"id": "hearthstone_game_sub_8",
+					"name": "황폐한 아웃랜드"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_103_perfect_attendance",
+						"hearthstone_game_103_scholomance_legendary_collector",
+						"hearthstone_game_103_scholomance_demon_hunter_collector",
+						"hearthstone_game_103_scholomance_druid_collector",
+						"hearthstone_game_103_scholomance_hunter_collector",
+						"hearthstone_game_103_scholomance_mage_collector",
+						"hearthstone_game_103_scholomance_paladin_collector",
+						"hearthstone_game_103_scholomance_priest_collector",
+						"hearthstone_game_103_scholomance_rogue_collector",
+						"hearthstone_game_103_scholomance_shaman_collector",
+						"hearthstone_game_103_scholomance_warlock_collector",
+						"hearthstone_game_103_scholomance_warrior_collector",
+						"hearthstone_game_103_scholomance_neutral_collector"
+					],
+					"icon": "scholomance",
+					"id": "hearthstone_game_sub_9",
+					"name": "스칼로맨스 아카데미"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_104_come_one_come_all",
+						"hearthstone_game_104_darkmoon_legendary_collector",
+						"hearthstone_game_104_darkmoon_demon_hunter_collector",
+						"hearthstone_game_104_darkmoon_druid_collector",
+						"hearthstone_game_104_darkmoon_hunter_collector",
+						"hearthstone_game_104_darkmoon_mage_collector",
+						"hearthstone_game_104_darkmoon_paladin_collector",
+						"hearthstone_game_104_darkmoon_priest_collector",
+						"hearthstone_game_104_darkmoon_rogue_collector",
+						"hearthstone_game_104_darkmoon_shaman_collector",
+						"hearthstone_game_104_darkmoon_warlock_collector",
+						"hearthstone_game_104_darkmoon_warrior_collector",
+						"hearthstone_game_104_darkmoon_neutral_collector"
+					],
+					"icon": "darkmoon_faire",
+					"id": "hearthstone_game_sub_21",
+					"name": "광기의 다크문 축제"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_126_soldiers_of_the_cold_dark"
+					],
+					"icon": "naxx",
+					"id": "hearthstone_game_sub_30",
+					"name": "낙스라마스의 저주"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_127_goblins_and_gnomes",
+						"hearthstone_game_127_gvg_legendary_collector",
+						"hearthstone_game_127_gvg_druid_collector",
+						"hearthstone_game_127_gvg_hunter_collector",
+						"hearthstone_game_127_gvg_mage_collector",
+						"hearthstone_game_127_gvg_paladin_collector",
+						"hearthstone_game_127_gvg_priest_collector",
+						"hearthstone_game_127_gvg_rogue_collector",
+						"hearthstone_game_127_gvg_shaman_collector",
+						"hearthstone_game_127_gvg_warlock_collector",
+						"hearthstone_game_127_gvg_warrior_collector",
+						"hearthstone_game_127_gvg_neutral_collector"
+					],
+					"icon": "gvg",
+					"id": "hearthstone_game_sub_31",
+					"name": "고블린 대 노움"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_128_blackrock_and_roll"
+					],
+					"icon": "brm",
+					"id": "hearthstone_game_sub_32",
+					"name": "검은바위 산"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_129_medieval_times",
+						"hearthstone_game_129_tournament_legendary_collector",
+						"hearthstone_game_129_tournament_druid_collector",
+						"hearthstone_game_129_tournament_hunter_collector",
+						"hearthstone_game_129_tournament_mage_collector",
+						"hearthstone_game_129_tournament_paladin_collector",
+						"hearthstone_game_129_tournament_priest_collector",
+						"hearthstone_game_129_tournament_rogue_collector",
+						"hearthstone_game_129_tournament_shaman_collector",
+						"hearthstone_game_129_tournament_warlock_collector",
+						"hearthstone_game_129_tournament_warrior_collector",
+						"hearthstone_game_129_tournament_neutral_collector"
+					],
+					"icon": "tgt",
+					"id": "hearthstone_game_sub_33",
+					"name": "대 마상시합"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_131_ok_now_theyre_shouting",
+						"hearthstone_game_131_old_gods_legendary_collector",
+						"hearthstone_game_131_old_gods_druid_collector",
+						"hearthstone_game_131_old_gods_hunter_collector",
+						"hearthstone_game_131_old_gods_mage_collector",
+						"hearthstone_game_131_old_gods_paladin_collector",
+						"hearthstone_game_131_old_gods_priest_collector",
+						"hearthstone_game_131_old_gods_rogue_collector",
+						"hearthstone_game_131_old_gods_shaman_collector",
+						"hearthstone_game_131_old_gods_warlock_collector",
+						"hearthstone_game_131_old_gods_warrior_collector",
+						"hearthstone_game_131_old_gods_neutral_collector"
+					],
+					"icon": "og",
+					"id": "hearthstone_game_sub_34",
+					"name": "고대 신의 속삭임"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_132_disco_arcano"
+					],
+					"icon": "kara",
+					"id": "hearthstone_game_sub_35",
+					"name": "한여름 밤의 카라잔"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_133_say_hello_to_my_little_friends",
+						"hearthstone_game_133_gadgetzan_legendary_collector",
+						"hearthstone_game_133_gadgetzan_druid_collector",
+						"hearthstone_game_133_gadgetzan_hunter_collector",
+						"hearthstone_game_133_gadgetzan_mage_collector",
+						"hearthstone_game_133_gadgetzan_paladin_collector",
+						"hearthstone_game_133_gadgetzan_priest_collector",
+						"hearthstone_game_133_gadgetzan_rogue_collector",
+						"hearthstone_game_133_gadgetzan_shaman_collector",
+						"hearthstone_game_133_gadgetzan_warlock_collector",
+						"hearthstone_game_133_gadgetzan_warrior_collector",
+						"hearthstone_game_133_gadgetzan_neutral_collector"
+					],
+					"icon": "gadgetzan",
+					"id": "hearthstone_game_sub_36",
+					"name": "비열한 거리의 가젯잔"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_134_look_out_dinosaurs_about",
+						"hearthstone_game_134_ungoro_legendary_collector",
+						"hearthstone_game_134_ungoro_druid_collector",
+						"hearthstone_game_134_ungoro_hunter_collector",
+						"hearthstone_game_134_ungoro_mage_collector",
+						"hearthstone_game_134_ungoro_paladin_collector",
+						"hearthstone_game_134_ungoro_priest_collector",
+						"hearthstone_game_134_ungoro_rogue_collector",
+						"hearthstone_game_134_ungoro_shaman_collector",
+						"hearthstone_game_134_ungoro_warlock_collector",
+						"hearthstone_game_134_ungoro_warrior_collector",
+						"hearthstone_game_134_ungoro_neutral_collector"
+					],
+					"icon": "ungoro",
+					"id": "hearthstone_game_sub_37",
+					"name": "운고로를 향한 여정"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_135_frostmourne_hungers",
+						"hearthstone_game_135_frozen_throne_legendary_collector",
+						"hearthstone_game_135_frozen_throne_druid_collector",
+						"hearthstone_game_135_frozen_throne_hunter_collector",
+						"hearthstone_game_135_frozen_throne_mage_collector",
+						"hearthstone_game_135_frozen_throne_paladin_collector",
+						"hearthstone_game_135_frozen_throne_priest_collector",
+						"hearthstone_game_135_frozen_throne_rogue_collector",
+						"hearthstone_game_135_frozen_throne_shaman_collector",
+						"hearthstone_game_135_frozen_throne_warlock_collector",
+						"hearthstone_game_135_frozen_throne_warrior_collector",
+						"hearthstone_game_135_frozen_throne_neutral_collector"
+					],
+					"icon": "icc",
+					"id": "hearthstone_game_sub_38",
+					"name": "얼어붙은 왕좌의 기사들"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_136_dungeon_master",
+						"hearthstone_game_136_kobolds_legendary_collector",
+						"hearthstone_game_136_kobolds_druid_collector",
+						"hearthstone_game_136_kobolds_hunter_collector",
+						"hearthstone_game_136_kobolds_mage_collector",
+						"hearthstone_game_136_kobolds_paladin_collector",
+						"hearthstone_game_136_kobolds_priest_collector",
+						"hearthstone_game_136_kobolds_rogue_collector",
+						"hearthstone_game_136_kobolds_shaman_collector",
+						"hearthstone_game_136_kobolds_warlock_collector",
+						"hearthstone_game_136_kobolds_warrior_collector",
+						"hearthstone_game_136_kobolds_neutral_collector"
+					],
+					"icon": "loot",
+					"id": "hearthstone_game_sub_39",
+					"name": "코볼트와 지하 미궁"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_137_into_the_woods",
+						"hearthstone_game_137_witchwood_legendary_collector",
+						"hearthstone_game_137_witchwood_druid_collector",
+						"hearthstone_game_137_witchwood_hunter_collector",
+						"hearthstone_game_137_witchwood_mage_collector",
+						"hearthstone_game_137_witchwood_paladin_collector",
+						"hearthstone_game_137_witchwood_priest_collector",
+						"hearthstone_game_137_witchwood_rogue_collector",
+						"hearthstone_game_137_witchwood_shaman_collector",
+						"hearthstone_game_137_witchwood_warlock_collector",
+						"hearthstone_game_137_witchwood_warrior_collector",
+						"hearthstone_game_137_witchwood_neutral_collector"
+					],
+					"icon": "wood",
+					"id": "hearthstone_game_sub_40",
+					"name": "마녀숲"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_138_bombs_mostly",
+						"hearthstone_game_138_boomsday_legendary_collector",
+						"hearthstone_game_138_boomsday_druid_collector",
+						"hearthstone_game_138_boomsday_hunter_collector",
+						"hearthstone_game_138_boomsday_mage_collector",
+						"hearthstone_game_138_boomsday_paladin_collector",
+						"hearthstone_game_138_boomsday_priest_collector",
+						"hearthstone_game_138_boomsday_rogue_collector",
+						"hearthstone_game_138_boomsday_shaman_collector",
+						"hearthstone_game_138_boomsday_warlock_collector",
+						"hearthstone_game_138_boomsday_warrior_collector",
+						"hearthstone_game_138_boomsday_neutral_collector"
+					],
+					"icon": "boom",
+					"id": "hearthstone_game_sub_41",
+					"name": "박사 붐의 폭심만만 프로젝트"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_139_lets_get_ready_to_rumble",
+						"hearthstone_game_139_rastakhan_legendary_collector",
+						"hearthstone_game_139_rastakhan_druid_collector",
+						"hearthstone_game_139_rastakhan_hunter_collector",
+						"hearthstone_game_139_rastakhan_mage_collector",
+						"hearthstone_game_139_rastakhan_paladin_collector",
+						"hearthstone_game_139_rastakhan_priest_collector",
+						"hearthstone_game_139_rastakhan_rogue_collector",
+						"hearthstone_game_139_rastakhan_shaman_collector",
+						"hearthstone_game_139_rastakhan_warlock_collector",
+						"hearthstone_game_139_rastakhan_warrior_collector",
+						"hearthstone_game_139_rastakhan_neutral_collector"
+					],
+					"icon": "troll",
+					"id": "hearthstone_game_sub_42",
+					"name": "라스타칸의 대난투"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_140_so_what_does_evil_stand_for",
+						"hearthstone_game_140_dalaran_legendary_collector",
+						"hearthstone_game_140_dalaran_druid_collector",
+						"hearthstone_game_140_dalaran_hunter_collector",
+						"hearthstone_game_140_dalaran_mage_collector",
+						"hearthstone_game_140_dalaran_paladin_collector",
+						"hearthstone_game_140_dalaran_priest_collector",
+						"hearthstone_game_140_dalaran_rogue_collector",
+						"hearthstone_game_140_dalaran_shaman_collector",
+						"hearthstone_game_140_dalaran_warlock_collector",
+						"hearthstone_game_140_dalaran_warrior_collector",
+						"hearthstone_game_140_dalaran_neutral_collector"
+					],
+					"icon": "shadows",
+					"id": "hearthstone_game_sub_43",
+					"name": "어둠의 반격"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_141_grab_your_whip_and_fedora",
+						"hearthstone_game_141_uldum_legendary_collector",
+						"hearthstone_game_141_uldum_druid_collector",
+						"hearthstone_game_141_uldum_hunter_collector",
+						"hearthstone_game_141_uldum_mage_collector",
+						"hearthstone_game_141_uldum_paladin_collector",
+						"hearthstone_game_141_uldum_priest_collector",
+						"hearthstone_game_141_uldum_rogue_collector",
+						"hearthstone_game_141_uldum_shaman_collector",
+						"hearthstone_game_141_uldum_warlock_collector",
+						"hearthstone_game_141_uldum_warrior_collector",
+						"hearthstone_game_141_uldum_neutral_collector"
+					],
+					"icon": "saviors",
+					"id": "hearthstone_game_sub_44",
+					"name": "울둠의 구원자"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_142_where_are_my_dragons",
+						"hearthstone_game_142_descent_legendary_collector",
+						"hearthstone_game_142_descent_druid_collector",
+						"hearthstone_game_142_descent_hunter_collector",
+						"hearthstone_game_142_descent_mage_collector",
+						"hearthstone_game_142_descent_paladin_collector",
+						"hearthstone_game_142_descent_priest_collector",
+						"hearthstone_game_142_descent_rogue_collector",
+						"hearthstone_game_142_descent_shaman_collector",
+						"hearthstone_game_142_descent_warlock_collector",
+						"hearthstone_game_142_descent_warrior_collector",
+						"hearthstone_game_142_descent_neutral_collector"
+					],
+					"icon": "dragons",
+					"id": "hearthstone_game_sub_45",
+					"name": "용의 강림"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_143_wake_up_its_time_to_burn"
+					],
+					"icon": "galakrond_set",
+					"id": "hearthstone_game_sub_46",
+					"name": "갈라크론드의 부활"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_130_raiders_of_the_lost_cards"
+					],
+					"icon": "loe",
+					"id": "hearthstone_game_sub_48",
+					"name": "탐험가 연맹"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_177_barrens_legendary_collector",
+						"hearthstone_game_177_barrens_demon_hunter_collector",
+						"hearthstone_game_177_barrens_druid_collector",
+						"hearthstone_game_177_barrens_hunter_collector",
+						"hearthstone_game_177_barrens_mage_collector",
+						"hearthstone_game_177_barrens_paladin_collector",
+						"hearthstone_game_177_barrens_priest_collector",
+						"hearthstone_game_177_barrens_rogue_collector",
+						"hearthstone_game_177_barrens_shaman_collector",
+						"hearthstone_game_177_barrens_warlock_collector",
+						"hearthstone_game_177_barrens_warrior_collector",
+						"hearthstone_game_177_barrens_neutral_collector",
+						"hearthstone_game_177_for_the_horde"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_60",
+					"name": "불모의 땅"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_295_stormwind_legendary_collector",
+						"hearthstone_game_295_stormwind_demon_hunter_collector",
+						"hearthstone_game_295_stormwind_druid_collector",
+						"hearthstone_game_295_stormwind_hunter_collector",
+						"hearthstone_game_295_stormwind_mage_collector",
+						"hearthstone_game_295_stormwind_paladin_collector",
+						"hearthstone_game_295_stormwind_priest_collector",
+						"hearthstone_game_295_stormwind_rogue_collector",
+						"hearthstone_game_295_stormwind_shaman_collector",
+						"hearthstone_game_295_stormwind_warlock_collector",
+						"hearthstone_game_295_stormwind_warrior_collector",
+						"hearthstone_game_295_stormwind_neutral_collector",
+						"hearthstone_game_295_for_the_alliance"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_150",
+					"name": "스톰윈드"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_329_alterac_valley_legendary_collector",
+						"hearthstone_game_329_alterac_valley_demon_hunter_collector",
+						"hearthstone_game_329_alterac_valley_druid_collector",
+						"hearthstone_game_329_alterac_valley_hunter_collector",
+						"hearthstone_game_329_alterac_valley_mage_collector",
+						"hearthstone_game_329_alterac_valley_paladin_collector",
+						"hearthstone_game_329_alterac_valley_priest_collector",
+						"hearthstone_game_329_alterac_valley_rogue_collector",
+						"hearthstone_game_329_alterac_valley_shaman_collector",
+						"hearthstone_game_329_alterac_valley_warlock_collector",
+						"hearthstone_game_329_alterac_valley_warrior_collector",
+						"hearthstone_game_329_alterac_valley_neutral_collector",
+						"hearthstone_game_329_battle_for_alterac_valley"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_158",
+					"name": "알터랙 계곡"
+				}
+			],
+			"icon": "general",
+			"id": "hearthstone_game_3",
+			"name": "수집품"
+		},
+		{
+			"categories": [
+				{
+					"achievementTypes": [
+						"hearthstone_game_107_ten_thousand_years",
+						"hearthstone_game_107_girls_just_aranna_have_fun",
+						"hearthstone_game_107_lord_of_outland"
+					],
+					"icon": "ashes",
+					"id": "hearthstone_game_sub_23",
+					"name": "황폐한 아웃랜드"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_108_my_magic_will_tear_you_apart",
+								"hearthstone_game_108_i_will_hunt_you_down",
+								"hearthstone_game_108_victory_or_death",
+								"hearthstone_game_108_the_light_shall_burn_you",
+								"hearthstone_game_108_justice_demands_retribution",
+								"hearthstone_game_108_i_will_be_your_death",
+								"hearthstone_game_108_the_elements_will_destroy_you",
+								"hearthstone_game_108_nature_will_rise_against_you",
+								"hearthstone_game_108_your_soul_shall_suffer",
+								"hearthstone_game_108_you_are_not_prepared"
+							],
+							"icon": "book",
+							"id": "hearthstone_game_section_42",
+							"name": "영웅들의 이야기"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_272_the_final_lesson",
+								"hearthstone_game_272_the_iron_tower",
+								"hearthstone_game_272_friends_forever",
+								"hearthstone_game_272_awake",
+								"hearthstone_game_272_stormwind_ablaze",
+								"hearthstone_game_272_divided_in_stormwind",
+								"hearthstone_game_272_double_dungeon_hidden_dragon",
+								"hearthstone_game_272_scarier_fleas"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_177",
+							"name": "용병들의 이야기"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_24",
+					"name": "이야기"
+				}
+			],
+			"icon": "general",
+			"id": "hearthstone_game_4",
+			"name": "모험"
+		},
+		{
+			"categories": [
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_114_mug_half_full",
+								"hearthstone_game_114_lord_of_the_battlegrounds",
+								"hearthstone_game_114_ruler_of_thirds",
+								"hearthstone_game_114_bobs_favorite_customer",
+								"hearthstone_game_114_terrible_terrible_damage",
+								"hearthstone_game_114_a_very_special_guest",
+								"hearthstone_game_114_big_spender",
+								"hearthstone_game_114_they_grow_up_so_fast",
+								"hearthstone_game_114_little_fish_in_a_big_tavern",
+								"hearthstone_game_114_my_shiny_fangs_and_me",
+								"hearthstone_game_114_pretzel_mustard",
+								"hearthstone_game_114_spicy_pretzel_mustard",
+								"hearthstone_game_114_versatile_battlemaster",
+								"hearthstone_game_114_talk_of_the_tavern"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_48",
+							"name": "도전"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_215_brb",
+								"hearthstone_game_215_idle_idol"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_150",
+							"name": "A. F. 케이"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_216_wrath_of_the_windlord"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_151",
+							"name": "알아키르"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_217_life_and_hope"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_152",
+							"name": "알렉스트라자"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_218_outlandish"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_153",
+							"name": "아라나 스타시커"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_219_supreme_tavernologist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_154",
+							"name": "대악당 라팜"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_220_wheres_the_action"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_155",
+							"name": "브란"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_221_mathematically_impossible"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_156",
+							"name": "크툰"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_222_can_you_dig_it"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_157",
+							"name": "선장 유도라"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_223_never_fight_fair"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_158",
+							"name": "선장 후크터스크"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_224_is_it_cold_in_here"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_159",
+							"name": "첸바라"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_225_hats_on_hats_on_hats",
+								"hearthstone_game_225_show_me_your_moves"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_160",
+							"name": "춤추는 다릴"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_226_power_incarnate"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_161",
+							"name": "데스윙"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_227_for_the_brotherhood"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_162",
+							"name": "에드윈 밴클리프"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_228_always_bring_a_map"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_163",
+							"name": "엘리스 스타시커"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_229_nowhere_left_to_grow"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_165",
+							"name": "숲의 감시관 오무"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_230_wishies_for_fishies"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_166",
+							"name": "곰팡이술사 플러글"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_231_long_term_investment",
+								"hearthstone_game_231_the_progenitor"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_167",
+							"name": "갈라크론드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_232_for_karl"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_168",
+							"name": "타락한 조지"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_233_sprouting_your_roots"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_169",
+							"name": "잿빛가지"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_234_you_are_prepared"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_170",
+							"name": "일리단 스톰레이지"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_235_the_ideal_timeline"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_171",
+							"name": "무한의 토키"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_236_swap_meet"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_172",
+							"name": "잔다이스 바로브"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_237_no_more_setbacks"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_173",
+							"name": "캘타스 선스트라이더"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_238_phylactery_mastery"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_174",
+							"name": "리치 바즈하이알"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_239_salty_bets",
+								"hearthstone_game_239_lord_of_the_manor"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_175",
+							"name": "군주 바로브"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_240_infernal_overdrive"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_176",
+							"name": "군주 자락서스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_241_iron_hand_of_justice"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_178",
+							"name": "마이에브"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_242_the_essence_of_magic"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_179",
+							"name": "말리고스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_243_light_you_up_sweetcheeks"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_180",
+							"name": "밀하우스 마나스톰"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_244_meching_it_happen"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_181",
+							"name": "밀리피센트 마나스톰"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_245_whose_cat_is_this"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_182",
+							"name": "비글스워스 씨"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_246_banana_slamma"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_183",
+							"name": "무클라"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_247_gone_fishing"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_184",
+							"name": "느조스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_248_just_a_matter_of_time"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_185",
+							"name": "노즈도르무"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_249_might_of_the_horde"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_186",
+							"name": "대군주 사울팽"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_250_whos_in_charrrrge"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_187",
+							"name": "해적 패치스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_251_werkin_it"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_188",
+							"name": "패치워크"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_252_brick_house"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_189",
+							"name": "피라마드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_253_me_win_candle"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_190",
+							"name": "여왕 왜그토글"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_254_by_fire_be_purged"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_191",
+							"name": "라그나로스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_255_hot_hot_hot"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_192",
+							"name": "라카니슈"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_256_arent_i_amazing"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_193",
+							"name": "리노 잭슨"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_257_oh_frabjous_day"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_194",
+							"name": "두억시니"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_258_greatest_show_on_azeroth"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_195",
+							"name": "실라스 다크문"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_259_icy_wings_of_northrend"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_196",
+							"name": "신드라고사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_260_how_about_a_new_adventure"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_197",
+							"name": "핀리 므르글턴 경"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_261_rainy_day_fund",
+								"hearthstone_game_261_im_the_capn_now"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_198",
+							"name": "하늘선장 크라그"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_262_couldnt_do_it_without_you"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_199",
+							"name": "테스 그레이메인"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_263_lost_dog_call_curator",
+								"hearthstone_game_263_menagerie_manager"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_200",
+							"name": "전시 관리인"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_264_comeback_king",
+								"hearthstone_game_264_the_magicians_code"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_201",
+							"name": "위대한 아카잠자락"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_265_there_must_always_be_a_lich_king"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_202",
+							"name": "리치 왕"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_266_there_must_always_be_a_rat_king"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_203",
+							"name": "왕쥐"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_267_and_you_get_prize_cards",
+								"hearthstone_game_267_ticketmaster"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_204",
+							"name": "티케투스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_268_rage_your_dream"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_205",
+							"name": "이샤라즈"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_269_madness_in_the_tavern"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_206",
+							"name": "희망의 끝 요그사론"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_270_a_dream_come_true"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_207",
+							"name": "이세라"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_271_phenomenal_cosmic_powers"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_208",
+							"name": "위대한 제피르스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_274_brightest_kid_around"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_215",
+							"name": "자이렐라"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_276_da_voodoo_shuffle"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_216",
+							"name": "볼진"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_275_killer_speech"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_217",
+							"name": "죽음예언자 블랙쏜"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_281_insatiable"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_350",
+							"name": "걸신들린 무타누스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_282_perfectly_balanced"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_351",
+							"name": "거프 룬토템"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_307_ashfallen_in_love_with_you"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_498",
+							"name": "쿨트러스 애쉬폴른"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_308_profit_prophet"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_499",
+							"name": "무역왕 갤리윅스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_321_take_to_the_skies"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_504",
+							"name": "돌풍날개"
+						},
+						{
+							"achievementTypes": [
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_506",
+							"name": "영웅 스킨"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_325_courageous_conviction"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_508",
+							"name": "카리엘 롬"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_326_a_masters_tribute"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_509",
+							"name": "스승 구옌"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_366_mind_if_i_roll_sneed"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_546",
+							"name": "스니드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_367_3star_chef"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_547",
+							"name": "요리사 쿠키"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_369_aroameatherapy"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_549",
+							"name": "탬신 롬"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_371_you_made_this_i_made_this"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_550",
+							"name": "스캡스 커터버터"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_370_360_no_scope"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_551",
+							"name": "타비쉬 스톰파이크"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_372_elements_of_style"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_563",
+							"name": "브루칸"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_373_frostwolf_fame"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_564",
+							"name": "드렉타르"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_374_stormpike_stardom"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_565",
+							"name": "반다르 스톰파이크"
+						}
+					],
+					"icon": "mode_battlegrounds",
+					"id": "hearthstone_game_sub_13",
+					"name": "전장"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_124_duel_of_the_fates",
+								"hearthstone_game_124_duelist",
+								"hearthstone_game_124_twotime_duelist",
+								"hearthstone_game_124_twotime_flawless_duelist",
+								"hearthstone_game_124_flawless_duelist",
+								"hearthstone_game_124_duelitall",
+								"hearthstone_game_124_flawless_duelitall"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_89",
+							"name": "일반"
+						},
+						{
+							"achievementTypes": [
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_507",
+							"name": "비밀"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_116_stelina_duelist",
+								"hearthstone_game_116_flawless_stelina_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_50",
+							"name": "스텔리나"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_153_omu_duelist",
+								"hearthstone_game_153_flawless_omu_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_90",
+							"name": "오무"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_154_slate_duelist",
+								"hearthstone_game_154_flawless_slate_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_91",
+							"name": "슬레이트"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_155_mozaki_duelist",
+								"hearthstone_game_155_flawless_mozaki_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_92",
+							"name": "모자키"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_156_turalyon_duelist",
+								"hearthstone_game_156_flawless_turalyon_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_93",
+							"name": "투랄리온"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_157_illucia_duelist",
+								"hearthstone_game_157_flawless_illucia_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_94",
+							"name": "일루시아"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_158_lilian_duelist",
+								"hearthstone_game_158_flawless_lilian_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_95",
+							"name": "릴리안"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_159_fireheart_duelist",
+								"hearthstone_game_159_flawless_fireheart_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_96",
+							"name": "파이어하트"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_160_willow_duelist",
+								"hearthstone_game_160_flawless_willow_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_97",
+							"name": "윌로우"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_161_rattlegore_duelist",
+								"hearthstone_game_161_flawless_rattlegore_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_98",
+							"name": "들창엄니"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_368_diablo_duelist",
+								"hearthstone_game_368_flawless_diablo_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_548",
+							"name": "디아블로"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_376_drekthar_duelist",
+								"hearthstone_game_376_flawless_drekthar_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_566",
+							"name": "드렉타르"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_375_vanndar_duelist",
+								"hearthstone_game_375_flawless_vanndar_duelist"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_567",
+							"name": "반다르"
+						}
+					],
+					"icon": "mode_duels",
+					"id": "hearthstone_game_sub_14",
+					"name": "결투"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_117_lord_of_the_arena",
+								"hearthstone_game_117_azeroth_gladiator",
+								"hearthstone_game_117_flawless_azeroth_gladiator"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_51",
+							"name": "일반"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_163_demon_hunter_gladiator",
+								"hearthstone_game_163_flawless_demon_hunter_gladiator"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_100",
+							"name": "악마사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_164_druid_gladiator",
+								"hearthstone_game_164_flawless_druid_gladiator"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_101",
+							"name": "드루이드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_165_hunter_gladiator",
+								"hearthstone_game_165_flawless_hunter_gladiator"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_102",
+							"name": "사냥꾼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_166_mage_gladiator",
+								"hearthstone_game_166_flawless_mage_gladiator"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_103",
+							"name": "마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_167_paladin_gladiator",
+								"hearthstone_game_167_flawless_paladin_gladiator"
+							],
+							"icon": "paladin",
+							"id": "hearthstone_game_section_104",
+							"name": "성기사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_168_priest_gladiator",
+								"hearthstone_game_168_flawless_priest_gladiator"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_105",
+							"name": "사제"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_169_rogue_gladiator",
+								"hearthstone_game_169_flawless_rogue_gladiator"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_106",
+							"name": "도적"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_170_shaman_gladiator",
+								"hearthstone_game_170_flawless_shaman_gladiator"
+							],
+							"icon": "shaman",
+							"id": "hearthstone_game_section_107",
+							"name": "주술사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_171_warlock_gladiator",
+								"hearthstone_game_171_flawless_warlock_gladiator"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_108",
+							"name": "흑마법사"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_172_warrior_gladiator",
+								"hearthstone_game_172_flawless_warrior_gladiator"
+							],
+							"icon": "warrior",
+							"id": "hearthstone_game_section_109",
+							"name": "전사"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_15",
+					"name": "투기장"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_118_lord_of_the_brawl"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_16",
+					"name": "선술집 난투"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_119_on_a_roll",
+						"hearthstone_game_119_climbing_the_ranks",
+						"hearthstone_game_119_set_the_standard",
+						"hearthstone_game_119_one_with_the_wild",
+						"hearthstone_game_119_ladder_grinder",
+						"hearthstone_game_119_back_in_my_day"
+					],
+					"icon": "mode_ranked",
+					"id": "hearthstone_game_sub_17",
+					"name": "등급전"
+				},
+				{
+					"categories": [
+						{
+							"achievementTypes": [
+								"hearthstone_game_309_protector_collector",
+								"hearthstone_game_309_caster_collector",
+								"hearthstone_game_309_fighter_collector",
+								"hearthstone_game_309_unlock_10_peices_of_equipment"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_500",
+							"name": "진척도"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_310_protector_novice_training",
+								"hearthstone_game_310_fighter_novice_training",
+								"hearthstone_game_310_caster_novice_training",
+								"hearthstone_game_310_protector_intermediate_training",
+								"hearthstone_game_310_fighter_intermediate_training",
+								"hearthstone_game_310_caster_intermediate_training",
+								"hearthstone_game_310_protector_expert_training",
+								"hearthstone_game_310_fighter_expert_training",
+								"hearthstone_game_310_caster_expert_training"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_501",
+							"name": "훈련"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_311_protector_equipment_collector",
+								"hearthstone_game_311_fighter_equipment_collector",
+								"hearthstone_game_311_caster_equipment_collector"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_502",
+							"name": "장비"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_312_barrens_conqueror",
+								"hearthstone_game_312_felwood_conqueror",
+								"hearthstone_game_312_winterspring_conqueror",
+								"hearthstone_game_312_blackrock_conqueror",
+								"hearthstone_game_312_barrens_heroic_conqueror",
+								"hearthstone_game_312_felwood_heroic_conqueror",
+								"hearthstone_game_312_winterspring_heroic_conqueror",
+								"hearthstone_game_312_blackrock_heroic_conqueror",
+								"hearthstone_game_312_heroic_victory",
+								"hearthstone_game_312_fully_healed",
+								"hearthstone_game_312_trimming_the_fat",
+								"hearthstone_game_312_my_favorite_mercenary",
+								"hearthstone_game_312_tutorial_conqueror",
+								"hearthstone_game_312_bounties_kodobane",
+								"hearthstone_game_312_bounties_air_elemental",
+								"hearthstone_game_312_bounties_neeru_fireblade",
+								"hearthstone_game_312_bounties_lord_banehollow",
+								"hearthstone_game_312_bounties_ahune",
+								"hearthstone_game_312_bounties_ragnaros"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_503",
+							"name": "현상 수배"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_322_a_simple_task",
+								"hearthstone_game_322_making_friends",
+								"hearthstone_game_322_building_rapport",
+								"hearthstone_game_322_proving_our_worth",
+								"hearthstone_game_322_plenty_of_tasks",
+								"hearthstone_game_322_work_for_the_village",
+								"hearthstone_game_322_a_greater_cause",
+								"hearthstone_game_322_a_multitude_of_tasks",
+								"hearthstone_game_322_a_mountain_of_tasks",
+								"hearthstone_game_322_the_task_master"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_505",
+							"name": "마을"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_327_geared_up_alexstrasza",
+								"hearthstone_game_327_geared_up_anduin",
+								"hearthstone_game_327_geared_up_lich_king",
+								"hearthstone_game_327_geared_up_baron_geddon",
+								"hearthstone_game_327_geared_up_samuro",
+								"hearthstone_game_327_geared_up_blink_fox",
+								"hearthstone_game_327_geared_up_brightwing",
+								"hearthstone_game_327_geared_up_brukan",
+								"hearthstone_game_327_geared_up_cairne",
+								"hearthstone_game_327_geared_up_cariel",
+								"hearthstone_game_327_geared_up_cornelius",
+								"hearthstone_game_327_geared_up_diablo",
+								"hearthstone_game_327_geared_up_antonidas",
+								"hearthstone_game_327_geared_up_grommash",
+								"hearthstone_game_327_geared_up_gruul",
+								"hearthstone_game_327_geared_up_guff",
+								"hearthstone_game_327_geared_up_guldan",
+								"hearthstone_game_327_geared_up_illidan",
+								"hearthstone_game_327_geared_up_jaina",
+								"hearthstone_game_327_geared_up_jaraxxus",
+								"hearthstone_game_327_geared_up_king_krush",
+								"hearthstone_game_327_geared_up_king_mukla",
+								"hearthstone_game_327_geared_up_kurtrus",
+								"hearthstone_game_327_geared_up_lady_anacondra",
+								"hearthstone_game_327_geared_up_malfurion",
+								"hearthstone_game_327_geared_up_mannoroth",
+								"hearthstone_game_327_geared_up_millhouse",
+								"hearthstone_game_327_geared_up_morgl",
+								"hearthstone_game_327_geared_up_mutanus",
+								"hearthstone_game_327_geared_up_natalie",
+								"hearthstone_game_327_geared_up_old_murkeye",
+								"hearthstone_game_327_geared_up_saurfang",
+								"hearthstone_game_327_geared_up_prophet_velen",
+								"hearthstone_game_327_geared_up_ragnaros",
+								"hearthstone_game_327_geared_up_rathorian",
+								"hearthstone_game_327_geared_up_rexxar",
+								"hearthstone_game_327_geared_up_rokara",
+								"hearthstone_game_327_geared_up_scabbs",
+								"hearthstone_game_327_geared_up_voljin",
+								"hearthstone_game_327_geared_up_sylvanas",
+								"hearthstone_game_327_geared_up_tamsin",
+								"hearthstone_game_327_geared_up_tavish",
+								"hearthstone_game_327_geared_up_thrall",
+								"hearthstone_game_327_geared_up_tirion",
+								"hearthstone_game_327_geared_up_tyrande",
+								"hearthstone_game_327_geared_up_uther",
+								"hearthstone_game_327_geared_up_valeera",
+								"hearthstone_game_327_geared_up_varden",
+								"hearthstone_game_327_geared_up_varian",
+								"hearthstone_game_327_geared_up_voone",
+								"hearthstone_game_327_geared_up_xyrella",
+								"hearthstone_game_327_geared_up_garrosh",
+								"hearthstone_game_327_geared_up_eudora",
+								"hearthstone_game_327_geared_up_cookie",
+								"hearthstone_game_327_geared_up_sneed",
+								"hearthstone_game_327_geared_up_mr_smite",
+								"hearthstone_game_327_geared_up_edwin",
+								"hearthstone_game_327_geared_up_vanessa_vancleef",
+								"hearthstone_game_327_geared_up_sky_admiral_rogers",
+								"hearthstone_game_327_geared_up_trigore",
+								"hearthstone_game_327_geared_up_balinda_stonehearth",
+								"hearthstone_game_327_geared_up_captain_galvangar",
+								"hearthstone_game_327_geared_up_lokholar",
+								"hearthstone_game_327_geared_up_wrathion",
+								"hearthstone_game_327_geared_up_sinestra"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_510",
+							"name": "용병 전문가"
+						}
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_156",
+					"name": "용병단"
+				}
+			],
+			"icon": "general",
+			"id": "hearthstone_game_6",
+			"name": "게임 모드"
+		}
+	],
+	"icon": "hearthstone_game",
+	"id": "hearthstone_game",
+	"name": "Hearthstone"
+}
