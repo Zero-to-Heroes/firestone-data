@@ -793,7 +793,8 @@
 							"achievementTypes": [
 								"hearthstone_game_336_mo_mana_mo_problems",
 								"hearthstone_game_336_choose_one_choose_all",
-								"hearthstone_game_336_puppies"
+								"hearthstone_game_336_puppies",
+								"hearthstone_game_336_here_comes_the_boomkin"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_513",
@@ -803,7 +804,8 @@
 							"achievementTypes": [
 								"hearthstone_game_335_krush_from_above",
 								"hearthstone_game_335_out_for_blood",
-								"hearthstone_game_335_its_a_trap"
+								"hearthstone_game_335_its_a_trap",
+								"hearthstone_game_335_gotta_catch_em_all"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_514",
@@ -813,7 +815,9 @@
 							"achievementTypes": [
 								"hearthstone_game_338_do_you_wanna_build_a_snowtroll",
 								"hearthstone_game_338_honorably_die_insect",
-								"hearthstone_game_338_makes_yogg_proud"
+								"hearthstone_game_338_makes_yogg_proud",
+								"hearthstone_game_338_thank_you_for_your_matronage",
+								"hearthstone_game_338_thsnk_you_for_your_matronage"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_515",
@@ -823,7 +827,8 @@
 							"achievementTypes": [
 								"hearthstone_game_334_not_maroon_not_crimson_scarlet",
 								"hearthstone_game_334_bold_and_brass",
-								"hearthstone_game_334_you_are_not_worthy"
+								"hearthstone_game_334_you_are_not_worthy",
+								"hearthstone_game_334_the_one_ring"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_516",
@@ -833,7 +838,8 @@
 							"achievementTypes": [
 								"hearthstone_game_339_salvation_army",
 								"hearthstone_game_339_gesundheit",
-								"hearthstone_game_339_i_will_remember_you"
+								"hearthstone_game_339_i_will_remember_you",
+								"hearthstone_game_339_future_so_bright_gotta_wear_shades"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_517",
@@ -853,7 +859,8 @@
 							"achievementTypes": [
 								"hearthstone_game_331_snowball_effect",
 								"hearthstone_game_331_1800element",
-								"hearthstone_game_331_winter_vacation"
+								"hearthstone_game_331_winter_vacation",
+								"hearthstone_game_331_run_away_little_girl"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_519",
@@ -863,7 +870,8 @@
 							"achievementTypes": [
 								"hearthstone_game_337_get_over_here",
 								"hearthstone_game_337_get_busy_living_or_get_busy_dying",
-								"hearthstone_game_337_dreading_this_one"
+								"hearthstone_game_337_dreading_this_one",
+								"hearthstone_game_337_more_dots"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_520",
@@ -873,7 +881,8 @@
 							"achievementTypes": [
 								"hearthstone_game_332_what_happens_when",
 								"hearthstone_game_332_uncle_drek_wants_you",
-								"hearthstone_game_332_my_lair_my_terms"
+								"hearthstone_game_332_my_lair_my_terms",
+								"hearthstone_game_332_hit_it_like_you_mean_it"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_521",
@@ -894,6 +903,8 @@
 								"hearthstone_game_328_ganksters_paradise",
 								"hearthstone_game_328_yummy_in_my_tummy",
 								"hearthstone_game_328_the_trees_speak_for_themselves",
+								"hearthstone_game_328_job_whelp_done",
+								"hearthstone_game_328_legacy_of_the_kabal",
 								"hearthstone_game_328_battlefield_master",
 								"hearthstone_game_328_congealing_essence",
 								"hearthstone_game_328_flappy_bird",
@@ -901,7 +912,8 @@
 								"hearthstone_game_328_one_for_all_marshall_for_1",
 								"hearthstone_game_328_snowblind_sno_problem",
 								"hearthstone_game_328_harder_better_warmaster_stronger",
-								"hearthstone_game_328_mary_had_a_little_ram"
+								"hearthstone_game_328_mary_had_a_little_ram",
+								"hearthstone_game_328_"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_511",
@@ -1339,6 +1351,7 @@
 				{
 					"achievementTypes": [
 						"hearthstone_game_329_alterac_valley_legendary_collector",
+						"hearthstone_game_329_alterac_legendary_collector",
 						"hearthstone_game_329_alterac_valley_demon_hunter_collector",
 						"hearthstone_game_329_alterac_valley_druid_collector",
 						"hearthstone_game_329_alterac_valley_hunter_collector",
@@ -1350,7 +1363,18 @@
 						"hearthstone_game_329_alterac_valley_warlock_collector",
 						"hearthstone_game_329_alterac_valley_warrior_collector",
 						"hearthstone_game_329_alterac_valley_neutral_collector",
-						"hearthstone_game_329_battle_for_alterac_valley"
+						"hearthstone_game_329_battle_for_alterac_valley",
+						"hearthstone_game_329_alterac_demon_hunter_collector",
+						"hearthstone_game_329_alterac_druid_collector",
+						"hearthstone_game_329_alterac_hunter_collector",
+						"hearthstone_game_329_alterac_mage_collector",
+						"hearthstone_game_329_alterac_paladin_collector",
+						"hearthstone_game_329_alterac_priest_collector",
+						"hearthstone_game_329_alterac_rogue_collector",
+						"hearthstone_game_329_alterac_shaman_collector",
+						"hearthstone_game_329_alterac_warlock_collector",
+						"hearthstone_game_329_alterac_warrior_collector",
+						"hearthstone_game_329_alterac_neutral_collector"
 					],
 					"icon": "general",
 					"id": "hearthstone_game_sub_158",
@@ -1401,7 +1425,8 @@
 								"hearthstone_game_272_stormwind_ablaze",
 								"hearthstone_game_272_divided_in_stormwind",
 								"hearthstone_game_272_double_dungeon_hidden_dragon",
-								"hearthstone_game_272_scarier_fleas"
+								"hearthstone_game_272_scarier_fleas",
+								"hearthstone_game_272_the_moment_came"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -1784,7 +1809,7 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_257_oh_frabjous_day"
+								"hearthstone_game_257_o_frabjous_day"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_194",
@@ -2056,6 +2081,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_565",
 							"name": "Vanndar Stormpike"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_379_more_dots"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_572",
+							"name": "Onyxia"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_380_chill_out"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_573",
+							"name": "Varden Dawngrasp"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_381_not_too_young_to_fight"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_574",
+							"name": "Rokara"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2483,7 +2532,12 @@
 								"hearthstone_game_327_geared_up_captain_galvangar",
 								"hearthstone_game_327_geared_up_lokholar",
 								"hearthstone_game_327_geared_up_wrathion",
-								"hearthstone_game_327_geared_up_sinestra"
+								"hearthstone_game_327_geared_up_sinestra",
+								"hearthstone_game_327_geared_up_longxin",
+								"hearthstone_game_327_geared_up_chiji",
+								"hearthstone_game_327_geared_up_xuen",
+								"hearthstone_game_327_geared_up_niuzao",
+								"hearthstone_game_327_geared_up_yulon"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
