@@ -49020,11 +49020,11 @@
 		"type": "hearthstone_game_339_future_so_bright_gotta_wear_shades"
 	},
 	{
-		"completedText": "Ruft Mi’da in einem Spiel zum 7-ten Mal herbei.",
+		"completedText": "Ruft eine Mi’da, das reine Licht, der 7. Generation herbei.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Strahlende Zukunft",
-		"emptyText": "Ruft Mi’da in einem Spiel zum 7-ten Mal herbei.",
+		"emptyText": "Ruft eine Mi’da, das reine Licht, der 7. Generation herbei.",
 		"hsAchievementId": 4340,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 339,
@@ -49035,7 +49035,7 @@
 		"priority": 1,
 		"quota": 7,
 		"root": false,
-		"text": "Ruft Mi’da in einem Spiel zum 7-ten Mal herbei.",
+		"text": "Ruft eine Mi’da, das reine Licht, der 7. Generation herbei.",
 		"type": "hearthstone_game_339_future_so_bright_gotta_wear_shades"
 	},
 	{
