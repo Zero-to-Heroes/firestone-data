@@ -783,7 +783,8 @@
 							"achievementTypes": [
 								"hearthstone_game_340_smash_that_fury_button",
 								"hearthstone_game_340_the_harder_they_fall",
-								"hearthstone_game_340_wreckoning"
+								"hearthstone_game_340_wreckoning",
+								"hearthstone_game_340_right_side_many_cards"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_512",
@@ -849,7 +850,8 @@
 							"achievementTypes": [
 								"hearthstone_game_333_top_10_alterac_betrayals",
 								"hearthstone_game_333_third_cousins_twice_removed",
-								"hearthstone_game_333_rolling_in_their_grave"
+								"hearthstone_game_333_rolling_in_their_grave",
+								"hearthstone_game_333_"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_518",
@@ -1426,7 +1428,8 @@
 								"hearthstone_game_272_divided_in_stormwind",
 								"hearthstone_game_272_double_dungeon_hidden_dragon",
 								"hearthstone_game_272_scarier_fleas",
-								"hearthstone_game_272_the_moment_came"
+								"hearthstone_game_272_the_moment_came",
+								"hearthstone_game_272_save_the_draenei_save_the_world"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_177",
@@ -2105,6 +2108,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_574",
 							"name": "Rokara"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_394_all_according_to_plan"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_586",
+							"name": "Ambassador Faelin"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2537,7 +2548,14 @@
 								"hearthstone_game_327_geared_up_chiji",
 								"hearthstone_game_327_geared_up_xuen",
 								"hearthstone_game_327_geared_up_niuzao",
-								"hearthstone_game_327_geared_up_yulon"
+								"hearthstone_game_327_geared_up_yulon",
+								"hearthstone_game_327_geared_up_vanndar",
+								"hearthstone_game_327_geared_up_drekthar",
+								"hearthstone_game_327_geared_up_deathwing",
+								"hearthstone_game_327_geared_up_nefarian",
+								"hearthstone_game_327_geared_up_leeroy",
+								"hearthstone_game_327_geared_up_kazakus",
+								"hearthstone_game_327_geared_up_onyxia"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
