@@ -2356,6 +2356,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_599",
 							"name": "โอซูแมท"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_410_handmaidens_tail"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_602",
+							"name": "เลดี้วาชจ์"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2686,7 +2694,6 @@
 								"hearthstone_game_312_heroic_victory",
 								"hearthstone_game_312_fully_healed",
 								"hearthstone_game_312_trimming_the_fat",
-								"hearthstone_game_312_my_favorite_mercenary",
 								"hearthstone_game_312_tutorial_conqueror",
 								"hearthstone_game_312_darkshore_conqueror",
 								"hearthstone_game_312_darkshore_heroic_conqueror",
@@ -2744,6 +2751,7 @@
 						},
 						{
 							"achievementTypes": [
+								"hearthstone_game_409_my_favorite_mercenary",
 								"hearthstone_game_409_something_fun_haha",
 								"hearthstone_game_409_everyfin_is_good",
 								"hearthstone_game_409_everyfin_is_cool",
@@ -2878,7 +2886,8 @@
 								"hearthstone_game_327_geared_up_baine",
 								"hearthstone_game_327_geared_up_yshaarj",
 								"hearthstone_game_327_geared_up_yrel",
-								"hearthstone_game_327_geared_up_maestra"
+								"hearthstone_game_327_geared_up_maestra",
+								"hearthstone_game_327_geared_up_yogg"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",

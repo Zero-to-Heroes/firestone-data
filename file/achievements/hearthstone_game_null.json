@@ -32610,14 +32610,14 @@
 		"displayCardType": "spell",
 		"hsAchievementId": 3574,
 		"hsRewardTrackXp": 0,
-		"hsSectionId": 312,
+		"hsSectionId": 409,
 		"icon": "boss_victory",
 		"id": "hearthstone_game_3574",
-		"points": 1,
+		"points": 20,
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"type": "hearthstone_game_312_my_favorite_mercenary"
+		"type": "hearthstone_game_409_my_favorite_mercenary"
 	},
 	{
 		"displayCardId": "ULDA_111",
@@ -42544,5 +42544,61 @@
 		"quota": 1,
 		"root": false,
 		"type": "hearthstone_game_409_warlock_rehabilitation"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5054,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 327,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5054",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_327_geared_up_yogg"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5055,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 410,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5055",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_410_handmaidens_tail"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5056,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 410,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5056",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_410_handmaidens_tail"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5057,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 410,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5057",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_410_handmaidens_tail"
 	}
 ]
