@@ -55499,11 +55499,11 @@
 		"type": "hearthstone_game_384_if_a_totem_falls_in_the_woods"
 	},
 	{
-		"completedText": "使用女男爵瓦丝琪的效果召唤40个随从。",
+		"completedText": "使用瓦丝琪女男爵的效果召唤40个随从。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "原始汤剂",
-		"emptyText": "使用女男爵瓦丝琪的效果召唤40个随从。",
+		"emptyText": "使用瓦丝琪女男爵的效果召唤40个随从。",
 		"hsAchievementId": 4576,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 384,
@@ -55514,7 +55514,7 @@
 		"priority": 0,
 		"quota": 40,
 		"root": true,
-		"text": "使用女男爵瓦丝琪的效果召唤40个随从。",
+		"text": "使用瓦丝琪女男爵的效果召唤40个随从。",
 		"type": "hearthstone_game_384_primordial_soup"
 	},
 	{
@@ -55594,11 +55594,11 @@
 		"type": "hearthstone_game_390_it_takes_two_to_tango"
 	},
 	{
-		"completedText": "使用灾祸降临抽7张牌。",
+		"completedText": "使用一张灾祸降临抽7张牌。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "鬼神之援",
-		"emptyText": "使用灾祸降临抽7张牌。",
+		"emptyText": "使用一张灾祸降临抽7张牌。",
 		"hsAchievementId": 4581,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 390,
@@ -55609,7 +55609,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "使用灾祸降临抽7张牌。",
+		"text": "使用一张灾祸降临抽7张牌。",
 		"type": "hearthstone_game_390_reimpforcements"
 	},
 	{
@@ -57000,11 +57000,11 @@
 		"type": "hearthstone_game_383_the_imitation_game"
 	},
 	{
-		"completedText": "使用贪食的吞噬者的效果吞噬25个随从。",
+		"completedText": "使用贪食的吞噬者的效果吞食25个随从。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "早餐十六顿",
-		"emptyText": "使用贪食的吞噬者的效果吞噬25个随从。",
+		"emptyText": "使用贪食的吞噬者的效果吞食25个随从。",
 		"hsAchievementId": 4655,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 383,
@@ -57015,7 +57015,7 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "使用贪食的吞噬者的效果吞噬25个随从。",
+		"text": "使用贪食的吞噬者的效果吞食25个随从。",
 		"type": "hearthstone_game_383_what_about_sixteenth_breakfast"
 	},
 	{
