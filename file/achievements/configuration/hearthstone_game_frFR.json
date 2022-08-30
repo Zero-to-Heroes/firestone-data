@@ -1830,7 +1830,25 @@
 								"hearthstone_game_114_pretzel_mustard",
 								"hearthstone_game_114_spicy_pretzel_mustard",
 								"hearthstone_game_114_versatile_battlemaster",
-								"hearthstone_game_114_talk_of_the_tavern"
+								"hearthstone_game_114_talk_of_the_tavern",
+								"hearthstone_game_114_mrrrr_mrrrlrrrks",
+								"hearthstone_game_114_pack_hunter",
+								"hearthstone_game_114_assembly_line",
+								"hearthstone_game_114_fight_or_flight",
+								"hearthstone_game_114_raid_party",
+								"hearthstone_game_114_elementary_school",
+								"hearthstone_game_114_im_board",
+								"hearthstone_game_114_scales_exponentially",
+								"hearthstone_game_114_fiendish_fun",
+								"hearthstone_game_114_slinging_seafood",
+								"hearthstone_game_114_treasure_hunt",
+								"hearthstone_game_114_seal_the_deal",
+								"hearthstone_game_114_for_the_hoard",
+								"hearthstone_game_114_turn_the_tides",
+								"hearthstone_game_114_elegant_elements",
+								"hearthstone_game_114_beast_mode",
+								"hearthstone_game_114_heavy_metal",
+								"hearthstone_game_114_hog_wild"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_48",
@@ -2522,6 +2540,24 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_618",
 							"name": "As du casse Cire-Pilleur"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_426_amazing_detectivegenius"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_619",
+							"name": "Murloc Holmes"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_427_case_closed",
+								"hearthstone_game_427_i_am_revendreth",
+								"hearthstone_game_427_handsomely_rewarded"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_620",
+							"name": "Sire Denathrius"
 						}
 					],
 					"icon": "mode_battlegrounds",
