@@ -706,7 +706,7 @@
 							"id": "hearthstone_game_section_365"
 						}
 					],
-					"icon": "general",
+					"icon": "stormwind",
 					"id": "hearthstone_game_sub_149"
 				},
 				{
@@ -845,7 +845,7 @@
 							"id": "hearthstone_game_section_511"
 						}
 					],
-					"icon": "general",
+					"icon": "alterac_valley",
 					"id": "hearthstone_game_sub_157"
 				},
 				{
@@ -976,7 +976,7 @@
 							"id": "hearthstone_game_section_544"
 						}
 					],
-					"icon": "general",
+					"icon": "the_sunken_city",
 					"id": "hearthstone_game_sub_160"
 				},
 				{
@@ -1094,7 +1094,7 @@
 							"id": "hearthstone_game_section_585"
 						}
 					],
-					"icon": "general",
+					"icon": "revendreth",
 					"id": "hearthstone_game_sub_167"
 				},
 				{
@@ -1505,7 +1505,7 @@
 						"hearthstone_game_177_barrens_neutral_collector",
 						"hearthstone_game_177_for_the_horde"
 					],
-					"icon": "general",
+					"icon": "the_barrens",
 					"id": "hearthstone_game_sub_60"
 				},
 				{
@@ -1524,7 +1524,7 @@
 						"hearthstone_game_295_stormwind_neutral_collector",
 						"hearthstone_game_295_for_the_alliance"
 					],
-					"icon": "general",
+					"icon": "stormwind",
 					"id": "hearthstone_game_sub_150"
 				},
 				{
@@ -1555,7 +1555,7 @@
 						"hearthstone_game_329_alterac_warrior_collector",
 						"hearthstone_game_329_alterac_neutral_collector"
 					],
-					"icon": "general",
+					"icon": "alterac_valley",
 					"id": "hearthstone_game_sub_158"
 				},
 				{
@@ -1574,7 +1574,7 @@
 						"hearthstone_game_353_sunken_city_neutral_collector",
 						"hearthstone_game_353_sunken_city_of_zinazshari"
 					],
-					"icon": "general",
+					"icon": "the_sunken_city",
 					"id": "hearthstone_game_sub_161"
 				},
 				{
@@ -1593,7 +1593,7 @@
 						"hearthstone_game_382_castle_nathria_neutral_collector",
 						"hearthstone_game_382_a_sanguine_affair"
 					],
-					"icon": "general",
+					"icon": "revendreth",
 					"id": "hearthstone_game_sub_171"
 				}
 			],
@@ -1658,11 +1658,11 @@
 								"hearthstone_game_272_the_moment_came",
 								"hearthstone_game_272_save_the_draenei_save_the_world"
 							],
-							"icon": "general",
+							"icon": "book",
 							"id": "hearthstone_game_section_177"
 						}
 					],
-					"icon": "general",
+					"icon": "book",
 					"id": "hearthstone_game_sub_24"
 				}
 			],
@@ -2610,7 +2610,7 @@
 							"id": "hearthstone_game_section_109"
 						}
 					],
-					"icon": "general",
+					"icon": "arena",
 					"id": "hearthstone_game_sub_15"
 				},
 				{
@@ -2841,7 +2841,7 @@
 							"id": "hearthstone_game_section_510"
 						}
 					],
-					"icon": "general",
+					"icon": "mercenaries",
 					"id": "hearthstone_game_sub_156"
 				}
 			],
