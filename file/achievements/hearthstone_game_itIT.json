@@ -55974,11 +55974,11 @@
 		"type": "hearthstone_game_383_stop_infuse_time"
 	},
 	{
-		"completedText": "Finisci il tuo turno con un Golem del Peccato con 20 o più Attacco.",
+		"completedText": "Finisci il tuo turno con un Golem Peccaminoso con 20 o più Attacco.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "È l'intera armeria!",
-		"emptyText": "Finisci il tuo turno con un Golem del Peccato con 20 o più Attacco.",
+		"emptyText": "Finisci il tuo turno con un Golem Peccaminoso con 20 o più Attacco.",
 		"hsAchievementId": 4601,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 383,
@@ -55989,7 +55989,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Finisci il tuo turno con un Golem del Peccato con 20 o più Attacco.",
+		"text": "Finisci il tuo turno con un Golem Peccaminoso con 20 o più Attacco.",
 		"type": "hearthstone_game_383_thats_the_entire_armory"
 	},
 	{
