@@ -1077,7 +1077,8 @@
 							"achievementTypes": [
 								"hearthstone_game_393_sharp_observation",
 								"hearthstone_game_393_appetite_for_destruction",
-								"hearthstone_game_393_that_belongs_in_a_museum"
+								"hearthstone_game_393_that_belongs_in_a_museum",
+								"hearthstone_game_393_devils_advocate"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_575",
@@ -1087,7 +1088,8 @@
 							"achievementTypes": [
 								"hearthstone_game_389_flower_power",
 								"hearthstone_game_389_so_lifelike",
-								"hearthstone_game_389_bouquet_of_bones"
+								"hearthstone_game_389_bouquet_of_bones",
+								"hearthstone_game_389_dew_diligence"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_576",
@@ -1097,7 +1099,8 @@
 							"achievementTypes": [
 								"hearthstone_game_388_huntsmans_best_friend",
 								"hearthstone_game_388_beware_of_gargon",
-								"hearthstone_game_388_wait_theyre_not_plants"
+								"hearthstone_game_388_wait_theyre_not_plants",
+								"hearthstone_game_388_held_in_contempt"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_577",
@@ -1107,7 +1110,8 @@
 							"achievementTypes": [
 								"hearthstone_game_391_spooky_scary_skeletons",
 								"hearthstone_game_391_magical_mansion_mystery_tour",
-								"hearthstone_game_391_poor_circulation"
+								"hearthstone_game_391_poor_circulation",
+								"hearthstone_game_391_overruled"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_578",
@@ -1117,7 +1121,8 @@
 							"achievementTypes": [
 								"hearthstone_game_387_guests_of_honor",
 								"hearthstone_game_387_benefits_package",
-								"hearthstone_game_387_for_whom_the_bell_tolls"
+								"hearthstone_game_387_for_whom_the_bell_tolls",
+								"hearthstone_game_387_entitled_to_compensation"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_579",
@@ -1127,7 +1132,8 @@
 							"achievementTypes": [
 								"hearthstone_game_392_im_you_but_stronger",
 								"hearthstone_game_392_you_mist_a_spot",
-								"hearthstone_game_392_spf_300"
+								"hearthstone_game_392_spf_300",
+								"hearthstone_game_392_grand_larceny"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_580",
@@ -1137,7 +1143,8 @@
 							"achievementTypes": [
 								"hearthstone_game_386_at_what_point_is_it_just_a_sword",
 								"hearthstone_game_386_muffled_screams",
-								"hearthstone_game_386_tales_from_the_crypt"
+								"hearthstone_game_386_tales_from_the_crypt",
+								"hearthstone_game_386_the_whole_truth"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_581",
@@ -1147,7 +1154,8 @@
 							"achievementTypes": [
 								"hearthstone_game_384_if_a_totem_falls_in_the_woods",
 								"hearthstone_game_384_primordial_soup",
-								"hearthstone_game_384_off_the_deep_end"
+								"hearthstone_game_384_off_the_deep_end",
+								"hearthstone_game_384_holding_those_for_a_friend"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_582",
@@ -1157,7 +1165,8 @@
 							"achievementTypes": [
 								"hearthstone_game_385_sin_city",
 								"hearthstone_game_385_veni_vidi_vici",
-								"hearthstone_game_385_night_of_the_living_blades"
+								"hearthstone_game_385_night_of_the_living_blades",
+								"hearthstone_game_385_witness_destruction_program"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_583",
@@ -1167,7 +1176,8 @@
 							"achievementTypes": [
 								"hearthstone_game_390_it_takes_two_to_tango",
 								"hearthstone_game_390_reimpforcements",
-								"hearthstone_game_390_an_impressive_feat"
+								"hearthstone_game_390_an_impressive_feat",
+								"hearthstone_game_390_let_the_bodies_hit_the_board"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_584",
@@ -1188,9 +1198,12 @@
 								"hearthstone_game_383_what_about_sixteenth_breakfast",
 								"hearthstone_game_383_one_of_the_classic_blunders",
 								"hearthstone_game_383_elementary_my_dear_watson",
+								"hearthstone_game_383_sylvanas_did_nothing_wrong",
 								"hearthstone_game_383_gone_but_not_forgotten",
 								"hearthstone_game_383_need_a_map",
-								"hearthstone_game_383_stone_legion_assemble"
+								"hearthstone_game_383_stone_legion_assemble",
+								"hearthstone_game_383_",
+								"hearthstone_game_383_was_i_a_good_card"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_585",
@@ -2558,6 +2571,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_620",
 							"name": "Sir Denathrius"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_431_let_none_survive"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_623",
+							"name": "Sylvana Correventos"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2920,6 +2941,8 @@
 								"hearthstone_game_312_darkshore_heroic_conqueror",
 								"hearthstone_game_312_sunken_city_conqueror",
 								"hearthstone_game_312_sunken_city_heroic_conqueror",
+								"hearthstone_game_312_darkmoon_troupe_conqueror",
+								"hearthstone_game_312_darkmoon_troupe_heroic_conqueror",
 								"hearthstone_game_312_bounties_kodobane",
 								"hearthstone_game_312_bounties_air_elemental",
 								"hearthstone_game_312_bounties_neeru_fireblade",
@@ -2977,7 +3000,10 @@
 								"hearthstone_game_409_everyfin_is_good",
 								"hearthstone_game_409_everyfin_is_cool",
 								"hearthstone_game_409_everyfin_is_awesome",
-								"hearthstone_game_409_warlock_rehabilitation"
+								"hearthstone_game_409_warlock_rehabilitation",
+								"hearthstone_game_409_one_two_five",
+								"hearthstone_game_409_master_of_fate",
+								"hearthstone_game_409_shut_up_dad"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_601",
@@ -2987,7 +3013,9 @@
 							"achievementTypes": [
 								"hearthstone_game_408_impervious",
 								"hearthstone_game_408_nothing_worthwhile_is_easy",
-								"hearthstone_game_408_i_beat_the_bot"
+								"hearthstone_game_408_i_beat_the_bot",
+								"hearthstone_game_408_i_have_some_idea",
+								"hearthstone_game_408_jump_on_in_it"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_600",
@@ -3110,7 +3138,21 @@
 								"hearthstone_game_327_geared_up_maestra",
 								"hearthstone_game_327_geared_up_yogg",
 								"hearthstone_game_327_geared_up_cthun",
-								"hearthstone_game_327_geared_up_sir_finley"
+								"hearthstone_game_327_geared_up_sir_finley",
+								"hearthstone_game_327_geared_up_medivh",
+								"hearthstone_game_327_geared_up_archimonde",
+								"hearthstone_game_327_geared_up_prince_malchezaar",
+								"hearthstone_game_327_geared_up_nemsy_necrofizzle",
+								"hearthstone_game_327_geared_up_neeru_fireblade",
+								"hearthstone_game_327_geared_up_murloc_holmes",
+								"hearthstone_game_327_geared_up_khadgar",
+								"hearthstone_game_327_geared_up_ysera",
+								"hearthstone_game_327_geared_up_bwonsamdi",
+								"hearthstone_game_327_geared_up_korrak_the_bloodrager",
+								"hearthstone_game_327_geared_up_garona_halforcen",
+								"hearthstone_game_327_geared_up_tess_greymane",
+								"hearthstone_game_327_geared_up_genn_greymane",
+								"hearthstone_game_327_geared_up_aranna_starseeker"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
