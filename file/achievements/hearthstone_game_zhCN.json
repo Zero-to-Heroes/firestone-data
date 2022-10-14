@@ -57665,11 +57665,11 @@
 		"type": "hearthstone_game_384_holding_those_for_a_friend"
 	},
 	{
-		"completedText": "使用遗体保护令召唤3个传说随从。",
+		"completedText": "使用尸身保护令召唤3个传说随从。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "尸横当场",
-		"emptyText": "使用遗体保护令召唤3个传说随从。",
+		"emptyText": "使用尸身保护令召唤3个传说随从。",
 		"hsAchievementId": 4692,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 390,
@@ -57680,15 +57680,15 @@
 		"priority": 0,
 		"quota": 3,
 		"root": true,
-		"text": "使用遗体保护令召唤3个传说随从。",
+		"text": "使用尸身保护令召唤3个传说随从。",
 		"type": "hearthstone_game_390_let_the_bodies_hit_the_board"
 	},
 	{
-		"completedText": "使用遗体保护令召唤5个传说随从。",
+		"completedText": "使用尸身保护令召唤5个传说随从。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "尸横当场",
-		"emptyText": "使用遗体保护令召唤5个传说随从。",
+		"emptyText": "使用尸身保护令召唤5个传说随从。",
 		"hsAchievementId": 4693,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 390,
@@ -57699,7 +57699,7 @@
 		"priority": 1,
 		"quota": 5,
 		"root": false,
-		"text": "使用遗体保护令召唤5个传说随从。",
+		"text": "使用尸身保护令召唤5个传说随从。",
 		"type": "hearthstone_game_390_let_the_bodies_hit_the_board"
 	},
 	{
