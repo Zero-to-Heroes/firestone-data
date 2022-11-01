@@ -57380,11 +57380,11 @@
 		"type": "hearthstone_game_391_overruled"
 	},
 	{
-		"completedText": "Imposta le statistiche di 25 servitori a 1/1 con Causa Collettiva.",
+		"completedText": "Imposta le statistiche di 25 servitori a 1/1 con l'Avvocata pro Bono.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Diritto a un indennizzo",
-		"emptyText": "Imposta le statistiche di 25 servitori a 1/1 con Causa Collettiva.",
+		"emptyText": "Imposta le statistiche di 25 servitori a 1/1 con l'Avvocata pro Bono.",
 		"hsAchievementId": 4677,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 387,
@@ -57395,15 +57395,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "Imposta le statistiche di 25 servitori a 1/1 con Causa Collettiva.",
+		"text": "Imposta le statistiche di 25 servitori a 1/1 con l'Avvocata pro Bono.",
 		"type": "hearthstone_game_387_entitled_to_compensation"
 	},
 	{
-		"completedText": "Imposta le statistiche di 50 servitori a 1/1 con Causa Collettiva.",
+		"completedText": "Imposta le statistiche di 50 servitori a 1/1 con l'Avvocata pro Bono.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Diritto a un indennizzo",
-		"emptyText": "Imposta le statistiche di 50 servitori a 1/1 con Causa Collettiva.",
+		"emptyText": "Imposta le statistiche di 50 servitori a 1/1 con l'Avvocata pro Bono.",
 		"hsAchievementId": 4678,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 387,
@@ -57414,7 +57414,7 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "Imposta le statistiche di 50 servitori a 1/1 con Causa Collettiva.",
+		"text": "Imposta le statistiche di 50 servitori a 1/1 con l'Avvocata pro Bono.",
 		"type": "hearthstone_game_387_entitled_to_compensation"
 	},
 	{
@@ -57532,11 +57532,11 @@
 		"type": "hearthstone_game_388_held_in_contempt"
 	},
 	{
-		"completedText": "Distruggi l'eroe nemico con Mozione Respinta.",
+		"completedText": "Distruggi l'eroe nemico con Mozione Respinta 3 volte.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Oltraggio alla corte ",
-		"emptyText": "Distruggi l'eroe nemico con Mozione Respinta.",
+		"emptyText": "Distruggi l'eroe nemico con Mozione Respinta 3 volte.",
 		"hsAchievementId": 4685,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 388,
@@ -57547,7 +57547,7 @@
 		"priority": 1,
 		"quota": 3,
 		"root": false,
-		"text": "Distruggi l'eroe nemico con Mozione Respinta.",
+		"text": "Distruggi l'eroe nemico con Mozione Respinta 3 volte.",
 		"type": "hearthstone_game_388_held_in_contempt"
 	},
 	{
@@ -63707,6 +63707,25 @@
 		"type": "hearthstone_game_383_"
 	},
 	{
+		"completedText": "Raggiungi il livello 30.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Pronto alla sfida: Scuotiossa",
+		"emptyText": "Raggiungi il livello 30.",
+		"hsAchievementId": 5376,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 327,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5376",
+		"name": "Pronto alla sfida: Scuotiossa",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"text": "Raggiungi il livello 30.",
+		"type": "hearthstone_game_327_geared_up_rattlegore"
+	},
+	{
 		"completedText": "Fai morire 25 tuoi servitori con l'Addetta all'Aldilà in gioco.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
@@ -64047,5 +64066,62 @@
 		"root": false,
 		"text": "Colleziona tutte e 13 le carte del Druido di Assassinio al Castello di Nathria.",
 		"type": "hearthstone_game_382_castle_nathria_druid_collector"
+	},
+	{
+		"completedText": "Gioca una partita in Battaglia con il Carceriere.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Signore della Fauce",
+		"emptyText": "Gioca una partita in Battaglia con il Carceriere.",
+		"hsAchievementId": 5592,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 459,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5592",
+		"name": "Signore della Fauce",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"text": "Gioca una partita in Battaglia con il Carceriere.",
+		"type": "hearthstone_game_459_master_of_the_maw"
+	},
+	{
+		"completedText": "Piazzati nella Top 4 con il Carceriere.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Signore della Fauce",
+		"emptyText": "Piazzati nella Top 4 con il Carceriere.",
+		"hsAchievementId": 5593,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 459,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5593",
+		"name": "Signore della Fauce",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"text": "Piazzati nella Top 4 con il Carceriere.",
+		"type": "hearthstone_game_459_master_of_the_maw"
+	},
+	{
+		"completedText": "Piazzati al 1° posto con il Carceriere.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Signore della Fauce",
+		"emptyText": "Piazzati al 1° posto con il Carceriere.",
+		"hsAchievementId": 5594,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 459,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5594",
+		"name": "Signore della Fauce",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"text": "Piazzati al 1° posto con il Carceriere.",
+		"type": "hearthstone_game_459_master_of_the_maw"
 	}
 ]

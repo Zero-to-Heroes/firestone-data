@@ -2579,6 +2579,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_623",
 							"name": "シルヴァナス・ウィンドランナー"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_459_master_of_the_maw"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_651",
+							"name": "獄吏王"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -3152,7 +3160,8 @@
 								"hearthstone_game_327_geared_up_garona_halforcen",
 								"hearthstone_game_327_geared_up_tess_greymane",
 								"hearthstone_game_327_geared_up_genn_greymane",
-								"hearthstone_game_327_geared_up_aranna_starseeker"
+								"hearthstone_game_327_geared_up_aranna_starseeker",
+								"hearthstone_game_327_geared_up_rattlegore"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
