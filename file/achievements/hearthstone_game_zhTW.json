@@ -57665,11 +57665,11 @@
 		"type": "hearthstone_game_384_holding_those_for_a_friend"
 	},
 	{
-		"completedText": "以人身保護令召喚3個傳說手下",
+		"completedText": "以屍身保護令召喚3個傳說手下",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "讓屍體倒在牌桌上",
-		"emptyText": "以人身保護令召喚3個傳說手下",
+		"emptyText": "以屍身保護令召喚3個傳說手下",
 		"hsAchievementId": 4692,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 390,
@@ -57680,15 +57680,15 @@
 		"priority": 0,
 		"quota": 3,
 		"root": true,
-		"text": "以人身保護令召喚3個傳說手下",
+		"text": "以屍身保護令召喚3個傳說手下",
 		"type": "hearthstone_game_390_let_the_bodies_hit_the_board"
 	},
 	{
-		"completedText": "以人身保護令召喚5個傳說手下",
+		"completedText": "以屍身保護令召喚5個傳說手下",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "讓屍體倒在牌桌上",
-		"emptyText": "以人身保護令召喚5個傳說手下",
+		"emptyText": "以屍身保護令召喚5個傳說手下",
 		"hsAchievementId": 4693,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 390,
@@ -57699,7 +57699,7 @@
 		"priority": 1,
 		"quota": 5,
 		"root": false,
-		"text": "以人身保護令召喚5個傳說手下",
+		"text": "以屍身保護令召喚5個傳說手下",
 		"type": "hearthstone_game_390_let_the_bodies_hit_the_board"
 	},
 	{
