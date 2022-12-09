@@ -12,12 +12,14 @@
 		"revendreth",
 		"maw_and_disorder",
 		"icecrown",
-		"return_of_the_lich_king"
+		"return_of_the_lich_king",
+		"path_of_arthas"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"path_of_arthas",
 		"return_of_the_lich_king",
 		"maw_and_disorder",
 		"revendreth",
