@@ -63137,11 +63137,11 @@
 		"type": "hearthstone_game_418_wither_you_killed_her"
 	},
 	{
-		"completedText": "用阿努布雷坎的效果，消耗50点护甲值用于随从。",
+		"completedText": "用阿努布雷坎的效果，消耗50点护甲值用于随从牌上。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "护甲被坎",
-		"emptyText": "用阿努布雷坎的效果，消耗50点护甲值用于随从。",
+		"emptyText": "用阿努布雷坎的效果，消耗50点护甲值用于随从牌上。",
 		"hsAchievementId": 5065,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 418,
@@ -63152,15 +63152,15 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "用阿努布雷坎的效果，消耗50点护甲值用于随从。",
+		"text": "用阿努布雷坎的效果，消耗50点护甲值用于随从牌上。",
 		"type": "hearthstone_game_418_get_rekht"
 	},
 	{
-		"completedText": "用阿努布雷坎的效果，消耗100点护甲值用于随从。",
+		"completedText": "用阿努布雷坎的效果，消耗100点护甲值用于随从牌上。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "护甲被坎",
-		"emptyText": "用阿努布雷坎的效果，消耗100点护甲值用于随从。",
+		"emptyText": "用阿努布雷坎的效果，消耗100点护甲值用于随从牌上。",
 		"hsAchievementId": 5066,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 418,
@@ -63171,7 +63171,7 @@
 		"priority": 1,
 		"quota": 100,
 		"root": false,
-		"text": "用阿努布雷坎的效果，消耗100点护甲值用于随从。",
+		"text": "用阿努布雷坎的效果，消耗100点护甲值用于随从牌上。",
 		"type": "hearthstone_game_418_get_rekht"
 	},
 	{
@@ -63194,11 +63194,11 @@
 		"type": "hearthstone_game_418_babys_first_scourge"
 	},
 	{
-		"completedText": "用阿努布雷坎的效果，消耗200点护甲值用于随从。",
+		"completedText": "用阿努布雷坎的效果，消耗200点护甲值用于随从牌上。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "护甲被坎",
-		"emptyText": "用阿努布雷坎的效果，消耗200点护甲值用于随从。",
+		"emptyText": "用阿努布雷坎的效果，消耗200点护甲值用于随从牌上。",
 		"hsAchievementId": 5068,
 		"hsRewardTrackXp": 500,
 		"hsSectionId": 418,
@@ -63209,7 +63209,7 @@
 		"priority": 2,
 		"quota": 200,
 		"root": false,
-		"text": "用阿努布雷坎的效果，消耗200点护甲值用于随从。",
+		"text": "用阿努布雷坎的效果，消耗200点护甲值用于随从牌上。",
 		"type": "hearthstone_game_418_get_rekht"
 	},
 	{
@@ -65227,11 +65227,11 @@
 		"type": "hearthstone_game_412_armed_and_dangerous"
 	},
 	{
-		"completedText": "消灭被白骨领主霜语强化过的敌方英雄。",
+		"completedText": "被白骨领主霜语强化时消灭敌方英雄。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "必死印记",
-		"emptyText": "消灭被白骨领主霜语强化过的敌方英雄。",
+		"emptyText": "被白骨领主霜语强化时消灭敌方英雄。",
 		"hsAchievementId": 5175,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 412,
@@ -65242,7 +65242,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "消灭被白骨领主霜语强化过的敌方英雄。",
+		"text": "被白骨领主霜语强化时消灭敌方英雄。",
 		"type": "hearthstone_game_412_mark_of_destined_death"
 	},
 	{

@@ -63612,11 +63612,11 @@
 		"type": "hearthstone_game_415_imminent_demise"
 	},
 	{
-		"completedText": "Gioca 15 diverse Misture Mischiate.",
+		"completedText": "Gioca 15 diversi Intrugli Mischiati.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Agitato, non mescolato",
-		"emptyText": "Gioca 15 diverse Misture Mischiate.",
+		"emptyText": "Gioca 15 diversi Intrugli Mischiati.",
 		"hsAchievementId": 5090,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 415,
@@ -63627,7 +63627,7 @@
 		"priority": 0,
 		"quota": 15,
 		"root": true,
-		"text": "Gioca 15 diverse Misture Mischiate.",
+		"text": "Gioca 15 diversi Intrugli Mischiati.",
 		"type": "hearthstone_game_415_shaken_not_stirred"
 	},
 	{
