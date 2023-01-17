@@ -2037,7 +2037,9 @@
 								"hearthstone_game_114_elegant_elements",
 								"hearthstone_game_114_beast_mode",
 								"hearthstone_game_114_heavy_metal",
-								"hearthstone_game_114_hog_wild"
+								"hearthstone_game_114_hog_wild",
+								"hearthstone_game_114_life_and_undeath",
+								"hearthstone_game_114_cold_hearts_of_gold"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_48",
@@ -2771,6 +2773,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_654",
 							"name": "Aufwert-o-Bot"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_463_plague_perfected"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_655",
+							"name": "Professor Seuchenmord"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2996,7 +3006,7 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_622",
-							"name": "Shaw"
+							"name": "Scarlet"
 						}
 					],
 					"icon": "mode_duels",
@@ -3374,7 +3384,8 @@
 								"hearthstone_game_327_geared_up_genn_greymane",
 								"hearthstone_game_327_geared_up_aranna_starseeker",
 								"hearthstone_game_327_geared_up_rattlegore",
-								"hearthstone_game_327_geared_up_chromie"
+								"hearthstone_game_327_geared_up_chromie",
+								"hearthstone_game_327_geared_up_arfus"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510",
