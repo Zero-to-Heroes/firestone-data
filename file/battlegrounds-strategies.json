@@ -1,0 +1,27 @@
+{
+	"lastUpdateDate": "2023-02-14",
+	"heroes": [
+		{
+			"id": "TB_BaconShop_HERO_18",
+			"name": "Patches the Pirate",
+			"tips": [
+				{
+					"summary": "Try to press your hero power every turn to give yourself the highest odds of finding the good pirates and pairs / triples. The best pirates to get early are Salty Looter and Southsea Strongarm. In the mid game you want to hit Peggy Brittlebone, Cap’n Hoggarr and Tony Two-Tusk. If you can get a golden Cap’n Hoggar and normal one you have almost infinite money and just cycle pirates the rest of the game.",
+					"description": "Play pirates, then win! <br/> Easy peasy",
+					"author": "seb_the_tester",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		}
+	],
+	"authors": [
+		{
+			"id": "seb_the_tester",
+			"name": "Seb the tester",
+			"link": "https://www.firestoneapp.com",
+			"highlights": "Firestone dev, so doesn't know what he's talking about in terms of BG strategies"
+		}
+	]
+}

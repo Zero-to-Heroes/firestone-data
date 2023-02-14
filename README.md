@@ -3,6 +3,8 @@ aws s3 cp file/patches.json s3://static.zerotoheroes.com/hearthstone/data/ --acl
 aws s3 cp file/ai_decks s3://static.zerotoheroes.com/hearthstone/data/ai_decks --recursive --acl public-read
 aws s3 cp file/achievements s3://static.zerotoheroes.com/hearthstone/data/achievements --recursive --acl public-read
 
+aws s3 cp file/battlegrounds-strategies.json s3://static.zerotoheroes.com/hearthstone/data/battlegrounds-strategies/battlegrounds-strategies.json --acl public-read
+
 # Decks
 
 It looks like that the game uses the HERO_DECK_ID to notify what deck is being used. If this is consistently used
