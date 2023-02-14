@@ -1165,7 +1165,8 @@
 							"achievementTypes": [
 								"hearthstone_game_413_murlocalypse_now",
 								"hearthstone_game_413_diy_deathrattle",
-								"hearthstone_game_413_friends_on_the_other_side"
+								"hearthstone_game_413_friends_on_the_other_side",
+								"hearthstone_game_413_blaze_of_glory"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_604"
@@ -1174,7 +1175,8 @@
 							"achievementTypes": [
 								"hearthstone_game_414_youre_on_fire",
 								"hearthstone_game_414_boulevard_of_broken_spells",
-								"hearthstone_game_414_rebirth_revive_rekindle"
+								"hearthstone_game_414_rebirth_revive_rekindle",
+								"hearthstone_game_414_the_grind_never_stops"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_605"
@@ -1183,7 +1185,8 @@
 							"achievementTypes": [
 								"hearthstone_game_415_imminent_demise",
 								"hearthstone_game_415_shaken_not_stirred",
-								"hearthstone_game_415_obnoxiously_noxious"
+								"hearthstone_game_415_obnoxiously_noxious",
+								"hearthstone_game_415_its_aliiivveeee"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_606"
@@ -1192,7 +1195,8 @@
 							"achievementTypes": [
 								"hearthstone_game_416_b_positive",
 								"hearthstone_game_416_lost_in_time",
-								"hearthstone_game_416_blood_bank"
+								"hearthstone_game_416_blood_bank",
+								"hearthstone_game_416_mighty_menagerie"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_607"
@@ -1201,7 +1205,8 @@
 							"achievementTypes": [
 								"hearthstone_game_417_bullseye",
 								"hearthstone_game_417_tag_em_and_bag_em",
-								"hearthstone_game_417_reign_of_arrows"
+								"hearthstone_game_417_reign_of_arrows",
+								"hearthstone_game_417_pride_parade"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_608"
@@ -1210,7 +1215,8 @@
 							"achievementTypes": [
 								"hearthstone_game_418_wither_you_killed_her",
 								"hearthstone_game_418_get_rekht",
-								"hearthstone_game_418_babys_first_scourge"
+								"hearthstone_game_418_babys_first_scourge",
+								"hearthstone_game_418_beeten_down"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_609"
@@ -1219,7 +1225,8 @@
 							"achievementTypes": [
 								"hearthstone_game_419_scavenging_cube",
 								"hearthstone_game_419_selfindulgent",
-								"hearthstone_game_419_death_hurts"
+								"hearthstone_game_419_death_hurts",
+								"hearthstone_game_419_simply_fintastic"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_610"
@@ -1228,7 +1235,8 @@
 							"achievementTypes": [
 								"hearthstone_game_420_take_a_mana_leave_a_mana",
 								"hearthstone_game_420_quick_rommaths",
-								"hearthstone_game_420_arcane_bolt_arcane_bolt"
+								"hearthstone_game_420_arcane_bolt_arcane_bolt",
+								"hearthstone_game_420_reality_can_be_whatever_i_want"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_611"
@@ -1237,7 +1245,8 @@
 							"achievementTypes": [
 								"hearthstone_game_421_a_graveyard_smash",
 								"hearthstone_game_421_1010_vision",
-								"hearthstone_game_421_scare_tactics"
+								"hearthstone_game_421_scare_tactics",
+								"hearthstone_game_421_brain_food"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_612"
@@ -1246,7 +1255,8 @@
 							"achievementTypes": [
 								"hearthstone_game_422_soul_survivor",
 								"hearthstone_game_422_packs_a_real_wallop",
-								"hearthstone_game_422_for_the_fel_of_it"
+								"hearthstone_game_422_for_the_fel_of_it",
+								"hearthstone_game_422_stoked_to_evoke"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_613"
@@ -1255,7 +1265,8 @@
 							"achievementTypes": [
 								"hearthstone_game_423_the_limit_does_not_exist",
 								"hearthstone_game_423_parting_gifts",
-								"hearthstone_game_423_blight_widow"
+								"hearthstone_game_423_blight_widow",
+								"hearthstone_game_423_the_ice_dragon_cometh"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_614"
@@ -1274,7 +1285,9 @@
 								"hearthstone_game_412_cheese_touch",
 								"hearthstone_game_412_armed_and_dangerous",
 								"hearthstone_game_412_mark_of_destined_death",
-								"hearthstone_game_412_raged_too_hard"
+								"hearthstone_game_412_raged_too_hard",
+								"hearthstone_game_412_on_a_pale_horse",
+								"hearthstone_game_412_no_mana_left_behind"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_603"
@@ -2532,6 +2545,13 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_655"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_464_that_was_goreious"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_656"
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -2832,7 +2852,6 @@
 						{
 							"achievementTypes": [
 								"hearthstone_game_460_death_knight_gladiator",
-								"hearthstone_game_460_death_knightgladiator",
 								"hearthstone_game_460_flawless_death_knight_gladiator"
 							],
 							"icon": "general",
@@ -2883,6 +2902,8 @@
 								"hearthstone_game_312_sunken_city_heroic_conqueror",
 								"hearthstone_game_312_darkmoon_troupe_conqueror",
 								"hearthstone_game_312_darkmoon_troupe_heroic_conqueror",
+								"hearthstone_game_312_boss_rush_bounty",
+								"hearthstone_game_312_mutiny_on_the_bounty",
 								"hearthstone_game_312_bounties_kodobane",
 								"hearthstone_game_312_bounties_air_elemental",
 								"hearthstone_game_312_bounties_neeru_fireblade",
@@ -2899,6 +2920,7 @@
 								"hearthstone_game_309_protector_collector",
 								"hearthstone_game_309_caster_collector",
 								"hearthstone_game_309_fighter_collector",
+								"hearthstone_game_309_maxed",
 								"hearthstone_game_309_unlock_10_peices_of_equipment"
 							],
 							"icon": "general",
@@ -3086,9 +3108,14 @@
 								"hearthstone_game_327_geared_up_tess_greymane",
 								"hearthstone_game_327_geared_up_genn_greymane",
 								"hearthstone_game_327_geared_up_aranna_starseeker",
+								"hearthstone_game_327_geared_up_lord_godfrey",
 								"hearthstone_game_327_geared_up_rattlegore",
+								"hearthstone_game_327_geared_up_mr_bigglesworth",
 								"hearthstone_game_327_geared_up_chromie",
-								"hearthstone_game_327_geared_up_arfus"
+								"hearthstone_game_327_geared_up_arfus",
+								"hearthstone_game_327_geared_up_kelthuzad",
+								"hearthstone_game_327_geared_up_lilian_voss",
+								"hearthstone_game_327_geared_up_jandice_barov"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_510"
