@@ -14,9 +14,83 @@
 					"date": "2023-02-14"
 				}
 			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_21",
+			"name": "The Great Akazamzarak",
+			"tips": [
+				{
+					"summary": "Your hero power is ice block and splitting image",
+					"curves": ["basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		}
+	],
+	"curves": [
+		{
+			"id": "basic",
+			"name": "Basic Curve",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": ["sell", "buy", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						"buy",
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 6,
+					"actions": ["buy", "buy", "roll", "roll"]
+				},
+				{
+					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll",
+						"buy"
+					]
+				}
+			]
 		}
 	],
 	"authors": [
+		{
+			"id": "curvesheet",
+			"name": "BG Curvesheet (Minder & Jirek)",
+			"link": "https://www.bgcurvesheet.com/",
+			"highlights": "#1 NA"
+		},
 		{
 			"id": "seb_the_tester",
 			"name": "Seb the tester",
