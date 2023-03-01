@@ -2,13 +2,13 @@
 	"lastUpdateDate": "2023-02-14",
 	"heroes": [
 		{
-			"id": "TB_BaconShop_HERO_18",
-			"name": "Patches the Pirate",
+			"id": "TB_BaconShop_HERO_16",
+			"name": "A. F. Kay",
 			"tips": [
 				{
-					"summary": "Try to press your hero power every turn to give yourself the highest odds of finding the good pirates and pairs / triples. The best pirates to get early are Salty Looter and Southsea Strongarm. In the mid game you want to hit Peggy Brittlebone, Cap’n Hoggarr and Tony Two-Tusk. If you can get a golden Cap’n Hoggar and normal one you have almost infinite money and just cycle pirates the rest of the game.",
-					"description": "Play pirates, then win! <br/> Easy peasy",
-					"author": "seb_the_tester",
+					"summary": "Naga/Quilboar/Demons/Undead for tier 3s. Playing for tempo (bad discovers) or a win (good discovers)",
+					"curves": ["jeef", "warrior"],
+					"author": "curvesheet",
 					"language": "enUS",
 					"patch": 163976,
 					"date": "2023-02-14"
@@ -34,6 +34,7 @@
 		{
 			"id": "basic",
 			"name": "Basic Curve",
+			"notes": "Stronger with a token start, turn 4 shop RNG weakness. No heropower requirement.",
 			"steps": [
 				{
 					"turn": 1,
@@ -72,6 +73,761 @@
 				},
 				{
 					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll",
+						"buy"
+					]
+				}
+			]
+		},
+		{
+			"id": "fast-basic",
+			"name": "Fast Basic Curve",
+			"notes": "Stronger with a token start, turn 4 shop RNG weakness. No heropower requirement.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": ["sell", "buy", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						"buy",
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll"
+					]
+				}
+			]
+		},
+		{
+			"id": "jeef",
+			"name": "Jeef Curve",
+			"notes": "Uses tier 1 economy and strong pairs for a flexible start to the game with its variations.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "roll"]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"buy",
+						"sell"
+					]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "roll"]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"buy",
+						"sell"
+					]
+				}
+			]
+		},
+		{
+			"id": "fast-jeef",
+			"name": "Fast Jeef Curve",
+			"notes": "Uses tier 1 economy and strong pairs for a flexible start to the game with its variations. Pushes levels quickly.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "roll"]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"buy",
+						"sell"
+					]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						}
+					]
+				},
+				{
+					"turn": 6,
+					"actions": ["buy", "buy", "roll", "roll"]
+				}
+			]
+		},
+		{
+			"id": "slow-jeef",
+			"name": "Slow Jeef Curve",
+			"notes": "Uses tier 1 economy and strong pairs for a flexible start to the game with its variations. Stays on tier 2 to solidify the board.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "roll"]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"buy",
+						"sell"
+					]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"buy",
+						"sell"
+					]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"roll"
+					]
+				}
+			]
+		},
+		{
+			"id": "warrior",
+			"name": "Warrior Curve",
+			"notes": "A highly valueable line if tier 1 economy and forced triples are strong.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "roll"]
+				},
+				{
+					"turn": 3,
+					"actions": ["buy", "sell", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						"sell",
+						{
+							"type": "level",
+							"param": 2
+						},
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll"
+					]
+				}
+			]
+		},
+		{
+			"id": "extended-warrior",
+			"name": "Extended Warrior Curve",
+			"notes": "A highly valueable line if tier 1 economy and forced triples are strong. This variant is a fallback option in case a triple hasn't shown up yet playing regular warrior curve.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "roll"]
+				},
+				{
+					"turn": 3,
+					"actions": ["buy", "sell", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "roll"]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						{
+							"type": "level",
+							"param": 3
+						},
+						"roll"
+					]
+				},
+				{
+					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll"
+					]
+				}
+			]
+		},
+		{
+			"id": "basic-yogg",
+			"name": "Basic Yogg Curve",
+			"notes": "Uses a 2-cost heropower to get to tier 3 faster.",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["hero-power", "roll"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": ["hero-power", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"sell",
+						"hero-power"
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["hero-power", "sell", "buy", "buy"]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"hero-power"
+					]
+				}
+			]
+		},
+		{
+			"id": "aggro-yogg",
+			"name": "Aggro Yogg Curve",
+			"notes": "Uses a 2-cost heropower to get good tier 1s on board before leveling to 3 faster",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["hero-power", "roll"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "sell", "hero-power"]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"hero-power"
+					]
+				},
+				{
+					"turn": 4,
+					"actions": ["hero-power", "roll", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"hero-power"
+					]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"hero-power"
+					]
+				}
+			]
+		},
+		{
+			"id": "rafaam",
+			"name": "Rafaam Curve",
+			"notes": "Clean leveling using 1-cost heropower, 2-cost heropower with economy, or tavern tippers",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "hero-power"]
+				},
+				{
+					"turn": 3,
+					"actions": ["buy", "roll", "hero-power"]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"buy",
+						"hero-power"
+					]
+				},
+				{
+					"turn": 5,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"hero-power"
+					]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"hero-power"
+					]
+				}
+			]
+		},
+		{
+			"id": "slow-rafaam",
+			"name": "Slow Rafaam Curve",
+			"notes": "Clean leveling using 1-cost heropower, 2-cost heropower with economy, or tavern tippers. Cut off on tier 2 to get stronger",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": ["buy", "hero-power"]
+				},
+				{
+					"turn": 3,
+					"actions": ["buy", "roll", "hero-power"]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						},
+						"buy",
+						"hero-power"
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "hero-power"]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"buy"
+					]
+				},
+				{
+					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "3-on-3",
+			"name": "3 on 3 (Level on 8)",
+			"notes": "Sacrifices early health to get very fast access to tier 3 minions, then pushes levels",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						"sell",
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "roll"]
+				},
+				{
+					"turn": 6,
+					"actions": [
+						"buy",
+						{
+							"type": "level",
+							"param": 4
+						}
+					]
+				},
+				{
+					"turn": 7,
+					"actions": ["buy", "buy", "roll", "roll", "roll"]
+				}
+			]
+		},
+		{
+			"id": "3-on-3-bis",
+			"name": "3 on 3 (Level on 9)",
+			"notes": "Sacrifices early health to fill the board with tier 3 minions",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						"sell",
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 4,
+					"actions": ["buy", "buy"]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "roll"]
+				},
+				{
+					"turn": 6,
+					"actions": ["buy", "buy", "roll", "roll"]
+				},
+				{
+					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 4
+						},
+						"roll",
+						"roll",
+						"buy"
+					]
+				}
+			]
+		},
+		{
+			"id": "4-on-4",
+			"name": "4 on 4",
+			"notes": "Sacrifices early health to get very fast access to tier 3 minions. A fallback option in case of a bad shop after 3 on 3; requires economy",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy-token"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": [
+						"sell",
+						{
+							"type": "level",
+							"param": 3
+						}
+					]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						"sell",
+						{
+							"type": "level",
+							"param": 4
+						}
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "roll"]
+				},
+				{
+					"turn": 6,
+					"actions": ["buy", "buy", "roll", "roll"]
+				},
+				{
+					"turn": 7,
+					"actions": ["buy", "buy", "roll", "roll", "roll"]
+				}
+			]
+		},
+		{
+			"id": "toki",
+			"name": "Toki Curve",
+			"notes": "A way to use 1 cost heropowers that don't provide tempo",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy-token"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": ["sell", "buy", "buy"]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"hero-power"
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["hero-power", "buy", "buy"]
+				},
+				{
+					"turn": 6,
+					"actions": ["roll", "buy", "roll", "buy"]
+				},
+				{
+					"turn": 7,
+					"actions": [
+						{
+							"type": "level",
+							"param": 7
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "pocky",
+			"name": "Pocky Curve",
+			"notes": "A very niche use for 1 cost heropowers",
+			"steps": [
+				{
+					"turn": 1,
+					"actions": ["buy-token"]
+				},
+				{
+					"turn": 2,
+					"actions": [
+						{
+							"type": "level",
+							"param": 2
+						}
+					]
+				},
+				{
+					"turn": 3,
+					"actions": ["buy", "hero-power", "roll"]
+				},
+				{
+					"turn": 4,
+					"actions": [
+						{
+							"type": "level",
+							"param": 3
+						},
+						"sell",
+						"hero-power"
+					]
+				},
+				{
+					"turn": 5,
+					"actions": ["buy", "buy", "hero-power"]
+				},
+				{
+					"turn": 6,
 					"actions": [
 						{
 							"type": "level",
