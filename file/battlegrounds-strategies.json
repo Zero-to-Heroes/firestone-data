@@ -28,6 +28,1252 @@
 					"date": "2023-02-14"
 				}
 			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_76",
+			"name": "Al-Akir",
+			"tips": [
+				{
+					"summary": "Good early tempo, macaw and cleave synergy late",
+					"curves": ["3-on-3", "3-on-3-bis"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_56",
+			"name": "Alexstrasza",
+			"tips": [
+				{
+					"summary": "Very vulnerable and highrolly, push your advantage before it's too late",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_201",
+			"name": "Ambassador Faelin",
+			"tips": [
+				{
+					"summary": "Mainly focus on your 6; it needs to be strong and directional enough to level for",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_59",
+			"name": "Aranna Starseeker",
+			"tips": [
+				{
+					"summary": "Low tier strategies are deceiving; low first place rates hurt averages, so look for good \"normal\" gameplans",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_72",
+			"name": "Lord Barov",
+			"tips": [
+				{
+					"summary": "Coins are spells for naga synergy, Barov gets better when others play less tempo heavy",
+					"curves": ["rafaam", "fast-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_70",
+			"name": "Mr. Bigglesworth",
+			"tips": [
+				{
+					"summary": "Playing for survival means getting to a strong midgame board: focus on winning turns 7/8/9, not turns 2/3/4",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_103",
+			"name": "Death Speaker Blackthorn",
+			"tips": [
+				{
+					"summary": "Free tempo helps with leveling, your endgame board does not need to be quilboar",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_43",
+			"name": "Dinotamer Brann",
+			"tips": [
+				{
+					"summary": "Make sure there's enough battlecries on tier 1 before you choose brann",
+					"curves": ["warrior", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_001",
+			"name": "Bru'kan",
+			"tips": [
+				{
+					"summary": "Free tempo early; Zapping enemy divine shields later is your biggest strength",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG21_HERO_000",
+			"name": "Cariel Roame",
+			"tips": [
+				{
+					"summary": "Shields are good",
+					"curves": ["rafaam", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_78",
+			"name": "Chenvaala",
+			"tips": [
+				{
+					"summary": "Final board does not need to be elementals; don't force the heropower if the game won't give it to you",
+					"curves": ["warrior", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG21_HERO_020",
+			"name": "Cookie the Cook",
+			"tips": [
+				{
+					"summary": "Need to have a very good reason not to 3 on 3",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_29",
+			"name": "C'Thun",
+			"tips": [
+				{
+					"summary": "Only heropower when the gold is efficient and stats are useful; find a gameplan besides heropower",
+					"curves": ["basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_33",
+			"name": "The Curator",
+			"tips": [
+				{
+					"summary": "Free tempo is good, you're not forced to play for amalgam as the win condition",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_52",
+			"name": "Deathwing",
+			"tips": [
+				{
+					"summary": "Deathrattles and Divine Shields",
+					"curves": ["fast-basic", "warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_36",
+			"name": "Dancin' Deryl",
+			"tips": [
+				{
+					"summary": "Shields are good, don't worry about leveling \"on time\"",
+					"curves": [],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_002",
+			"name": "Drek'Thar",
+			"tips": [
+				{
+					"summary": "Shields are good",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_01",
+			"name": "Edwin VanCleef",
+			"tips": [
+				{
+					"summary": "Shields are good",
+					"curves": ["slow-rafaam", "3-on-3-bis"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_42",
+			"name": "Elise Starseeker",
+			"tips": [
+				{
+					"summary": "Being flexible with your curves is key",
+					"curves": ["fast-basic", "toki"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG24_HERO_204",
+			"name": "Enhance-o Mechano",
+			"tips": [
+				{
+					"summary": "Don't expect any amount of consistency from the heropower, cheese poison+shield murlocs",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_64",
+			"name": "Captain Eudora",
+			"tips": [
+				{
+					"summary": "Figure out what tavern tier you want to discover from, then dig accordingly",
+					"curves": ["special", "rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_40",
+			"name": "Sir Finley Mrrgglton",
+			"tips": [
+				{
+					"summary": "Trying Finley to highroll is bad; there's way too many heroes. Pick when the other options are bad",
+					"curves": [],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_55",
+			"name": "Fungalmancer Flurgl",
+			"tips": [
+				{
+					"summary": "Heropower becomes useful once you have Brann",
+					"curves": ["fast-basic", "basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_02",
+			"name": "Galakrond",
+			"tips": [
+				{
+					"summary": "Almost always heropower turn 1, even without economy. Focus on 6s ",
+					"curves": ["slow-rafaam", "rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_283",
+			"name": "Galewing",
+			"tips": [
+				{
+					"summary": "Need to have a very good reason not to 3 on 3",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_10",
+			"name": "Trade Prince Gallywix",
+			"tips": [
+				{
+					"summary": "Stay alive to win, always focus on economy (elementals, murlocs, pirates)",
+					"curves": ["warrior", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_15",
+			"name": "George the Fallen",
+			"tips": [
+				{
+					"summary": "Toxfin",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_95",
+			"name": "Greybough",
+			"tips": [
+				{
+					"summary": "Deathrattles and Reborns",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_242",
+			"name": "Guff Runetotem",
+			"tips": [
+				{
+					"summary": "Deathrattles and Reborns",
+					"curves": ["basic-yogg", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG23_HERO_305",
+			"name": "Heistbaron Togwaggle",
+			"tips": [
+				{
+					"summary": "Need to have a very good reason not to 3 on 3",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_67",
+			"name": "Captain Hooktusk",
+			"tips": [
+				{
+					"summary": "Alleycat (and sellemental/shell collector)",
+					"curves": ["jeef", "warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_08",
+			"name": "Illidan Stormrage",
+			"tips": [
+				{
+					"summary": "Less need to focus on a full board",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_200",
+			"name": "Ini Stormcoil",
+			"tips": [
+				{
+					"summary": "Demons & Undead for early deathrattles with tempo",
+					"curves": ["warrior", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_702",
+			"name": "The Jailer",
+			"tips": [
+				{
+					"summary": "Demons, and Undead (for summons) and Mechs (for shields) are a must",
+					"curves": ["basic", "slow-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_71",
+			"name": "Jandice Barov",
+			"tips": [
+				{
+					"summary": "Alleycat triples, Brann+Primalfin, Glowscale, Nomi",
+					"curves": ["slow-jeef", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_37",
+			"name": "Lord Jaraxxus",
+			"tips": [
+				{
+					"summary": "Still don't",
+					"curves": [],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_60",
+			"name": "Kael'thas Sunstrider",
+			"tips": [
+				{
+					"summary": "The heropower stats basically don't matter",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_68",
+			"name": "Skycap'n Kragg",
+			"tips": [
+				{
+					"summary": "Wants to sit on tier 5 and spam 5 drops; beasts are best",
+					"curves": ["fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_280",
+			"name": "Kurtrus Ashfallen",
+			"tips": [
+				{
+					"summary": "Wants to level very slowly and out-tempo in the midgame (aiming for 3rd/4th)",
+					"curves": ["basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG23_HERO_304",
+			"name": "Lady Vashj",
+			"tips": [
+				{
+					"summary": "Passive heropower >> active heropower, big cleave good",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_25",
+			"name": "Lich Baz'hial",
+			"tips": [
+				{
+					"summary": "Kathranatir prevents health loss, often heropower and level turns 1 and 2",
+					"curves": ["special"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_62",
+			"name": "Maiev Shadowsong",
+			"tips": [
+				{
+					"summary": "Set up triples, prepare to level flexibly to save health if early rafaam curve gives bad minions",
+					"curves": ["rafaam", "warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_58",
+			"name": "Malygos",
+			"tips": [
+				{
+					"summary": "Alleycat, reroll triple rewards",
+					"curves": ["warrior", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_49",
+			"name": "Millhouse Manastorm",
+			"tips": [
+				{
+					"summary": "Find a gameplan that lets you buy & sell many things, can quickly fill board midgame for tempo",
+					"curves": ["slow-jeef", "extended-warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_17",
+			"name": "Millificent Manastorm",
+			"tips": [
+				{
+					"summary": "Still don't",
+					"curves": ["fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_38",
+			"name": "King Mukla",
+			"tips": [
+				{
+					"summary": "Impulsive Trickster / Eventide Brute / Athissa",
+					"curves": ["rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG23_HERO_303",
+			"name": "Murloc Holmes",
+			"tips": [
+				{
+					"summary": "Can go 3 on 3 without selling",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_301",
+			"name": "Mutanus the Devourer",
+			"tips": [
+				{
+					"summary": "Eat minions with temporary buffs (spellcraft, groundshaker)",
+					"curves": ["slow-jeef", "basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_202",
+			"name": "Master Nguyen",
+			"tips": [
+				{
+					"summary": "Economy heropowers early, high value&tempo heropowers later",
+					"curves": [],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_57",
+			"name": "Nozdormu",
+			"tips": [
+				{
+					"summary": "Much better at soft-forcing; very consistent 3 on 3, or stay on 1 with lots of econ",
+					"curves": ["3-on-3", "warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_93",
+			"name": "N'Zoth",
+			"tips": [
+				{
+					"summary": "Leapers",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_74",
+			"name": "Forest Warden Omu",
+			"tips": [
+				{
+					"summary": "Needs economy starts to level fast & efficiently, good at getting to tier 6 fast",
+					"curves": ["special", "rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_305",
+			"name": "Onyxia",
+			"tips": [
+				{
+					"summary": "Avenge/free tempo",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG23_HERO_201",
+			"name": "Ozumat",
+			"tips": [
+				{
+					"summary": "Free tempo is good, you're not forced to play for Tentacle as the win condition",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_18",
+			"name": "Patches the Pirate",
+			"tips": [
+				{
+					"summary": "Playing around Mechs' shields and Murlocs' poisons is hard",
+					"curves": ["special", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_34",
+			"name": "Patchwerk",
+			"tips": [
+				{
+					"summary": "Health is a resource; Mechs/Demons for midgame strength",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG25_HERO_100",
+			"name": "Professor Putricide",
+			"tips": [
+				{
+					"summary": "Tier 6 options are gamewinning, economy creations from tier 3/4 help get you there",
+					"curves": ["3-on-3", "4-on-4"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_39",
+			"name": "Pyramad",
+			"tips": [
+				{
+					"summary": "Tier 6 options are gamewinning, economy creations from tier 3/4 help get you there",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_007",
+			"name": "Queen Azshara",
+			"tips": [
+				{
+					"summary": "Activating Heropower can be done in combat",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_45",
+			"name": "Arch-Villain Rafaam",
+			"tips": [
+				{
+					"summary": "Rafaam curve is called rafaam curve for a reason",
+					"curves": ["rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_11",
+			"name": "Ragnaros the Firelord",
+			"tips": [
+				{
+					"summary": "Demons & Undead are good, so that opponents have summons to activate your heropower",
+					"curves": ["jeef", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_75",
+			"name": "Rakanishu",
+			"tips": [
+				{
+					"summary": "Don't",
+					"curves": [],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_12",
+			"name": "The Rat King",
+			"tips": [
+				{
+					"summary": "On Tier 1 discovers are always the same; guaranteed economy is good",
+					"curves": ["rafaam", "basic-yogg"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_41",
+			"name": "Reno Jackson",
+			"tips": [
+				{
+					"summary": "Either force triples or be willing to heropower tier 3/4 minions",
+					"curves": ["warrior", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_100",
+			"name": "Rokara",
+			"tips": [
+				{
+					"summary": "Shields are good",
+					"curves": ["fast-jeef", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_102",
+			"name": "Overlord Saurfang",
+			"tips": [
+				{
+					"summary": "Shields are good",
+					"curves": ["rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG21_HERO_010",
+			"name": "Scabbs Cutterbutter",
+			"tips": [
+				{
+					"summary": "Early heropower for economy and pairs/triples, don't expect to steal direction",
+					"curves": ["rafaam", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_23",
+			"name": "Shudderwock",
+			"tips": [
+				{
+					"summary": "Shell Collector & Deck Swabbie give money",
+					"curves": ["warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_90",
+			"name": "Silas Darkmoon",
+			"tips": [
+				{
+					"summary": "Good minions without tickets are often better than bad minions with tickets",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_27",
+			"name": "Sindragosa",
+			"tips": [
+				{
+					"summary": "Repeatedly freeze while going 3 on 3 to get guaranteed high tempo",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG24_HERO_100",
+			"name": "Sire Denathrius",
+			"tips": [
+				{
+					"summary": "Prioritize easy-to-complete quests",
+					"curves": ["fast-basic", "slow-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG24_HERO_100",
+			"name": "Sire Denathrius",
+			"tips": [
+				{
+					"summary": "Prioritize easy-to-complete quests",
+					"curves": ["fast-basic", "slow-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG21_HERO_030",
+			"name": "Sneed",
+			"tips": [
+				{
+					"summary": "Don't heropower tier 1 minions unless you have a very good reason to",
+					"curves": ["warrior", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG23_HERO_306",
+			"name": "Sylvanas Windrunner",
+			"tips": [
+				{
+					"summary": "Don't force rafaam curve every game; other curves are viable too (evaluate why you play each curve). ",
+					"curves": ["rafaam", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_282",
+			"name": "Tamsin Roame",
+			"tips": [
+				{
+					"summary": "Heropower is free tempo, not direction - heropower buffs on Tarecgosa are permanent",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_000",
+			"name": "Tavish Stormpike",
+			"tips": [
+				{
+					"summary": "Don't aim left or right until you have a very good reason to ",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG25_HERO_103",
+			"name": "Teron Gorefiend",
+			"tips": [
+				{
+					"summary": "Coming soon",
+					"curves": ["fast-basic", "slow-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_50",
+			"name": "Tess Greymane",
+			"tips": [
+				{
+					"summary": "Coming soon",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_94",
+			"name": "Tickatus",
+			"tips": [
+				{
+					"summary": "3 on 3 (Quilboar, Demons)",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_28",
+			"name": "Infinite Toki",
+			"tips": [
+				{
+					"summary": "Lots of midgame strength, less likely to get solid direction, much stronger with token starts",
+					"curves": ["3-on-3", "toki"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_003",
+			"name": "Vanndar Stormpike",
+			"tips": [
+				{
+					"summary": "Free tempo",
+					"curves": ["fast-basic", "jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG22_HERO_004",
+			"name": "Varden Dawngrasp",
+			"tips": [
+				{
+					"summary": "Don't be afraid to triple early, you can triple more later. Copied minions copy stats; Chronormu is fantastic",
+					"curves": ["3-on-3", "fast-basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_201",
+			"name": "Vol'jin",
+			"tips": [
+				{
+					"summary": "Heropower makes temporary stats permanent, spellcraft synergy, divine shield/cleave are good",
+					"curves": ["fast-basic", "jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_14",
+			"name": "Queen Wagtoggle",
+			"tips": [
+				{
+					"summary": "Don't ",
+					"curves": ["rafaam"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "BG20_HERO_101",
+			"name": "Xyrella",
+			"tips": [
+				{
+					"summary": "Economy on tier 1, Mechs for easy strength",
+					"curves": ["rafaam", "basic-yogg"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_35",
+			"name": "Yogg-Saron, Hope's End",
+			"tips": [
+				{
+					"summary": "Economy on tier 1, Mechs for easy strength",
+					"curves": ["rafaam", "basic-yogg"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_53",
+			"name": "Ysera",
+			"tips": [
+				{
+					"summary": "Tier 3 dragons are strong",
+					"curves": ["3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_92",
+			"name": "Y'Shaarj",
+			"tips": [
+				{
+					"summary": "Heropower is good when leveling efficiently, way weaker when staying on a tier for a long time.",
+					"curves": ["rafaam", "aggro-yogg"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_91",
+			"name": "Zephrys, the Great",
+			"tips": [
+				{
+					"summary": "You do not need to force bad pairs",
+					"curves": ["fast-basic", "warrior"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 163976,
+					"date": "2023-02-14"
+				}
+			]
 		}
 	],
 	"curves": [
@@ -843,9 +2089,9 @@
 	"authors": [
 		{
 			"id": "curvesheet",
-			"name": "BG Curvesheet (Minder & Jirek)",
+			"name": "BG Curvesheet (Minder & Jkirek)",
 			"link": "https://www.bgcurvesheet.com/",
-			"highlights": "#1 NA"
+			"highlights": "Former leaderboard #1 (Minder), Lobby Legends finalist (Jkirek)"
 		},
 		{
 			"id": "seb_the_tester",
