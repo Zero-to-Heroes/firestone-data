@@ -13,12 +13,14 @@
 		"maw_and_disorder",
 		"icecrown",
 		"return_of_the_lich_king",
-		"path_of_arthas"
+		"path_of_arthas",
+		"return_to_naxxramas"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"return_to_naxxramas",
 		"path_of_arthas",
 		"return_of_the_lich_king",
 		"maw_and_disorder",
