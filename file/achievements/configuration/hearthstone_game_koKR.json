@@ -2802,6 +2802,15 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_656",
 							"name": "테론 고어핀드"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_478_friend_of_a_friend",
+								"hearthstone_game_478_chart_topper"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_670",
+							"name": "밴드 매니저 정예 타우렌 족장"
 						}
 					],
 					"icon": "mode_battlegrounds",

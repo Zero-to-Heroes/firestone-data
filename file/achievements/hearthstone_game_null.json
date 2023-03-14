@@ -51140,5 +51140,61 @@
 		"quota": 500,
 		"root": false,
 		"type": "hearthstone_game_312_mutiny_on_the_bounty"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5817,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 478,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5817",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_478_chart_topper"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5822,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 478,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5822",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_478_chart_topper"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5823,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 478,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5823",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_478_chart_topper"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5824,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 478,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5824",
+		"points": 20,
+		"priority": 0,
+		"quota": 16,
+		"root": true,
+		"type": "hearthstone_game_478_friend_of_a_friend"
 	}
 ]

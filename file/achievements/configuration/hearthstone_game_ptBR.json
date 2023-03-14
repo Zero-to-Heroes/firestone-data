@@ -2802,6 +2802,15 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_656",
 							"name": "Teron Sanguinávido"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_478_friend_of_a_friend",
+								"hearthstone_game_478_chart_topper"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_670",
+							"name": "Empresário Artístico C.T.E."
 						}
 					],
 					"icon": "mode_battlegrounds",

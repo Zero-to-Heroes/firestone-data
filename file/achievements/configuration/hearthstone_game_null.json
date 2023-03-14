@@ -2552,6 +2552,14 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_656"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_478_friend_of_a_friend",
+								"hearthstone_game_478_chart_topper"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_670"
 						}
 					],
 					"icon": "mode_battlegrounds",
