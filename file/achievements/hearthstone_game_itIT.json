@@ -23028,11 +23028,11 @@
 		"type": "hearthstone_game_114_big_spender"
 	},
 	{
-		"completedText": "Finisci il tuo turno con un Gatto Soriano con statistiche pari a 60/60 o superiori.",
+		"completedText": "Finisci il tuo turno con un servitore di Livello 1 con statistiche pari a 60/60 o superiori.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Crescono così in fretta",
-		"emptyText": "Finisci il tuo turno con un Gatto Soriano con statistiche pari a 60/60 o superiori.",
+		"emptyText": "Finisci il tuo turno con un servitore di Livello 1 con statistiche pari a 60/60 o superiori.",
 		"hsAchievementId": 1721,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 114,
@@ -23043,7 +23043,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Finisci il tuo turno con un Gatto Soriano con statistiche pari a 60/60 o superiori.",
+		"text": "Finisci il tuo turno con un servitore di Livello 1 con statistiche pari a 60/60 o superiori.",
 		"type": "hearthstone_game_114_they_grow_up_so_fast"
 	},
 	{
@@ -69711,11 +69711,11 @@
 		"type": "hearthstone_game_433_when_push_comes_to_shove"
 	},
 	{
-		"completedText": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 40 volte.",
+		"completedText": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 40 volte.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Surf sulle braccia",
-		"emptyText": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 40 volte.",
+		"emptyText": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 40 volte.",
 		"hsAchievementId": 5496,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 433,
@@ -69726,15 +69726,15 @@
 		"priority": 0,
 		"quota": 40,
 		"root": true,
-		"text": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 40 volte.",
+		"text": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 40 volte.",
 		"type": "hearthstone_game_433_surfs_up"
 	},
 	{
-		"completedText": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 80 volte.",
+		"completedText": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 80 volte.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Surf sulle braccia",
-		"emptyText": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 80 volte.",
+		"emptyText": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 80 volte.",
 		"hsAchievementId": 5497,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 433,
@@ -69745,7 +69745,7 @@
 		"priority": 1,
 		"quota": 80,
 		"root": false,
-		"text": "Scambia il Rantolo di Morte di Tuffo tra il Pubblico tra te e l'avversario 80 volte.",
+		"text": "Scambia il Rantolo di Morte di Surfista della Folla tra te e l'avversario 80 volte.",
 		"type": "hearthstone_game_433_surfs_up"
 	},
 	{
@@ -72369,5 +72369,62 @@
 		"root": false,
 		"text": "Pesca 60 Armi con Forgiatura delle Rune.",
 		"type": "hearthstone_game_480_runes_not_included"
+	},
+	{
+		"completedText": "Gioca una partita in Battaglia con il Maestro del Rock Voone.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Pronti a rockeggiare!",
+		"emptyText": "Gioca una partita in Battaglia con il Maestro del Rock Voone.",
+		"hsAchievementId": 5892,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5892",
+		"name": "Pronti a rockeggiare!",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"text": "Gioca una partita in Battaglia con il Maestro del Rock Voone.",
+		"type": "hearthstone_game_481_ready_to_rock"
+	},
+	{
+		"completedText": "Piazzati nella Top 4 con il Maestro del Rock Voone.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Pronti a rockeggiare!",
+		"emptyText": "Piazzati nella Top 4 con il Maestro del Rock Voone.",
+		"hsAchievementId": 5893,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5893",
+		"name": "Pronti a rockeggiare!",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"text": "Piazzati nella Top 4 con il Maestro del Rock Voone.",
+		"type": "hearthstone_game_481_ready_to_rock"
+	},
+	{
+		"completedText": "Piazzati al 1° posto con il Maestro del Rock Voone.",
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"displayName": "Pronti a rockeggiare!",
+		"emptyText": "Piazzati al 1° posto con il Maestro del Rock Voone.",
+		"hsAchievementId": 5894,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5894",
+		"name": "Pronti a rockeggiare!",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"text": "Piazzati al 1° posto con il Maestro del Rock Voone.",
+		"type": "hearthstone_game_481_ready_to_rock"
 	}
 ]

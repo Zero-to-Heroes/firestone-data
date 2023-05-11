@@ -3003,6 +3003,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_670",
 							"name": "Band Manager E.T.C."
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_481_ready_to_rock"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_673",
+							"name": "Rockmeister Voone"
 						}
 					],
 					"icon": "mode_battlegrounds",

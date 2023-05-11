@@ -53324,5 +53324,47 @@
 		"quota": 60,
 		"root": false,
 		"type": "hearthstone_game_480_runes_not_included"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5892,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5892",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_481_ready_to_rock"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5893,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5893",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_481_ready_to_rock"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 5894,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 481,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_5894",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_481_ready_to_rock"
 	}
 ]

@@ -3003,6 +3003,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_670",
 							"name": "ETC representante"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_481_ready_to_rock"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_673",
+							"name": "Voone maestro del rock"
 						}
 					],
 					"icon": "mode_battlegrounds",

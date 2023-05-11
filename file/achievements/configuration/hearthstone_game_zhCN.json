@@ -3003,6 +3003,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_670",
 							"name": "乐队经理精英牛头人酋长"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_481_ready_to_rock"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_673",
+							"name": "摇滚教父沃恩"
 						}
 					],
 					"icon": "mode_battlegrounds",
