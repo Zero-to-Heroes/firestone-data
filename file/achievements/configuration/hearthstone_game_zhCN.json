@@ -1421,33 +1421,21 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_434_playing_the_scales",
-								"hearthstone_game_434_stacked_lineup",
-								"hearthstone_game_434_melomaniacal_laughter"
+								"hearthstone_game_444_jack_of_all_runes",
+								"hearthstone_game_444_giant_following",
+								"hearthstone_game_444_wall_of_death"
 							],
-							"icon": "shaman",
-							"id": "hearthstone_game_section_625",
-							"name": "萨满祭司"
+							"icon": "general",
+							"id": "hearthstone_game_section_635",
+							"name": "死亡骑士"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_435_voones_boon",
-								"hearthstone_game_435_encore_encore",
-								"hearthstone_game_435_and_the_crowd_goes_wild"
+								"hearthstone_game_457_too_ghoul_for_school"
 							],
-							"icon": "warrior",
-							"id": "hearthstone_game_section_626",
-							"name": "战士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_436_your_spaghetti",
-								"hearthstone_game_436_epic_rap_battle_of_blingstory",
-								"hearthstone_game_436_boots_and_cats_and"
-							],
-							"icon": "rogue",
-							"id": "hearthstone_game_section_627",
-							"name": "潜行者"
+							"icon": "general",
+							"id": "hearthstone_game_section_650",
+							"name": "死亡骑士/圣骑士"
 						},
 						{
 							"achievementTypes": [
@@ -1461,53 +1449,47 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_438_the_mighty_jungle",
-								"hearthstone_game_438_monkeyz",
-								"hearthstone_game_438_beastly_boys"
+								"hearthstone_game_450_whats_new_silver_hand"
 							],
-							"icon": "hunter",
-							"id": "hearthstone_game_section_629",
-							"name": "猎人"
+							"icon": "general",
+							"id": "hearthstone_game_section_643",
+							"name": "圣骑士/萨满祭司"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_439_sold_out_show",
-								"hearthstone_game_439_shifting_shapes",
-								"hearthstone_game_439_breaths_of_the_wild"
+								"hearthstone_game_434_playing_the_scales",
+								"hearthstone_game_434_stacked_lineup",
+								"hearthstone_game_434_melomaniacal_laughter"
 							],
-							"icon": "druid",
-							"id": "hearthstone_game_section_630",
-							"name": "德鲁伊"
+							"icon": "shaman",
+							"id": "hearthstone_game_section_625",
+							"name": "萨满祭司"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_440_i_like_to_movement_movement",
-								"hearthstone_game_440_urge_to_dirge",
-								"hearthstone_game_440_perish_song"
+								"hearthstone_game_447_frog_rock"
 							],
-							"icon": "warlock",
-							"id": "hearthstone_game_section_631",
-							"name": "术士"
+							"icon": "general",
+							"id": "hearthstone_game_section_640",
+							"name": "萨满祭司/战士"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_441_do_the_waveform",
-								"hearthstone_game_441_on_repeat",
-								"hearthstone_game_441_destroy_them_with_lasers"
+								"hearthstone_game_435_voones_boon",
+								"hearthstone_game_435_encore_encore",
+								"hearthstone_game_435_and_the_crowd_goes_wild"
 							],
-							"icon": "mage",
-							"id": "hearthstone_game_section_632",
-							"name": "法师"
+							"icon": "warrior",
+							"id": "hearthstone_game_section_626",
+							"name": "战士"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_442_my_hearth_will_go_on",
-								"hearthstone_game_442_like_comment_and_subscribe",
-								"hearthstone_game_442_jealous_much"
+								"hearthstone_game_448_twohand_tapping"
 							],
-							"icon": "priest",
-							"id": "hearthstone_game_section_633",
-							"name": "牧师"
+							"icon": "general",
+							"id": "hearthstone_game_section_641",
+							"name": "战士/恶魔猎手"
 						},
 						{
 							"achievementTypes": [
@@ -1521,13 +1503,119 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_444_jack_of_all_runes",
-								"hearthstone_game_444_giant_following",
-								"hearthstone_game_444_wall_of_death"
+								"hearthstone_game_456_rushing_and_dragging"
 							],
 							"icon": "general",
-							"id": "hearthstone_game_section_635",
-							"name": "死亡骑士"
+							"id": "hearthstone_game_section_649",
+							"name": "恶魔猎手/潜行者"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_436_your_spaghetti",
+								"hearthstone_game_436_epic_rap_battle_of_blingstory",
+								"hearthstone_game_436_boots_and_cats_and"
+							],
+							"icon": "rogue",
+							"id": "hearthstone_game_section_627",
+							"name": "潜行者"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_449_original_mix"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_642",
+							"name": "潜行者/牧师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_442_my_hearth_will_go_on",
+								"hearthstone_game_442_like_comment_and_subscribe",
+								"hearthstone_game_442_jealous_much"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_633",
+							"name": "牧师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_455_refreshing_vendor"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_648",
+							"name": "牧师/德鲁伊"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_439_sold_out_show",
+								"hearthstone_game_439_shifting_shapes",
+								"hearthstone_game_439_breaths_of_the_wild"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_630",
+							"name": "德鲁伊"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_452_mana_face_doomkin"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_645",
+							"name": "德鲁伊/术士"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_440_i_like_to_movement_movement",
+								"hearthstone_game_440_urge_to_dirge",
+								"hearthstone_game_440_perish_song"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_631",
+							"name": "术士"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_453_improvisation"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_646",
+							"name": "术士/法师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_441_do_the_waveform",
+								"hearthstone_game_441_on_repeat",
+								"hearthstone_game_441_destroy_them_with_lasers"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_632",
+							"name": "法师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_454_falling_stars"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_647",
+							"name": "法师/猎人"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_438_the_mighty_jungle",
+								"hearthstone_game_438_monkeyz",
+								"hearthstone_game_438_beastly_boys"
+							],
+							"icon": "hunter",
+							"id": "hearthstone_game_section_629",
+							"name": "猎人"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_451_nothin_but_a_hound_dog"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_644",
+							"name": "猎人/死亡骑士"
 						},
 						{
 							"achievementTypes": [
@@ -1543,7 +1631,9 @@
 								"hearthstone_game_433_happy_harmony",
 								"hearthstone_game_433_deadly_dissonance",
 								"hearthstone_game_433_azeroths_got_talent",
-								"hearthstone_game_433_mash_up_artist"
+								"hearthstone_game_433_mash_up_artist",
+								"hearthstone_game_433_now_thats_what_i_call_etc",
+								"hearthstone_game_433_rrrremix"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_624",
@@ -1552,7 +1642,7 @@
 					],
 					"icon": "general",
 					"id": "hearthstone_game_sub_172",
-					"name": "音乐节"
+					"name": "传奇音乐节"
 				},
 				{
 					"categories": [
@@ -3011,6 +3101,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_673",
 							"name": "摇滚教父沃恩"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_482_ingenious"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_674",
+							"name": "因葛，钢铁颂歌"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_483_sailing_to_victory"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_675",
+							"name": "霍格船长 "
 						}
 					],
 					"icon": "mode_battlegrounds",
@@ -3458,13 +3564,13 @@
 						{
 							"achievementTypes": [
 								"hearthstone_game_409_my_favorite_mercenary",
-								"hearthstone_game_409_something_fun_haha",
+								"hearthstone_game_409_apex_predator",
 								"hearthstone_game_409_everyfin_is_good",
 								"hearthstone_game_409_everyfin_is_cool",
 								"hearthstone_game_409_everyfin_is_awesome",
 								"hearthstone_game_409_warlock_rehabilitation",
 								"hearthstone_game_409_one_two_five",
-								"hearthstone_game_409_master_of_fate",
+								"hearthstone_game_409_wet_bed_redemption",
 								"hearthstone_game_409_shut_up_dad"
 							],
 							"icon": "general",
