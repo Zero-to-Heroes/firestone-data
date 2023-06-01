@@ -13,12 +13,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Naga/Quilboar/Demons/Undead for strong tier 3s. play just for tempo, buddy is bad.",
+					"summary": "Good types for tier 3 discovers turn 3 are: Demon/Mech/Murloc/Quilboar/Undead.",
 					"curves": ["slow-jeef", "warrior"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -34,12 +34,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Your heropower is ice block and splitting image; macaw + titus with buddy can cheese games",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Your heropower is ice block and splitting image; you don't need to heropower every turn, especially not early.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -55,12 +55,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Good early tempo, macaw and cleave synergy late, buddy is a guaranteed golden selfless ",
-					"curves": ["fast-basic", "3-on-3"],
+					"summary": "Good early tempo, macaw and cleave synergy lategame.",
+					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -76,12 +76,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Very vulnerable and highrolly, buddy on tier 6 is guaranteed kalecgos and doubles with brann",
+					"summary": "Very vulnerable and highrolly, the heropower often can't make up for the lost tempo if you level too fast.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -97,12 +97,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Mainly focus on your 6; it needs to be strong and directional enough to level for.",
+					"summary": "Handbuff and Bassgill can affect cards in your hand even if you can't play them yet.",
 					"curves": ["fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -118,12 +118,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is good, heropower is bad, don't get baited by low tier strategies",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Play as if you are Patchwerk, and get more consistent shops midgame.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -139,12 +139,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Coins are spells for naga synergy, buddy is extremely high value",
+					"summary": "Coins are spells for naga synergy (Eventide Brute, Athissa).",
 					"curves": ["rafaam", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -160,12 +160,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Very strong buddy, very weak heropower - don't be afraid to spend some gold getting the buddy faster",
-					"curves": ["basic", "slow-jeef"],
+					"summary": "Don't expect anything good from your heropower; play as if you're Patchwerk.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -181,12 +181,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy synergy is very good with Prophet of the Boar and Bristlemane Scrapsmith",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Don't feel forced to play for quilboar.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -202,12 +202,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Make sure there's enough battlecries on tier 1 before you choose brann, golden buddy gives full value even with limited board space",
-					"curves": ["warrior", "slow-jeef"],
+					"summary": "No need to hyperfocus getting brann quickly, the best uses for it are tier 4/5.",
+					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -223,12 +223,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Free tempo early; golden buddy is strong with titus and a cleave ",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Free tempo early; deathrattles for avenge, lightning to counter shields, or double attack for strong cleaves.",
+					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -244,12 +244,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Shields are good, buddy to make heropower +5/+3 or +3/+5",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Shields are good, but don't expect heropower stats to carry your game.",
+					"curves": ["basic", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -265,12 +265,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Don't hard focus on elementals early: get strong early, and your buddy will provide the elementals afterwards",
+					"summary": "Elementals give you economy to level with, that doesn't mean you have to play elementals as chenvaala.",
 					"curves": ["fast-basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -286,12 +286,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Need to have a very good reason not to 3 on 3",
+					"summary": "Needs a very good reason not to 3 on 3; heropowering the same type multiple times increases consistency.",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -307,12 +307,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Only heropower when the gold is efficient; find a gameplan besides heropower, buddy is bad",
+					"summary": "Drakkari enchanter doubles your heropower's buffs and scaling.",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -328,12 +328,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Focus on minion types before picking curator; murloc/dragon/elemental to buff are needed",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Amalgam isn't great as a permanent minion.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -350,11 +350,11 @@
 				},
 				{
 					"summary": "Undead are key, Deathrattles and Divine Shields help",
-					"curves": ["fast-basic", "slow-jeef"],
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -370,12 +370,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is bad, heropower can't keep up with buddies. Shields are good, don't worry about leveling \"on time\"",
+					"summary": "Deryl heropower stats don't keep up with the game's power creep.",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -391,12 +391,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Mostly reliant on magnetics with buddy buffs",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Undead provide the best tokens to trigger heropower, ideally buff cleave/shield.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -412,12 +412,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "bad buddy, bad heropower, don't",
+					"summary": "Heropower is bad unless you have premium targets (shield/cleave).",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -433,12 +433,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy lets you heropower a lot, so don't be afraid to use heropowers early",
-					"curves": ["slow-jeef", "toki"],
+					"summary": "Don't be scared to heropower for tier 3 or 4 minions for a more efficient curve.",
+					"curves": ["toki", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -454,12 +454,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Bad buddy, hugely inconsistent heropower",
-					"curves": ["fast-basic", "jeef"],
+					"summary": "Inconsistent heropower, don't try to rely on it.",
+					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -468,12 +468,12 @@
 			"name": "E.T.C., Band Manager",
 			"tips": [
 				{
-					"summary": "Economy buddies are a must, they're only found on tier 3+",
-					"curves": ["3-on-3-bis", "basic"],
+					"summary": "Each tier has differently useful buddies, heropower whenever possible until you have direction.",
+					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -489,12 +489,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy scaling is not enough to win; ignore it for the most part and play to find a normal comp",
+					"summary": "The discover from playing your golden minion is almost always better than the golden minion.",
 					"curves": ["rafaam", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -510,12 +510,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Get buddies cheaper than you normally would, as long as they're tier 4 or higher",
+					"summary": "The hero pool is very large: only take finley if your other options are very bad.",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -531,12 +531,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Heropower becomes useful once you have Brann, use buddy on tier 4s for ball and primalfin",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "With murlocs shifting away from just board buffs, flurgl heropower became much less consistent.",
+					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -552,12 +552,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "don't repeatedly heropower and freeze one minion; losing early fights and getting one tier 6 doesn't keep up with buddies",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Repeatedly heropower and freeze one minion to get a higher tier minion for tempo & direction.",
+					"curves": ["slow-rafaam", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -573,12 +573,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Use the 2 turn option turn 1, then the 3 turn option, time the first buddy to double up on the discover",
-					"curves": ["special", "3-on-3"],
+					"summary": "Prioritize the timing of discovers from your heropower, choosing from the others to space them out better.",
+					"curves": ["3-on-3", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -594,12 +594,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Focus on economy (elementals, murlocs, pirates), buddy is free tempo not a win condition",
-					"curves": ["fast-basic", "warrior"],
+					"summary": "Focus on economy (elementals, murlocs, pirates), be wary; you have no real heropower until turn ~8+.",
+					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -615,12 +615,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Toxfin and Greasebot can help win, shielding early is okay when your buddy scales them",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Don't heropower too much until you've found direction.",
+					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -636,12 +636,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Deathrattles and Reborns can out-tempo a lobby, Kangor's Apprentice comps can win against strong boards",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Beasts & Undead have the best heropower synergy.",
+					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -657,12 +657,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "First buddy gives a tier 5 and 6 that define your game, second set of buddies usually comes too late",
+					"summary": "The only really efficient/good time to heropower is on turn 3 (5 gold).",
 					"curves": ["basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -678,12 +678,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Wait longer with your first buddy until more people spiked higher tier minions",
+					"summary": "With an economy start you can 3 on 3, then sell to heropower on turn 4.",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -699,12 +699,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Alleycat (and sellemental/shell collector), golden buddy prints tons of gold",
-					"curves": ["slow-jeef", "warrior"],
+					"summary": "Get money out of tier 1 economy minions, then heropower to improve them and find triples.",
+					"curves": ["slow-jeef", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -720,12 +720,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Less need to focus on a full board, very strong buddy",
+					"summary": "Early on heropower provides free tempo, attacking first is very strong lategame.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -741,12 +741,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Very bad buddy, bad heropower, even a good lobby (undead+demon) isn't that good",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Undead are a must to get early heropower procs.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -762,12 +762,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Demons/Undead (for summons) and Mechs (for shields) are a must, buddy fuels heropower and avenge well",
-					"curves": ["basic", "fast-basic"],
+					"summary": "Undead (for summons) and Mechs (for shields to buff) are a must.",
+					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -783,12 +783,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Alleycat triples, Brann+Primalfin, Glowscale, Nomi, buddy can scale anything",
-					"curves": ["slow-jeef", "fast-basic"],
+					"summary": "Reapeat battlecries, spellcrafts, reset shop buffs, and swap into better minions to save gold.",
+					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -804,12 +804,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy prints money and triples, heropower is usually bad (but better than rolling at the end of a turn)",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Don't plan to heropower a lot early; it's mostly good after buffing the shop.",
+					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -825,12 +825,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "The heropower stats basically don't matter, buddy stats do - deflect-o-bot is best",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Early heropower stats can prevent loss, don't care about it afterwards.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -846,12 +846,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Don't spend too much gold on your buddy",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "The faster you level, the faster you should heropower.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -867,12 +867,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Very bad buddy, wants to level very slowly and out-tempo in the midgame (aiming for 3rd/4th)",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Wants to level slowly and out-tempo the midgame. The last heropower also buffs summons in combat.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -888,12 +888,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Passive heropower >> active heropower, very bad buddy",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Permanent stealth is very strong.",
+					"curves": ["fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -909,12 +909,33 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy prevents health loss from heropower, HP and level turn 1, HP and double buy turn 2",
-					"curves": ["special"],
+					"summary": "Soul Rewinder prevents health loss from heropower.",
+					"curves": ["toki", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
+				}
+			]
+		},
+		{
+			"id": "TB_BaconShop_HERO_22",
+			"name": "The Lich King",
+			"tips": [
+				{
+					"summary": "Really good to hero power leeroy/queen late game. Until then try to get value hero powering a deathrattle or a minion with a good effect.",
+					"author": "rdu",
+					"language": "enUS",
+					"patch": 165029,
+					"date": "2023-03-02"
+				},
+				{
+					"summary": "Focus on good tier 3 deathrattles, heropower leeroy lategame.",
+					"curves": ["3-on-3-bis", "basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -931,12 +952,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Rafaam for triples, first buddy for another triple discovery. Brann the buddy or play two in a row before HP to get the golden minion next turn",
+					"summary": "Use your early heropowers to set up pairs and triples, ignore it later.",
 					"curves": ["rafaam", "warrior"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -952,12 +973,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Alleycat early to get extra minions on board, use the buddy to get high tier direction and strength",
-					"curves": ["warrior"],
+					"summary": "You can heropower the shop to find better minions, or your board to upgrade small minions or reroll triple rewards.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -973,12 +994,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Find a gameplan that lets you buy & sell many things, with buddy you barely need to roll",
-					"curves": ["slow-jeef"],
+					"summary": "Focus on a gameplan that lets you buy & sell many things.",
+					"curves": ["slow-jeef", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -994,12 +1015,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "buddy + kangor's + titus isn't very reliable as a gameplan, but it's usually the only thing you can do",
-					"curves": ["fast-basic"],
+					"summary": "Don't force mechs.",
+					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1015,33 +1036,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Save bananas for the first buddy, bananas are spells for Athissa",
-					"curves": ["rafaam"],
+					"summary": "Expect other players to be stronger than they normally are (because you're giving them bananas)",
+					"curves": ["rafaam", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
-				}
-			]
-		},
-		{
-			"id": "TB_BaconShop_HERO_22",
-			"name": "The Lich King",
-			"tips": [
-				{
-					"summary": "Really good to hero power leeroy/queen late game. Until then try to get value hero powering a deathrattle or a minion with a good effect.",
-					"author": "rdu",
-					"language": "enUS",
-					"patch": 165029,
-					"date": "2023-03-02"
-				},
-				{
-					"summary": "Entirely reliant on Undead, heropower on Leeroy lategame",
-					"curves": ["fast-basic", "3-on-3"],
-					"author": "curvesheet",
-					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1057,12 +1057,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "It's worth spending quite a lot of gold to get your buddy (it will pay itself back fast)",
-					"curves": ["fast-basic", "jeef"],
+					"summary": "Easy to underrate, but the heropower isn't a gamble; +1 gold per turn is very strong.",
+					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1078,12 +1078,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "get one big minion early to make the first buddy big fast, spit those stats back onto themselves for the second set of buddies",
+					"summary": "Heropower makes temporary stats permanent.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1099,12 +1099,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Economy heropowers early, high value&tempo heropowers later",
+					"summary": "Economy heropowers early, high value&tempo heropowers later.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1120,12 +1120,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is mostly useful for felbat synergy (and not much else)",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Consistent earlygame shops.",
+					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1141,12 +1141,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Leapers and Boomboxes (quite inconsistent)",
+					"summary": "Focus on minion types with strong tier 3 deathrattles.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1162,12 +1162,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Needs economy starts to level fast & efficiently, wants to get her buddy asap",
+					"summary": "Needs economy starts to level fast & efficiently.",
 					"curves": ["special", "jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1183,12 +1183,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Pretty bad buddy, heropower can't compete with buddies",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Heropower can function as a tiebreaker, anti-venomous, and an extra summon for avenge/felstomper.",
+					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1204,12 +1204,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Don't hyper focus on the buddy; one big tentacle is not a win condition",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Banana Slamma doubles the stats of your heropower tentacle.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1225,12 +1225,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy can buff non-pirates and works with brann, playing around Mech shields and Murloc poisons is hard",
+					"summary": "Playing around Mech shields and Murloc venom is hard.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1246,12 +1246,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Health is a resource; Mechs/Demons/Undead for midgame strength",
-					"curves": ["fast-basic", "3-on-3"],
+					"summary": "Health is a resource; decide ahead of time how you're going to spend it.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1267,12 +1267,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Heropower turn 2 looking for Foul Egg + Risen Rider to win early fights, buddy is good tempo (not direction)",
+					"summary": "Heropower turn 2 for Foul Egg + Risen Rider for early strength. Don't try to save heropowers for tier 6.",
 					"curves": ["special", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1288,12 +1288,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is often very bad, heropower around +4/+5 health is usually best",
+					"summary": "Around +4/+5 health is usually best to heropower.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1309,12 +1309,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "With Athissa and Greta, sell your first buddy and keep two regular buddies; each spellcraft gets cast 5 times",
-					"curves": ["basic"],
+					"summary": "Don't worry about getting the heropower active before turns 6/7.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1330,12 +1330,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Rafaam curve is called rafaam curve for a reason, buddy is okay for extra economy, not fantastic",
+					"summary": "Rafaam curve is called Rafaam curve for a reason.",
 					"curves": ["rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1351,12 +1351,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Demons & Undead so opponents have summons to activate heropower, buddy has many synergies outside of HP",
-					"curves": ["slow-jeef", "fast-basic"],
+					"summary": "Undead so opponents have summons to activate heropower, drakkari enchanter doubles your heropower.",
+					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1372,12 +1372,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Terrible buddy, terrible heropower, stay away",
-					"curves": [],
+					"summary": "The heropower is better than rolling a gold away at the end of a turn, but that's it.",
+					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1393,12 +1393,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "On Tier 1 discovers aren't random; guaranteed economy is good, tier 1 buddy means it's reliably tripled",
+					"summary": "On Tier 1 discovers aren't random; guaranteed economy is good, mistake is reliably tripled",
 					"curves": ["rafaam", "basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1414,12 +1414,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy can provide early tempo and a guaranteed triple",
-					"curves": ["fast-basic", "jeef"],
+					"summary": "Either aim to triple for a 5 or 6, or level fast and be willing to heropower a tier 3 or 4 minion.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1435,12 +1435,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Shields are good",
-					"curves": ["fast-jeef", "slow-jeef"],
+					"summary": "Shields are good.",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1456,12 +1456,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Shields are good, heropower stacks over turns if you don't buy a minion between heropowers",
-					"curves": ["slow-rafaam", "basic"],
+					"summary": "Shields are good, heropower stacks over turns if you don't buy a minion between heropowers.",
+					"curves": ["basic", "slow-rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1477,12 +1477,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Scout the lobby for good buddies to decide if your buddy is worth spending a lot of gold on",
+					"summary": "Don't expect to get directional minions from your heropower.",
 					"curves": ["rafaam", "basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1498,12 +1498,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Shell Collector & Deck Swabbie give money early, Murlocs give the most useful heropower targets later",
-					"curves": ["jeef", "fast-basic"],
+					"summary": "Look out for Naga/Pirate (tier 1 economy), Demons (consume effects), Dragons (lategame battlecry synergy).",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1519,12 +1519,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Good minions without tickets are often better than bad minions with tickets, hold discovers in hand if you get the buddy soon",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Good minions without tickets are often better than bad minions with tickets,.",
+					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1541,12 +1541,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddies that print money are almost never bad, and Sindragosa is no exception",
+					"summary": "Freeze the whole board repeatedly turns 1/2/3 to buff the minions multiple times.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1562,12 +1562,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Prioritize easy-to-complete quests",
-					"curves": [],
+					"summary": "Prioritize easy-to-complete quests.",
+					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1583,12 +1583,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is a budget Fish of N'Zoth, but notably works with brann ",
-					"curves": ["fast-basic", "rafaam"],
+					"summary": "Don't get baited heropowering earlygame. Level and buy better minions instead.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1605,12 +1605,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Getting to the second set of buddies is really hard, so get all the value you can from the first buddy",
-					"curves": ["rafaam"],
+					"summary": "Using heropower can be bait, especially earlygame.",
+					"curves": ["rafaam", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1626,12 +1626,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Heropower is free tempo, not direction - buddy is just a poison",
-					"curves": ["fast-basic", "3-on-3"],
+					"summary": "Heropower is free tempo, not direction.",
+					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1647,12 +1647,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "With your buddy, heropower specifically to dodge divine shields; no damage = no buffs",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Aiming low can snipe tech cards (like leeroy) lategame.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1668,12 +1668,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Divine shield minion first maximizes buddy stats, heropower works well with Felstomper/Eternal Summoner",
-					"curves": ["basic", "slow-jeef"],
+					"summary": "The best Rylak+Felemental hero, fantastic Banana Slamma synergy as well.",
+					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1689,12 +1689,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Don't be afraid to ignore the heropower earlygame, evaluate the lobby's buddies before committing too much gold to your buddy",
+					"summary": "Don't be afraid to ignore the heropower earlygame. more early economy can let you heropower more.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1710,12 +1710,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Sell your first buddy on turn 8 for a turn 12 prize, if you can wait until turn 12 to sell the second set of buddies it's gamewinning",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Prizes are not direction, but they allow faster leveling.",
+					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1731,12 +1731,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Lots of midgame strength, less likely to get solid direction, much stronger with token starts",
-					"curves": ["3-on-3", "toki"],
+					"summary": "Lots of midgame strength, less likely to get solid direction, much stronger with token starts.",
+					"curves": ["3-on-3-bis", "toki"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1752,12 +1752,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Felbat eating demons with extra health is amazing, health-buffed magnetics are good too",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Undead  are helpful for summons to trigger heropower.",
+					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1773,12 +1773,26 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Don't be afraid to triple early, you can triple more later. Leave pairs frozen, triple them with heropower next turn for large stats with buddy buffs",
+					"summary": "Don't be afraid to triple early, you can triple more later.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
+				}
+			]
+		},
+		{
+			"id": "BG26_HERO_104",
+			"name": "Rock Master Voone",
+			"tips": [
+				{
+					"summary": "Heropower to get triples or double up on triple rewards. it works with Drakkari Enchanter",
+					"curves": ["fast-basic", "basic"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1794,12 +1808,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Heropower makes temporary stats permanent, has spellcraft synergy, divine shield&cleave are good",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Heropower makes temporary stats permanent, also very good with magnetic.",
+					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1816,12 +1830,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Very bad buddy, barely noticable heropower, dooooon't",
-					"curves": [],
+					"summary": "Heropower is free tempo.",
+					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1837,12 +1851,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Be careful to avoid having your buddy as your only relevant minion; you still want to find a normal comp",
-					"curves": ["slow-jeef", "rafaam"],
+					"summary": "Gold efficient earlygame; HP to cycle cheap buffs later.",
+					"curves": ["basic-yogg", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1858,12 +1872,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Gold efficient, good tempo, when selling buddy be prepared for it to eat the shop (buy minions first)",
-					"curves": ["aggro-yogg", "rafaam"],
+					"summary": "Gold efficient & good tempo earlygame, mostly ignore heropower afterwards.",
+					"curves": ["basic", "aggro-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1879,12 +1893,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Buddy is not very strong, tarecgosa & prized promo drake is hard to win with right now",
+					"summary": "Tarecgosa + prized promo-drake is.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1900,12 +1914,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Heropower is good when leveling efficiently, buddy also buffs minions summoned by heropower",
+					"summary": "Heropower is good when leveling efficiently, it's not great at giving direction.",
 					"curves": ["basic-yogg", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		},
@@ -1921,12 +1935,12 @@
 					"date": "2023-03-02"
 				},
 				{
-					"summary": "Triple into a tier 5 on turn 6, buddy to get a pair of the tier 5 on turn 7, and heropower to triple it",
-					"curves": ["fast-basic", "slow-jeef"],
+					"summary": "Be liberal with your heropower uses: don't save them for your next game.",
+					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 170126,
-					"date": "2023-03-24"
+					"patch": 176014,
+					"date": "2023-05-28"
 				}
 			]
 		}
