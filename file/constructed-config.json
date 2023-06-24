@@ -11,6 +11,29 @@
 		"return_to_naxxramas",
 		"battle_of_the_bands"
 	],
+	"twistSets": [
+		"core",
+		"demon_hunter_initiate",
+		"ashes_of_outland",
+		"scholomance",
+		"darkmoon_faire",
+		"darkmoon_races",
+		"the_barrens",
+		"wailing_caverns",
+		"stormwind",
+		"deadmines",
+		"alterac_valley",
+		"onyxias_lair",
+		"the_sunken_city",
+		"throne_of_tides",
+		"revendreth",
+		"maw_and_disorder",
+		"return_of_the_lich_king",
+		"path_of_arthas",
+		"return_to_naxxramas",
+		"battle_of_the_bands",
+		"audiopocalypse"
+	],
 	"vanillaSets": [
 		"vanilla"
 	],
