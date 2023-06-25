@@ -9,7 +9,8 @@
 		"return_of_the_lich_king",
 		"path_of_arthas",
 		"return_to_naxxramas",
-		"battle_of_the_bands"
+		"battle_of_the_bands",
+		"audiopocalypse"
 	],
 	"twistSets": [
 		"core",
@@ -38,6 +39,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"audiopocalypse",
 		"battle_of_the_bands",
 		"return_to_naxxramas",
 		"path_of_arthas",
