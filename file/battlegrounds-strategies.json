@@ -69,7 +69,7 @@
 			"name": "Alexstrasza",
 			"tips": [
 				{
-					"summary": "Try to map your leveling path up to 5 and go there as soon as possible without taking way too much damage. Sometimes even the basic curve followed by skipping taverns 3 and 4 could be a good way to play this hero! (7gold = tavern 3, 8 gold = tavern 4, 9 gold = tavern 5 and get your hero power activated).",
+					"summary": "Try to map your leveling path up to 5 and go there as soon as possible without taking way too much damage. Sometimes even the basic curve followed by skipping taverns 3 and 4 could be a good way to play this hero!(7gold=tavern 3, 8gold=tavern 4, 9gold=sell a minion and go tavern5 and get your hero power activated)",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -174,7 +174,7 @@
 			"name": "Death Speaker Blackthorn",
 			"tips": [
 				{
-					"summary": "Power Leveling seems best on this hero to get value out of the hero power while it's still valuable. Feel free to not force quilboar if you aren’t offered that many and just use the gems on high value minions.",
+					"summary": "While I don’t think you want to force quillboar, you should pick up the buffs for blood gems since it’s so easy for you to generate them.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -233,11 +233,24 @@
 			]
 		},
 		{
+			"id": "BG26_HERO_101",
+			"name": "Cap'n Hoggarr",
+			"tips": [
+				{
+					"summary": "Start the game with the intention of playing pirates but don’t force them if you get very little to none.I like leveling on 2 because Ripsnarl is so powerful, would only stay a bit more on tavern 1 if I have an abundance of pirates that I can buy on turns 1,2 and 3 and then would still level as fast as possible. Later on in the game, Underhanded Dealer is the best minion to find since every pirate you buy afterwards is an extra +1/+1 on it!",
+					"author": "rdu",
+					"language": "enUS",
+					"patch": 175913,
+					"date": "2023-06-12"
+				}
+			]
+		},
+		{
 			"id": "BG21_HERO_000",
 			"name": "Cariel Roame",
 			"tips": [
 				{
-					"summary": "I recommend following the Rafaam curve(leveling on 6,7,8 gold and then playing normally), builds a strong board and gives you a high chance to triple as well! Best with solid, tanky minions that you wouldn't mind keeping until mid/late-game.",
+					"summary": "I like leveling normally to Tavern 2 and one thing you can do is go Tavern 3 on 6 gold and hero power. On tavern 3 I like to make my hero power give +3/+3 and my next upgrades will be:extend number of minions>extend number of minions>+attack/+health",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -342,7 +355,7 @@
 			"name": "Deathwing",
 			"tips": [
 				{
-					"summary": "Plays best when building around minions that summon, such as rat pack when beasts are available or deflecto and resets when mechs are available.",
+					"summary": "Plays best with divine shields and cleaves.Other than that, prioritize health since you get attack from your hero power anyways.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -359,11 +372,24 @@
 			]
 		},
 		{
+			"id": "BG20_HERO_666",
+			"name": "Diablo",
+			"tips": [
+				{
+					"summary": "I like following the basic curve because being too strong on turn 4 leads to 10 prizes where being average you’re still going to win most fights because of the extra minion and still get like 8 prizes. Turn 8 is most important in the game for you so make sure that you not only have a good direction, but also a lot of power for that turn.I’d keep most prizes from turn 4 for turn 8 but use the ones you get on 8 if needed to kill the rest of the players.",
+					"author": "rdu",
+					"language": "enUS",
+					"patch": 175913,
+					"date": "2023-06-12"
+				}
+			]
+		},
+		{
 			"id": "TB_BaconShop_HERO_36",
 			"name": "Dancin' Deryl",
 			"tips": [
 				{
-					"summary": "Best way to play this hero is to make big minions and stay most of the game on Tavern 3. Once you go to 4, you get shown 5 minions instead of 4 which makes targeting one minion in the shop much more random and inconsistent.",
+					"summary": "I recommend playing normally and just using the hats to improve your early game. It’s not worth for a few buffs to sell your board anymore.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -384,7 +410,7 @@
 			"name": "Drek'Thar",
 			"tips": [
 				{
-					"summary": "I like going for divine shield builds on this hero to capitalize on the bonus attack.",
+					"summary": "I like going for divine shield builds on this hero to capitalize on the bonus attack. Minions that summon are also really good to stack up the damage.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -405,7 +431,7 @@
 			"name": "Edwin VanCleef",
 			"tips": [
 				{
-					"summary": "I recommend almost never leveling on turn 2(unless you have token start) because your hero power is very useful in the first turns at winning you fights by making one or a few powerful minions!",
+					"summary": "Play normally in the beginning and go for buffs mid/late game or when you have one gold left over. Best to buff divine shields/cleaves!",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -880,7 +906,7 @@
 			"name": "Kurtrus Ashfallen",
 			"tips": [
 				{
-					"summary": "This hero plays best with a basic curve, followed by 8 gold=3 buy by selling one of your minions, 9 gold=3sell 4 buy, 10 gold=5 sell 5 buy to activate the hero power. Doesn't work that well in meta-games where 5/6 drops dominate, there you should just play like you don't have a hero power most of the time, lol.",
+					"summary": "Play normally/safe early game and then go for a strategy where you want to buy and sell a lot of minions. Alternatively just go for triples when you have enough gold to do it and the opportunity presents itself.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -1049,7 +1075,7 @@
 			"name": "King Mukla",
 			"tips": [
 				{
-					"summary": "I like staying on 1 a bit more and playing the 'Rafaam curve' while buffing one or two minions a lot. I preffer to buff 1 minion(ideally pupbot) but it depends on the meta-game.",
+					"summary": "Play normally and hold bananas for a good minion. Once you have a good minion I’d play all the bananas on it and then play most my bannanas once I get them. Tempo is the best utilization of your hero power, don’t waste it and use it to level aggressively!",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
@@ -1385,7 +1411,7 @@
 			"name": "Rakanishu",
 			"tips": [
 				{
-					"summary": "Avoid Rafaam curve. If anything, level aggressively to taverns 3/4 and hero power there, ideally on divine shields.",
+					"summary": "Ideally find a divine shield unit on tavern 1 and start buffing it while leveling. Both Rafaam curve and leveling on 4 and 6 gold work on this hero.",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 175913,
