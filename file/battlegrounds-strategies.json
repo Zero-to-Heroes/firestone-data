@@ -9,16 +9,16 @@
 					"summary": "In the first 2 turns, instead of going AFK, try to freeze a value generating minion that you then use on your discovery turn to level to tavern 2.I usually follow up by going Tavern 3 on 6 gold and then playing normally but it depends on what shop you get on tavern 2.If you don't get a value start, I'd still recommend leveling to 2 on 5 gold in most cases.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Good types for tier 3 discovers turn 3 are: Demon/Mech/Murloc/Quilboar/Undead.",
+					"summary": "Good types for tier 3 discovers turn 3 are: Demon/Mech/Murloc/Quilboar/Undead",
 					"curves": ["slow-jeef", "warrior"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -30,16 +30,16 @@
 					"summary": "Playing 'Rafaam Curve' is risky because if you don't get Block and a few Competitive Spirits you're going to fall behind on board so only do it if you're offered really good minions. Otherwise just play normally and hero power mid-game when you have some gold left and prioritize Ice Block.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Your heropower is ice block and splitting image; you don't need to heropower every turn, especially not early.",
+					"summary": "Most secrets are extra tempo for the fight; don't feel forced to heropower every turn earlygame",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -51,16 +51,16 @@
 					"summary": "Level a bit more aggressively than on a normal hero and make use of your hero power early/mid-game. Towards late-game, people can play around it more efficiently with cards like Leeroy.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Good early tempo, macaw and cleave synergy lategame.",
+					"summary": "Good early tempo, macaw and cleave synergy lategame",
 					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -72,16 +72,16 @@
 					"summary": "Try to map your leveling path up to 5 and go there as soon as possible without taking way too much damage. Sometimes even the basic curve followed by skipping taverns 3 and 4 could be a good way to play this hero!(7gold=tavern 3, 8gold=tavern 4, 9gold=sell a minion and go tavern5 and get your hero power activated)",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Very vulnerable and highrolly, the heropower often can't make up for the lost tempo if you level too fast.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -93,16 +93,16 @@
 					"summary": "Try to pick minions that are good on their own, not around a combo(at least for 2 and 4 stars). If you don't hit a 6 drop that creates your gameplan, pick something like Queen/Uther and play normally after you go to tavern 4, you don't always need to rush to 6. This hero is very good with murlocs because it works with the hand buffing and hand summoning effects!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Handbuff and Bassgill can affect cards in your hand even if you can't play them yet.",
 					"curves": ["fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -114,16 +114,16 @@
 					"summary": "On this hero I recommend under-leveling and focusing around a tavern 2/3 strategy. It's a very meta-game dependant hero which either is really good or unplayable.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Play as if you are Patchwerk, and get more consistent shops midgame.",
+					"summary": "It's not worth buying bad minions and leveling slower to maybe get one or two more free minions later",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -135,16 +135,16 @@
 					"summary": "Just win the bets, LOL.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Coins are spells for naga synergy (Eventide Brute, Athissa).",
 					"curves": ["rafaam", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -156,16 +156,16 @@
 					"summary": "Ideally play defensive until one player dies. That is not always possible so sometimes it's okay to play like a normal hero but think this: Before a player dies, you are the worst hero in the game. The more players die the stronger you become so play accordingly!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't expect anything good from your heropower; play as if you're Patchwerk.",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -177,16 +177,16 @@
 					"summary": "While I don’t think you want to force quillboar, you should pick up the buffs for blood gems since it’s so easy for you to generate them.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Don't feel forced to play for quilboar.",
+					"summary": "very flexible heropower for leveling curves, benefits a lot from Prickly Piper & Moon-bacon Jazzer buffing gems",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -198,16 +198,16 @@
 					"summary": "If there are enough battlecries on tavern 1, I like staying there until I get the Brann and then level while dealing a lot of damage to opponents. If you aren’t offered battlecries however, don’t force your hand. Level and play normally and get the Brann a bit later, it’s still going to be good!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "No need to hyperfocus getting brann quickly, the best uses for it are tier 4/5.",
+					"summary": "No need to hyperfocus getting brann quickly, the best uses for it are tier 4/5",
 					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -219,16 +219,16 @@
 					"summary": "This hero plays best with avenge minions that you can ''milk'' utilising earth invocation. Late-game you almost always want to use Lightning Invocation to break opponent's divine shields and give yourself an edge in the fights.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Free tempo early; deathrattles for avenge, lightning to counter shields, or double attack for strong cleaves.",
-					"curves": ["basic", "slow-jeef"],
+					"summary": "Free tempo early; deathrattles for avenge, lightning to counter shields, or double attack for strong cleaves",
+					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -240,8 +240,16 @@
 					"summary": "Start the game with the intention of playing pirates but don’t force them if you get very little to none.I like leveling on 2 because Ripsnarl is so powerful, would only stay a bit more on tavern 1 if I have an abundance of pirates that I can buy on turns 1,2 and 3 and then would still level as fast as possible. Later on in the game, Underhanded Dealer is the best minion to find since every pirate you buy afterwards is an extra +1/+1 on it!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
+				},
+				{
+					"summary": "Buying a pirate triggers Underhanded Dealer",
+					"curves": ["basic", "slow-jeef"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -253,16 +261,16 @@
 					"summary": "I like leveling normally to Tavern 2 and one thing you can do is go Tavern 3 on 6 gold and hero power. On tavern 3 I like to make my hero power give +3/+3 and my next upgrades will be:extend number of minions>extend number of minions>+attack/+health",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Shields are good, but don't expect heropower stats to carry your game.",
+					"summary": "Optimal herpower mixes both stat buffs and total minions buffed",
 					"curves": ["basic", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -274,16 +282,16 @@
 					"summary": "Even if you don't have to end up as elementals every game, when you pick this hero you should know most games will end up like that. Ideally you buy a lot of cheap elementals and don't even pay for leveling, advancing through the taverns while building a powerful board.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Elementals give you economy to level with, that doesn't mean you have to play elementals as chenvaala.",
+					"summary": "Elementals give you economy to level with, that doesn't mean you have to play elementals as chenvaala",
 					"curves": ["fast-basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -295,16 +303,16 @@
 					"summary": "With a value generator start, Cookie is one of the best heroes in the game at snowballing. If you have that start, try to level quickly and get good minions to help you snowball. Go for stats over synergies early and only build on a win-condition once you get a minion that can support it! If you don't have a value start, Cookie can still offer you some gold or powerful minions to smoothen your curve.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Needs a very good reason not to 3 on 3; heropowering the same type multiple times increases consistency.",
+					"summary": "Needs a very good reason not to 3 on 3; heropowering the same type multiple times increases consistency",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -316,16 +324,16 @@
 					"summary": "Play normally until you get a good board, then hero power every turn. You can still hero power if it's the best play that turn(example:5gold and you don't have a value start that allows you to double buy) but don't go out of your way to press it every turn. You should press it every turn if you build around Dragons with Whelp Smuggler however since you'd like to maximize health in that case.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Drakkari enchanter doubles your heropower's buffs and scaling.",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -337,16 +345,16 @@
 					"summary": "Don't focus too much around the hero power, sometimes it's okay to sell it if it falls behind and you found a better gameplan.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Amalgam isn't great as a permanent minion.",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -358,16 +366,16 @@
 					"summary": "Plays best with divine shields and cleaves.Other than that, prioritize health since you get attack from your hero power anyways.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Undead are key, Deathrattles and Divine Shields help",
+					"summary": "shields are everything, token summons hurt your high attack low health board",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -379,8 +387,8 @@
 					"summary": "I like following the basic curve because being too strong on turn 4 leads to 10 prizes where being average you’re still going to win most fights because of the extra minion and still get like 8 prizes. Turn 8 is most important in the game for you so make sure that you not only have a good direction, but also a lot of power for that turn.I’d keep most prizes from turn 4 for turn 8 but use the ones you get on 8 if needed to kill the rest of the players.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -392,16 +400,16 @@
 					"summary": "I recommend playing normally and just using the hats to improve your early game. It’s not worth for a few buffs to sell your board anymore.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Deryl heropower stats don't keep up with the game's power creep.",
+					"summary": "Free earlygame stats are good; don't \"dance\" for stat accumulation like past deryl",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -413,16 +421,16 @@
 					"summary": "I like going for divine shield builds on this hero to capitalize on the bonus attack. Minions that summon are also really good to stack up the damage.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Undead provide the best tokens to trigger heropower, ideally buff cleave/shield.",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -434,16 +442,16 @@
 					"summary": "Play normally in the beginning and go for buffs mid/late game or when you have one gold left over. Best to buff divine shields/cleaves!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower is bad unless you have premium targets (shield/cleave).",
 					"curves": [],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -455,16 +463,16 @@
 					"summary": "I like hero powering until it costs 5, that's too much most of the time. I generally use the first hero power for tempo and then, if the game goes badly I use them for more tempo, otherwise I try to discover 5 or 6 drops and snowball the game from there!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't be scared to heropower for tier 3 or 4 minions for a more efficient curve.",
 					"curves": ["toki", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -476,16 +484,16 @@
 					"summary": "Play normally and sometimes you get good minions offered, it's a pretty versatile hero that doesn't really change your playstyle.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Inconsistent heropower, don't try to rely on it.",
 					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -505,8 +513,8 @@
 					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -518,16 +526,16 @@
 					"summary": "I like starting to hero power on turn 2, build a strong board and finish my first dig on tavern 4 discovering a 5. Afterwards, I go for a second dig only if I have the money to press the hero power but I don't go out of my way to press it. Some players don't even bother with a second dig and just use the boost from the first one and then ignore the hero power completely.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "The discover from playing your golden minion is almost always better than the golden minion.",
 					"curves": ["rafaam", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -539,16 +547,16 @@
 					"summary": "Pick this hero if you have no tier 1 options. A great advantage is that you can see the starting shop before you make your pick but don't make your pick ONLY around the starting shop.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "The hero pool is very large: only take finley if your other options are very bad.",
-					"curves": [],
+					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -560,16 +568,16 @@
 					"summary": "Don't level too quickly! Focus on building the board and stay a bit more on taverns 2/3 if the game is going badly. Also, since you're probably building murlocs try to not buy too many of the other minions since you'll have to sell them later(if you have the option to).",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "With murlocs shifting away from just board buffs, flurgl heropower became much less consistent.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -581,16 +589,16 @@
 					"summary": "Only hero power turn 1 if you have token start, otherwise it's fine to start on 2. Don't be too greedy with the discovery, if you get a very good tempo minion, pick it and use it's power to level and that will enable you to discover a win-condition at the right time without risking your hp.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Repeatedly heropower and freeze one minion to get a higher tier minion for tempo & direction.",
 					"curves": ["slow-rafaam", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -602,16 +610,16 @@
 					"summary": "Depending on the lobby, think what you want to discover and in what sequence. This usually will help you understand if you want to pick gold or +2/+2 after the first discovery in order to either discover a 4, a 5 or a 6 with the 2nd discover.A cool curve is to go discover>2gold>discover and play basic leveling. That allows you to buy a minion on 8 gold when leveling from tavern 3 to 4 and smoothens out the curve for you to just rush 6 and snowball the lobby(Best in metagames where you want to rush6/discover6).",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Prioritize the timing of discovers from your heropower, choosing from the others to space them out better.",
 					"curves": ["3-on-3", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -623,16 +631,16 @@
 					"summary": "Economy is king. Buy every minion that gives you more gold over 2 turns. Key is to be strong as much as you can early game because everyone is going to try to damage/kill you. Underleveling can sometimes work but sometimes taking a bit of damage to be tavern 4 faster is worth it because you can stabilize easier there.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Focus on economy (elementals, murlocs, pirates), be wary; you have no real heropower until turn ~8+.",
 					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -644,16 +652,16 @@
 					"summary": "Try to use a shield or two on some big minion early to put yourself in a good spot and then play normally and use shields when you have leftover gold or on powerful targets such as cleaves or high attack minions. Keep in mind to not fully relly on your hero power since people can play Blaster against you!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't heropower too much until you've found direction.",
 					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -665,16 +673,16 @@
 					"summary": "Play normally and abuse the tempo you get from a few minions that summon to level at least to tavern 5 and build something sticky and synergistic from there. Reborn is not always great because the reborned minion is going to be taunted(I don't recommend Mama comps on Greybough or at least don't reborn it).",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Beasts & Undead have the best heropower synergy.",
 					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -686,16 +694,16 @@
 					"summary": "I like buying strong 1 drop rather than token/value and following up with buying a strong 2 drop and hero powering on 5 gold. From there only hero power when you have 2 gold at the end of the turn and don't go too much out of your way to use it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "The only really efficient/good time to heropower is on turn 3 (5 gold).",
 					"curves": ["basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -707,16 +715,16 @@
 					"summary": "With token/value start I like 3 on 3 or even 4 on 4 followed by hero powering. With a worse start, play normal curve but try to get a token or something you'd like to sell on 6 gold to hero power on that turn. Follow up by going tavern 3 and then immediately to 4 and hero power again on 4 before considering leveling to 5/6.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "With an economy start you can 3 on 3, then sell to heropower on turn 4.",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -728,16 +736,16 @@
 					"summary": "I like staying on 1 and trying to make value out of thin air by hero powering a value minion and trying to generate another value minion. Use the value that you get to snowball, level aggressively and triple into either a 4/5/6 and win the game from there!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Get money out of tier 1 economy minions, then heropower to improve them and find triples.",
 					"curves": ["slow-jeef", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -749,16 +757,16 @@
 					"summary": "Be careful not to have a queen in your hero power slots because hero power activates before start of turn effects! Try to play a build around cleave/divine shields for best usage of hero power.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Early on heropower provides free tempo, attacking first is very strong lategame.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -770,8 +778,16 @@
 					"summary": "Super good tempo hero, feel free to play a bit more aggressively with the leveling and triple-ing into high power minions since your hero power is at it’s best in the early-mid game!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
+				},
+				{
+					"summary": "You can heropower minions in the shop",
+					"curves": ["fast-basic", "3-on-3"],
+					"author": "curvesheet",
+					"language": "enUS",
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -783,16 +799,16 @@
 					"summary": "You can under-level slightly with this hero to make use of your hero power early game and then follow up by using your powerful board to level to 6 and go for end-game. Some strategies can just stay on 4 all the game though, it depends on the meta-game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Undead are a must to get early heropower procs.",
+					"summary": "Undead are very good to get early heropower procs",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -804,16 +820,16 @@
 					"summary": "Build around summoning minions but make sure to have a divine shield or cleave to put your buffs on once your hero power becomes big enough.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Undead (for summons) and Mechs (for shields to buff) are a must.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -825,16 +841,16 @@
 					"summary": "Play normally and when you get a good battlecry try to play it a few times with your hero power.There are some really good synergies like Uther, Felemental or Mama Bear, but you should play mostly normally and let your hero power just give you a slight boost.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Reapeat battlecries, spellcrafts, reset shop buffs, and swap into better minions to save gold.",
 					"curves": ["basic", "slow-jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -846,16 +862,16 @@
 					"summary": "You don't need to force demons, 1 big demon is enough so that you have a hero power target in most turns. Also, since the hero power is not THAT good, don't forcefully use it every turn, use it only when appropriate.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't plan to heropower a lot early; it's mostly good after buffing the shop.",
 					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -867,16 +883,16 @@
 					"summary": "Play basic curve or 3 on 3 most of the games, try to put stats on a divine shield or beefy minion(high health minions are best to be buffed).",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Early heropower stats can prevent loss, don't care about it afterwards.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -888,16 +904,16 @@
 					"summary": "In the past most people were hero powering on 7 gold to level from 2 to 4. Now I think best is to keep it for when you level to tavern 5 and use it there for a very powerful turn.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "The faster you level, the faster you should heropower.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -909,16 +925,16 @@
 					"summary": "Play normally/safe early game and then go for a strategy where you want to buy and sell a lot of minions. Alternatively just go for triples when you have enough gold to do it and the opportunity presents itself.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Wants to level slowly and out-tempo the midgame. The last heropower also buffs summons in combat.",
+					"summary": "Avoid spending a whole turn buying bad minions just to copy one good one",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -930,16 +946,16 @@
 					"summary": "Play normally and let your hero power give you a slight boost. You have no obligation to play Naga since having a spellcraft on board doesn’t actually matter for your hero power.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Permanent stealth is very strong.",
 					"curves": ["fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -951,16 +967,16 @@
 					"summary": "Very good in demon lobbies due to Rewinder! Usually I like staying one extra turn on tavern 1 because the power of buying 2 minions on 4 gold is hard to beat. 5 gold I like level+roll+hero power to keep my strength but also not fall behind on levels.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Soul Rewinder prevents health loss from heropower.",
 					"curves": ["toki", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -972,16 +988,16 @@
 					"summary": "Really good to hero power leeroy/queen late game. Until then try to get value hero powering a deathrattle or a minion with a good effect.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Focus on good tier 3 deathrattles, heropower leeroy lategame.",
 					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -994,16 +1010,16 @@
 					"curves": ["rafaam"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Use your early heropowers to set up pairs and triples, ignore it later.",
 					"curves": ["rafaam", "warrior"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1015,16 +1031,16 @@
 					"summary": "Try to make value out of nothing by hero powering economy units or a battlecry that you just played. Another thing you can do is hunt a specific 3/4 drop if there’s a really crazy strong one in the meta.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "You can heropower the shop to find better minions, or your board to upgrade small minions or reroll triple rewards.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1036,16 +1052,16 @@
 					"summary": "If you get a really bad shop and your board is strong enough for the turn, just level. It's a bigger risk to start rolling. This hero plays at it's best on 6 where you have most minions shown to you per roll but in most metas he can be super good on 4 and 5 as well!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Focus on a gameplan that lets you buy & sell many things.",
 					"curves": ["slow-jeef", "special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1057,16 +1073,16 @@
 					"summary": "Buy every menace you can if you're forcing mechs but keep in mind you don't always need to force mechs, even on this hero. Sometimes the game leads you in a different direction.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't force mechs.",
 					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1078,16 +1094,16 @@
 					"summary": "Play normally and hold bananas for a good minion. Once you have a good minion I’d play all the bananas on it and then play most my bannanas once I get them. Tempo is the best utilization of your hero power, don’t waste it and use it to level aggressively!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Expect other players to be stronger than they normally are (because you're giving them bananas)",
 					"curves": ["rafaam", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1099,16 +1115,16 @@
 					"summary": "Try to guess correctly, other than that use the coins to level agressively if needed or just buy a strong board. From there snowball intro a win-condition.Start every turn with hero powering since it both gives you information on your next opponent and also might change your turn depending on whether or not you get the coin.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Easy to underrate, but the heropower isn't a gamble; +1 gold per turn is very strong.",
 					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1120,16 +1136,16 @@
 					"summary": "Try to first build one big minion. From there you can build a board that synergizes with that one minion and can go crazy!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower makes temporary stats permanent.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1141,16 +1157,16 @@
 					"summary": "Try to think of short term rather than going too long. If you pick short term hero power every turn you're more likely to win. Greedy picks are usually a bait.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Economy heropowers early, high value&tempo heropowers later.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1162,16 +1178,16 @@
 					"summary": "In the early game, use the hero power to get economy, followed by a powerful board and then use that to get to your win-condition. The hero power is more useful in the early part of the game so don't rely on it too much later.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Consistent earlygame shops.",
 					"curves": ["3-on-3", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1183,16 +1199,16 @@
 					"summary": "In early mid game, just try to be strong because you can't always build around your hero power. Sometimes it's just going to be a 1 gold 2/2 and that's okay.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Focus on minion types with strong tier 3 deathrattles.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1204,16 +1220,16 @@
 					"summary": "If the initial shop is bad(no token/value generator), you can stay a bit on one and then power level afterwards.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Needs economy starts to level fast & efficiently.",
 					"curves": ["special", "jeef"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1225,16 +1241,16 @@
 					"summary": "Try to build deathrattle/summon oriented, works best with something like Fel Stomper or with mechs that summon a lot of units.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Heropower can function as a tiebreaker, anti-venomous, and an extra summon for avenge/felstomper.",
+					"summary": "Great synergy with avenge and on-summon triggers; felstomper is especially amazing",
 					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1246,16 +1262,16 @@
 					"summary": "Play a bit around your hero power in the early part of the game but late-game you can even play 7 minions and forget about it. Very good combo with Banana Slamma!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Banana Slamma doubles the stats of your heropower tentacle.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1267,16 +1283,16 @@
 					"summary": "Try to not buy non-pirate minions because it's going to make forcing pirates way harder. If you get no pirates at all it's fine to go for another build but don't pivot back into pirates afterwards.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Playing around Mech shields and Murloc venom is hard.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1288,16 +1304,16 @@
 					"summary": "Play a bit more greedy than usual(more leveling) to make use of your extra HP. Very good with Battlemaster since your starting health is double the one of a normal hero.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Health is a resource; decide ahead of time how you're going to spend it.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1309,16 +1325,16 @@
 					"summary": "The first hero power I like to use on tavern 3 or 4 and try to get coin generator. If the game is going well, use the other 2 hero powers on 6, if the game goes badly use one or even both hero powers for tempo.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower turn 2 for Foul Egg + Risen Rider for early strength. Don't try to save heropowers for tier 6.",
 					"curves": ["special", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1330,16 +1346,16 @@
 					"summary": "An optimal number for this hero power is +5 health. At that ammount or even higher if you want to be a bit greedy you should start hero powering every turn to make your board sticky.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Around +4/+5 health is usually best to heropower.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1351,16 +1367,16 @@
 					"summary": "When you are getting close to activating your hero power, try to plan ahead and think what is the most optimal way of getting the attack that also allows you to discover one minion.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Don't worry about getting the heropower active before turns 6/7.",
+					"summary": "Don't worry about getting the heropower active before turns 6/7, and don't feel forced to play naga",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1372,16 +1388,16 @@
 					"summary": "Hero power every turn in the begining of the game, your objective is to build a strong board and try to triple as much as possible. Level on 6 gold to tavern 2 and 7 gold to tavern 3. From there depending on the meta you either rush tavern 4/5 or stay a bit more on 3.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Rafaam curve is called Rafaam curve for a reason.",
 					"curves": ["rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1393,16 +1409,16 @@
 					"summary": "Try to slightly under-level and finish your hero power, then buff divine shields or cleaves!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Undead so opponents have summons to activate heropower, drakkari enchanter doubles your heropower.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1414,16 +1430,16 @@
 					"summary": "Ideally find a divine shield unit on tavern 1 and start buffing it while leveling. Both Rafaam curve and leveling on 4 and 6 gold work on this hero.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "The heropower is better than rolling a gold away at the end of a turn, but that's it.",
+					"summary": "Shields and cleaves",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1435,16 +1451,16 @@
 					"summary": "Try to power level while having a powerful board. Don't be greedy with the discoveries since leveling while keeping health is more important.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "On Tier 1 discovers aren't random; guaranteed economy is good, mistake is reliably tripled",
 					"curves": ["rafaam", "basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1456,16 +1472,16 @@
 					"summary": "I like playing on tavern 1 until I hit a triple, level to 4 and discover a 5 with the triple. Other playstyle is to powerlevel to 3 or to 4 and hero power a good, value generating minion there and build around it. In some metas it’s okay to play normally and just naturally hero power your first big discovery or even a tempo 3 or 4 drop.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Either aim to triple for a 5 or 6, or level fast and be willing to heropower a tier 3 or 4 minion.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1477,16 +1493,16 @@
 					"summary": "Best to build around divine shields on this hero.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Shields are good.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1498,16 +1514,16 @@
 					"summary": "Try to build around divine shielded minions, also know that your hero power works on magnetic minions for buffing a mech multiple times!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Shields are good, heropower stacks over turns if you don't buy a minion between heropowers.",
 					"curves": ["basic", "slow-rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1519,16 +1535,16 @@
 					"summary": "Curve depends on what your opponents are doing. Either way, try to play kind of safe until you hit a win condition, then you can go crazy!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't expect to get directional minions from your heropower.",
 					"curves": ["rafaam", "basic-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1540,16 +1556,16 @@
 					"summary": "Tempo is the name of the game on shudder, hero power either economy minions or minions that get stats or give you more future stats. Try to have an explosive turn early so that you don’t take too much damage, go a bit greedy and then rinse and repeat. Try to not be too greedy!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Look out for Naga/Pirate (tier 1 economy), Demons (consume effects), Dragons (lategame battlecry synergy).",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1561,16 +1577,16 @@
 					"summary": "Prioritize ticket minions but don't go too crazy, don't buy EVERY single ticket minion and if something good shows up in the shop, buy it even if it doesn't come with a ticket.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Good minions without tickets are often better than bad minions with tickets,.",
 					"curves": ["fast-basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1583,16 +1599,16 @@
 					"curves": ["basic"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Freeze the whole board repeatedly turns 1/2/3 to buff the minions multiple times.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1604,16 +1620,16 @@
 					"summary": "Try to plan to pick a quest that is good for the lobby you're playing and focus on finish it as fast as possible, without going too much out of your way until the last turn or so of the quest.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Prioritize easy-to-complete quests.",
 					"curves": ["special"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1625,16 +1641,16 @@
 					"summary": "Try hero powering as much as possible once you get to higher tavern tiers, especially once you first get to 3 or 4 and lategame on 6 drops!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't get baited heropowering earlygame. Level and buy better minions instead.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1647,16 +1663,16 @@
 					"curves": ["rafaam", "3-on-3"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Using heropower can be bait, especially earlygame.",
 					"curves": ["rafaam", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1668,16 +1684,16 @@
 					"summary": "Best with Elementals where your smallest minion is still big but also decent with demons or dragons.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower is free tempo, not direction.",
 					"curves": ["basic", "3-on-3-bis"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1689,16 +1705,16 @@
 					"summary": "Your hero power carries your early game. I like shooting high until lategame when I shoot low to hit leeroy/queen.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Aiming low can snipe tech cards (like leeroy) lategame.",
+					"summary": "View the heropower as free tempo early, and opportunities to snipe smaller tech cards late",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1710,16 +1726,16 @@
 					"summary": "Best with undead, try to get Eternal Knight and grow it and then try to get your hands on Eternal Summoner and Titus Rivendare afterwards. Make sure you have enough board space to summon all the knights!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "The best Rylak+Felemental hero, fantastic Banana Slamma synergy as well.",
 					"curves": ["3-on-3-bis", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1731,16 +1747,16 @@
 					"summary": "Try to under-level, steal one good minion and build around it. Always keep an eye on what the lobby is playing but don’t pivot too much or you’ll end up being the jack of all trades, master of top8.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't be afraid to ignore the heropower earlygame. more early economy can let you heropower more.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1752,16 +1768,16 @@
 					"summary": "Plan for the prize turns and how you can use a good/bad outcome. Try to not rely too much on getting a good prize and have your own gameplay independent of the prizes, make them just be a bonus for something already great.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Prizes are not direction, but they allow faster leveling.",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1773,16 +1789,16 @@
 					"summary": "I recommend the 'Toki Curve' whenever possible. Play basic curve until 6 gold where you level to tavern 3 and hero power. Freeze the 4 drops if at least one is good and next turn you can buy 2 minions and hero power!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Lots of midgame strength, less likely to get solid direction, much stronger with token starts.",
 					"curves": ["3-on-3-bis", "toki"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1794,16 +1810,16 @@
 					"summary": "Good with deathrattles and summons but can work with something like poison or just any comp decently.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Undead  are helpful for summons to trigger heropower.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1815,16 +1831,16 @@
 					"summary": "Plan your freezes to maximize chance to triple, don't be greedy with discoveries since if you're strong you can just level roll and set up an even better triple for the next turn. Always count how many minions you can freeze while still getting the hero power to work. For it to work, the amount of frozen minions needs to be at least 1 lower than the minions shown for a roll at that tavern.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Don't be afraid to triple early, you can triple more later.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1836,16 +1852,16 @@
 					"summary": "For the first two activations of your hero power(on 5 and 8 gold), make sure you have first a very powerful 2 drop that you’d like to copy and after either a 5 drop if you managed to hit a triple or at least triple by utilizing the hero power.I always like to open the discover rather than copy the discovery spell because there are a lot of minions in the game that insta-win if you have two of them. You basically give yourself a chance at pocket aces!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower to get triples or double up on triple rewards. it works with Drakkari Enchanter",
 					"curves": ["fast-basic", "basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1857,16 +1873,16 @@
 					"summary": "Very good with quilboar/mechs because you can either abuse blood gems or Polarizing Beatboxer.Until then or alternatively move big stats on divine shields or cleaves, try to make annoying boards and buy time. Difficult to play early but once you have a good core you're unbeatable! It’s really good with the Beatboxer because if you move stats from biggest minion on a magnetization from the shop and then buy it and attach it, you basically just add the stats you had on your Beatboxer for free, doubling your power every turn!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower makes temporary stats permanent, also very good with magnetic.",
 					"curves": ["fast-basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1879,16 +1895,16 @@
 					"curves": ["rafaam"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
-					"summary": "Heropower is free tempo.",
+					"summary": "Heropower is free tempo, especially leveling faster (to buff higher tier minions)",
 					"curves": ["3-on-3", "fast-basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1900,16 +1916,16 @@
 					"summary": "Economy curve into triples is the best way to play, don't be too greedy with the triples because it's going to cost you in health since the minions you hero power are 2/2's and they usually don't carry fights.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Gold efficient earlygame; HP to cycle cheap buffs later.",
 					"curves": ["basic-yogg", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1921,16 +1937,16 @@
 					"summary": "Works with multiple curves depending on the meta but try to hero power as much as possible early and ignore it mid/late game. I pretty much only hero power late game if I have 2 left-over gold and I really don't want to roll.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Gold efficient & good tempo earlygame, mostly ignore heropower afterwards.",
 					"curves": ["basic", "aggro-yogg"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1942,16 +1958,16 @@
 					"summary": "You have to force dragons on this hero, there are more aggressive ways of doing that like rushing taverns 3/4 or more conservative ways which build on tavern 1 before going 3/4. Depending on your rank and lobby you should figure out on the spot what works better for you!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Tarecgosa + prized promo-drake is.",
 					"curves": ["basic", "3-on-3"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1963,16 +1979,16 @@
 					"summary": "King of leveling aggressively. Just be mindful of your health and of the good minions in that lobby. Once you snatch a good one you can build around it!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Heropower is good when leveling efficiently, it's not great at giving direction.",
 					"curves": ["basic-yogg", "rafaam"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		},
@@ -1984,16 +2000,16 @@
 					"summary": "Don't be too greedy with the first hero power, be mindful with the second hero power and greedy as hell with the third! Unless you are losing fights, in which case use all of them to stay alive as much as possible and save a bad game!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 175913,
-					"date": "2023-06-12"
+					"patch": 179020,
+					"date": "2023-06-30"
 				},
 				{
 					"summary": "Be liberal with your heropower uses: don't save them for your next game.",
 					"curves": ["basic"],
 					"author": "curvesheet",
 					"language": "enUS",
-					"patch": 176014,
-					"date": "2023-05-28"
+					"patch": 179020,
+					"date": "2023-06-30"
 				}
 			]
 		}
