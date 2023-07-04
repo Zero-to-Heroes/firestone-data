@@ -1,0 +1,30 @@
+{
+	"default": {
+		"resourceStat": {
+			"type": "totalResourcesUsed",
+			"points": 0.1
+		},
+		"constructedStat": {
+			"type": "spellsPlayed",
+			"points": 1
+		},
+		"battlegroundsStat": {
+			"type": "quilboarsPlayed",
+			"points": 1
+		}
+	},
+	"2023-07": {
+		"resourceStat": {
+			"type": "totalResourcesUsed",
+			"points": 0.1
+		},
+		"constructedStat": {
+			"type": "spellsPlayed",
+			"points": 1
+		},
+		"battlegroundsStat": {
+			"type": "quilboarsPlayed",
+			"points": 10
+		}
+	}
+}
