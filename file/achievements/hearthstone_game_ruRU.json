@@ -52972,11 +52972,11 @@
 		"type": "hearthstone_game_367_3star_chef"
 	},
 	{
-		"completedText": "Займите 4-е место за кока Пирожка.",
+		"completedText": "Займите 1-е место за кока Пирожка.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Трехзвездочный повар",
-		"emptyText": "Займите 4-е место за кока Пирожка.",
+		"emptyText": "Займите 1-е место за кока Пирожка.",
 		"hsAchievementId": 4422,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 367,
@@ -52987,7 +52987,7 @@
 		"priority": 2,
 		"quota": 1,
 		"root": false,
-		"text": "Займите 4-е место за кока Пирожка.",
+		"text": "Займите 1-е место за кока Пирожка.",
 		"type": "hearthstone_game_367_3star_chef"
 	},
 	{
