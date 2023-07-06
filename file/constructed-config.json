@@ -5,12 +5,12 @@
 		"throne_of_tides",
 		"revendreth",
 		"maw_and_disorder",
-		"icecrown",
 		"return_of_the_lich_king",
 		"path_of_arthas",
 		"return_to_naxxramas",
 		"battle_of_the_bands",
-		"audiopocalypse"
+		"audiopocalypse",
+		"titans"
 	],
 	"twistSets": [
 		"core",
@@ -33,12 +33,14 @@
 		"path_of_arthas",
 		"return_to_naxxramas",
 		"battle_of_the_bands",
-		"audiopocalypse"
+		"audiopocalypse",
+		"titans"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"titans",
 		"audiopocalypse",
 		"battle_of_the_bands",
 		"return_to_naxxramas",
