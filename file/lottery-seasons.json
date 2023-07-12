@@ -1,0 +1,20 @@
+[
+	{
+		"id": "2023-07",
+		"seasonName": "Abyssal Enforcer",
+		"durationInDays": 14,
+		"startDate": "2023-07-03",
+		"resourceStat": {
+			"type": "totalResourcesUsed",
+			"points": 0.1
+		},
+		"constructedStat": {
+			"type": "spellsPlayed",
+			"points": 1
+		},
+		"battlegroundsStat": {
+			"type": "quilboarsPlayed",
+			"points": 10
+		}
+	}
+]

@@ -1,4 +1,90 @@
 {
+	"configuration": {
+		"resourceStats": [
+			{
+				"type": "totalResourcesUsed",
+				"pointsMin": 0.1,
+				"pointsMax": 0.2,
+				"step": 0.05
+			}
+		],
+		"constructedStats": [
+			{
+				"type": "spellsPlayed",
+				"pointsMin": 1,
+				"pointsMax": 2,
+				"step": 0.5
+			},
+			{
+				"type": "damageWithSpells",
+				"pointsMin": 1.5,
+				"pointsMax": 3,
+				"step": 0.5
+			}
+		],
+		"battlegroundsStats": [
+			{
+				"type": "quilboarsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "beastsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "demonsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "dragonsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "mechsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "murlocsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "piratesPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "elementalsPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "nagasPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			},
+			{
+				"type": "undeadPlayed",
+				"pointsMin": 8,
+				"pointsMax": 12,
+				"step": 1
+			}
+		]
+	},
 	"default": {
 		"resourceStat": {
 			"type": "totalResourcesUsed",
@@ -14,6 +100,7 @@
 		}
 	},
 	"2023-07": {
+		"seasonName": "Abyssal Enforcer",
 		"resourceStat": {
 			"type": "totalResourcesUsed",
 			"points": 0.1

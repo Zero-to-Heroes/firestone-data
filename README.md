@@ -5,3 +5,4 @@ aws s3 cp file/achievements s3://static.zerotoheroes.com/hearthstone/data/achiev
 
 aws s3 cp file/battlegrounds-strategies.json s3://static.zerotoheroes.com/hearthstone/data/battlegrounds-strategies/battlegrounds-strategies.json --acl public-read
 aws s3 cp file/lottery-config.json s3://static.zerotoheroes.com/hearthstone/data/lottery-config.json --acl public-read
+aws s3 cp file/lottery-seasons.json s3://static.zerotoheroes.com/hearthstone/data/lottery-seasons.json --acl public-read
