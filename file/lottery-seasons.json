@@ -4,17 +4,17 @@
 		"seasonName": "Abyssal Enforcer",
 		"durationInDays": 14,
 		"startDate": "2023-07-03",
-		"resourceStat": {
-			"type": "totalResourcesUsed",
-			"points": 0.1
-		},
-		"constructedStat": {
-			"type": "spellsPlayed",
-			"points": 1
-		},
-		"battlegroundsStat": {
-			"type": "quilboarsPlayed",
-			"points": 10
-		}
+		"resourceStat": { "type": "totalResourcesUsed", "points": 0.1 },
+		"constructedStat": { "type": "spellsPlayed", "points": 1 },
+		"battlegroundsStat": { "type": "quilboarsPlayed", "points": 10 }
+	},
+	{
+		"id": 1,
+		"seasonName": "Bloodsail Corsair",
+		"startDate": "2023-07-17",
+		"durationInDays": 14,
+		"resourceStat": { "type": "totalResourcesUsed", "points": 0.1 },
+		"constructedStat": { "type": "damageWithSpells", "points": 1.5 },
+		"battlegroundsStat": { "type": "nagasPlayed", "points": 8 }
 	}
 ]
