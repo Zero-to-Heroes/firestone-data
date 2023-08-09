@@ -72865,11 +72865,11 @@
 		"type": "hearthstone_game_477_its_all_runes_to_me"
 	},
 	{
-		"completedText": "以冰封讓對手超抽10張牌",
+		"completedText": "以嚴寒凍結讓對手超抽10張牌",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "冰到抓不住",
-		"emptyText": "以冰封讓對手超抽10張牌",
+		"emptyText": "以嚴寒凍結讓對手超抽10張牌",
 		"hsAchievementId": 5667,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 477,
@@ -72880,7 +72880,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "以冰封讓對手超抽10張牌",
+		"text": "以嚴寒凍結讓對手超抽10張牌",
 		"type": "hearthstone_game_477_too_cold_to_hold"
 	},
 	{

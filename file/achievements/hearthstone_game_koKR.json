@@ -73036,11 +73036,11 @@
 		"type": "hearthstone_game_474_this_is_my_final_form"
 	},
 	{
-		"completedText": "공격력이 14인 대지의 골렘 소환",
+		"completedText": "공격력이 14인 토석인 골렘 소환",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "평범한 바위가 아니야",
-		"emptyText": "공격력이 14인 대지의 골렘 소환",
+		"emptyText": "공격력이 14인 토석인 골렘 소환",
 		"hsAchievementId": 5676,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 470,
@@ -73051,7 +73051,7 @@
 		"priority": 0,
 		"quota": 14,
 		"root": true,
-		"text": "공격력이 14인 대지의 골렘 소환",
+		"text": "공격력이 14인 토석인 골렘 소환",
 		"type": "hearthstone_game_470_not_just_a_boulder"
 	},
 	{
@@ -73340,11 +73340,11 @@
 		"type": "hearthstone_game_467_youve_been"
 	},
 	{
-		"completedText": "폭풍 망치로 적 영웅 처치",
+		"completedText": "폭풍우 망치로 적 영웅 처치",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "자격이 있다면",
-		"emptyText": "폭풍 망치로 적 영웅 처치",
+		"emptyText": "폭풍우 망치로 적 영웅 처치",
 		"hsAchievementId": 5692,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 467,
@@ -73355,7 +73355,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "폭풍 망치로 적 영웅 처치",
+		"text": "폭풍우 망치로 적 영웅 처치",
 		"type": "hearthstone_game_467_if_they_be_worthy"
 	},
 	{
@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "충성심의 시험으로 발키르에게 +200/+$q 부여",
+		"completedText": "불의 시험으로 발키르에게 +200/+$q 부여",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "신뢰의 도약",
-		"emptyText": "충성심의 시험으로 발키르에게 +200/+$q 부여",
+		"emptyText": "불의 시험으로 발키르에게 +200/+$q 부여",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "충성심의 시험으로 발키르에게 +200/+$q 부여",
+		"text": "불의 시험으로 발키르에게 +200/+$q 부여",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

@@ -73150,11 +73150,11 @@
 		"type": "hearthstone_game_475_mercury_in_retrograde"
 	},
 	{
-		"completedText": "Превратите 50 существ в вашей руке с помощью «Парада планет».",
+		"completedText": "Превратите 50 существ в вашей руке с помощью «Движения звезд».",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Звезды сошлись",
-		"emptyText": "Превратите 50 существ в вашей руке с помощью «Парада планет».",
+		"emptyText": "Превратите 50 существ в вашей руке с помощью «Движения звезд».",
 		"hsAchievementId": 5682,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 475,
@@ -73165,7 +73165,7 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "Превратите 50 существ в вашей руке с помощью «Парада планет».",
+		"text": "Превратите 50 существ в вашей руке с помощью «Движения звезд».",
 		"type": "hearthstone_game_475_stars_cant_do_it"
 	},
 	{

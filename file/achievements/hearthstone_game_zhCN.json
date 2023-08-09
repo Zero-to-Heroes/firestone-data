@@ -73986,11 +73986,11 @@
 		"type": "hearthstone_game_466_outatime"
 	},
 	{
-		"completedText": "用上古图腾攻击25次。",
+		"completedText": "用远古图腾攻击25次。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "最初的图腾",
-		"emptyText": "用上古图腾攻击25次。",
+		"emptyText": "用远古图腾攻击25次。",
 		"hsAchievementId": 5726,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 466,
@@ -74001,7 +74001,7 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "用上古图腾攻击25次。",
+		"text": "用远古图腾攻击25次。",
 		"type": "hearthstone_game_466_the_first_totem"
 	},
 	{
