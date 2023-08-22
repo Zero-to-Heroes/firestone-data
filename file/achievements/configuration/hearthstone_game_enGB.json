@@ -2979,6 +2979,13 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_675"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_514_a_tier_above_the_rest"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_693"
 						}
 					],
 					"icon": "mode_battlegrounds",

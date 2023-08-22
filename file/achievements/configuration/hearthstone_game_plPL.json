@@ -3275,6 +3275,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_675",
 							"name": "Kapitan Wyżerrr "
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_514_a_tier_above_the_rest"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_693",
+							"name": "Thorim, Pan Burzy"
 						}
 					],
 					"icon": "mode_battlegrounds",

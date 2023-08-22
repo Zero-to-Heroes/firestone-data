@@ -3275,6 +3275,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_675",
 							"name": "霍格船长 "
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_514_a_tier_above_the_rest"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_693",
+							"name": "风暴之王托里姆"
 						}
 					],
 					"icon": "mode_battlegrounds",

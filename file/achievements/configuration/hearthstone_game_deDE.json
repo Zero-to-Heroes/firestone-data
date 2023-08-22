@@ -3275,6 +3275,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_675",
 							"name": "Käpt’n Hoggarr "
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_514_a_tier_above_the_rest"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_693",
+							"name": "Thorim, Sturmherr"
 						}
 					],
 					"icon": "mode_battlegrounds",
