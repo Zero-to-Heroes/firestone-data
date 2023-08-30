@@ -73967,11 +73967,11 @@
 		"type": "hearthstone_game_466_judgement_day"
 	},
 	{
-		"completedText": "Dobierz 30 |4(kartę,karty,kart) Zgubionym w czasie protosmokowcem.",
+		"completedText": "Dobierz 30 |4(smoka stworzonego,smoki stworzone,smoków stworzonych) Zgubionym w czasie protosmokowcem.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Poza czasem",
-		"emptyText": "Dobierz 30 |4(kartę,karty,kart) Zgubionym w czasie protosmokowcem.",
+		"emptyText": "Dobierz 30 |4(smoka stworzonego,smoki stworzone,smoków stworzonych) Zgubionym w czasie protosmokowcem.",
 		"hsAchievementId": 5725,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 466,
@@ -73982,7 +73982,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Dobierz 30 |4(kartę,karty,kart) Zgubionym w czasie protosmokowcem.",
+		"text": "Dobierz 30 |4(smoka stworzonego,smoki stworzone,smoków stworzonych) Zgubionym w czasie protosmokowcem.",
 		"type": "hearthstone_game_466_outatime"
 	},
 	{

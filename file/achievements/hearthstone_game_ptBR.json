@@ -73891,11 +73891,11 @@
 		"type": "hearthstone_game_466_unstable_connection"
 	},
 	{
-		"completedText": "Fazer o Último Suspiro do Mecassaltador se ativar 10 vezes numa única partida.",
+		"completedText": "Fazer o Último Suspiro do Mecassaltador ser ativado 10 vezes numa única partida.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Coaxos Mecatrônicos",
-		"emptyText": "Fazer o Último Suspiro do Mecassaltador se ativar 10 vezes numa única partida.",
+		"emptyText": "Fazer o Último Suspiro do Mecassaltador ser ativado 10 vezes numa única partida.",
 		"hsAchievementId": 5721,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 466,
@@ -73906,7 +73906,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Fazer o Último Suspiro do Mecassaltador se ativar 10 vezes numa única partida.",
+		"text": "Fazer o Último Suspiro do Mecassaltador ser ativado 10 vezes numa única partida.",
 		"type": "hearthstone_game_466_ribbits_and_ribbytes"
 	},
 	{
