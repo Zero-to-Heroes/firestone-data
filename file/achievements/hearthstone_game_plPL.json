@@ -72770,11 +72770,11 @@
 		"type": "hearthstone_game_471_oh_dear_hodir"
 	},
 	{
-		"completedText": "Aktywuj jeden efekt Obserwatora mitów 5 razy.",
+		"completedText": "Aktywuj efekt jednego Obserwatora mitów 5 razy.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Zmyślona opowieść",
-		"emptyText": "Aktywuj jeden efekt Obserwatora mitów 5 razy.",
+		"emptyText": "Aktywuj efekt jednego Obserwatora mitów 5 razy.",
 		"hsAchievementId": 5662,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 471,
@@ -72785,7 +72785,7 @@
 		"priority": 0,
 		"quota": 5,
 		"root": true,
-		"text": "Aktywuj jeden efekt Obserwatora mitów 5 razy.",
+		"text": "Aktywuj efekt jednego Obserwatora mitów 5 razy.",
 		"type": "hearthstone_game_471_tall_tales"
 	},
 	{
