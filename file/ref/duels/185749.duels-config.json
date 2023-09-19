@@ -60,6 +60,7 @@
 		"ULD_238",
 		"ULD_500",
 		"UNG_028",
+		"YOG_530",
 		"YOP_030"
 	],
 	"includedSets": [
@@ -97,6 +98,10 @@
 		"audiopocalypse",
 		"troll",
 		"titans",
-		"caverns_of_time"
+		"caverns_of_time",
+		"ulduar",
+		"dalaran",
+		"gangs",
+		"tgt"
 	]
 }
