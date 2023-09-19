@@ -1505,7 +1505,8 @@
 							"achievementTypes": [
 								"hearthstone_game_477_its_all_runes_to_me",
 								"hearthstone_game_477_too_cold_to_hold",
-								"hearthstone_game_477_superspreader"
+								"hearthstone_game_477_superspreader",
+								"hearthstone_game_477_poor_social_distancing"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_657"
@@ -1514,7 +1515,8 @@
 							"achievementTypes": [
 								"hearthstone_game_476_night_at_the_conservatory",
 								"hearthstone_game_476_howling_at_the_fel_moon",
-								"hearthstone_game_476_express_order_argunite"
+								"hearthstone_game_476_express_order_argunite",
+								"hearthstone_game_476_mental_gymnastics"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_658"
@@ -1523,7 +1525,8 @@
 							"achievementTypes": [
 								"hearthstone_game_472_all_grown_up",
 								"hearthstone_game_472_garden_of_life",
-								"hearthstone_game_472_sincerest_form_of_flattery"
+								"hearthstone_game_472_sincerest_form_of_flattery",
+								"hearthstone_game_472_tasty_temptations"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_659"
@@ -1532,7 +1535,8 @@
 							"achievementTypes": [
 								"hearthstone_game_471_oh_dear_hodir",
 								"hearthstone_game_471_tall_tales",
-								"hearthstone_game_471_always"
+								"hearthstone_game_471_always",
+								"hearthstone_game_471_the_chimaera_era"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_660"
@@ -1541,7 +1545,8 @@
 							"achievementTypes": [
 								"hearthstone_game_474_off_the_chain",
 								"hearthstone_game_474_reading_rainbow",
-								"hearthstone_game_474_this_is_my_final_form"
+								"hearthstone_game_474_this_is_my_final_form",
+								"hearthstone_game_474_slime_time"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_661"
@@ -1550,7 +1555,8 @@
 							"achievementTypes": [
 								"hearthstone_game_470_not_just_a_boulder",
 								"hearthstone_game_470_legends_never_die",
-								"hearthstone_game_470_why_not_22"
+								"hearthstone_game_470_why_not_22",
+								"hearthstone_game_470_test_your_might"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_662"
@@ -1559,7 +1565,8 @@
 							"achievementTypes": [
 								"hearthstone_game_475_mercury_in_retrograde",
 								"hearthstone_game_475_stars_cant_do_it",
-								"hearthstone_game_475_highfather_problems"
+								"hearthstone_game_475_highfather_problems",
+								"hearthstone_game_475_what_we_heal_in_the_shadows"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_663"
@@ -1568,7 +1575,8 @@
 							"achievementTypes": [
 								"hearthstone_game_469_maximum_overdrive",
 								"hearthstone_game_469_gadgets_and_gizmos_aplenty",
-								"hearthstone_game_469_oil_spill"
+								"hearthstone_game_469_oil_spill",
+								"hearthstone_game_469_hes_just_a_lil_guy"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_664"
@@ -1577,7 +1585,8 @@
 							"achievementTypes": [
 								"hearthstone_game_467_youve_been",
 								"hearthstone_game_467_if_they_be_worthy",
-								"hearthstone_game_467_azeroths_mightiest_hero"
+								"hearthstone_game_467_azeroths_mightiest_hero",
+								"hearthstone_game_467_the_answer_may_shock_you"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_665"
@@ -1586,7 +1595,8 @@
 							"achievementTypes": [
 								"hearthstone_game_473_feefifofum",
 								"hearthstone_game_473_package_deal",
-								"hearthstone_game_473_nether_gonna_give_you_up"
+								"hearthstone_game_473_nether_gonna_give_you_up",
+								"hearthstone_game_473_insane_in_the_membrane"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_666"
@@ -1595,7 +1605,8 @@
 							"achievementTypes": [
 								"hearthstone_game_468_from_the_armoory",
 								"hearthstone_game_468_trust_fall",
-								"hearthstone_game_468_divine_intervention"
+								"hearthstone_game_468_divine_intervention",
+								"hearthstone_game_468_never_ending_horror_story"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_667"
@@ -1614,7 +1625,9 @@
 								"hearthstone_game_466_outatime",
 								"hearthstone_game_466_the_first_totem",
 								"hearthstone_game_466_and_melt_with_you",
-								"hearthstone_game_466_but_this_one_is_mine"
+								"hearthstone_game_466_but_this_one_is_mine",
+								"hearthstone_game_466_tentacular_trouble",
+								"hearthstone_game_466_old_god_on_your_shoulder"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_668"
