@@ -10,7 +10,8 @@
 		"return_to_naxxramas",
 		"battle_of_the_bands",
 		"audiopocalypse",
-		"titans"
+		"titans",
+		"ulduar"
 	],
 	"twistSets": [
 		"legacy",
@@ -28,6 +29,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"ulduar",
 		"caverns_of_time",
 		"titans",
 		"audiopocalypse",
