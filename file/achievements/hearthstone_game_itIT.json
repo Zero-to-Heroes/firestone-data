@@ -70965,11 +70965,11 @@
 		"type": "hearthstone_game_451_nothin_but_a_hound_dog"
 	},
 	{
-		"completedText": "Ricarica 50 Cristalli di Mana con Frittellona",
+		"completedText": "Ricarica 50 Cristalli di Mana con Girellone",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mercante Ristoratore",
-		"emptyText": "Ricarica 50 Cristalli di Mana con Frittellona",
+		"emptyText": "Ricarica 50 Cristalli di Mana con Girellone",
 		"hsAchievementId": 5562,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 455,
@@ -70980,15 +70980,15 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "Ricarica 50 Cristalli di Mana con Frittellona",
+		"text": "Ricarica 50 Cristalli di Mana con Girellone",
 		"type": "hearthstone_game_455_refreshing_vendor"
 	},
 	{
-		"completedText": "Ricarica 100 Cristalli di Mana con Frittellona",
+		"completedText": "Ricarica 100 Cristalli di Mana con Girellone",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mercante Ristoratore",
-		"emptyText": "Ricarica 100 Cristalli di Mana con Frittellona",
+		"emptyText": "Ricarica 100 Cristalli di Mana con Girellone",
 		"hsAchievementId": 5563,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 455,
@@ -70999,7 +70999,7 @@
 		"priority": 1,
 		"quota": 100,
 		"root": false,
-		"text": "Ricarica 100 Cristalli di Mana con Frittellona",
+		"text": "Ricarica 100 Cristalli di Mana con Girellone",
 		"type": "hearthstone_game_455_refreshing_vendor"
 	},
 	{
@@ -73340,11 +73340,11 @@
 		"type": "hearthstone_game_467_youve_been"
 	},
 	{
-		"completedText": "Distruggi l'eroe nemico con Martello della Tempesta.",
+		"completedText": "Distruggi l'eroe nemico con Martello della Tormenta.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Se ne sono degni",
-		"emptyText": "Distruggi l'eroe nemico con Martello della Tempesta.",
+		"emptyText": "Distruggi l'eroe nemico con Martello della Tormenta.",
 		"hsAchievementId": 5692,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 467,
@@ -73355,7 +73355,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Distruggi l'eroe nemico con Martello della Tempesta.",
+		"text": "Distruggi l'eroe nemico con Martello della Tormenta.",
 		"type": "hearthstone_game_467_if_they_be_worthy"
 	},
 	{
