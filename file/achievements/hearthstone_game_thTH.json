@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]บทพิสูจน์[b]ความภักดี",
+		"completedText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ทิ้งตัวไม่ทิ้งกัน",
-		"emptyText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]บทพิสูจน์[b]ความภักดี",
+		"emptyText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]บทพิสูจน์[b]ความภักดี",
+		"text": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

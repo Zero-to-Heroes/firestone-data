@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Conceder +200/+$q a uma Val'kyr com Teste de Lealdade.",
+		"completedText": "Conceder +200/+$q a uma Val'kyr com Prova de Fogo.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Queda na Confiança",
-		"emptyText": "Conceder +200/+$q a uma Val'kyr com Teste de Lealdade.",
+		"emptyText": "Conceder +200/+$q a uma Val'kyr com Prova de Fogo.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Conceder +200/+$q a uma Val'kyr com Teste de Lealdade.",
+		"text": "Conceder +200/+$q a uma Val'kyr com Prova de Fogo.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

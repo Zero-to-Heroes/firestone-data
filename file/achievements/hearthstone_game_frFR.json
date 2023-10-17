@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Donner +200/+$q à une val’kyr avec Épreuve du feu.",
+		"completedText": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Chute en toute confiance",
-		"emptyText": "Donner +200/+$q à une val’kyr avec Épreuve du feu.",
+		"emptyText": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Donner +200/+$q à une val’kyr avec Épreuve du feu.",
+		"text": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

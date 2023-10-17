@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Daj +200/+$q Val'kyrii Sprawdzianem lojalności.",
+		"completedText": "Daj +200/+$q Val'kyrii Próbą ognia.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Utrata zaufania",
-		"emptyText": "Daj +200/+$q Val'kyrii Sprawdzianem lojalności.",
+		"emptyText": "Daj +200/+$q Val'kyrii Próbą ognia.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Daj +200/+$q Val'kyrii Sprawdzianem lojalności.",
+		"text": "Daj +200/+$q Val'kyrii Próbą ognia.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

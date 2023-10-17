@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "以忠誠測試賦予華爾琪+200/+$q",
+		"completedText": "以火焰試煉賦予華爾琪+200/+$q",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "信任遊戲",
-		"emptyText": "以忠誠測試賦予華爾琪+200/+$q",
+		"emptyText": "以火焰試煉賦予華爾琪+200/+$q",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "以忠誠測試賦予華爾琪+200/+$q",
+		"text": "以火焰試煉賦予華爾琪+200/+$q",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

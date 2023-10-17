@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Verleiht Val‘kyr mit Loyalitätsprüfung +200/+$q.",
+		"completedText": "Verleiht Val‘kyr mit Feuerprobe +200/+$q.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Vertrauensfall",
-		"emptyText": "Verleiht Val‘kyr mit Loyalitätsprüfung +200/+$q.",
+		"emptyText": "Verleiht Val‘kyr mit Feuerprobe +200/+$q.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Verleiht Val‘kyr mit Loyalitätsprüfung +200/+$q.",
+		"text": "Verleiht Val‘kyr mit Feuerprobe +200/+$q.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{

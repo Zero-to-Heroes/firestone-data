@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "「忠誠の試練」でヴァルキルに+200/+$qを付与する。",
+		"completedText": "「炎の試練」でヴァルキルに+200/+$qを付与する。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "信頼ゲーム",
-		"emptyText": "「忠誠の試練」でヴァルキルに+200/+$qを付与する。",
+		"emptyText": "「炎の試練」でヴァルキルに+200/+$qを付与する。",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "「忠誠の試練」でヴァルキルに+200/+$qを付与する。",
+		"text": "「炎の試練」でヴァルキルに+200/+$qを付与する。",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{
