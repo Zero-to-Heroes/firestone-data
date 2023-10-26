@@ -73454,11 +73454,11 @@
 		"type": "hearthstone_game_473_package_deal"
 	},
 	{
-		"completedText": "Evoca 30 servitori creati dal portale di Sargeras per la  Distorsione Fatua.",
+		"completedText": "Evoca 30 servitori creati dal portale di Sargeras per la Distorsione Fatua.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Zitti e fatui",
-		"emptyText": "Evoca 30 servitori creati dal portale di Sargeras per la  Distorsione Fatua.",
+		"emptyText": "Evoca 30 servitori creati dal portale di Sargeras per la Distorsione Fatua.",
 		"hsAchievementId": 5698,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 473,
@@ -73469,7 +73469,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Evoca 30 servitori creati dal portale di Sargeras per la  Distorsione Fatua.",
+		"text": "Evoca 30 servitori creati dal portale di Sargeras per la Distorsione Fatua.",
 		"type": "hearthstone_game_473_nether_gonna_give_you_up"
 	},
 	{
