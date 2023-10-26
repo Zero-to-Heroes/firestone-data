@@ -11,7 +11,8 @@
 		"battle_of_the_bands",
 		"audiopocalypse",
 		"titans",
-		"ulduar"
+		"ulduar",
+		"wild_west"
 	],
 	"twistSets": [
 		"legacy",
@@ -29,6 +30,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"wild_west",
 		"ulduar",
 		"caverns_of_time",
 		"titans",
