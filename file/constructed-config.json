@@ -15,6 +15,7 @@
 		"wild_west"
 	],
 	"twistSets": [
+		"caverns_of_time",
 		"legacy",
 		"naxx",
 		"gvg",
@@ -24,7 +25,7 @@
 		"og",
 		"kara",
 		"gangs",
-		"caverns_of_time"
+		"ungoro"
 	],
 	"vanillaSets": [
 		"vanilla"
