@@ -77406,11 +77406,11 @@
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Invoca la 9th.ª rana con el bastón de Bruja sanadora Holli'dae.",
+		"completedText": "Invoca la 9th.ª rana con el bastón de Médica Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Aquí llega Holli'dat",
-		"emptyText": "Invoca la 9th.ª rana con el bastón de Bruja sanadora Holli'dae.",
+		"emptyText": "Invoca la 9th.ª rana con el bastón de Médica Holli'dae.",
 		"hsAchievementId": 5956,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 503,
@@ -77421,7 +77421,7 @@
 		"priority": 0,
 		"quota": 9,
 		"root": true,
-		"text": "Invoca la 9th.ª rana con el bastón de Bruja sanadora Holli'dae.",
+		"text": "Invoca la 9th.ª rana con el bastón de Médica Holli'dae.",
 		"type": "hearthstone_game_503_here_comes_hollidat_boi"
 	},
 	{

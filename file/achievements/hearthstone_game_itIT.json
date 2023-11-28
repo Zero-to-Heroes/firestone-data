@@ -77045,11 +77045,11 @@
 		"type": "hearthstone_game_510_my_surge_flowweth_over"
 	},
 	{
-		"completedText": "Lancia30 Magie due volte con l'effetto di Osservazione delle Stelle.",
+		"completedText": "Lancia 30 Magie due volte con l'effetto di Osservazione delle Stelle.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Veder le stelle",
-		"emptyText": "Lancia30 Magie due volte con l'effetto di Osservazione delle Stelle.",
+		"emptyText": "Lancia 30 Magie due volte con l'effetto di Osservazione delle Stelle.",
 		"hsAchievementId": 5937,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 510,
@@ -77060,7 +77060,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Lancia30 Magie due volte con l'effetto di Osservazione delle Stelle.",
+		"text": "Lancia 30 Magie due volte con l'effetto di Osservazione delle Stelle.",
 		"type": "hearthstone_game_510_seeing_stars"
 	},
 	{
@@ -77349,11 +77349,11 @@
 		"type": "hearthstone_game_505_never_unlucky"
 	},
 	{
-		"completedText": "Distruggi 10 nemici con il Lanciatore Antico.",
+		"completedText": "Distruggi 10 nemici con il Lanciatore di Antichità.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Il suo posto è in un mausoleo",
-		"emptyText": "Distruggi 10 nemici con il Lanciatore Antico.",
+		"emptyText": "Distruggi 10 nemici con il Lanciatore di Antichità.",
 		"hsAchievementId": 5953,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 505,
@@ -77364,15 +77364,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Distruggi 10 nemici con il Lanciatore Antico.",
+		"text": "Distruggi 10 nemici con il Lanciatore di Antichità.",
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Distruggi 20 nemici con il Lanciatore Antico.",
+		"completedText": "Distruggi 20 nemici con il Lanciatore di Antichità.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Il suo posto è in un mausoleo",
-		"emptyText": "Distruggi 20 nemici con il Lanciatore Antico.",
+		"emptyText": "Distruggi 20 nemici con il Lanciatore di Antichità.",
 		"hsAchievementId": 5954,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 505,
@@ -77383,15 +77383,15 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "Distruggi 20 nemici con il Lanciatore Antico.",
+		"text": "Distruggi 20 nemici con il Lanciatore di Antichità.",
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Distruggi 40 nemici con il Lanciatore Antico.",
+		"completedText": "Distruggi 40 nemici con il Lanciatore di Antichità.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Il suo posto è in un mausoleo",
-		"emptyText": "Distruggi 40 nemici con il Lanciatore Antico.",
+		"emptyText": "Distruggi 40 nemici con il Lanciatore di Antichità.",
 		"hsAchievementId": 5955,
 		"hsRewardTrackXp": 500,
 		"hsSectionId": 505,
@@ -77402,15 +77402,15 @@
 		"priority": 2,
 		"quota": 40,
 		"root": false,
-		"text": "Distruggi 40 nemici con il Lanciatore Antico.",
+		"text": "Distruggi 40 nemici con il Lanciatore di Antichità.",
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Evoca la 9th Rana dal Bastone della Dottoressa Holli'dae.",
+		"completedText": "Evoca la 9ª Rana dal bastone della Dottoressa Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ollallà, guarda chi arriva",
-		"emptyText": "Evoca la 9th Rana dal Bastone della Dottoressa Holli'dae.",
+		"emptyText": "Evoca la 9ª Rana dal bastone della Dottoressa Holli'dae.",
 		"hsAchievementId": 5956,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 503,
@@ -77421,7 +77421,7 @@
 		"priority": 0,
 		"quota": 9,
 		"root": true,
-		"text": "Evoca la 9th Rana dal Bastone della Dottoressa Holli'dae.",
+		"text": "Evoca la 9ª Rana dal bastone della Dottoressa Holli'dae.",
 		"type": "hearthstone_game_503_here_comes_hollidat_boi"
 	},
 	{

@@ -77805,11 +77805,11 @@
 		"type": "hearthstone_game_502_diggy_diggy_hole"
 	},
 	{
-		"completedText": "Spielt 20 von Revolverflosse erstellte Murlocs aus.",
+		"completedText": "Spielt 20 von Howdyfin erstellte Murlocs aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Jiiharglgrglg!",
-		"emptyText": "Spielt 20 von Revolverflosse erstellte Murlocs aus.",
+		"emptyText": "Spielt 20 von Howdyfin erstellte Murlocs aus.",
 		"hsAchievementId": 5977,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -77820,15 +77820,15 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Spielt 20 von Revolverflosse erstellte Murlocs aus.",
+		"text": "Spielt 20 von Howdyfin erstellte Murlocs aus.",
 		"type": "hearthstone_game_502_yeehawrglgrlg"
 	},
 	{
-		"completedText": "Spielt 40 von Revolverflosse erstellte Murlocs aus.",
+		"completedText": "Spielt 40 von Howdyfin erstellte Murlocs aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Jiiharglgrglg!",
-		"emptyText": "Spielt 40 von Revolverflosse erstellte Murlocs aus.",
+		"emptyText": "Spielt 40 von Howdyfin erstellte Murlocs aus.",
 		"hsAchievementId": 5978,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -77839,15 +77839,15 @@
 		"priority": 1,
 		"quota": 40,
 		"root": false,
-		"text": "Spielt 40 von Revolverflosse erstellte Murlocs aus.",
+		"text": "Spielt 40 von Howdyfin erstellte Murlocs aus.",
 		"type": "hearthstone_game_502_yeehawrglgrlg"
 	},
 	{
-		"completedText": "Spielt 80 von Revolverflosse erstellte Murlocs aus.",
+		"completedText": "Spielt 80 von Howdyfin erstellte Murlocs aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Jiiharglgrglg!",
-		"emptyText": "Spielt 80 von Revolverflosse erstellte Murlocs aus.",
+		"emptyText": "Spielt 80 von Howdyfin erstellte Murlocs aus.",
 		"hsAchievementId": 5979,
 		"hsRewardTrackXp": 500,
 		"hsSectionId": 502,
@@ -77858,7 +77858,7 @@
 		"priority": 2,
 		"quota": 80,
 		"root": false,
-		"text": "Spielt 80 von Revolverflosse erstellte Murlocs aus.",
+		"text": "Spielt 80 von Howdyfin erstellte Murlocs aus.",
 		"type": "hearthstone_game_502_yeehawrglgrlg"
 	},
 	{
@@ -77976,11 +77976,11 @@
 		"type": "hearthstone_game_502_reno_saves_the_day"
 	},
 	{
-		"completedText": "Zerstört 12 der Kartnen eures Gegners mit dem High Noon-Duellanten.",
+		"completedText": "Zerstört 12 der Kartnen Eures Gegners mit dem High Noon-Duellanten.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Zwölf Uhr Mittags",
-		"emptyText": "Zerstört 12 der Kartnen eures Gegners mit dem High Noon-Duellanten.",
+		"emptyText": "Zerstört 12 der Kartnen Eures Gegners mit dem High Noon-Duellanten.",
 		"hsAchievementId": 5986,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 502,
@@ -77991,7 +77991,7 @@
 		"priority": 0,
 		"quota": 12,
 		"root": true,
-		"text": "Zerstört 12 der Kartnen eures Gegners mit dem High Noon-Duellanten.",
+		"text": "Zerstört 12 der Kartnen Eures Gegners mit dem High Noon-Duellanten.",
 		"type": "hearthstone_game_502_its_twelve_oclock"
 	},
 	{

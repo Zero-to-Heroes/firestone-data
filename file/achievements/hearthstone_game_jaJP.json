@@ -77140,11 +77140,11 @@
 		"type": "hearthstone_game_506_hi_ho_hi_ho_on_the_board_we_go"
 	},
 	{
-		"completedText": "「決斗！」で召喚された「アウトロー」が自陣に1体、敵陣にはいない状態で自分のターンを終了する。",
+		"completedText": "「決斗！」で召喚された「アウトロー」が自陣に3体、敵陣にはいない状態で自分のターンを終了する。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ウーサーが先に撃った問題",
-		"emptyText": "「決斗！」で召喚された「アウトロー」が自陣に1体、敵陣にはいない状態で自分のターンを終了する。",
+		"emptyText": "「決斗！」で召喚された「アウトロー」が自陣に3体、敵陣にはいない状態で自分のターンを終了する。",
 		"hsAchievementId": 5942,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 506,
@@ -77155,7 +77155,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "「決斗！」で召喚された「アウトロー」が自陣に1体、敵陣にはいない状態で自分のターンを終了する。",
+		"text": "「決斗！」で召喚された「アウトロー」が自陣に3体、敵陣にはいない状態で自分のターンを終了する。",
 		"type": "hearthstone_game_506_uther_shot_first"
 	},
 	{
