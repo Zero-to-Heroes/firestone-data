@@ -3143,6 +3143,27 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_693"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_831_this_is_how_i_roll"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_958"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_832_rewarding_research"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_959"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_833_happy_hollidaes"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_960"
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -3454,6 +3454,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_693",
 							"name": "Thorim, Señor de la Tormenta"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_831_this_is_how_i_roll"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_958",
+							"name": "Ojos de serpiente"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_832_rewarding_research"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_959",
+							"name": "Tae'thalan Vigilasangre"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_833_happy_hollidaes"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_960",
+							"name": "Médica Holli'dae."
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -3454,6 +3454,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_693",
 							"name": "风暴之王托里姆"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_831_this_is_how_i_roll"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_958",
+							"name": "蛇眼"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_832_rewarding_research"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_959",
+							"name": "泰瑟兰·血望者"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_833_happy_hollidaes"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_960",
+							"name": "荷利戴医生"
 						}
 					],
 					"icon": "mode_battlegrounds",
