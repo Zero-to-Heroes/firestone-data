@@ -77634,11 +77634,11 @@
 		"type": "hearthstone_game_504_bad_lands_good_brawl"
 	},
 	{
-		"completedText": "Vuela 40 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"completedText": "Vuela 40 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Tic, tac, bum!",
-		"emptyText": "Vuela 40 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"emptyText": "Vuela 40 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"hsAchievementId": 5968,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 504,
@@ -77649,15 +77649,15 @@
 		"priority": 0,
 		"quota": 40,
 		"root": true,
-		"text": "Vuela 40 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"text": "Vuela 40 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"type": "hearthstone_game_504_tick_tick_boom"
 	},
 	{
-		"completedText": "Vuela 80 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"completedText": "Vuela 80 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Tic, tac, bum!",
-		"emptyText": "Vuela 80 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"emptyText": "Vuela 80 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"hsAchievementId": 5969,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 504,
@@ -77668,15 +77668,15 @@
 		"priority": 1,
 		"quota": 80,
 		"root": false,
-		"text": "Vuela 80 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"text": "Vuela 80 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"type": "hearthstone_game_504_tick_tick_boom"
 	},
 	{
-		"completedText": "Vuela 150 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"completedText": "Vuela 150 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Tic, tac, bum!",
-		"emptyText": "Vuela 150 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"emptyText": "Vuela 150 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"hsAchievementId": 5970,
 		"hsRewardTrackXp": 500,
 		"hsSectionId": 504,
@@ -77687,7 +77687,7 @@
 		"priority": 2,
 		"quota": 150,
 		"root": false,
-		"text": "Vuela 150 cartas con el T.N.T. de Tho'grun, el jefe-bomba.",
+		"text": "Vuela 150 cartas con el T.N.T. de Tho'grun el jefe-bomba.",
 		"type": "hearthstone_game_504_tick_tick_boom"
 	},
 	{

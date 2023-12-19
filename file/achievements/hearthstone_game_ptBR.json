@@ -63061,11 +63061,11 @@
 		"type": "hearthstone_game_422_packs_a_real_wallop"
 	},
 	{
-		"completedText": "Evocar 30 Malévolos Vis com Acordo com o Demônio.",
+		"completedText": "Evocar 30 Malévolos Vis com Acordo com um Demônio.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ninguém vil",
-		"emptyText": "Evocar 30 Malévolos Vis com Acordo com o Demônio.",
+		"emptyText": "Evocar 30 Malévolos Vis com Acordo com um Demônio.",
 		"hsAchievementId": 5061,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 422,
@@ -63076,15 +63076,15 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Evocar 30 Malévolos Vis com Acordo com o Demônio.",
+		"text": "Evocar 30 Malévolos Vis com Acordo com um Demônio.",
 		"type": "hearthstone_game_422_for_the_fel_of_it"
 	},
 	{
-		"completedText": "Evocar 60 Malévolos Vis com Acordo com o Demônio.",
+		"completedText": "Evocar 60 Malévolos Vis com Acordo com um Demônio.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ninguém vil",
-		"emptyText": "Evocar 60 Malévolos Vis com Acordo com o Demônio.",
+		"emptyText": "Evocar 60 Malévolos Vis com Acordo com um Demônio.",
 		"hsAchievementId": 5062,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 422,
@@ -63095,15 +63095,15 @@
 		"priority": 1,
 		"quota": 60,
 		"root": false,
-		"text": "Evocar 60 Malévolos Vis com Acordo com o Demônio.",
+		"text": "Evocar 60 Malévolos Vis com Acordo com um Demônio.",
 		"type": "hearthstone_game_422_for_the_fel_of_it"
 	},
 	{
-		"completedText": "Evocar 90 Malévolos Vis com Acordo com o Demônio.",
+		"completedText": "Evocar 90 Malévolos Vis com Acordo com um Demônio.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ninguém vil",
-		"emptyText": "Evocar 90 Malévolos Vis com Acordo com o Demônio.",
+		"emptyText": "Evocar 90 Malévolos Vis com Acordo com um Demônio.",
 		"hsAchievementId": 5063,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 422,
@@ -63114,7 +63114,7 @@
 		"priority": 2,
 		"quota": 90,
 		"root": false,
-		"text": "Evocar 90 Malévolos Vis com Acordo com o Demônio.",
+		"text": "Evocar 90 Malévolos Vis com Acordo com um Demônio.",
 		"type": "hearthstone_game_422_for_the_fel_of_it"
 	},
 	{
@@ -72865,11 +72865,11 @@
 		"type": "hearthstone_game_477_its_all_runes_to_me"
 	},
 	{
-		"completedText": "Fazer o oponente comprar 10 cards em excesso com Congelado.",
+		"completedText": "Fazer o oponente comprar 10 cards em excesso com Congelamento.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Frio é psicológico",
-		"emptyText": "Fazer o oponente comprar 10 cards em excesso com Congelado.",
+		"emptyText": "Fazer o oponente comprar 10 cards em excesso com Congelamento.",
 		"hsAchievementId": 5667,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 477,
@@ -72880,7 +72880,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Fazer o oponente comprar 10 cards em excesso com Congelado.",
+		"text": "Fazer o oponente comprar 10 cards em excesso com Congelamento.",
 		"type": "hearthstone_game_477_too_cold_to_hold"
 	},
 	{
@@ -73967,11 +73967,11 @@
 		"type": "hearthstone_game_466_judgement_day"
 	},
 	{
-		"completedText": "Jogar 30 Dragões criados pelo Protodraco do Tempo Perdido.",
+		"completedText": "Jogar 30 Dragões criados pelo Protodraco Perdido no Tempo.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Sem tempo, irmão!",
-		"emptyText": "Jogar 30 Dragões criados pelo Protodraco do Tempo Perdido.",
+		"emptyText": "Jogar 30 Dragões criados pelo Protodraco Perdido no Tempo.",
 		"hsAchievementId": 5725,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 466,
@@ -73982,7 +73982,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Jogar 30 Dragões criados pelo Protodraco do Tempo Perdido.",
+		"text": "Jogar 30 Dragões criados pelo Protodraco Perdido no Tempo.",
 		"type": "hearthstone_game_466_outatime"
 	},
 	{
@@ -77406,11 +77406,11 @@
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Evocar o 9th Sapo do Cajado da Doutora Sossegada.",
+		"completedText": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Aí vem o cara mandingueiro",
-		"emptyText": "Evocar o 9th Sapo do Cajado da Doutora Sossegada.",
+		"emptyText": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
 		"hsAchievementId": 5956,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 503,
@@ -77421,7 +77421,7 @@
 		"priority": 0,
 		"quota": 9,
 		"root": true,
-		"text": "Evocar o 9th Sapo do Cajado da Doutora Sossegada.",
+		"text": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
 		"type": "hearthstone_game_503_here_comes_hollidat_boi"
 	},
 	{
@@ -77691,11 +77691,11 @@
 		"type": "hearthstone_game_504_tick_tick_boom"
 	},
 	{
-		"completedText": "Jogar 50 cards com Compra Rápida no turno em que os receber.",
+		"completedText": "Jogar 50 cards com Saque Rápido no turno em que os receber.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Apontar... mirar...",
-		"emptyText": "Jogar 50 cards com Compra Rápida no turno em que os receber.",
+		"emptyText": "Jogar 50 cards com Saque Rápido no turno em que os receber.",
 		"hsAchievementId": 5971,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -77706,15 +77706,15 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "Jogar 50 cards com Compra Rápida no turno em que os receber.",
+		"text": "Jogar 50 cards com Saque Rápido no turno em que os receber.",
 		"type": "hearthstone_game_502_ready_aim"
 	},
 	{
-		"completedText": "Jogar 100 cards com Compra Rápida no turno em que os receber.",
+		"completedText": "Jogar 100 cards com Saque Rápido no turno em que os receber.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Apontar... mirar...",
-		"emptyText": "Jogar 100 cards com Compra Rápida no turno em que os receber.",
+		"emptyText": "Jogar 100 cards com Saque Rápido no turno em que os receber.",
 		"hsAchievementId": 5972,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -77725,15 +77725,15 @@
 		"priority": 1,
 		"quota": 100,
 		"root": false,
-		"text": "Jogar 100 cards com Compra Rápida no turno em que os receber.",
+		"text": "Jogar 100 cards com Saque Rápido no turno em que os receber.",
 		"type": "hearthstone_game_502_ready_aim"
 	},
 	{
-		"completedText": "Jogar 200 cards com Compra Rápida no turno em que os receber.",
+		"completedText": "Jogar 200 cards com Saque Rápido no turno em que os receber.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Apontar... mirar...",
-		"emptyText": "Jogar 200 cards com Compra Rápida no turno em que os receber.",
+		"emptyText": "Jogar 200 cards com Saque Rápido no turno em que os receber.",
 		"hsAchievementId": 5973,
 		"hsRewardTrackXp": 500,
 		"hsSectionId": 502,
@@ -77744,7 +77744,7 @@
 		"priority": 2,
 		"quota": 200,
 		"root": false,
-		"text": "Jogar 200 cards com Compra Rápida no turno em que os receber.",
+		"text": "Jogar 200 cards com Saque Rápido no turno em que os receber.",
 		"type": "hearthstone_game_502_ready_aim"
 	},
 	{
@@ -77862,11 +77862,11 @@
 		"type": "hearthstone_game_502_yeehawrglgrlg"
 	},
 	{
-		"completedText": "Ativar os efeitos de Grito de Guerra de 30lacaios parceiros.",
+		"completedText": "Ativar os efeitos de Grito de Guerra de 30 lacaios parceiros.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Dois de cada",
-		"emptyText": "Ativar os efeitos de Grito de Guerra de 30lacaios parceiros.",
+		"emptyText": "Ativar os efeitos de Grito de Guerra de 30 lacaios parceiros.",
 		"hsAchievementId": 5980,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -77877,7 +77877,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Ativar os efeitos de Grito de Guerra de 30lacaios parceiros.",
+		"text": "Ativar os efeitos de Grito de Guerra de 30 lacaios parceiros.",
 		"type": "hearthstone_game_502_two_of_a_kind"
 	},
 	{
@@ -78071,11 +78071,11 @@
 		"type": "hearthstone_game_502_ails_what_cures_ya"
 	},
 	{
-		"completedText": "Jogar uma card com Escavar, Compra Rápida, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
+		"completedText": "Jogar uma card com Escavar, Saque Rápido, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Procurado: vivo ou morto",
-		"emptyText": "Jogar uma card com Escavar, Compra Rápida, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
+		"emptyText": "Jogar uma card com Escavar, Saque Rápido, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
 		"hsAchievementId": 5991,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 502,
@@ -78086,7 +78086,7 @@
 		"priority": 0,
 		"quota": 4,
 		"root": true,
-		"text": "Jogar uma card com Escavar, Compra Rápida, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
+		"text": "Jogar uma card com Escavar, Saque Rápido, Trocável e Lendário com um Mural de Contratos no tabuleiro.",
 		"type": "hearthstone_game_502_wanted_dead_or_alive"
 	},
 	{
@@ -78109,11 +78109,11 @@
 		"type": "hearthstone_game_502_gold_rush"
 	},
 	{
-		"completedText": "Jogar Elementais por10 turnos consecutivos.",
+		"completedText": "Jogar Elementais por 10 turnos consecutivos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Calamidade consecutiva",
-		"emptyText": "Jogar Elementais por10 turnos consecutivos.",
+		"emptyText": "Jogar Elementais por 10 turnos consecutivos.",
 		"hsAchievementId": 5993,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 502,
@@ -78124,7 +78124,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Jogar Elementais por10 turnos consecutivos.",
+		"text": "Jogar Elementais por 10 turnos consecutivos.",
 		"type": "hearthstone_game_502_consecutive_calamity"
 	},
 	{
@@ -79420,11 +79420,11 @@
 		"type": "hearthstone_game_832_rewarding_research"
 	},
 	{
-		"completedText": "Jogar uma partida dos Campos de Batalha com Doutora Sossegada.",
+		"completedText": "Jogar uma partida dos Campos de Batalha com Doutora Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Festas Sossegadas!",
-		"emptyText": "Jogar uma partida dos Campos de Batalha com Doutora Sossegada.",
+		"emptyText": "Jogar uma partida dos Campos de Batalha com Doutora Holli'dae.",
 		"hsAchievementId": 7252,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 833,
@@ -79435,15 +79435,15 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Jogar uma partida dos Campos de Batalha com Doutora Sossegada.",
+		"text": "Jogar uma partida dos Campos de Batalha com Doutora Holli'dae.",
 		"type": "hearthstone_game_833_happy_hollidaes"
 	},
 	{
-		"completedText": "Terminar entre os 4 melhores com Doutora Sossegada.",
+		"completedText": "Terminar entre os 4 melhores com Doutora Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Festas Sossegadas!",
-		"emptyText": "Terminar entre os 4 melhores com Doutora Sossegada.",
+		"emptyText": "Terminar entre os 4 melhores com Doutora Holli'dae.",
 		"hsAchievementId": 7253,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 833,
@@ -79454,15 +79454,15 @@
 		"priority": 1,
 		"quota": 1,
 		"root": false,
-		"text": "Terminar entre os 4 melhores com Doutora Sossegada.",
+		"text": "Terminar entre os 4 melhores com Doutora Holli'dae.",
 		"type": "hearthstone_game_833_happy_hollidaes"
 	},
 	{
-		"completedText": "Terminar em 1º lugar com Doutora Sossegada.",
+		"completedText": "Terminar em 1º lugar com Doutora Holli'dae",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Festas Sossegadas!",
-		"emptyText": "Terminar em 1º lugar com Doutora Sossegada.",
+		"emptyText": "Terminar em 1º lugar com Doutora Holli'dae",
 		"hsAchievementId": 7254,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 833,
@@ -79473,7 +79473,7 @@
 		"priority": 2,
 		"quota": 1,
 		"root": false,
-		"text": "Terminar em 1º lugar com Doutora Sossegada.",
+		"text": "Terminar em 1º lugar com Doutora Holli'dae",
 		"type": "hearthstone_game_833_happy_hollidaes"
 	}
 ]
