@@ -1421,42 +1421,6 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_444_jack_of_all_runes",
-								"hearthstone_game_444_giant_following",
-								"hearthstone_game_444_wall_of_death"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_635",
-							"name": "死亡骑士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_457_too_ghoul_for_school"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_650",
-							"name": "死亡骑士/圣骑士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_437_going_clubbing",
-								"hearthstone_game_437_dancing_queen",
-								"hearthstone_game_437_dont_stop_believing"
-							],
-							"icon": "paladin",
-							"id": "hearthstone_game_section_628",
-							"name": "圣骑士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_450_whats_new_silver_hand"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_643",
-							"name": "圣骑士/萨满祭司"
-						},
-						{
-							"achievementTypes": [
 								"hearthstone_game_434_playing_the_scales",
 								"hearthstone_game_434_stacked_lineup",
 								"hearthstone_game_434_melomaniacal_laughter"
@@ -1464,14 +1428,6 @@
 							"icon": "shaman",
 							"id": "hearthstone_game_section_625",
 							"name": "萨满祭司"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_447_frog_rock"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_640",
-							"name": "萨满祭司/战士"
 						},
 						{
 							"achievementTypes": [
@@ -1485,32 +1441,6 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_448_twohand_tapping"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_641",
-							"name": "战士/恶魔猎手"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_443_active_octave",
-								"hearthstone_game_443_piercing_frequencies",
-								"hearthstone_game_443_smashing"
-							],
-							"icon": "demon_hunter",
-							"id": "hearthstone_game_section_634",
-							"name": "恶魔猎手"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_456_rushing_and_dragging"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_649",
-							"name": "恶魔猎手/潜行者"
-						},
-						{
-							"achievementTypes": [
 								"hearthstone_game_436_your_spaghetti",
 								"hearthstone_game_436_epic_rap_battle_of_blingstory",
 								"hearthstone_game_436_boots_and_cats_and"
@@ -1521,83 +1451,13 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_449_original_mix"
+								"hearthstone_game_437_going_clubbing",
+								"hearthstone_game_437_dancing_queen",
+								"hearthstone_game_437_dont_stop_believing"
 							],
-							"icon": "general",
-							"id": "hearthstone_game_section_642",
-							"name": "潜行者/牧师"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_442_my_hearth_will_go_on",
-								"hearthstone_game_442_like_comment_and_subscribe",
-								"hearthstone_game_442_jealous_much"
-							],
-							"icon": "priest",
-							"id": "hearthstone_game_section_633",
-							"name": "牧师"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_455_refreshing_vendor"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_648",
-							"name": "牧师/德鲁伊"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_439_sold_out_show",
-								"hearthstone_game_439_shifting_shapes",
-								"hearthstone_game_439_breaths_of_the_wild"
-							],
-							"icon": "druid",
-							"id": "hearthstone_game_section_630",
-							"name": "德鲁伊"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_452_mana_face_doomkin"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_645",
-							"name": "德鲁伊/术士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_440_i_like_to_movement_movement",
-								"hearthstone_game_440_urge_to_dirge",
-								"hearthstone_game_440_perish_song"
-							],
-							"icon": "warlock",
-							"id": "hearthstone_game_section_631",
-							"name": "术士"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_453_improvisation"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_646",
-							"name": "术士/法师"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_441_do_the_waveform",
-								"hearthstone_game_441_on_repeat",
-								"hearthstone_game_441_destroy_them_with_lasers"
-							],
-							"icon": "mage",
-							"id": "hearthstone_game_section_632",
-							"name": "法师"
-						},
-						{
-							"achievementTypes": [
-								"hearthstone_game_454_falling_stars"
-							],
-							"icon": "general",
-							"id": "hearthstone_game_section_647",
-							"name": "法师/猎人"
+							"icon": "paladin",
+							"id": "hearthstone_game_section_628",
+							"name": "圣骑士"
 						},
 						{
 							"achievementTypes": [
@@ -1611,11 +1471,81 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_451_nothin_but_a_hound_dog"
+								"hearthstone_game_439_sold_out_show",
+								"hearthstone_game_439_shifting_shapes",
+								"hearthstone_game_439_breaths_of_the_wild"
+							],
+							"icon": "druid",
+							"id": "hearthstone_game_section_630",
+							"name": "德鲁伊"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_440_i_like_to_movement_movement",
+								"hearthstone_game_440_urge_to_dirge",
+								"hearthstone_game_440_perish_song"
+							],
+							"icon": "warlock",
+							"id": "hearthstone_game_section_631",
+							"name": "术士"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_441_do_the_waveform",
+								"hearthstone_game_441_on_repeat",
+								"hearthstone_game_441_destroy_them_with_lasers"
+							],
+							"icon": "mage",
+							"id": "hearthstone_game_section_632",
+							"name": "法师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_442_my_hearth_will_go_on",
+								"hearthstone_game_442_like_comment_and_subscribe",
+								"hearthstone_game_442_jealous_much"
+							],
+							"icon": "priest",
+							"id": "hearthstone_game_section_633",
+							"name": "牧师"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_443_active_octave",
+								"hearthstone_game_443_piercing_frequencies",
+								"hearthstone_game_443_smashing"
+							],
+							"icon": "demon_hunter",
+							"id": "hearthstone_game_section_634",
+							"name": "恶魔猎手"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_444_jack_of_all_runes",
+								"hearthstone_game_444_giant_following",
+								"hearthstone_game_444_wall_of_death"
 							],
 							"icon": "general",
-							"id": "hearthstone_game_section_644",
-							"name": "猎人/死亡骑士"
+							"id": "hearthstone_game_section_635",
+							"name": "死亡骑士"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_752_rushing_and_dragging",
+								"hearthstone_game_752_falling_stars",
+								"hearthstone_game_752_whats_new_silver_hand",
+								"hearthstone_game_752_twohand_tapping",
+								"hearthstone_game_752_nothin_but_a_hound_dog",
+								"hearthstone_game_752_refreshing_vendor",
+								"hearthstone_game_752_original_mix",
+								"hearthstone_game_752_frog_rock",
+								"hearthstone_game_752_improvisation",
+								"hearthstone_game_752_mana_face_doomkin",
+								"hearthstone_game_752_too_ghoul_for_school"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_879",
+							"name": "双职业"
 						},
 						{
 							"achievementTypes": [
@@ -1942,6 +1872,24 @@
 						},
 						{
 							"achievementTypes": [
+								"hearthstone_game_751_baton_pass",
+								"hearthstone_game_751_the_shape_of_lava",
+								"hearthstone_game_751_finleys_fishy_friends",
+								"hearthstone_game_751_something_that_burns",
+								"hearthstone_game_751_paleontologenius",
+								"hearthstone_game_751_me_myself_and_i",
+								"hearthstone_game_751_healing_crystal",
+								"hearthstone_game_751_deepholm_fault_line",
+								"hearthstone_game_751_thats_coldblooded",
+								"hearthstone_game_751_pop_rocks",
+								"hearthstone_game_751_lend_a_hand"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_878",
+							"name": "双职业"
+						},
+						{
+							"achievementTypes": [
 								"hearthstone_game_502_ready_aim",
 								"hearthstone_game_502_diggy_diggy_hole",
 								"hearthstone_game_502_yeehawrglgrlg",
@@ -1954,7 +1902,9 @@
 								"hearthstone_game_502_ails_what_cures_ya",
 								"hearthstone_game_502_wanted_dead_or_alive",
 								"hearthstone_game_502_gold_rush",
-								"hearthstone_game_502_consecutive_calamity"
+								"hearthstone_game_502_consecutive_calamity",
+								"hearthstone_game_502_call_of_the_stonemother",
+								"hearthstone_game_502_iridescent_into_irideepholm"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_692",
