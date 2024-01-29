@@ -12,11 +12,11 @@
 		"audiopocalypse",
 		"titans",
 		"ulduar",
-		"wild_west"
+		"wild_west",
+		"deepholm"
 	],
 	"twistSets": [
-		"caverns_of_time",
-		"legacy",
+		"core",
 		"naxx",
 		"gvg",
 		"brm",
@@ -25,12 +25,23 @@
 		"og",
 		"kara",
 		"gangs",
-		"ungoro"
+		"ungoro",
+		"icecrown",
+		"lootapalooza",
+		"gilneas",
+		"boomsday",
+		"troll",
+		"dalaran",
+		"uldum",
+		"dragons",
+		"yod",
+		"caverns_of_time"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"deepholm",
 		"wild_west",
 		"ulduar",
 		"caverns_of_time",
