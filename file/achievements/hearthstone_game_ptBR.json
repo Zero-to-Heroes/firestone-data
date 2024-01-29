@@ -73264,11 +73264,11 @@
 		"type": "hearthstone_game_469_gadgets_and_gizmos_aplenty"
 	},
 	{
-		"completedText": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"completedText": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Derramamento de óleo",
-		"emptyText": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"emptyText": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"hsAchievementId": 5688,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 469,
@@ -73279,15 +73279,15 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"text": "Causar 50 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"type": "hearthstone_game_469_oil_spill"
 	},
 	{
-		"completedText": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"completedText": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Derramamento de óleo",
-		"emptyText": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"emptyText": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"hsAchievementId": 5689,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 469,
@@ -73298,15 +73298,15 @@
 		"priority": 1,
 		"quota": 100,
 		"root": false,
-		"text": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"text": "Causar 100 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"type": "hearthstone_game_469_oil_spill"
 	},
 	{
-		"completedText": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"completedText": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Derramamento de óleo",
-		"emptyText": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"emptyText": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"hsAchievementId": 5690,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 469,
@@ -73317,7 +73317,7 @@
 		"priority": 2,
 		"quota": 200,
 		"root": false,
-		"text": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Alcatrão.",
+		"text": "Causar 200 a mais de dano a lacaios com o efeito Mancha de Piche.",
 		"type": "hearthstone_game_469_oil_spill"
 	},
 	{
@@ -77957,11 +77957,11 @@
 		"type": "hearthstone_game_502_do_not_pass_go"
 	},
 	{
-		"completedText": "Ganhar 100 partidas com decks sem duplicatas.",
+		"completedText": "Ganhar 100 partidas com decks sem cards repetidos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Reno salva o dia",
-		"emptyText": "Ganhar 100 partidas com decks sem duplicatas.",
+		"emptyText": "Ganhar 100 partidas com decks sem cards repetidos.",
 		"hsAchievementId": 5985,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 502,
@@ -77972,7 +77972,7 @@
 		"priority": 0,
 		"quota": 100,
 		"root": true,
-		"text": "Ganhar 100 partidas com decks sem duplicatas.",
+		"text": "Ganhar 100 partidas com decks sem cards repetidos.",
 		"type": "hearthstone_game_502_reno_saves_the_day"
 	},
 	{

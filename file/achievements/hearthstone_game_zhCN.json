@@ -79876,11 +79876,11 @@
 		"type": "hearthstone_game_751_pop_rocks"
 	},
 	{
-		"completedText": "使一只炫彩旋岩虫获得3种不同的额外效果。",
+		"completedText": "用一只炫彩旋岩虫使随从获得3种不同的额外效果。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "峋岩炫彩",
-		"emptyText": "使一只炫彩旋岩虫获得3种不同的额外效果。",
+		"emptyText": "用一只炫彩旋岩虫使随从获得3种不同的额外效果。",
 		"hsAchievementId": 6769,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 502,
@@ -79891,15 +79891,15 @@
 		"priority": 0,
 		"quota": 3,
 		"root": true,
-		"text": "使一只炫彩旋岩虫获得3种不同的额外效果。",
+		"text": "用一只炫彩旋岩虫使随从获得3种不同的额外效果。",
 		"type": "hearthstone_game_502_iridescent_into_irideepholm"
 	},
 	{
-		"completedText": "使一只炫彩旋岩虫获得5种不同的额外效果。",
+		"completedText": "用一只炫彩旋岩虫使随从获得5种不同的额外效果。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "峋岩炫彩",
-		"emptyText": "使一只炫彩旋岩虫获得5种不同的额外效果。",
+		"emptyText": "用一只炫彩旋岩虫使随从获得5种不同的额外效果。",
 		"hsAchievementId": 6770,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 502,
@@ -79910,7 +79910,7 @@
 		"priority": 1,
 		"quota": 5,
 		"root": false,
-		"text": "使一只炫彩旋岩虫获得5种不同的额外效果。",
+		"text": "用一只炫彩旋岩虫使随从获得5种不同的额外效果。",
 		"type": "hearthstone_game_502_iridescent_into_irideepholm"
 	},
 	{
