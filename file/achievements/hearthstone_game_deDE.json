@@ -57095,11 +57095,11 @@
 		"type": "hearthstone_game_354_just_an_old_fish_tale"
 	},
 	{
-		"completedText": "Beendet Euren Zug mit einem Fiesen Schlängelspeer mit 7 Angriff oder mehr.",
+		"completedText": "Beendet Euren Zug mit einem Tückischer Speerkämpfer mit 7 Angriff oder mehr.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Schlag der Sieben Fäuste",
-		"emptyText": "Beendet Euren Zug mit einem Fiesen Schlängelspeer mit 7 Angriff oder mehr.",
+		"emptyText": "Beendet Euren Zug mit einem Tückischer Speerkämpfer mit 7 Angriff oder mehr.",
 		"hsAchievementId": 4661,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 354,
@@ -57110,7 +57110,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "Beendet Euren Zug mit einem Fiesen Schlängelspeer mit 7 Angriff oder mehr.",
+		"text": "Beendet Euren Zug mit einem Tückischer Speerkämpfer mit 7 Angriff oder mehr.",
 		"type": "hearthstone_game_354_sevensided_strike"
 	},
 	{
