@@ -13,7 +13,9 @@
 		"titans",
 		"ulduar",
 		"wild_west",
-		"deepholm"
+		"deepholm",
+		"gift",
+		"whizbangs_workshop"
 	],
 	"twistSets": [
 		"core",
@@ -42,6 +44,7 @@
 	],
 	"wildSets": [
 		"whizbangs_workshop",
+		"gift",
 		"deepholm",
 		"wild_west",
 		"ulduar",
