@@ -79401,11 +79401,11 @@
 		"type": "hearthstone_game_742_stocked_inventory"
 	},
 	{
-		"completedText": "Mette servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
+		"completedText": "Metti servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pulizie di primavera",
-		"emptyText": "Mette servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
+		"emptyText": "Metti servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
 		"hsAchievementId": 6579,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 747,
@@ -79416,15 +79416,15 @@
 		"priority": 0,
 		"quota": 15,
 		"root": true,
-		"text": "Mette servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
+		"text": "Metti servitori per un totale di 15 Mana in un singolo Scatolone con Repulisti.",
 		"type": "hearthstone_game_747_spring_cleaning"
 	},
 	{
-		"completedText": "Mette servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
+		"completedText": "Metti servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pulizie di primavera",
-		"emptyText": "Mette servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
+		"emptyText": "Metti servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
 		"hsAchievementId": 6580,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 747,
@@ -79435,7 +79435,7 @@
 		"priority": 1,
 		"quota": 30,
 		"root": false,
-		"text": "Mette servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
+		"text": "Metti servitori per un totale di 30 Mana in un singolo Scatolone con Repulisti.",
 		"type": "hearthstone_game_747_spring_cleaning"
 	},
 	{

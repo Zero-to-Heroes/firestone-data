@@ -77406,11 +77406,11 @@
 		"type": "hearthstone_game_505_antique_flinging_slasher"
 	},
 	{
-		"completedText": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
+		"completedText": "Evocar a 9ª Rã do Cajado da Doutora Holli'dae.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Aí vem o cara mandingueiro",
-		"emptyText": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
+		"emptyText": "Evocar a 9ª Rã do Cajado da Doutora Holli'dae.",
 		"hsAchievementId": 5956,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 503,
@@ -77421,7 +77421,7 @@
 		"priority": 0,
 		"quota": 9,
 		"root": true,
-		"text": "Evocar o 9º Sapo do Cajado da Doutora Holli'dae.",
+		"text": "Evocar a 9ª Rã do Cajado da Doutora Holli'dae.",
 		"type": "hearthstone_game_503_here_comes_hollidat_boi"
 	},
 	{
@@ -79572,11 +79572,11 @@
 		"type": "hearthstone_game_738_mini_me"
 	},
 	{
-		"completedText": "Despertar 10 Pestanas do Corredor.",
+		"completedText": "Despertar 10 Corredores Dorminhocos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Você já sabe!",
-		"emptyText": "Despertar 10 Pestanas do Corredor.",
+		"emptyText": "Despertar 10 Corredores Dorminhocos.",
 		"hsAchievementId": 6631,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 738,
@@ -79587,15 +79587,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Despertar 10 Pestanas do Corredor.",
+		"text": "Despertar 10 Corredores Dorminhocos.",
 		"type": "hearthstone_game_738_you_guessed_it_right"
 	},
 	{
-		"completedText": "Despertar 20 Pestanas do Corredor.",
+		"completedText": "Despertar 20 Corredores Dorminhocos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Você já sabe!",
-		"emptyText": "Despertar 20 Pestanas do Corredor.",
+		"emptyText": "Despertar 20 Corredores Dorminhocos.",
 		"hsAchievementId": 6632,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 738,
@@ -79606,15 +79606,15 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "Despertar 20 Pestanas do Corredor.",
+		"text": "Despertar 20 Corredores Dorminhocos.",
 		"type": "hearthstone_game_738_you_guessed_it_right"
 	},
 	{
-		"completedText": "Despertar 40 Pestanas do Corredor.",
+		"completedText": "Despertar 40 Corredores Dorminhocos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Você já sabe!",
-		"emptyText": "Despertar 40 Pestanas do Corredor.",
+		"emptyText": "Despertar 40 Corredores Dorminhocos.",
 		"hsAchievementId": 6633,
 		"hsRewardTrackXp": 800,
 		"hsSectionId": 738,
@@ -79625,7 +79625,7 @@
 		"priority": 2,
 		"quota": 40,
 		"root": false,
-		"text": "Despertar 40 Pestanas do Corredor.",
+		"text": "Despertar 40 Corredores Dorminhocos.",
 		"type": "hearthstone_game_738_you_guessed_it_right"
 	},
 	{
