@@ -2713,6 +2713,7 @@
 						{
 							"achievementTypes": [
 								"hearthstone_game_114_mug_half_full",
+								"hearthstone_game_114_comeback_king",
 								"hearthstone_game_114_lord_of_the_battlegrounds",
 								"hearthstone_game_114_ruler_of_thirds",
 								"hearthstone_game_114_bobs_favorite_customer",
@@ -2750,6 +2751,19 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_48",
 							"name": "บททดสอบ"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_924_top_teamwork",
+								"hearthstone_game_924_lords_of_the_battlegrounds",
+								"hearthstone_game_924_helping_hand",
+								"hearthstone_game_924_ill_do_it_myself",
+								"hearthstone_game_924_funnel_cakes",
+								"hearthstone_game_924_cinnamon_funnel_cakes"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1051",
+							"name": "ดูโอส์ - บททดสอบ"
 						},
 						{
 							"achievementTypes": [
@@ -3151,7 +3165,6 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_264_comeback_king",
 								"hearthstone_game_264_the_magicians_code"
 							],
 							"icon": "general",
@@ -3560,6 +3573,46 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_960",
 							"name": "ด็อกเตอร์ฮอลลิเด"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_919_floop_de_loop"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1046",
+							"name": "ฟลอบบิดินัส ฟลู้ป"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_920_no_ones_a_winner"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1047",
+							"name": "บุคคลนิรนาม"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_921_passed_with_flying_colors"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1048",
+							"name": "มาดามโกย่า"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_922_i_won"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1049",
+							"name": "โช"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_923_no_i_won"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1050",
+							"name": "กัล"
 						}
 					],
 					"icon": "mode_battlegrounds",
