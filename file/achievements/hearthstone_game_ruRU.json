@@ -79287,11 +79287,11 @@
 		"type": "hearthstone_game_748_no_nerfs_needed"
 	},
 	{
-		"completedText": "Разыграйте нефритовую статуэтку с характеристиками 5/$q или выше.",
+		"completedText": "Разыграйте нефритовую лавку с характеристиками 5/$q или выше.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Волшебник нефритового города",
-		"emptyText": "Разыграйте нефритовую статуэтку с характеристиками 5/$q или выше.",
+		"emptyText": "Разыграйте нефритовую лавку с характеристиками 5/$q или выше.",
 		"hsAchievementId": 6573,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 744,
@@ -79302,15 +79302,15 @@
 		"priority": 0,
 		"quota": 5,
 		"root": true,
-		"text": "Разыграйте нефритовую статуэтку с характеристиками 5/$q или выше.",
+		"text": "Разыграйте нефритовую лавку с характеристиками 5/$q или выше.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
-		"completedText": "Разыграйте нефритовую статуэтку с характеристиками 10/$q или выше.",
+		"completedText": "Разыграйте нефритовую лавку с характеристиками 10/$q или выше.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Волшебник нефритового города",
-		"emptyText": "Разыграйте нефритовую статуэтку с характеристиками 10/$q или выше.",
+		"emptyText": "Разыграйте нефритовую лавку с характеристиками 10/$q или выше.",
 		"hsAchievementId": 6574,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 744,
@@ -79321,7 +79321,7 @@
 		"priority": 1,
 		"quota": 10,
 		"root": false,
-		"text": "Разыграйте нефритовую статуэтку с характеристиками 10/$q или выше.",
+		"text": "Разыграйте нефритовую лавку с характеристиками 10/$q или выше.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
