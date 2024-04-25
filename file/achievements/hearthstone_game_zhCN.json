@@ -76836,11 +76836,11 @@
 		"type": "hearthstone_game_512_with_my_eyes_closed"
 	},
 	{
-		"completedText": "用仙人掌构造体发现16张不同的随从牌。",
+		"completedText": "用仙人掌构造术发现16张不同的随从牌。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "小小仙人掌",
-		"emptyText": "用仙人掌构造体发现16张不同的随从牌。",
+		"emptyText": "用仙人掌构造术发现16张不同的随从牌。",
 		"hsAchievementId": 5926,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 508,
@@ -76851,7 +76851,7 @@
 		"priority": 0,
 		"quota": 16,
 		"root": true,
-		"text": "用仙人掌构造体发现16张不同的随从牌。",
+		"text": "用仙人掌构造术发现16张不同的随从牌。",
 		"type": "hearthstone_game_508_itsy_bitsy_spiny_tiny"
 	},
 	{
