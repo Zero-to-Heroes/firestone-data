@@ -179,12 +179,19 @@
             "name": "Whizbang's Workshop 29.2.2",
             "date": "2024-04-25T18:00:00Z",
             "hasNewBuildNumber": true
+        },
+        {
+            "number": 198933,
+            "version": "29.4",
+            "name": "Whizbang's Workshop 29.4",
+            "date": "2024-05-13T18:00:00Z",
+            "hasNewBuildNumber": true
         }
     ],
-    "currentConstructedMetaPatch": 198608,
+    "currentConstructedMetaPatch": 198933,
     "currentBattlegroundsMetaPatch": 198608,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 198608,
+    "currentArenaMetaPatch": 198933,
     "currentMercenariesMetaPatch": 189017,
-    "currentArenaSeasonPatch": 198037
+    "currentArenaSeasonPatch": 198933
 }
