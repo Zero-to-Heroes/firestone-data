@@ -1924,7 +1924,8 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_749_puppy_power"
+								"hearthstone_game_749_puppy_power",
+								"hearthstone_game_749_its_foam_or_nothing"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_865",
@@ -1932,7 +1933,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_748_no_nerfs_needed"
+								"hearthstone_game_748_no_nerfs_needed",
+								"hearthstone_game_748_am_i_a_naga_or_am_i_a_puppet"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_866",
@@ -1940,7 +1942,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_744_one_short_day_in_the_jade_city"
+								"hearthstone_game_744_one_short_day_in_the_jade_city",
+								"hearthstone_game_744_magic_bean_stonks"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_867",
@@ -1948,7 +1951,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_743_the_good_spots_in_life"
+								"hearthstone_game_743_the_good_spots_in_life",
+								"hearthstone_game_743_clever_girl"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_868",
@@ -1956,7 +1960,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_746_sob_story"
+								"hearthstone_game_746_sob_story",
+								"hearthstone_game_746_hat_trick"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_869",
@@ -1964,7 +1969,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_742_stocked_inventory"
+								"hearthstone_game_742_stocked_inventory",
+								"hearthstone_game_742_flourescent_flourish"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_870",
@@ -1972,7 +1978,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_747_spring_cleaning"
+								"hearthstone_game_747_spring_cleaning",
+								"hearthstone_game_747_dr_booms_matinee"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_871",
@@ -1980,7 +1987,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_741_its_a_steal"
+								"hearthstone_game_741_its_a_steal",
+								"hearthstone_game_741_waahh_golden_achievement"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_872",
@@ -1988,7 +1996,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_739_blue_participation_ribbon"
+								"hearthstone_game_739_blue_participation_ribbon",
+								"hearthstone_game_739_the_good_ol_days"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_873",
@@ -1996,7 +2005,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_745_sketched_out"
+								"hearthstone_game_745_sketched_out",
+								"hearthstone_game_745_more_more"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_874",
@@ -2004,7 +2014,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_740_science_rules"
+								"hearthstone_game_740_science_rules",
+								"hearthstone_game_740_explosive_experiments_of_fun"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_875",
@@ -2015,7 +2026,9 @@
 								"hearthstone_game_738_mini_me",
 								"hearthstone_game_738_you_guessed_it_right",
 								"hearthstone_game_738_p_e_r_f_e_c_t_i_o_n",
-								"hearthstone_game_738_i_mustache_you_a_question"
+								"hearthstone_game_738_i_mustache_you_a_question",
+								"hearthstone_game_738_on_the_shoulders_of_giants",
+								"hearthstone_game_738_gg_ez"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_876",
