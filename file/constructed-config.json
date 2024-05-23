@@ -8,9 +8,11 @@
 		"wild_west",
 		"deepholm",
 		"gift",
-		"whizbangs_workshop"
+		"whizbangs_workshop",
+		"boom_inventions"
 	],
 	"twistSets": [
+		"boom_inventions",
 		"whizbangs_workshop",
 		"gift",
 		"deepholm",
@@ -63,6 +65,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"boom_inventions",
 		"whizbangs_workshop",
 		"gift",
 		"deepholm",
