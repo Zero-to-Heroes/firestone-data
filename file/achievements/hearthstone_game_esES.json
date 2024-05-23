@@ -71117,11 +71117,11 @@
 		"type": "hearthstone_game_752_improvisation"
 	},
 	{
-		"completedText": "Gana el duelo de rock del Campeón Tauren de élite.",
+		"completedText": "Gana el duelo de rock del Elite Tauren Champion.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Esto sí que es ETC",
-		"emptyText": "Gana el duelo de rock del Campeón Tauren de élite.",
+		"emptyText": "Gana el duelo de rock del Elite Tauren Champion.",
 		"hsAchievementId": 5570,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 433,
@@ -71132,15 +71132,15 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Gana el duelo de rock del Campeón Tauren de élite.",
+		"text": "Gana el duelo de rock del Elite Tauren Champion.",
 		"type": "hearthstone_game_433_now_thats_what_i_call_etc"
 	},
 	{
-		"completedText": "Destruye al héroe enemigo ganando el duelo de rock del Campeón Tauren de élite.",
+		"completedText": "Destruye al héroe enemigo ganando el duelo de rock del Elite Tauren Champion.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Esto sí que es ETC",
-		"emptyText": "Destruye al héroe enemigo ganando el duelo de rock del Campeón Tauren de élite.",
+		"emptyText": "Destruye al héroe enemigo ganando el duelo de rock del Elite Tauren Champion.",
 		"hsAchievementId": 5571,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 433,
@@ -71151,7 +71151,7 @@
 		"priority": 1,
 		"quota": 1,
 		"root": false,
-		"text": "Destruye al héroe enemigo ganando el duelo de rock del Campeón Tauren de élite.",
+		"text": "Destruye al héroe enemigo ganando el duelo de rock del Elite Tauren Champion.",
 		"type": "hearthstone_game_433_now_thats_what_i_call_etc"
 	},
 	{

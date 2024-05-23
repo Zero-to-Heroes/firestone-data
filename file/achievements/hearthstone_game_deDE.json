@@ -73036,11 +73036,11 @@
 		"type": "hearthstone_game_474_this_is_my_final_form"
 	},
 	{
-		"completedText": "Ruft einen Irdenen Golem mit 14-Angriff herbei.",
+		"completedText": "Ruft einen Irdenen Golem mit 14 Angriff herbei.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Nicht bloß ein Felsen",
-		"emptyText": "Ruft einen Irdenen Golem mit 14-Angriff herbei.",
+		"emptyText": "Ruft einen Irdenen Golem mit 14 Angriff herbei.",
 		"hsAchievementId": 5676,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 470,
@@ -73051,7 +73051,7 @@
 		"priority": 0,
 		"quota": 14,
 		"root": true,
-		"text": "Ruft einen Irdenen Golem mit 14-Angriff herbei.",
+		"text": "Ruft einen Irdenen Golem mit 14 Angriff herbei.",
 		"type": "hearthstone_game_470_not_just_a_boulder"
 	},
 	{
@@ -73131,11 +73131,11 @@
 		"type": "hearthstone_game_470_why_not_22"
 	},
 	{
-		"completedText": "Spielt einen Astralmechanoid mit 7-Angriff aus.",
+		"completedText": "Spielt einen Astralmechanoid mit 7 Angriff aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Merkur ist rückläufig",
-		"emptyText": "Spielt einen Astralmechanoid mit 7-Angriff aus.",
+		"emptyText": "Spielt einen Astralmechanoid mit 7 Angriff aus.",
 		"hsAchievementId": 5681,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 475,
@@ -73146,7 +73146,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "Spielt einen Astralmechanoid mit 7-Angriff aus.",
+		"text": "Spielt einen Astralmechanoid mit 7 Angriff aus.",
 		"type": "hearthstone_game_475_mercury_in_retrograde"
 	},
 	{
@@ -75829,11 +75829,11 @@
 		"type": "hearthstone_game_472_tasty_temptations"
 	},
 	{
-		"completedText": "Beschwört eine 8-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"completedText": "Beschwört eine Schimäre mit 8 Angriff mit dem Zerrbild der Frostschwinge.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Die Schimärenära",
-		"emptyText": "Beschwört eine 8-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"emptyText": "Beschwört eine Schimäre mit 8 Angriff mit dem Zerrbild der Frostschwinge.",
 		"hsAchievementId": 5867,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 471,
@@ -75844,15 +75844,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Beschwört eine 8-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"text": "Beschwört eine Schimäre mit 8 Angriff mit dem Zerrbild der Frostschwinge.",
 		"type": "hearthstone_game_471_the_chimaera_era"
 	},
 	{
-		"completedText": "Beschwört eine 12-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"completedText": "Beschwört eine Schimäre mit 12 Angriff mit dem Zerrbild der Frostschwinge.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Die Schimärenära",
-		"emptyText": "Beschwört eine 12-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"emptyText": "Beschwört eine Schimäre mit 12 Angriff mit dem Zerrbild der Frostschwinge.",
 		"hsAchievementId": 5868,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 471,
@@ -75863,7 +75863,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Beschwört eine 12-Attack-Schimäre mit dem Zerrbild der Frostschwinge.",
+		"text": "Beschwört eine Schimäre mit 12 Angriff mit dem Zerrbild der Frostschwinge.",
 		"type": "hearthstone_game_471_the_chimaera_era"
 	},
 	{
@@ -79762,11 +79762,11 @@
 		"type": "hearthstone_game_749_its_foam_or_nothing"
 	},
 	{
-		"completedText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6-Attack Angriff an.",
+		"completedText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6 Angriff an.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Was bin ich, Naga oder Puppe?",
-		"emptyText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6-Attack Angriff an.",
+		"emptyText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6 Angriff an.",
 		"hsAchievementId": 6641,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 748,
@@ -79777,15 +79777,15 @@
 		"priority": 0,
 		"quota": 6,
 		"root": true,
-		"text": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6-Attack Angriff an.",
+		"text": "Greift mit einem Sockenpuppen-Speerkämpfer mit 6 Angriff an.",
 		"type": "hearthstone_game_748_am_i_a_naga_or_am_i_a_puppet"
 	},
 	{
-		"completedText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12-Attack Angriff an.",
+		"completedText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12 Angriff an.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Was bin ich, Naga oder Puppe?",
-		"emptyText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12-Attack Angriff an.",
+		"emptyText": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12 Angriff an.",
 		"hsAchievementId": 6642,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 748,
@@ -79796,7 +79796,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12-Attack Angriff an.",
+		"text": "Greift mit einem Sockenpuppen-Speerkämpfer mit 12 Angriff an.",
 		"type": "hearthstone_game_748_am_i_a_naga_or_am_i_a_puppet"
 	},
 	{

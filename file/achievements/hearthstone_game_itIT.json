@@ -79762,11 +79762,11 @@
 		"type": "hearthstone_game_749_its_foam_or_nothing"
 	},
 	{
-		"completedText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6-Attack.",
+		"completedText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "L'ora del fantoccio",
-		"emptyText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6-Attack.",
+		"emptyText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6.",
 		"hsAchievementId": 6641,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 748,
@@ -79777,15 +79777,15 @@
 		"priority": 0,
 		"quota": 6,
 		"root": true,
-		"text": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6-Attack.",
+		"text": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 6.",
 		"type": "hearthstone_game_748_am_i_a_naga_or_am_i_a_puppet"
 	},
 	{
-		"completedText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12-Attack.",
+		"completedText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "L'ora del fantoccio",
-		"emptyText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12-Attack.",
+		"emptyText": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12.",
 		"hsAchievementId": 6642,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 748,
@@ -79796,7 +79796,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12-Attack.",
+		"text": "Attacca con un Lanciaviscida Fantoccio con Attacco pari a 12.",
 		"type": "hearthstone_game_748_am_i_a_naga_or_am_i_a_puppet"
 	},
 	{
