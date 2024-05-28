@@ -200,6 +200,13 @@
             "name": "Whizbang's Workshop 29.4.2",
             "date": "2024-05-23T17:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 200097,
+            "version": "29.4.2",
+            "name": "Whizbang's Workshop 29.4.2",
+            "date": "2024-05-23T17:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 200097,
