@@ -200,9 +200,17 @@
             "name": "Whizbang's Workshop 29.4.3",
             "date": "2024-05-30T17:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 200098,
+            "version": "29.4.3",
+            "name": "Whizbang's Workshop 29.4.3",
+            "date": "2024-05-30T17:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 200097,
+    "currentTwistMetaPatch": 200098,
     "currentBattlegroundsMetaPatch": 200097,
     "currentDuelsMetaPatch": 193541,
     "currentArenaMetaPatch": 200098,
