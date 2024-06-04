@@ -202,18 +202,18 @@
             "hasNewBuildNumber": false
         },
         {
-            "number": 200098,
+            "number": 200099,
             "version": "29.4.3",
-            "name": "Whizbang's Workshop 29.4.3",
-            "date": "2024-05-30T17:00:00Z",
+            "name": "Whizbang's Workshop 29.4.3.20240604",
+            "date": "2024-06-04T03:00:00Z",
             "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 200097,
-    "currentTwistMetaPatch": 200098,
+    "currentTwistMetaPatch": 200099,
     "currentBattlegroundsMetaPatch": 200097,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 200098,
+    "currentArenaMetaPatch": 200097,
     "currentMercenariesMetaPatch": 189017,
     "currentArenaSeasonPatch": 198933
 }
