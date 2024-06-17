@@ -58923,7 +58923,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"type": "hearthstone_game_742_flourescent_flourish"
+		"type": "hearthstone_game_742_fluorescent_flourish"
 	},
 	{
 		"displayCardId": "ULDA_111",
@@ -58937,7 +58937,7 @@
 		"priority": 1,
 		"quota": 40,
 		"root": false,
-		"type": "hearthstone_game_742_flourescent_flourish"
+		"type": "hearthstone_game_742_fluorescent_flourish"
 	},
 	{
 		"displayCardId": "ULDA_111",

@@ -1800,7 +1800,7 @@
 						{
 							"achievementTypes": [
 								"hearthstone_game_742_stocked_inventory",
-								"hearthstone_game_742_flourescent_flourish"
+								"hearthstone_game_742_fluorescent_flourish"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_870"
@@ -3504,7 +3504,7 @@
 							"id": "hearthstone_game_section_622"
 						}
 					],
-					"icon": "mode_duels",
+					"icon": "general",
 					"id": "hearthstone_game_sub_14"
 				},
 				{
