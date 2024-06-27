@@ -249,11 +249,18 @@
             "name": "Whizbang's Workshop 29.6.1",
             "date": "2024-06-21T16:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 202360,
+            "version": "29.6.2",
+            "name": "Whizbang's Workshop 29.6.2",
+            "date": "2024-06-27T17:00:00Z",
+            "hasNewBuildNumber": true
         }
     ],
-    "currentConstructedMetaPatch": 201108,
-    "currentTwistMetaPatch": 201109,
-    "currentBattlegroundsMetaPatch": 201110,
+    "currentConstructedMetaPatch": 202360,
+    "currentTwistMetaPatch": 202360,
+    "currentBattlegroundsMetaPatch": 202360,
     "currentDuelsMetaPatch": 193541,
     "currentArenaMetaPatch": 200097,
     "currentMercenariesMetaPatch": 189017,
