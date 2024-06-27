@@ -9,9 +9,11 @@
 		"deepholm",
 		"gift",
 		"whizbangs_workshop",
-		"boom_inventions"
+		"boom_inventions",
+		"perils_in_paradise"
 	],
 	"twistSets": [
+		"perils_in_paradise",
 		"boom_inventions",
 		"whizbangs_workshop",
 		"gift",
@@ -65,6 +67,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"perils_in_paradise",
 		"boom_inventions",
 		"whizbangs_workshop",
 		"gift",
