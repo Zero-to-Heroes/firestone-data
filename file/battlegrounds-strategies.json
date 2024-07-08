@@ -6,11 +6,11 @@
 			"name": "A. F. Kay",
 			"tips": [
 				{
-					"summary": "In the first 2 turns, instead of going AFK, try to freeze a value generating card that you then use on your discovery turn to level to tavern 2.I usually follow up by going Tavern 3 on 6 gold and then playing normally but it depends on what shop you get on tavern 2.If you don't get a value start, I'd still recommend leveling to 2 on 5 gold in most cases.",
+					"summary": "In the first 2 turns, instead of going AFK, try to freeze a value generating card that you then use on your discovery turn to level to tavern 2.I usually follow up by going Tavern 3 on 6 gold and then playing normally but it depends on what shop you get on tavern 2.If you don't get a value start, I'd still recommend leveling to 2 on 5 gold in most cases. Buddy: Try to build around Deflecto-bots and resets since that’s the best 3-drop strategy to make most use of your buddy. Otherwise just use it for tempo and move on from it mid-late game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Do not rely on the buddy for any amount of relevant scaling",
@@ -26,11 +26,11 @@
 			"name": "The Great Akazamzarak",
 			"tips": [
 				{
-					"summary": "Play normally and use the hero power to give you tempo early game and usually a poison 2/3 late-game, it can be game-changing in the right lobby!",
+					"summary": "Play normally and use the hero power to give you tempo early game and usually a poison 2/3 late-game, it can be game-changing in the right lobby! Buddy: Use the buddy for some early-midgame power but consider selling late-game, especially since it can’t give you ice block.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Do not rely on the buddy for anything",
@@ -46,11 +46,11 @@
 			"name": "Al-Akir",
 			"tips": [
 				{
-					"summary": "Level a bit more aggressively than on a normal hero and make use of your hero power early/mid-game. Towards late-game, assume people will position around your divine shielded taunt so get some extra taunts while you also play around a potential cleave if that’s available in the lobby.",
+					"summary": "Level a bit more aggressively than on a normal hero and make use of your hero power early/mid-game. Towards late-game, assume people will position around your divine shielded taunt so get some extra taunts while you also play around a potential cleave if that’s available in the lobby. Buddy: Decent synergy with the hero power but quite predictable and works best in compositions that play a lot of stats and don’t have a weak-link minion that can become a target if hit by the buddy’s deathrattle.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Tarecgosa and Persistent Poet can keep the heropower & buddy effect permanently",
@@ -66,11 +66,11 @@
 			"name": "Alexstrasza",
 			"tips": [
 				{
-					"summary": "Try to map your leveling path up to 5 and go there as soon as possible without taking way too much damage. Sometimes even the basic curve followed by skipping taverns 3 and 4 could be a good way to play this hero! (7gold=tavern 3, 8gold=tavern 4, 9gold=sell a minion and go tavern5 and get your hero power activated)",
+					"summary": "Try to go to level 4 as soon as you can to make most of your hero power, ideally also with a curve where you can press the hero power as soon as you get there! Ideally play dragons but if the game leads you on another direction you can still play something else and use the hero power for some extra potential value. Buddy: This buddy is one of the best in the game and allows you to play very greedy once it comes in play due to it’s double activation. I like playing for tempo to get the buddy quite fast and then balance it by going for a win condition. Best follow up is getting Bran and another way to activate your buddy every turn such as Murk-Eye.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't care about winning early fights; rush to tier 4 and be willing to spend a lot of gold for the buddy",
@@ -86,11 +86,11 @@
 			"name": "Ambassador Faelin",
 			"tips": [
 				{
-					"summary": "Try to pick minions that are good on their own, not around a combo(at least for 2 and 4 stars). If you don't hit a 6 drop that creates your gameplan, pick something that adds utility or has a lot of stats on it’s own and play normally after you go to tavern 4, you don't always need to rush to 6. This hero is very good with murlocs because it works with the hand buffing effects!",
+					"summary": "Try to pick minions that are good on their own, not around a combo(at least for 2 and 4 stars). If you don't hit a 6 drop that creates your gameplan, pick something that adds utility or has a lot of stats on it’s own and play normally after you go to tavern 4, you don't always need to rush to 6. This hero is very good with hand buffing effects! Buddy: Has a fun synergy with Mooneater’s Champion, allowing you to go pretty crazy in stats if you can combine it with Brann and then trigger it multiple times with the 5* spell that activates a friendly battlecry! In most other situations it’s a tempo tool that gives you power by granting you acces to a 5 drop either on tavern 3 or 4 or just some extra money.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Brann / Rylak / Mooneater's Champion / Young Murkeye are key synergies to make your buddy worthwhile",
@@ -106,11 +106,11 @@
 			"name": "Aranna Starseeker",
 			"tips": [
 				{
-					"summary": "Play normally in the beginning and be a bit greedier once you get your hero power going. Prioritize minions that are sticky such as deathrattles and reborns to complete your hero power faster.",
+					"summary": "Play normally in the beginning and be a bit greedier once you get your hero power going. Prioritize minions that are sticky such as deathrattles, reborns or windfury to complete your hero power faster. Buddy: One of the most powerful and versatile buddies in the game, Sklibb allows you to pull the almost infinite Azerite strategy and even shine outside of elemental lobbies by allowing you more time to find powerful units by giving you super cheap rolls. I like buying most 1 cost spells once I have this guy on the board because think about it,  if you are going to roll anyways you might as well get a spell for free by doing that!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your buddy works with spells too; its best use case is low tier cycling comps like living azerite",
@@ -126,11 +126,11 @@
 			"name": "Lord Barov",
 			"tips": [
 				{
-					"summary": "Just win the bets, LOL.",
+					"summary": "Just win the bets, LOL. Buddy: This buddy is amazing if you win your early bets and fights. Once you’re rolling you can level aggressively and be ahead of the lobby both in power and economy. It’s harder to manage when you’re losing and I wouldn’t overpay for it in that situation. It’s better to lose your fights than your bets though because once you have your buddy you can recover easier if you have enough money by leveling more than your opponents and buying more powerful units than them.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Additional early money is best spent leveling faster than everyone else",
@@ -146,11 +146,11 @@
 			"name": "Mr. Bigglesworth",
 			"tips": [
 				{
-					"summary": "Ideally play defensive until one player dies. That is not always possible so sometimes it's okay to play like a normal hero but know this: Before a player dies, you are the worst hero in the game. The more players die the stronger you become so play accordingly!",
+					"summary": "Ideally play defensive until one player dies. That is not always possible so sometimes it's okay to play like a normal hero but know this: Before a player dies, you are the worst hero in the game. The more players die the stronger you become so play accordingly! Buddy: Try to get the buddy fast and get some value from it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "The buddy is fine but the heropower is terrible",
@@ -166,11 +166,11 @@
 			"name": "Death Speaker Blackthorn",
 			"tips": [
 				{
-					"summary": "While I don’t think you want to force quillboar, you should pick up the buffs for blood gems since it’s so easy for you to generate them. I like buying a minion that can potentially be buffed early and focus all gems on it. Don’t keep gems in your hand waiting for the best minion to come because you can always move gems if needed!",
+					"summary": "While I don’t think you want to force quillboar, you should pick up the buffs for blood gems since it’s so easy for you to generate them. I like buying a minion that can potentially be buffed early and focus all gems on it. Don’t keep gems in your hand waiting for the best minion to come because you can always move gems if needed! Buddy: Try to buff the gems as much as you can because once you get the buddy on the board, generating gems is not going to be an issue!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't overvalue your heropower before you get gem buffs",
@@ -186,11 +186,11 @@
 			"name": "Dinotamer Brann",
 			"tips": [
 				{
-					"summary": "If there are enough battlecries on tavern 1, I like staying there until I get the Brann and then level while dealing a lot of damage to opponents. If you aren’t offered battlecries however, don’t force your hand. Level and play normally and get the Brann a bit later, it’s still going to be good!",
+					"summary": "If there are enough battlecries on tavern 1, I like staying there until I get the Brann and then level while dealing a lot of damage to opponents. If you aren’t offered battlecries however, don’t force your hand. Level and play normally and get the Brann a bit later, it’s still going to be good! Buddy: Try to calculate your early game to win/tie some fights while also buying battlecries to get both the buddy and brann as soon as possible. Once you have them, go for a huge turn and then you can go a bit greedy to find a win condition. If nothing goes your way, try to find taunt giver and taunt buffer on tavern 4 to stabilize!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Look at the minion types before the game to determine if you want to get brann ASAP or buy stronger minions",
@@ -206,11 +206,11 @@
 			"name": "Bru'kan",
 			"tips": [
 				{
-					"summary": "This hero plays best with avenge minions that you can ''milk'' utilising earth invocation. Late-game you almost always want to use Lightning Invocation to break opponent's divine shields and give yourself an edge in the fights.",
+					"summary": "This hero plays best with avenge minions that you can ''milk'' utilizing earth invocation. Late-game you almost always want to use Lightning Invocation to break opponent's divine shields and give yourself an edge in the fights. Buddy: I try to press every invocation other than Water while this buddy is on the board to have some extra cheesing abilities with it. Generally not a fan of having water because it can ruin combo oriented compositions.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Avoid taunt heropower with buddy, and don't use deathrattle heropower if you want to macaw your buddy",
@@ -226,11 +226,11 @@
 			"name": "Cap'n Hoggarr",
 			"tips": [
 				{
-					"summary": "Start the game with the intention of playing pirates but don’t force them if you get very little to none.I like leveling on 2 because Ripsnarl is so powerful, would only stay a bit more on tavern 1 if I have an abundance of pirates that I can buy on turns 1,2 and 3 and then would still level as fast as possible. Later on in the game, Underhanded Dealer is the best minion to find since every pirate you buy afterwards is an extra +1/+1 on it!",
+					"summary": "Start the game with the intention of playing pirates but don’t force them if you get very little to none.I like leveling on 2 because Ripsnarl is so powerful, would only stay a bit more on tavern 1 if I have an abundance of pirates that I can buy on turns 1,2 and 3 and then would still level as fast as possible. Later on in the game, Underhanded Dealer is the best minion to find since every pirate you buy afterwards is an extra +1/+1 on it! Buddy: Try to get the buddy as fast as possible and keep it going into end-game if you’re playing pirates. You probably want to buy every Pirate you’re offered once you have this on the board.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't (anymore, the buddy got nerfed into the ground)",
@@ -246,11 +246,11 @@
 			"name": "Cariel Roame",
 			"tips": [
 				{
-					"summary": "I like staying one more turn on 1 only with a great duplicate such as Mummy. Otherwise level normally to 2 and maybe consider going tavern 3 on 6 gold since that allows you to fit the hero power. Play normally most of the game but try to fit the hero power when you think you have a board mostly of minions that you intend on keeping, it adds a lot of stats!",
+					"summary": "I like staying one more turn on 1 only with a great duplicate such as Mummy. Otherwise level normally to 2 and maybe consider going tavern 3 on 6 gold since that allows you to fit the hero power. Play normally most of the game but try to fit the hero power when you think you have a board mostly of minions that you intend on keeping, it adds a lot of stats! Buddy: Try to get the buddy as fast as possible and incorporate it in your gameplan.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -266,11 +266,11 @@
 			"name": "Chenvaala",
 			"tips": [
 				{
-					"summary": "Even if you don't have to end up as elementals every game, when you pick this hero you should know most games will end up like that. Ideally you buy a lot of cheap elementals and don't even pay for leveling, advancing through the taverns while building a powerful board.",
+					"summary": "Even if you don't have to end up as elementals every game, when you pick this hero you should know most games will end up like that. Ideally you buy a lot of cheap elementals and don't even pay for leveling, advancing through the taverns while building a powerful board. Buddy: Once you get the buddy, make use of it by buying the good elementals offered. Usually it’s a keep on this hero since it helps you find the cards you need without rolling too much. Can replace Recycling Wraith in most situations.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't buy bad elementals, you'll get offered plenty with your buddy",
@@ -286,11 +286,11 @@
 			"name": "Cho",
 			"tips": [
 				{
-					"summary": "I think the best way to play this hero combination is one player leveling more aggressively and being served powerful discoveries and one player playing more tempo oriented and trying to win fights or minimize damage taken. Once you are done getting value from the hero power, it’s best if the player that is ahead helps the other one build a powerful board as well.",
+					"summary": "I think the best way to play this hero combination is one player leveling more aggressively and being served powerful discoveries and one player playing more tempo oriented and trying to win fights or minimize damage taken. Once you are done getting value from the hero power, it’s best if the player that is ahead helps the other one build a powerful board as well. Buddy: A bit slow but once you get rolling it can be very good for both you and your teammate",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -299,11 +299,11 @@
 			"name": "Gall",
 			"tips": [
 				{
-					"summary": "I think the best way to play this hero combination is one player leveling more aggressively and being served powerful discoveries and one player playing more tempo oriented and trying to win fights or minimize damage taken. Once you are done getting value from the hero power, it’s best if the player that is ahead helps the other one build a powerful board as well.",
+					"summary": "I think the best way to play this hero combination is one player leveling more aggressively and being served powerful discoveries and one player playing more tempo oriented and trying to win fights or minimize damage taken. Once you are done getting value from the hero power, it’s best if the player that is ahead helps the other one build a powerful board as well. Buddy: A bit slow but once you get rolling it can be very good for both you and your teammate",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -312,11 +312,11 @@
 			"name": "Cookie the Cook",
 			"tips": [
 				{
-					"summary": "With a value generator start or in a meta where 3 on 3 is the preferred way of playing, Cookie is one of the best heroes in the game at snowballing. If you have that start, try to level quickly and get good minions to help you snowball. Go for stats over synergies early and only build on a win-condition once you get a minion that can support it! If you don't have a value start, Cookie can still offer you some gold or powerful minions to smoothen your curve.",
+					"summary": "With a value generator start or in a meta where 3 on 3 is the preferred way of playing, Cookie is one of the best heroes in the game at snowballing. If you have that start, try to level quickly and get good minions to help you snowball. Go for stats over synergies early and only build on a win-condition once you get a minion that can support it! If you don't have a value start, Cookie can still offer you some gold or powerful minions to smoothen your curve. Buddy: Decent buddy that makes you faster, try to time the turns with it and go for powerful plays. Might want to sell the buddy late-game",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't keep the buddy forever",
@@ -332,11 +332,11 @@
 			"name": "C'Thun",
 			"tips": [
 				{
-					"summary": "Play normally until you get a good board, then hero power every turn. You can still hero power if it's the best play that turn(example:5gold and you don't have a value start that allows you to double buy) but don't go out of your way to press it every turn. You should press it every turn if you build around Dragons with Whelp Smuggler however since you'd like to maximize health in that case.",
+					"summary": "Play normally until you get a good board, then hero power every turn. You can still hero power if it's the best play that turn(example:5gold and you don't have a value start that allows you to double buy) but don't go out of your way to press it every turn. You should press it every turn if you build around Dragons with Whelp Smuggler however since you'd like to maximize health in that case. Buddy: Try to get the buddy fast and play around it, it’s a pretty good pile of stats that gets better over time!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -352,11 +352,11 @@
 			"name": "The Curator",
 			"tips": [
 				{
-					"summary": "Try to reborn the amalgam for a power boost, keep in mind that it will work in most builds until late game and the best part about it is that it can take the buffs that other minions don’t need or can’t receive.",
+					"summary": "Try to reborn the amalgam for a power boost, keep in mind that it will work in most builds until late game and the best part about it is that it can take the buffs that other minions don’t need or can’t receive. Buddy: Try to focus on buffing the amalgam as much as you can but don’t forget to not over-expose yourself to scam comps.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "The buddy scaling is never gamewinning on its own; you still need to find a real comp",
@@ -372,11 +372,11 @@
 			"name": "Deathwing",
 			"tips": [
 				{
-					"summary": "Plays best with divine shields and cleaves.Other than that, prioritize health since you get attack from your hero power anyways",
+					"summary": "Plays best with divine shields and cleaves.Other than that, prioritize health since you get attack from your hero power anyways. Buddy: Try to build for a composition that can utilize stats efficiently, such as mechs.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Deflect-o-Bot",
@@ -395,8 +395,8 @@
 					"summary": "I like following the basic curve because being too strong on turn 4 leads to 10 prizes where being average you’re still going to win most fights because of the extra minion and still get like 8 prizes. Turn 8 is most important in the game for you so make sure that you not only have a good direction, but also a lot of power for that turn.I’d keep most prizes from turn 4 for turn 8 but use the ones you get on 8 if needed to kill the rest of the players.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -405,11 +405,11 @@
 			"name": "Dancin' Deryl",
 			"tips": [
 				{
-					"summary": "I recommend playing normally and just using the hats to improve your early game. It’s not worth for a few buffs to sell your board just in order to buff a minion.",
+					"summary": "I recommend playing normally and just using the hats to improve your early game. It’s not worth for a few buffs to sell your board just in order to buff a minion. Buddy: Try to go for a strategy where you buy a lot of minions and for the last fight sell your buddy to spread the stats that it accumulated and ideally buff divine shield or cleaves for a better chance against an important opponent!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Neither your heropower nor your buddy are direction",
@@ -425,11 +425,11 @@
 			"name": "Doctor Holli'dae",
 			"tips": [
 				{
-					"summary": "Try to fit your hero power as many times as you can but don’t do stuff like selling a token on 1 to hero power. This hero can play any curve and one of it’s main strengths is how versatile it is but it preffers a gameplan that buys a lot of minions early and makes a big board fast.",
+					"summary": "Try to fit your hero power as many times as you can but don’t do stuff like selling a token on 1 to hero power. This hero can play any curve and one of it’s main strengths is how versatile it is but it preffers a gameplan that buys a lot of minions early and makes a big board fast. Buddy: One of the most powerful buddies in the game, try to play for tempo and even under-level just to make sure you get it as fast as humanly possible. Once you get it buy a few 4 drops to stabilize and go to 5 after or go to 5 immediately if your game is going well. Once there, buy any 5 drop because it’ll give you a very high chance to get a crazy spell, usually one that gives you acces to 5 drops. Find your win-condition and sometimes you can even sell the buddy if it doesn’t fit your board since the golden version is expensive and that makes it slow for some games. Other times you can go spell based strategy such as Naala or Naga and just keep the buddy the whole game, make it golden and get a lot of spells!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -438,11 +438,11 @@
 			"name": "Drek'Thar",
 			"tips": [
 				{
-					"summary": "I like going for divine shield builds on this hero to capitalize on the bonus attack. Minions that summon are also really good to stack up the damage",
+					"summary": "I like going for divine shield builds on this hero to capitalize on the bonus attack. Minions that summon are also really good to stack up the damage. Buddy: Best with sticky minions and mechs",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Needs mechs",
@@ -458,11 +458,11 @@
 			"name": "Edwin VanCleef",
 			"tips": [
 				{
-					"summary": "Play normally in the beginning and go for buffs mid/late game or when you have one gold left over. Best to buff divine shields/cleaves!",
+					"summary": "Play normally in the beginning and go for buffs mid/late game or when you have one gold left over. Best to buff divine shields/cleaves! Buddy: Try to buy every one cost spell because it’s the most efficient way of gaining stats on your buddy.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -478,11 +478,11 @@
 			"name": "Elise Starseeker",
 			"tips": [
 				{
-					"summary": "I like hero powering until it costs 5, that's too much most of the time. I generally use the first hero power for tempo and then, if the game goes badly I use them for more tempo, otherwise I try to discover 5 or 6 drops and snowball the game from there!",
+					"summary": "I like hero powering until it costs 5, that's too much most of the time. I generally use the first hero power for tempo and then, if the game goes badly I use them for more tempo, otherwise I try to discover 5 or 6 drops and snowball the game from there! Buddy: Play more loose with your hero power, sometimes it’s okay to use it on tavern 2 or even on 1 if it fits your curve. As long as you win/tie your fights and you get to your buddy fast, you can reset the cost pretty effectively! This is one buddy that you want to usually sell after using and not try to golden.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Use your heropower early to keep up tempo and win fights, don't get greedy with it",
@@ -498,11 +498,11 @@
 			"name": "Flobbidinous Floop",
 			"tips": [
 				{
-					"summary": "The ideal strategy here is to help your teammate get a strong high tavern minion on their board so that you can also copy it. Early game your hero power is a great tempo tool that allows you to level aggressively.",
+					"summary": "The ideal strategy here is to help your teammate get a strong high tavern minion on their board so that you can also copy it. Early game your hero power is a great tempo tool that allows you to level aggressively. Buddy: Super powerful if you’re able to feed your teammate a strong minion. Try to play from the early game onto your teammate’s strength and get them huge to become big yourself! Generally feed them the minion you get to help them triple it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -511,11 +511,11 @@
 			"name": "Enhance-o Mechano",
 			"tips": [
 				{
-					"summary": "Play normally and sometimes you get good minions offered, it's a pretty versatile hero that doesn't really change your playstyle.",
+					"summary": "Play normally and sometimes you get good minions offered, it's a pretty versatile hero that doesn't really change your playstyle. Buddy: Very good with Taunt/Divine/Reborn combinations on tavern 2 if you can get it fast. Also good to triple into a 6 if you have mid-game tempo.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Tier 1 buddy is a guaranteed triple, free stats are nice",
@@ -531,7 +531,7 @@
 			"name": "E.T.C., Band Manager",
 			"tips": [
 				{
-					"summary": "I like following the basic curve and hero powering as much as possible. The difference between basic curve and going 3 on 3 is minimal, you get one extra 3 drop instead of two 2 drops, which sometimes can even be worse than the two drops!",
+					"summary": "I like following the basic curve and hero powering as much as possible. The difference between basic curve and going 3 on 3 is minimal, you get one extra 3 drop instead of two 2 drops, which sometimes can even be worse than the two drops! Buddy: A cool combo you can make with this is get Veranus early and then even pay as much as 8 gold for your buddy to make Veranus golden and then use it to upgrade your buddy into a 7 drop. Use the tempo you generate from that to go tavern 5 and find more 5 drops to evolve into 7 drops. Once you have a clean strategy, you can focus on that and win the lobby!",
 					"author": "rdu",
 					"language": "enUS",
 					"patch": 176014,
@@ -551,11 +551,11 @@
 			"name": "Captain Eudora",
 			"tips": [
 				{
-					"summary": "I like starting to hero power on turn 2, build a strong board and finish my first dig on tavern 4 discovering a 5. Afterwards, I go for a second dig only if I have the money to press the hero power but I don't go out of my way to press it. Some players don't even bother with a second dig and just use the boost from the first one and then ignore the hero power completely.",
+					"summary": "I like starting to hero power on turn 2, build a strong board and finish my first dig on tavern 4 discovering a 5. Afterwards, I go for a second dig only if I have the money to press the hero power but I don't go out of my way to press it. Some players don't even bother with a second dig and just use the boost from the first one and then ignore the hero power completely. Buddy: Get it after your power spike and keep it for as long as it makes sense, it’s a pretty cool card if you also get a good golden minion. ",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Heropower asap, or your buddy will be useless",
@@ -571,11 +571,11 @@
 			"name": "Sir Finley Mrrgglton",
 			"tips": [
 				{
-					"summary": "Pick this hero if you have no tier 1 options. A great advantage is that you can see the starting shop before you make your pick but don't make your pick ONLY around the starting shop.",
+					"summary": "Pick this hero if you have no tier 1 options. A great advantage is that you can see the starting shop before you make your pick but don't make your pick ONLY around the starting shop. Buddy: Try to pick a buddy that is more expensive than 4 stars and/or that you can brann/rylakk since those cards synergize very well with your buddy.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Try to get a heropower whose buddy is tier 4 or higher",
@@ -591,11 +591,11 @@
 			"name": "Fungalmancer Flurgl",
 			"tips": [
 				{
-					"summary": "Don't level too quickly! Focus on building the board and stay a bit more on taverns 2/3 if the game is going badly. Also, since you're probably building murlocs try to not buy too many of the other minions since you'll have to sell them later(if you have the option to).",
+					"summary": "Don't level too quickly! Focus on building the board and stay a bit more on taverns 2/3 if the game is going badly. Also, since you're probably building murlocs try to not buy too many of the other minions since you'll have to sell them later(if you have the option to). Buddy: Very good to use on 6 drops to get a high chance at finding Murky/Murk-eye, probably the most powerful way of playing murlocs right now.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "It's brann or nothing, ideally use the buddy on tier 5s",
@@ -611,11 +611,11 @@
 			"name": "Galakrond",
 			"tips": [
 				{
-					"summary": "Only hero power turn 1 if you have token start, otherwise it's fine to start on 2. Don't be too greedy with the discovery, if you get a very good tempo minion, pick it and use it's power to level and that will enable you to discover a win-condition at the right time without risking your hp. In spells meta, always hero power on 1 because you want to reach a 6 fast and spells also make your turns smoother.",
+					"summary": "Only hero power turn 1 if you have token start, otherwise it's fine to start on 2. Don't be too greedy with the discovery, if you get a very good tempo minion, pick it and use it's power to level and that will enable you to discover a win-condition at the right time without risking your hp. In spells meta, always hero power on 1 because you want to reach a 6 fast and spells also make your turns smoother. Buddy: I like going for the first 6 for tempo and then using the power from that to go tavern 4 where I play the buddy on at least two 4 drops that I can then evolve into more 6s.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Rafaam curve repeatedly freezing and heropowering to get a tier 6, use the buddy for a second tier 6 later",
@@ -631,11 +631,11 @@
 			"name": "Galewing",
 			"tips": [
 				{
-					"summary": "Depending on the lobby, think what you want to discover and in what sequence. This usually will help you understand if you want to pick gold or +2/+2 after the first discovery in order to either discover a 4, a 5 or a 6 with the 2nd discover.A cool curve is to go discover>2gold>discover and play basic leveling. That allows you to buy a minion on 8 gold when leveling from tavern 3 to 4 and smoothens out the curve for you to just rush 6 and snowball the lobby(Best in metagames where you want to rush6/discover6).",
+					"summary": "Depending on the lobby, think what you want to discover and in what sequence. This usually will help you understand if you want to pick gold or +2/+2 after the first discovery in order to either discover a 4, a 5 or a 6 with the 2nd discover.A cool curve is to go discover>2gold>discover and play basic leveling. That allows you to buy a minion on 8 gold when leveling from tavern 3 to 4 and smoothens out the curve for you to just rush 6 and snowball the lobby(Best in metagames where you want to rush6/discover6). Buddy: Try to get it fast, use it for tempo and then make it golden into a big discovery. Can ditch it late-game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Double a discover on tier 4 with your buddy. The possible paths to get there are 1/2/3, 2/1/3, or 2/3.",
@@ -651,11 +651,11 @@
 			"name": "Trade Prince Gallywix",
 			"tips": [
 				{
-					"summary": "Economy is king. Buy every minion that gives you more gold over 2 turns. Key is to be strong as much as you can early game because everyone is going to try to damage/kill you. Under-leveling can sometimes work but sometimes taking a bit of damage to be tavern 4 faster is worth it because you can stabilize easier there.",
+					"summary": "Economy is king. Buy every minion that gives you more gold over 2 turns. Key is to be strong as much as you can early game because everyone is going to try to damage/kill you. Under-leveling can sometimes work but sometimes taking a bit of damage to be tavern 4 faster is worth it because you can stabilize easier there. Buddy: Use the buddy after a crazy turn for some extra stats. Your carry is the hero power",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Gally is very reliant on the right minion types to be playable (elementals>pirates>dragons/murlocs)",
@@ -671,11 +671,11 @@
 			"name": "George the Fallen",
 			"tips": [
 				{
-					"summary": "Try to use a shield or two on some big minion early to put yourself in a good spot and then play normally and use shields when you have leftover gold or on powerful targets such as cleaves or high attack minions. Keep in mind to not fully relly on your hero power since people can play Blaster against you!",
+					"summary": "Try to use a shield or two on some big minion early to put yourself in a good spot and then play normally and use shields when you have leftover gold or on powerful targets such as cleaves or high attack minions. Keep in mind to not fully relly on your hero power since people can play Blaster against you! Buddy: Slow buddy and easy to counter. Try to not rely too much on it and use it as a boost instead.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -691,11 +691,11 @@
 			"name": "Greybough",
 			"tips": [
 				{
-					"summary": "Play normally and abuse the tempo you get from a few minions that summon to level at least to tavern 5 and build something sticky and synergistic from there. Reborn is not always great because the reborned minion is going to be taunted(I don't recommend Mama comps on Greybough or at least don't reborn it)",
+					"summary": "Play normally and abuse the tempo you get from a few minions that summon to level at least to tavern 5 and build something sticky and synergistic from there. Reborn is not always great because the reborned minion is going to be taunted(I don't recommend Mama comps on Greybough or at least don't reborn it). Buddy: Very good together with your hero power but even better if you have natural taunts because you risk attacking with minions you summon from your hero power. Also a buddy that you can ditch late-game in most situations.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Deflect-o-Bot",
@@ -711,11 +711,11 @@
 			"name": "Guff Runetotem",
 			"tips": [
 				{
-					"summary": "I think the best way to play this hero now is via Toki curve(buying a minion on 1, leveling on 2, buying a 2 drop+hero power+ideally spell on 5 gold. Level+hero power on 6 gold and double buy+hero power on 7 gold). Can create some pretty powerful boards that then allow you to level and find a direction/win condition",
+					"summary": "I think the best way to play this hero now is via Toki curve(buying a minion on 1, leveling on 2, buying a 2 drop+hero power+ideally spell on 5 gold. Level+hero power on 6 gold and double buy+hero power on 7 gold). Can create some pretty powerful boards that then allow you to level and find a direction/win condition. Buddy: Get it for a good price and try to go for an early 6. If it’s a good one, make your gameplan around it!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Pray that your first buddy gives direction",
@@ -731,11 +731,11 @@
 			"name": "Heistbaron Togwaggle",
 			"tips": [
 				{
-					"summary": "I like getting tokens and value generators early to give myself an easier way to cast the first hero power. Afterwards I try to snowball into going to 4 and going for a second hero power. From there, only hero power for value when the tavern shops are worth it, otherwise play normally and don’t get distracted by too many cards, find a gameplan and go for it!",
+					"summary": "I like getting tokens and value generators early to give myself an easier way to cast the first hero power. Afterwards I try to snowball into going to 4 and going for a second hero power. From there, only hero power for value when the tavern shops are worth it, otherwise play normally and don’t get distracted by too many cards, find a gameplan and go for it! Buddy: I use the first buddy whenever I can get it for cheap just to see if I can catch a good minion or two. I don’t like waiting too much with it because it can cost you the game. Second and third buddy can help you finalize your composition if you’re playing the same strategy as others in the lobby so aim for that.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't spend gold on your buddy; it's only good the turn after other players get tier 5 and 6 minions",
@@ -751,11 +751,11 @@
 			"name": "Captain Hooktusk",
 			"tips": [
 				{
-					"summary": "Best approach is to play normally and then when you get some high tier minions that have a good battlecry or one time effect, use it and then hero power it for some extra value. Can also be good to go for triples in some situation",
+					"summary": "Best approach is to play normally and then when you get some high tier minions that have a good battlecry or one time effect, use it and then hero power it for some extra value. Can also be good to go for triples in some situations. Buddy: Super strong buddy, basically gives your hero a reason to want to use the hero power! The turn you are about to get it, start calculating if you can get it and level as well by sacrificing one of your higher tier minions. Afterwards hero power every turn and when you can, get the golden version and then hero power mostly 5s and 6s. It’s even worth buying one from the shop just to hero power it!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "The economy advantage from the buddy is best spent leveling faster",
@@ -771,11 +771,11 @@
 			"name": "Illidan Stormrage",
 			"tips": [
 				{
-					"summary": "Be careful not to have a minion you don’t want to die on first or last position! Try to play a build around cleave/divine shields for best usage of hero power.",
+					"summary": "Be careful not to have a minion you don’t want to die on first or last position! Try to play a build around cleave/divine shields for best usage of hero power. Buddy: Good synergy with your hero power but a little dull after you attack. Still a minion you can keep into lategame but it needs to be paired with some strong units. Best in combo based metagames where you can crush their composition before the fight even starts.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your heropower goes before minions' start of combat",
@@ -791,11 +791,11 @@
 			"name": "Inge, the Iron Hymn",
 			"tips": [
 				{
-					"summary": "Super good tempo hero, feel free to play a bit more aggressively with the leveling and triple-ing into high power minions since your hero power is at it’s best in the early-mid game!",
+					"summary": "Super good tempo hero, feel free to play a bit more aggressively with the leveling and triple-ing into high power minions since your hero power is at it’s best in the early-mid game! Buddy: Very powerful buddy, especially in mech lobbies. I like putting all buffs and all hero powers on it once I get it, I then try to make it golden asap and once approaching late-game I start buffind other units as well, ideally Deflectos or other divine shields or maybe even a cleave.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Keep heropowering your buddy",
@@ -811,11 +811,11 @@
 			"name": "Ini Stormcoil",
 			"tips": [
 				{
-					"summary": "You can under-level slightly with this hero to make use of your hero power early game and then follow up by using your powerful board to level to 6 and go for end-game. Some strategies can just stay on 4 all the game though, it depends on the meta-game.",
+					"summary": "You can under-level slightly with this hero to make use of your hero power early game and then follow up by using your powerful board to level to 6 and go for end-game. Some strategies can just stay on 4 all the game though, it depends on the meta-game. Buddy: Helps you force mechs but because it’s expensive, don’t get it way too early and focus on your board first!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -831,11 +831,11 @@
 			"name": "The Jailer",
 			"tips": [
 				{
-					"summary": "Build around summoning minions but make sure to have a divine shield or cleave to put your buffs on once your hero power becomes big enough.",
+					"summary": "Build around summoning minions but make sure to have a divine shield or cleave to put your buffs on once your hero power becomes big enough. Buddy: Get your buddy asap and use it for tempo and to make your hero power huge. Fun combo with Graverobber for extra money as long as you have the board space to be able to do it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Deflect-o-Bot",
@@ -851,11 +851,11 @@
 			"name": "Jandice Barov",
 			"tips": [
 				{
-					"summary": "Play normally and when you get a good battlecry or minion that you’d be happy to keep switching and buying over and over. She’s generally a combo hero that is good when you have some broken combo available in the meta. Not great in every situation",
+					"summary": "Play normally and when you get a good battlecry or minion that you’d be happy to keep switching and buying over and over. She’s generally a combo hero that is good when you have some broken combo available in the meta. Not great in every situation. Buddy: Can build a big minion with the help of the buddy. I wouldn’t play around it and can even kick it after a while.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Jandice got banned from basically all the lobbies she's good in :(",
@@ -871,11 +871,11 @@
 			"name": "Lord Jaraxxus",
 			"tips": [
 				{
-					"summary": "You don't need to force demons, 1 big demon is enough so that you have a hero power target in most turns. Also, since the hero power is not THAT good, don't forcefully use it every turn, use it only when appropriate",
+					"summary": "You don't need to force demons, 1 big demon is enough so that you have a hero power target in most turns. Also, since the hero power is not THAT good, don't forcefully use it every turn, use it only when appropriate. Buddy: Biggest issue is that it forces you into demons but I guess you have to embrace that since you picked Jaraxxus. Go for a shop eating strategy around your 3 drops since that’s the most consistent way of playing and follow up with the powerful 6 drops late-game!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "A buddy that gives money and high armor is better than nothing",
@@ -891,11 +891,11 @@
 			"name": "Madam Goya",
 			"tips": [
 				{
-					"summary": "You don't need to force demons, 1 big demon is enough so that you have a hero power target in most turns. Also, since the hero power is not THAT good, don't forcefully use it every turn, use it only when appropriate",
+					"summary": "You don't need to force demons, 1 big demon is enough so that you have a hero power target in most turns. Also, since the hero power is not THAT good, don't forcefully use it every turn, use it only when appropriate. Buddy: Crazy power if you can get it on a decent turn and start feeding your teammate triples and powerful units. With it, you can basically double any card that you or your teammate get which is super powerful!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -904,11 +904,11 @@
 			"name": "Kael'thas Sunstrider",
 			"tips": [
 				{
-					"summary": "Play basic curve or 3 on 3 most of the games, try to put stats on a divine shield or beefy minion(high health minions are best to be buffed)",
+					"summary": "Play basic curve or 3 on 3 most of the games, try to put stats on a divine shield or beefy minion(high health minions are best to be buffed). Buddy: This is one of the buddies that you need to play around, go for a strategy where you cycle a lot of cards and try to make a big board. You can be a bit greedy because your hero comes with a lot of armor but still try to buff quality minions!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -924,11 +924,11 @@
 			"name": "Skycap'n Kragg",
 			"tips": [
 				{
-					"summary": "In the past most people were hero powering on 7 gold to level from 2 to 4. Now I think best is to keep it for when you level to tavern 5 and use it there for a very powerful turn.",
+					"summary": "In the past most people were hero powering on 7 gold to level from 2 to 4. Now I think best is to keep it for when you level to tavern 5 and use it there for a very powerful turn. Buddy: Amazing with Beasts because Rylakk allows you to re-active the effect. In normal lobbies you can also re-activate with the spell that triggers a friendly battlecry.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Use Rylak, Young Murkeye, and Dreamer's Embrace on your buddy to repeatedly refresh your heropower",
@@ -944,11 +944,11 @@
 			"name": "Kurtrus Ashfallen",
 			"tips": [
 				{
-					"summary": "Play normally/safe early game and then go for a strategy where you want to buy and sell a lot of minions. Kurtrus will help either give you a strong duplicate or a triple if you get lucky. Best with elementals/pirates",
+					"summary": "Play normally/safe early game and then go for a strategy where you want to buy and sell a lot of minions. Kurtrus will help either give you a strong duplicate or a triple if you get lucky. Best with elementals/pirates. Buddy: I like playing safe on this hero , getting the buddy fast and then buying all the cheap spells and efficient minions in order to make a big shop which I then want to eat with demons or utilize to buy big minions or magnets for my mechs.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "With your buddy, buy spells before buying minions",
@@ -964,11 +964,11 @@
 			"name": "Lady Vashj",
 			"tips": [
 				{
-					"summary": "Play normally and let your hero power give you a slight boost. You have no obligation to play Naga since having a spellcraft on board doesn’t actually matter for your hero power. On tier 5 you can get a permanent divine shield for 1 gold, that’s really strong on any build!",
+					"summary": "Play normally and let your hero power give you a slight boost. You have no obligation to play Naga since having a spellcraft on board doesn’t actually matter for your hero power. On tier 5 you can get a permanent divine shield for 1 gold, that’s really strong on any build! Buddy: Very good when forcing Naga especially because you can get it and it’s golden version very fast!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Tier 1 buddy is a guaranteed triple, but it's bad direction",
@@ -984,11 +984,11 @@
 			"name": "Lich Baz'hial",
 			"tips": [
 				{
-					"summary": "Very good in demon lobbies due to Rewinder! Usually I like staying a bit more on tavern 1 to make a board and level to 2 on 5 gold while hero powering a minion. Leveling on 6 gold and playing the 2 cost hero curve works if you get great shops.",
+					"summary": "Very good in demon lobbies due to Rewinder! Usually I like staying a bit more on tavern 1 to make a board and level to 2 on 5 gold while hero powering a minion. Leveling on 6 gold and playing the 2 cost hero curve works if you get great shops. Buddy: Once you get it, use it like a rewinder and try to pick expensive spells and minions with your hero power to help you find a direction! It sometimes helps that your buddy is an Undead",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Demon synergy with the buddy is nice, but don't feel obligated to play for demons",
@@ -1004,11 +1004,11 @@
 			"name": "The Lich King",
 			"tips": [
 				{
-					"summary": "Really good to hero power leeroy late game. Until then try to get value hero powering a deathrattle or a minion with a good effect.",
+					"summary": "Really good to hero power leeroy late game. Until then try to get value hero powering a deathrattle or a minion with a good effect. Buddy: Very strong with Undeads",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Requires undead in to be playable",
@@ -1024,12 +1024,12 @@
 			"name": "Maiev Shadowsong",
 			"tips": [
 				{
-					"summary": "Play Rafaam curve and try to hero power on 1 since that gives you a power spike earlier. Don't be too greedy with the triples, if you're losing a lot of fights it's okay to take a 3 or a 4 drop instead of going for 5 or 6's",
+					"summary": "Play Rafaam curve and try to hero power on 1 since that gives you a power spike earlier. Don't be too greedy with the triples, if you're losing a lot of fights it's okay to take a 3 or a 4 drop instead of going for 5 or 6's. Buddy: I try to use the buddy when I’m on 4 so I can level to 5 and take a 6 the next turn. When I get the 2nd and 3rd buddies I like playing them together sometimes to get the minion I hero power instantly. Also works with Brann, Murk-Eye, Rylakk and you can do some crazy plays if you have the time.",
 					"curves": ["rafaam"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Use Rylak/Young Murkeye for more golden minions; trigger the buddy twice to get the golden immediately",
@@ -1045,11 +1045,11 @@
 			"name": "Malygos",
 			"tips": [
 				{
-					"summary": "Try to make value out of nothing by hero powering economy units or a battlecry that you just played. Another thing you can do is hunt a specific minions if there’s a really crazy strong one in the meta.",
+					"summary": "Try to make value out of nothing by hero powering economy units or a battlecry that you just played. Another thing you can do is hunt a specific minions if there’s a really crazy strong one in the meta. Buddy: I try to get the buddy fast and use it to get a 6 drop and then follow up with another 5 or 6 and hopefully you hit some cards that go well together.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "You can heropower minions and spells, but with your buddy focus on making high tier minions for direction",
@@ -1065,11 +1065,11 @@
 			"name": "Millhouse Manastorm",
 			"tips": [
 				{
-					"summary": "If you get a really bad shop and your board is strong enough for the turn, just level. It's a bigger risk to start rolling. This hero plays at it's best on 6 where you have most minions shown to you per roll but in most metas he can be super good on 4 and 5 as well!",
+					"summary": "If you get a really bad shop and your board is strong enough for the turn, just level. It's a bigger risk to start rolling. This hero plays at it's best on 6 where you have most minions shown to you per roll but in most metas he can be super good on 4 and 5 as well! Buddy: Absolutely busted if you can get Mooneater’s champion, basically just buy 5 drops until you find it and afterwards in order to make a big board. It can be rough to play if you don’t find Mooneater and quite skill testing in those spots.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Play buddy. Buy tier 5 minion. Play tier 5 minion. Buy tier 5 minion. Play tier 5 minion. Buy tier 5 minion...",
@@ -1085,11 +1085,11 @@
 			"name": "Millificent Manastorm",
 			"tips": [
 				{
-					"summary": "Buy every menace you can if you're forcing mechs but keep in mind you don't always need to force mechs, even on this hero. Sometimes the game leads you in a different direction.",
+					"summary": "Buy every menace you can if you're forcing mechs but keep in mind you don't always need to force mechs, even on this hero. Sometimes the game leads you in a different direction. Buddy: Try to get as many menaces as possible and Titus if you want to play around this buddy and go for some crazy explosions. A lot weaker since they removed Kangor from the game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't. Her nerfed buddy is worthless without Kangor's Apprentice",
@@ -1105,11 +1105,11 @@
 			"name": "King Mukla",
 			"tips": [
 				{
-					"summary": "Play normally and hold bananas for a decent minion(even buffing a good tavern 1 works in most cases). Once you have a good minion I’d play all the bananas on it and then play most my bannanas once I get them. Tempo is the best utilization of your hero power, don’t waste it and use it to level aggressively!",
+					"summary": "Play normally and hold bananas for a decent minion(even buffing a good tavern 1 works in most cases). Once you have a good minion I’d play all the bananas on it and then play most my bannanas once I get them. Tempo is the best utilization of your hero power, don’t waste it and use it to level aggressively! Buddy: I like to hold some small bananas for the buddy when I know I’m close to getting it or the golden version. Then I fully focus on buffing a divine or a cleave and dump the buddy for the last fights of the game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Before you get your buddy: play big bananas, hold small bananas",
@@ -1125,11 +1125,11 @@
 			"name": "Murloc Holmes",
 			"tips": [
 				{
-					"summary": "Try to guess correctly and remember what everyone bought on turn 1. Other than that use the coins to level agressively if needed or just buy a strong board. From there snowball intro a win-condition.Start every turn with hero powering since it both gives you information on your next opponent and also might change your turn depending on whether or not you get the coin.",
+					"summary": "Try to guess correctly and remember what everyone bought on turn 1. Other than that use the coins to level agressively if needed or just buy a strong board. From there snowball intro a win-condition.Start every turn with hero powering since it both gives you information on your next opponent and also might change your turn depending on whether or not you get the coin. Buddy: Try to do well in your early fights in order to rush this buddy since once you get it it’s going to give you a board in no time and recover it’s cost.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't ever expect to get directional/strong minions from buddy, it's just more gold",
@@ -1145,11 +1145,11 @@
 			"name": "Mutanus the Devourer",
 			"tips": [
 				{
-					"summary": "Try to first build one big minion. From there you can build a board that synergizes with that one minion and can go crazy!",
+					"summary": "Try to first build one big minion. From there you can build a board that synergizes with that one minion and can go crazy! Buddy: Try to buff the buddy as much as possible and eat it on divine shields. Don’t be too greedy, sometimes eating it on any minion is better than waiting too long!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Make one minion as big as you can with heropower, and guarantee its stats land on your buddy",
@@ -1165,11 +1165,11 @@
 			"name": "Master Nguyen",
 			"tips": [
 				{
-					"summary": "Try to think of short term rather than going too long. If you pick short term hero power every turn you're more likely to win. Greedy picks are usually a bait.",
+					"summary": "Try to think of short term rather than going too long. If you pick short term hero power every turn you're more likely to win. Greedy picks are usually a bait. Buddy: Bad buddy but because the hero power is broken you can just use it for a bit and then sell it lategame. Since it’s a 1-drop you can also golden it fast and make a big discovery from it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your buddy isn't good, but being a tier 1 it's a guaranteed triple on time",
@@ -1185,11 +1185,11 @@
 			"name": "Nozdormu",
 			"tips": [
 				{
-					"summary": "In the early game, use the hero power to get economy, followed by a powerful board and then use that to get to your win-condition. The hero power is more useful in the early part of the game so don't rely on it too much later.",
+					"summary": "In the early game, use the hero power to get economy, followed by a powerful board and then use that to get to your win-condition. The hero power is more useful in the early part of the game so don't rely on it too much later. Buddy: In a demon or mech lobby you can overstay tavern 4 and just grow in stats until you find an opening to go to 5 to get even stronger. Very powerful buddy if played correctly.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Requires Demons in to be playable",
@@ -1205,11 +1205,11 @@
 			"name": "N'Zoth",
 			"tips": [
 				{
-					"summary": "In early mid game, just try to be strong because you can't always build around your hero power. Sometimes it's just going to be a 1 gold 2/2 and that's okay.",
+					"summary": "In early mid game, just try to be strong because you can't always build around your hero power. Sometimes it's just going to be a 1 gold 2/2 and that's okay. Buddy: I like using the buddy for tempo and not waiting for a 6 drop, that’s what the 2nd and 3rd buddies are for. Tempo is king, baby!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "The golden buddy sounds fun (goldening all your deathrattle minions) but isn't ever worth going for",
@@ -1225,11 +1225,11 @@
 			"name": "Forest Warden Omu",
 			"tips": [
 				{
-					"summary": "Level aggressively while playing efficiently. Spells made Omu a lot better because it’s easy to find a 1 or 2 cost spell to fill your early game curve. Stabilize on either tavern 3/4/5 depending on the meta and how aggressive your lobby is and then continue leveling until you hit a win condition.",
+					"summary": "Level aggressively while playing efficiently. Spells made Omu a lot better because it’s easy to find a 1 or 2 cost spell to fill your early game curve. Stabilize on either tavern 3/4/5 depending on the meta and how aggressive your lobby is and then continue leveling until you hit a win condition. Buddy: Quite expensive and only good if you’re already winning, be careful when playing and don’t try to get this buddy too fast or it might cost you!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Level fast, don't care too much about your buddy",
@@ -1245,11 +1245,11 @@
 			"name": "Onyxia",
 			"tips": [
 				{
-					"summary": "Try to build deathrattle/summon oriented, works best with something like Fel Stomper or with mechs that summon a lot of units.",
+					"summary": "Try to build deathrattle/summon oriented, works best with something like Fel Stomper or with mechs that summon a lot of units. Buddy: Very good with your hero power so play comps that want to summon a lot of minions and try to have a taunt to protect your buddy from being sniped early in the fight!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -1265,11 +1265,11 @@
 			"name": "Ozumat",
 			"tips": [
 				{
-					"summary": "Play a bit around your hero power in the early part of the game but late-game you can even play 7 minions and forget about it.",
+					"summary": "Play a bit around your hero power in the early part of the game but late-game you can even play 7 minions and forget about it. Buddy: Try to get the buddy fast and focus on growing your hero power with it. Can ditch it late-game and just get your hero power start of fight.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your buddy is not direction",
@@ -1285,11 +1285,11 @@
 			"name": "Patches the Pirate",
 			"tips": [
 				{
-					"summary": "Try to not buy non-pirate minions because it's going to make forcing pirates way harder. If you get no pirates at all it's fine to go for another build but don't pivot back into pirates afterwards.",
+					"summary": "Try to not buy non-pirate minions because it's going to make forcing pirates way harder. If you get no pirates at all it's fine to go for another build but don't pivot back into pirates afterwards. Buddy: Try to play it as late as possible, ideally with Brann.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Buddy can target the shop (and opponent's board if you Rylak)",
@@ -1305,11 +1305,11 @@
 			"name": "Patchwerk",
 			"tips": [
 				{
-					"summary": "Play a bit more greedy than usual(more leveling) to make use of your extra HP.You can think of this hero as having no hero power but 30 armor instead, that’s sometime good enough!",
+					"summary": "Play a bit more greedy than usual(more leveling) to make use of your extra HP.You can think of this hero as having no hero power but 30 armor instead, that’s sometime good enough! Buddy: Try to play it as late as possible, ideally with Brann.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Level first, ask questions later",
@@ -1325,11 +1325,11 @@
 			"name": "Professor Putricide",
 			"tips": [
 				{
-					"summary": "The first hero power I like to use on tavern 3 or 4 and try to get a coin generator. If the game is going well, use the other 2 hero powers on 5 and 6, if the game goes badly use one or even both hero powers for tempo. Can also use hero power on turn 2 in some situations where you’d rather build early board presence and level afterwards.",
+					"summary": "The first hero power I like to use on tavern 3 or 4 and try to get a coin generator. If the game is going well, use the other 2 hero powers on 5 and 6, if the game goes badly use one or even both hero powers for tempo. Can also use hero power on turn 2 in some situations where you’d rather build early board presence and level afterwards. Buddy: One cool thing you can do is use Disguised Graverobber to proc your buddy for a random creation while not losing it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Always heropower turn 2 looking for foul egg + risen rider to win all early fights",
@@ -1345,11 +1345,11 @@
 			"name": "Pyramad",
 			"tips": [
 				{
-					"summary": "An optimal number for this hero power is +5 health. At that amount or even higher if you want to be a bit greedy you should start hero powering every turn to make your board sticky.",
+					"summary": "An optimal number for this hero power is +5 health. At that amount or even higher if you want to be a bit greedy you should start hero powering every turn to make your board sticky. Buddy: Don’t play too much around it unless you’re able to get a way to buff it directly. Just having a bunch of health won’t do much on it’s own.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Impulsive Trickster is your friend",
@@ -1365,11 +1365,11 @@
 			"name": "Queen Azshara",
 			"tips": [
 				{
-					"summary": "When you are getting close to activating your hero power, try to plan ahead and think what is the most optimal way of getting the attack that also allows you to discover one minion.",
+					"summary": "When you are getting close to activating your hero power, try to plan ahead and think what is the most optimal way of getting the attack that also allows you to discover one minion. Buddy: One of the most powerful buddies in the game, force naga and get the Crooner spell HUGE, follow up with divine shields and you’re going to be very hard to beat in most lobbies with a consistency that’s going to make me smash my desk if I’m your opponent.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Force Deep Blues + Zesty Shakers, use Lava Lurkers to make stats permanent, not Shellementals",
@@ -1385,11 +1385,11 @@
 			"name": "Arch-Villain Rafaam",
 			"tips": [
 				{
-					"summary": "Hero power every turn in the begining of the game, your objective is to build a strong board and try to triple as much as possible. Level on 6 gold to tavern 2 and 7 gold to tavern 3. From there depending on the meta you either rush tavern 4/5 or stay a bit more on 3.",
+					"summary": "While you can play the classic Rafaam curve and hero power every turn, you can also level on 2 in some instances and hero power+buy minion+buy spell on 5 gold, depending on your start and minions/spells offered. Try to think ahead and also avoid selling a minion to hero power, especially before you have 7 minions since that is usually not worth it. Buddy: Pretty good follow-up to your hero power, try to get this buddy fast and play it in the back of your composition to make sure he gets it’s value and doesn’t die too soon!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Try to level fast to find high tier direction; your buddy/heropower are too bad to take it slow",
@@ -1405,11 +1405,11 @@
 			"name": "Ragnaros the Firelord",
 			"tips": [
 				{
-					"summary": "Try to slightly under-level and finish your hero power, then buff divine shields or cleaves!",
+					"summary": "Try to slightly under-level and finish your hero power, then buff divine shields or cleaves! Buddy: Good buddy in some compositions, might sell it at some point if the only thing you activate is your hero power. Buddy: Good buddy in some compositions, might sell it at some point if the only thing you activate is your hero power.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -1425,11 +1425,11 @@
 			"name": "Rakanishu",
 			"tips": [
 				{
-					"summary": "Ideally find a divine shield unit on tavern 1 and start buffing it while leveling. Both Rafaam curve and leveling on 4 and 6 gold work on this hero. ",
+					"summary": "Try to hero power as much as possible and do two things mid game: Find a good minion to buff like a divine shield or a cleave and also try to build around a card that benefits from you casting spells like Naala/Azerite for an extra boost! Buddy: Rush this buddy and then use the power of lanterns! Ideally with a composition that benefits from you playing spells.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Living Azerite / Charging Czarina / Nalaa the Redeemer",
@@ -1445,11 +1445,11 @@
 			"name": "The Rat King",
 			"tips": [
 				{
-					"summary": "Try to power level while having a powerful board. Don't be greedy with the discoveries since leveling while keeping health is more important.",
+					"summary": "Try to power level while having a powerful board. Don't be greedy with the discoveries since leveling while keeping health is more important. Buddy: Bad buddy but can use it for some power early on and then sell it after you make it golden and approach the later fights in the game.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Tier 1 buddy is a guaranteed triple, free rolls are nice",
@@ -1465,11 +1465,11 @@
 			"name": "Reno Jackson",
 			"tips": [
 				{
-					"summary": "Play normally and use hero power for tempo on tavern 3 or 4 if you're taking a lot of damage or hold it for a 5 or 6 if you can afford to. You can get a 5 or 6 either from a triple or from an early patient scout. Don't focus too much around the hero power and use it whenever it gives you a good spot since you can change hero power on tavern 5 with the spell",
+					"summary": "Play normally and use hero power for tempo on tavern 3 or 4 if you're taking a lot of damage or hold it for a 5 or 6 if you can afford to. You can get a 5 or 6 either from a triple or from an early patient scout. Don't focus too much around the hero power and use it whenever it gives you a good spot since you can change hero power on tavern 5 with the spell. Buddy: I like getting it fast, playing for tempo and then leveling to 5 and triple-ing it into a 6 which then I hero power and play around.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't spend a lot of gold on your buddy, it's almost exclusively a tempo tool",
@@ -1485,11 +1485,11 @@
 			"name": "Rokara",
 			"tips": [
 				{
-					"summary": "Best to build around divine shields or high health minions.",
+					"summary": "Best to build around divine shields or high health minions. Buddy: Try to have a good strong early game into getting the buddy fast, it’s useless otherwise",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Look out for minion types with lots of tokens; you want other people to play Undead / Mechanized Gift Horse",
@@ -1505,11 +1505,11 @@
 			"name": "Overlord Saurfang",
 			"tips": [
 				{
-					"summary": "Try to build around divine shielded minions, also be aware that your hero power works on magnetic minions for buffing a mech multiple times!",
+					"summary": "Try to build around divine shielded minions, also be aware that your hero power works on magnetic minions for buffing a mech multiple times! Buddy: Once you have the buddy, it grows really fast so make use of that and buy more minions rather than level too much.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Shop buffs are everything, temporary ones like Deep Blue are still good",
@@ -1525,11 +1525,11 @@
 			"name": "Scabbs Cutterbutter",
 			"tips": [
 				{
-					"summary": "Curve depends on what your opponents are doing. Either way, try to play kind of safe until you hit a win condition, then you can go crazy!",
+					"summary": "Curve depends on what your opponents are doing. Either way, try to play kind of safe until you hit a win condition, then you can go crazy! Buddy: Check how many buddies you want from the lobby and even over-pay for the buddy if you have a high chance of fighting someone who’s buddy helps you a lot(example:ETC)",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Early on, make an assessment of the other buddies in the lobby to see how much gold you can spend to buddy",
@@ -1545,11 +1545,11 @@
 			"name": "Shudderwock",
 			"tips": [
 				{
-					"summary": "Tempo is the name of the game on shudder, hero power either economy minions or minions that get stats or give you more future stats. Try to have an explosive turn early so that you don’t take too much damage, go a bit greedy and then rinse and repeat. Try to not be too greedy!",
+					"summary": "Tempo is the name of the game on shudder, hero power either economy minions or minions that get stats or give you more future stats. Try to have an explosive turn early so that you don’t take too much damage, go a bit greedy and then rinse and repeat. Try to not be too greedy! Buddy: Get your buddy when it’s cheap and consider hero powering it to build a board while leveling.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your buddy sucks, but your heropower is good",
@@ -1565,11 +1565,11 @@
 			"name": "Silas Darkmoon",
 			"tips": [
 				{
-					"summary": "Prioritize ticket cards but don't go too crazy, don't buy EVERY single ticket card and if something good shows up in the shop, buy it even if it doesn't come with a ticket.",
+					"summary": "Prioritize ticket cards but don't go too crazy, don't buy EVERY single ticket card and if something good shows up in the shop, buy it even if it doesn't come with a ticket. Buddy: It’s a buddy that you want to play around, stay on tavern 4 more and try to build around it in most games. Level only when very strong",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "GStay on tier 3 forever and play Deflect-o-Bots",
@@ -1585,12 +1585,12 @@
 			"name": "Sindragosa",
 			"tips": [
 				{
-					"summary": "Buy either the token/value generator or the lowest health minion. Then freeze the rest and play basic curve while buying strong minions. Use your strong board to carry you to taverns 5/6 and there look for a win-condition.",
+					"summary": "Buy either the token/value generator or the lowest health minion. Then freeze the rest and play basic curve while buying strong minions. Use your strong board to carry you to taverns 5/6 and there look for a win-condition. Buddy: Due to your hero power, you’re probably going to do well early game and get your buddy fast most of the time. Proceed by leveling very fast to 5 and figuring out a strategy from there.",
 					"curves": ["basic"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "You can target spells with your heropower",
@@ -1606,11 +1606,11 @@
 			"name": "Sire Denathrius",
 			"tips": [
 				{
-					"summary": "Try to plan to pick a quest that is good for the lobby you're playing and focus on finish it as fast as possible, without going too much out of your way until the last turn or so of the quest.",
+					"summary": "Try to plan to pick a quest that is good for the lobby you're playing and focus on finish it as fast as possible, without going too much out of your way until the last turn or so of the quest. Buddy: Think of your buddy costing 1 less than it’s cost and giving you 8 gold in 1-3 turns. Try to pay as little as you can for it and use it as a boost for your quest and overall gameplan.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't spend gold on your buddy, focus on a completable quest",
@@ -1626,11 +1626,11 @@
 			"name": "Snake Eyes",
 			"tips": [
 				{
-					"summary": "The only time you should not hero power when it’s available is turn 2 if you roll 1 on 1. Just level and use it on 3. Otherwise, always hero power start of turn when you can and figure out the gameplan from there. If leveling is not efficient, then buy minions. If buying is not good, then level.",
+					"summary": "The only time you should not hero power when it’s available is turn 2 if you roll 1 on 1. Just level and use it on 3. Otherwise, always hero power start of turn when you can and figure out the gameplan from there. If leveling is not efficient, then buy minions. If buying is not good, then level. Buddy: Try to get this asap because the earlier you get it, the more it can pay for itself with a good roll, good luck!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -1639,11 +1639,11 @@
 			"name": "Sneed",
 			"tips": [
 				{
-					"summary": "Try hero powering as much as possible once you get to higher tavern tiers, especially once you first get to 3 or 4 and lategame on 6 drops!",
+					"summary": "Try hero powering as much as possible once you get to higher tavern tiers, especially once you first get to 3 or 4 and lategame on 6 drops! Buddy: What’s very good about this buddy is that when it enters play, it considers every hero power of yours as a 5 drop when it dies. Try to protect it and have it be the last minion that dies in your formation to make the most of it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Stack your heropower on one minion early; when you play your buddy it summons a board full of tier 5s",
@@ -1659,12 +1659,12 @@
 			"name": "Sylvanas Windrunner",
 			"tips": [
 				{
-					"summary": "You can either play Rafaam curve in a more aggro lobby or 3 on 3 and then start buffing those big minions!",
+					"summary": "You can either play Rafaam curve in a more aggro lobby or 3 on 3 and then start buffing those big minions! Buddy: Super broken because it’s an undead together with Disguised Graverobber and even more gamebreaking with beasts available as well since you can rylakk either the Graverobber or even the buddy itself. Once you have a ton of stats from replaying it, just make sure you play around scam cards.",
 					"curves": ["rafaam", "3-on-3"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "In a Beast + Undead lobby: duplicate your buddy using Rylak and Graverobber (have no other undead)",
@@ -1680,11 +1680,11 @@
 			"name": "Tae'thelan Bloodwatcher",
 			"tips": [
 				{
-					"summary": "Best in Lobbies where you can force Lubber strategy. Get a bunch of them and a Soul Rewinder and try to go infinite by buying all the cheap spells and reroll. If this strategy is not available, try to not focus much on the hero power and play as close to normally as you can just getting a small bonus once in a while",
+					"summary": "Play normally in the beginning and only buy spells you’d buy anyway. You can start buying more spells than usual if you end up going for a spell strategy like Azerite/Lubber/Naala but otherwise just consider your hero power to be a bonus. Buddy: No need to rush the buddy but use it on expensive spells once you get it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -1693,11 +1693,11 @@
 			"name": "Tamsin Roame",
 			"tips": [
 				{
-					"summary": "Best with Elementals/Naga where your smallest minion is still big but also decent with demons or dragons.",
+					"summary": "Best with Elementals/Naga where your smallest minion is still big but also decent with demons or dragons. Buddy: Protect it and put it late in your comp.No need to rush it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Play Dragons to keep heropower stats permanently",
@@ -1713,11 +1713,11 @@
 			"name": "The Nameless One",
 			"tips": [
 				{
-					"summary": "Try to do mostly your thing, your power comes from the fact that you were able to copy a good hero power and add some armor to the squad. Don’t complicate it.",
+					"summary": "Try to do mostly your thing, your power comes from the fact that you were able to copy a good hero power and add some armor to the squad. Don’t complicate it. Buddy: Try to find effects that allow you to replay the battlecry and then make some crazy plays with the golden version of your teammate’s buddy!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -1726,11 +1726,11 @@
 			"name": "Tavish Stormpike",
 			"tips": [
 				{
-					"summary": "Your hero power carries your early game. I like shooting high until lategame when I shoot low to hit leeroy/queen. ",
+					"summary": "Your hero power carries your early game. I like shooting high until lategame when I shoot low to hit leeroy/queen. Buddy: Make sure you don’t hit a divine shield with your hero power, otherwise it won’t give you any stats!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -1746,11 +1746,11 @@
 			"name": "Thorim, Stormlord",
 			"tips": [
 				{
-					"summary": "Try to think based on the available tribes if you can pick a minion that gives you direction and that you can force or a minion that is good overall(Varian for example). Afterwards you want to play normally but when you get close to your 7 drop you can do a crazy turn in order to get it one turn faster(by buying and selling minions you’d normally not purchase).",
+					"summary": "Try to think based on the available tribes if you can pick a minion that gives you direction and that you can force or a minion that is good overall(Varian for example). Afterwards you want to play normally but when you get close to your 7 drop you can do a crazy turn in order to get it one turn faster(by buying and selling minions you’d normally not purchase). Buddy: Try to use it to make a 7 drop as fast as possible and build around it from there.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Pray to whatever deities you believe in that you somehow survive long enough to do anything",
@@ -1766,11 +1766,11 @@
 			"name": "Teron Gorefiend",
 			"tips": [
 				{
-					"summary": "Best with undead and beasts, try to get Eternal Knight and grow it and then try to get your hands on Eternal Summoner and Titus Rivendare afterwards. Make sure you have enough board space to summon all the knights!",
+					"summary": "Best with undead and beasts, try to get Eternal Knight and grow it and then try to get your hands on Eternal Summoner and Titus Rivendare afterwards. Make sure you have enough board space to summon all the knights! Buddy: Very powerful with KT so aim for playing it in that type of strategy.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "The whole hero is Archlich Kel'Thuzad, do not touch without Undead",
@@ -1786,11 +1786,11 @@
 			"name": "Tess Greymane",
 			"tips": [
 				{
-					"summary": "Try to under-level, steal one good minion and build around it.Always keep an eye on what the lobby is playing but don’t pivot too much or you’ll end up being the jack of all trades, master of top8.",
+					"summary": "Try to under-level, steal one good minion and build around it.Always keep an eye on what the lobby is playing but don’t pivot too much or you’ll end up being the jack of all trades, master of top8. Buddy: Try to get your buddy when you face someone who’s buddy you really want. Play for tempo and under-level if needed, you’ll have more than enough cards from your opponents to build something strong.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				}
 			]
 		},
@@ -1799,11 +1799,11 @@
 			"name": "Tickatus",
 			"tips": [
 				{
-					"summary": "Plan for the prize turns and how you can use a good/bad outcome. Try to not rely too much on getting a good prize and have your own gameplay independent of the prizes, make them just be a bonus for something already great.",
+					"summary": "Plan for the prize turns and how you can use a good/bad outcome. Try to not rely too much on getting a good prize and have your own gameplay independent of the prizes, make them just be a bonus for something already great. Buddy: I like selling the buddy on turns 8 and 12, You can get it whenever it’s most efficient for you, it can even be on those turns!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Use the first buddy turn 8+, and the second set of buddies turn 12+",
@@ -1819,12 +1819,12 @@
 			"name": "Infinite Toki",
 			"tips": [
 				{
-					"summary": "I recommend the 'Toki Curve' whenever possible. Play basic curve until 6 gold where you level to tavern 3 and hero power. Freeze the 4 drops if at least one is good and next turn you can buy 2 minions and hero power!",
+					"summary": "I recommend the 'Toki Curve' whenever possible. Play basic curve until 6 gold where you level to tavern 3 and hero power. Freeze the 4 drops if at least one is good and next turn you can buy 2 minions and hero power! Buddy: Get your buddy whenever it’s cheap and don’t try to triple it. Works nicely with Rylak/Murk-Eye for some extra value but don’t be too greedy, your hero power is the star on this hero, the buddy is just some extra help.",
 					"curves": ["toki"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Brann + Young Murkeye your buddy",
@@ -1840,11 +1840,11 @@
 			"name": "Vanndar Stormpike",
 			"tips": [
 				{
-					"summary": "Good with deathrattles and summons but can work with something like poison or just any comp decently.",
+					"summary": "Good with deathrattles and summons but can work with something like poison or just any comp decently. Buddy: Good with deathrattles and reborns",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "You want Demons and Mechs",
@@ -1860,11 +1860,11 @@
 			"name": "Varden Dawngrasp",
 			"tips": [
 				{
-					"summary": "Plan your freezes to maximize chance to triple, don't be greedy with discoveries since if you're strong you can just level roll and set up an even better triple for the next turn. Always count how many minions you can freeze while still getting the hero power to work. For it to work, the amount of frozen minions needs to be at least 1 lower than the minions shown for a roll at that tavern.",
+					"summary": "Plan your freezes to maximize chance to triple, don't be greedy with discoveries since if you're strong you can just level roll and set up an even better triple for the next turn. Always count how many minions you can freeze while still getting the hero power to work. For it to work, the amount of frozen minions needs to be at least 1 lower than the minions shown for a roll at that tavern. Buddy: Under level a bit to get strong, then powerlevel to get some big minions with the help of your buddy and hero power!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't",
@@ -1880,11 +1880,11 @@
 			"name": "Rock Master Voone",
 			"tips": [
 				{
-					"summary": "For the first two activations of your hero power(on 5 and 8 gold), make sure you have first a very powerful 2 drop that you’d like to copy and after either a 5 drop if you managed to hit a triple or at least triple by utilizing the hero power.I always like to open the discover rather than copy the discovery spell because there are a lot of minions in the game that insta-win if you have two of them. You basically give yourself a chance at pocket aces!",
+					"summary": "For the first two activations of your hero power(on 5 and 8 gold), make sure you have first a very powerful 2 drop that you’d like to copy and after either a 5 drop if you managed to hit a triple or at least triple by utilizing the hero power.I always like to open the discover rather than copy the discovery spell because there are a lot of minions in the game that insta-win if you have two of them. You basically give yourself a chance at pocket aces! Buddy: Don’t try to get it too fast but try to have it synchronize with the 2nd activation of your hero power to allow yourself to triple a minion that you hold instantly. Later in the game you can sell it.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Your buddy/heropower aren't strong enough for consistent lines. Buddy only once it's cheap",
@@ -1900,11 +1900,11 @@
 			"name": "Vol'jin",
 			"tips": [
 				{
-					"summary": "Play for tempo and try to go for either mechs or a big cleave mid/late-game. You don’t keep the stats permanently but it’s still a good boost to have!",
+					"summary": "Play for tempo and try to go for either mechs or a big cleave mid/late-game. You don’t keep the stats permanently but it’s still a good boost to have! Buddy: Super strong with Shellemental, it allows you to keep the stats permanently and double them every turn!",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Use Shellemental and Demon consume effects; heropower your biggest minion and a shop minion",
@@ -1920,12 +1920,12 @@
 			"name": "Queen Wagtoggle",
 			"tips": [
 				{
-					"summary": "Level as fast as you can to tavern 3/4 because getting a few high level units together with your hero power is going to give you a lot of power that then you can translate into time to find your direction/win condition.",
+					"summary": "Level as fast as you can to tavern 3/4 because getting a few high level units together with your hero power is going to give you a lot of power that then you can translate into time to find your direction/win condition. Buddy: Try to play for it early-mid game but can sell it late if you pivot out of menagerie at that point.",
 					"curves": ["rafaam"],
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Free tempo is pretty nice",
@@ -1941,11 +1941,11 @@
 			"name": "Xyrella",
 			"tips": [
 				{
-					"summary": "Economy curve into triples is the best way to play, don't be too greedy with the triples because it's going to cost you in health since the minions you hero power are 2/2's and they usually don't carry fights.",
+					"summary": "Economy curve into triples is the best way to play, don't be too greedy with the triples because it's going to cost you in health since the minions you hero power are 2/2's and they usually don't carry fights. Buddy: Try to get the buddy when cheap and sell it if you need to late game. It’s a tempo tool early but not a very strong unit",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Buddy scaling is not relevant",
@@ -1961,11 +1961,11 @@
 			"name": "Yogg-Saron, Hope's End",
 			"tips": [
 				{
-					"summary": "Works with multiple curves depending on the meta but try to hero power as much as possible early and ignore it mid/late game. I pretty much only hero power late game if I have 2 left-over gold and I really don't want to roll.",
+					"summary": "Works with multiple curves depending on the meta but try to hero power as much as possible early and ignore it mid/late game. I pretty much only hero power late game if I have 2 left-over gold and I really don't want to roll. Buddy: Get the buddy as fast as possible and keep it as long as you can. Use the hero power as much as you can early to give yourself the power to win fights and make this process as smooth as possible. Don’t level too much unless really strong because of your low health total",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Play to win early fights, you need your buddy to be cheap",
@@ -1981,11 +1981,11 @@
 			"name": "Ysera",
 			"tips": [
 				{
-					"summary": "You have to force dragons on this hero, there are more aggressive ways of doing that like rushing taverns 3/4 or more conservative ways which build on tavern 1 before going 3/4. Depending on your rank and lobby you should figure out on the spot what works better for you!",
+					"summary": "You have to force dragons on this hero, there are more aggressive ways of doing that like rushing taverns 3/4 or more conservative ways which build on tavern 1 before going 3/4. Depending on your rank and lobby you should figure out on the spot what works better for you! Buddy: Try to play dragons and roll as much as possible for the combo. Don’t level too much.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Don't be afraid to sell your buddy if you get a good dragon board",
@@ -2001,11 +2001,11 @@
 			"name": "Y'Shaarj",
 			"tips": [
 				{
-					"summary": "King of leveling aggressively. Just be mindful of your health and of the good minions in that lobby. Once you snatch a good one you can build around it!",
+					"summary": "King of leveling aggressively. Just be mindful of your health and of the good minions in that lobby. Once you snatch a good one you can build around it! Buddy: Use the buddy for a power boost but consider selling it at some point.",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Heropower and buddy have great synergy with Diremuck Forager",
@@ -2021,11 +2021,11 @@
 			"name": "Zephrys, the Great",
 			"tips": [
 				{
-					"summary": "Don't be too greedy with the first hero power, be mindful with the second hero power and greedy as hell with the third! Unless you are losing fights, in which case use all of them to stay alive as much as possible and save a bad game!",
+					"summary": "Don't be too greedy with the first hero power, be mindful with the second hero power and greedy as hell with the third! Unless you are losing fights, in which case use all of them to stay alive as much as possible and save a bad game! Buddy: I like using my hero power to triple into a 5 and then using the buddy to triple the 5. From there you can probably level to 5 and go for a powerful strategy and use the 2nd and 3rd buddy to consolidate it going into late-game",
 					"author": "rdu",
 					"language": "enUS",
-					"patch": 198953,
-					"date": "2024-05-17"
+					"patch": 202360,
+					"date": "2024-07-06"
 				},
 				{
 					"summary": "Triple into a tier 5 asap, copy the tier 5 with your buddy",
