@@ -270,13 +270,20 @@
             "name": "Whizbang's Workshop 29.6.2.202362",
             "date": "2024-07-08T18:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 203120,
+            "version": "30.0",
+            "name": "Perils in Paradise 30.0",
+            "date": "2024-07-16T17:00:00Z",
+            "hasNewBuildNumber": true
         }
     ],
     "currentConstructedMetaPatch": 202362,
     "currentTwistMetaPatch": 202362,
     "currentBattlegroundsMetaPatch": 202360,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 200097,
+    "currentArenaMetaPatch": 203120,
     "currentMercenariesMetaPatch": 189017,
-    "currentArenaSeasonPatch": 198933
+    "currentArenaSeasonPatch": 203120
 }
