@@ -3414,6 +3414,13 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1050"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_990_under_new_management"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1134"
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -62578,5 +62578,47 @@
 		"quota": 35,
 		"root": false,
 		"type": "hearthstone_game_925_paradise_neutral_collector"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 8137,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 990,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_8137",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_990_under_new_management"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 8138,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 990,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_8138",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_990_under_new_management"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 8139,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 990,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_8139",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_990_under_new_management"
 	}
 ]

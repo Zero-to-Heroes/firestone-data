@@ -3753,6 +3753,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1050",
 							"name": "갈"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_990_under_new_management"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1134",
+							"name": "지배인 마린"
 						}
 					],
 					"icon": "mode_battlegrounds",

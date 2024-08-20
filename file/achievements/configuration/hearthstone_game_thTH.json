@@ -3753,6 +3753,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1050",
 							"name": "กัล"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_990_under_new_management"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1134",
+							"name": "ผู้จัดการมาริน"
 						}
 					],
 					"icon": "mode_battlegrounds",

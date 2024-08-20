@@ -3753,6 +3753,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1050",
 							"name": "加利"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_990_under_new_management"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1134",
+							"name": "經理馬林"
 						}
 					],
 					"icon": "mode_battlegrounds",

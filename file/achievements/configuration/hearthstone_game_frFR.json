@@ -3753,6 +3753,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1050",
 							"name": "Gall"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_990_under_new_management"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1134",
+							"name": "Marin le responsable"
 						}
 					],
 					"icon": "mode_battlegrounds",
