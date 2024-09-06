@@ -319,13 +319,20 @@
             "name": "Perils in Paradise 30.2.2",
             "date": "2024-08-29T18:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 206434,
+            "version": "30.2.3",
+            "name": "Perils in Paradise 30.2.3",
+            "date": "2024-09-05T18:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 206433,
     "currentTwistMetaPatch": 202362,
-    "currentBattlegroundsMetaPatch": 206433,
+    "currentBattlegroundsMetaPatch": 206434,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 206433,
+    "currentArenaMetaPatch": 206434,
     "currentMercenariesMetaPatch": 189017,
     "currentArenaSeasonPatch": 205267
 }
