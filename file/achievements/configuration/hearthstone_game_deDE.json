@@ -2040,10 +2040,98 @@
 					"name": "Wurbelfitz"
 				},
 				{
+					"achievementTypes": [
+						"hearthstone_game_861_universal_blood_donor",
+						"hearthstone_game_861_inside_voices_please",
+						"hearthstone_game_861_keep_out_beware_of_dogs",
+						"hearthstone_game_861_imaginary_friends",
+						"hearthstone_game_861_repeat_after_me_class",
+						"hearthstone_game_861_permanent_expulsion",
+						"hearthstone_game_861_matching_cutlery",
+						"hearthstone_game_861_ras_the_roof",
+						"hearthstone_game_861_buildyourown_soul",
+						"hearthstone_game_861_valedictorians_honor",
+						"hearthstone_game_861_an_elekk_never_forgets"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_234",
+					"name": "Scholomance"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_862_ten_thousand_years_of_torment",
+						"hearthstone_game_862_fungal_allergy",
+						"hearthstone_game_862_unintuitive_ingenuity",
+						"hearthstone_game_862_observer_see_observer_do",
+						"hearthstone_game_862_required_reading",
+						"hearthstone_game_862_just_like_the_good_old_days",
+						"hearthstone_game_862_primetime_attackin",
+						"hearthstone_game_862_wooden_skyscraper",
+						"hearthstone_game_862_more_than_a_little_agony",
+						"hearthstone_game_862_match_fixing",
+						"hearthstone_game_862_modamage"
+					],
+					"icon": "general",
+					"id": "hearthstone_game_sub_235",
+					"name": "Scherbenwelt"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_864_dreams_do_come_true",
+						"hearthstone_game_864_way_so_nice_i_cleared_it_twice",
+						"hearthstone_game_864_55_feet_of_snow",
+						"hearthstone_game_864_sanct_you_ary_much",
+						"hearthstone_game_864_educated_guess",
+						"hearthstone_game_864_trick_candles",
+						"hearthstone_game_864_eggs_done_overggez",
+						"hearthstone_game_864_maximo_hando",
+						"hearthstone_game_864_on_the_brink_of_deathwing",
+						"hearthstone_game_864_thats_so_many_ravens"
+					],
+					"icon": "dragons",
+					"id": "hearthstone_game_sub_236",
+					"name": "Erbe der Drachen"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_865_beeees",
+						"hearthstone_game_865_bug_reports",
+						"hearthstone_game_865_whats_in_the_box",
+						"hearthstone_game_865_1_fish_2_fish_same_fish_same_fish",
+						"hearthstone_game_865_health_department",
+						"hearthstone_game_865_wombo_combo",
+						"hearthstone_game_865_to_no_fault_of_my_own",
+						"hearthstone_game_865_a_warlocks_truce",
+						"hearthstone_game_865_1337_h4x",
+						"hearthstone_game_865_did_you_even_read_the_card"
+					],
+					"icon": "saviors",
+					"id": "hearthstone_game_sub_237",
+					"name": "Retter von Uldum"
+				},
+				{
+					"achievementTypes": [
+						"hearthstone_game_866_overgrown_lawn",
+						"hearthstone_game_866_while_true",
+						"hearthstone_game_866_spellnado",
+						"hearthstone_game_866_the_meek_shall_survive",
+						"hearthstone_game_866_weight_resurrection",
+						"hearthstone_game_866_masterful_gambit_sir",
+						"hearthstone_game_866_you_got_me_monologuing",
+						"hearthstone_game_866_it_was_me_duo",
+						"hearthstone_game_866_the_hall_of_boom",
+						"hearthstone_game_866_quads_workout"
+					],
+					"icon": "shadows",
+					"id": "hearthstone_game_sub_238",
+					"name": "Verschwörung der Schatten"
+				},
+				{
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_937_i_scream_you_scream"
+								"hearthstone_game_937_i_scream_you_scream",
+								"hearthstone_game_937_are_we_there_yet"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1056",
@@ -2051,7 +2139,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_936_whos_in_charge"
+								"hearthstone_game_936_whos_in_charge",
+								"hearthstone_game_936_peddle_to_the_meddle"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_1057",
@@ -2059,7 +2148,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_932_rejuvenation_nation"
+								"hearthstone_game_932_rejuvenation_nation",
+								"hearthstone_game_932_druidic_staycation"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_1058",
@@ -2067,7 +2157,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_931_they_see_me_rollin"
+								"hearthstone_game_931_they_see_me_rollin",
+								"hearthstone_game_931_mooovers_and_shakers"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_1059",
@@ -2075,7 +2166,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_934_totally_shredding_the_gnar"
+								"hearthstone_game_934_totally_shredding_the_gnar",
+								"hearthstone_game_934_this_is_fine"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_1060",
@@ -2083,7 +2175,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_930_shielded_from_the_light"
+								"hearthstone_game_930_shielded_from_the_light",
+								"hearthstone_game_930_go_team"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_1061",
@@ -2091,7 +2184,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_935_fortune_favors_the_gold"
+								"hearthstone_game_935_fortune_favors_the_gold",
+								"hearthstone_game_935_practice_makes_perfect"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_1062",
@@ -2099,7 +2193,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_929_loot_get"
+								"hearthstone_game_929_loot_get",
+								"hearthstone_game_929_sharing_is_caring"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_1063",
@@ -2107,7 +2202,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_927_a_naga_of_many_talents"
+								"hearthstone_game_927_a_naga_of_many_talents",
+								"hearthstone_game_927_stay_hydrated"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_1064",
@@ -2115,7 +2211,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_933_irredemption_arc"
+								"hearthstone_game_933_irredemption_arc",
+								"hearthstone_game_933_eleventh_hour"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_1065",
@@ -2123,7 +2220,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_928_bacon_lettuce_triumph"
+								"hearthstone_game_928_bacon_lettuce_triumph",
+								"hearthstone_game_928_clocked_inthe_face"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_1066",
@@ -2134,7 +2232,9 @@
 								"hearthstone_game_926_rest_and_relax8ion",
 								"hearthstone_game_926_its_free_real_estate",
 								"hearthstone_game_926_cheers",
-								"hearthstone_game_926_tropical_treasure_tour"
+								"hearthstone_game_926_tropical_treasure_tour",
+								"hearthstone_game_926_vacation_destinations",
+								"hearthstone_game_926_planned_to_potential_pefection"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1067",
