@@ -10,9 +10,11 @@
 		"gift",
 		"whizbangs_workshop",
 		"boom_inventions",
-		"perils_in_paradise"
+		"perils_in_paradise",
+		"traveling_travel_agency"
 	],
 	"twistSets": [
+		"traveling_travel_agency",
 		"perils_in_paradise",
 		"boom_inventions",
 		"whizbangs_workshop",
@@ -67,6 +69,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"traveling_travel_agency",
 		"perils_in_paradise",
 		"boom_inventions",
 		"whizbangs_workshop",
