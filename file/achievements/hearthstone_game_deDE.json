@@ -82878,11 +82878,11 @@
 		"type": "hearthstone_game_933_irredemption_arc"
 	},
 	{
-		"completedText": "Spielt ein 4-Minion-Sandwich aus.",
+		"completedText": "Spielt ein 4-Diener-Sandwich aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Schinken, Salat, SIEG!",
-		"emptyText": "Spielt ein 4-Minion-Sandwich aus.",
+		"emptyText": "Spielt ein 4-Diener-Sandwich aus.",
 		"hsAchievementId": 7352,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 928,
@@ -82893,15 +82893,15 @@
 		"priority": 0,
 		"quota": 4,
 		"root": true,
-		"text": "Spielt ein 4-Minion-Sandwich aus.",
+		"text": "Spielt ein 4-Diener-Sandwich aus.",
 		"type": "hearthstone_game_928_bacon_lettuce_triumph"
 	},
 	{
-		"completedText": "Spielt ein 7-Minion-Sandwich aus.",
+		"completedText": "Spielt ein 7-Diener-Sandwich aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Schinken, Salat, SIEG!",
-		"emptyText": "Spielt ein 7-Minion-Sandwich aus.",
+		"emptyText": "Spielt ein 7-Diener-Sandwich aus.",
 		"hsAchievementId": 7353,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 928,
@@ -82912,7 +82912,7 @@
 		"priority": 1,
 		"quota": 7,
 		"root": false,
-		"text": "Spielt ein 7-Minion-Sandwich aus.",
+		"text": "Spielt ein 7-Diener-Sandwich aus.",
 		"type": "hearthstone_game_928_bacon_lettuce_triumph"
 	},
 	{
@@ -84018,11 +84018,11 @@
 		"type": "hearthstone_game_861_inside_voices_please"
 	},
 	{
-		"completedText": "Ruft zwei Wildtiere mit „Vierbeinige Freunde“ herbei, die mindestens (5) kosten.",
+		"completedText": "Ruft zwei Wildtiere mit den Vierbeinigen Freunden herbei, die mindestens (5) kosten.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "VORSICHT, HUND",
-		"emptyText": "Ruft zwei Wildtiere mit „Vierbeinige Freunde“ herbei, die mindestens (5) kosten.",
+		"emptyText": "Ruft zwei Wildtiere mit den Vierbeinigen Freunden herbei, die mindestens (5) kosten.",
 		"hsAchievementId": 7413,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -84033,7 +84033,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Ruft zwei Wildtiere mit „Vierbeinige Freunde“ herbei, die mindestens (5) kosten.",
+		"text": "Ruft zwei Wildtiere mit den Vierbeinigen Freunden herbei, die mindestens (5) kosten.",
 		"type": "hearthstone_game_861_keep_out_beware_of_dogs"
 	},
 	{
@@ -84227,11 +84227,11 @@
 		"type": "hearthstone_game_862_fungal_allergy"
 	},
 	{
-		"completedText": "Zieht einen Grollhuf mit „Natürliche Improvisation“.",
+		"completedText": "Zieht einen Grollhuf mit Natürlicher Improvisation.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Unnatürliche Genialität",
-		"emptyText": "Zieht einen Grollhuf mit „Natürliche Improvisation“.",
+		"emptyText": "Zieht einen Grollhuf mit Natürlicher Improvisation.",
 		"hsAchievementId": 7424,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 862,
@@ -84242,7 +84242,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Zieht einen Grollhuf mit „Natürliche Improvisation“.",
+		"text": "Zieht einen Grollhuf mit Natürlicher Improvisation.",
 		"type": "hearthstone_game_862_unintuitive_ingenuity"
 	},
 	{
@@ -84265,11 +84265,11 @@
 		"type": "hearthstone_game_862_observer_see_observer_do"
 	},
 	{
-		"completedText": "Wirkt 10-mal „Buchband der Weisheit“ auf denselben Diener.",
+		"completedText": "Wirkt 10-mal das Buchband der Weisheit auf denselben Diener.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pflichtlektüre",
-		"emptyText": "Wirkt 10-mal „Buchband der Weisheit“ auf denselben Diener.",
+		"emptyText": "Wirkt 10-mal das Buchband der Weisheit auf denselben Diener.",
 		"hsAchievementId": 7426,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 862,
@@ -84280,15 +84280,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Wirkt 10-mal „Buchband der Weisheit“ auf denselben Diener.",
+		"text": "Wirkt 10-mal das Buchband der Weisheit auf denselben Diener.",
 		"type": "hearthstone_game_862_required_reading"
 	},
 	{
-		"completedText": "Wirkt 6-mal „Erneuerung“ in einem Zug.",
+		"completedText": "Wirkt 6-mal Erneuerung in einem Zug.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Wie in den guten alten Zeiten",
-		"emptyText": "Wirkt 6-mal „Erneuerung“ in einem Zug.",
+		"emptyText": "Wirkt 6-mal Erneuerung in einem Zug.",
 		"hsAchievementId": 7427,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 862,
@@ -84299,7 +84299,7 @@
 		"priority": 0,
 		"quota": 6,
 		"root": true,
-		"text": "Wirkt 6-mal „Erneuerung“ in einem Zug.",
+		"text": "Wirkt 6-mal Erneuerung in einem Zug.",
 		"type": "hearthstone_game_862_just_like_the_good_old_days"
 	},
 	{
@@ -84322,11 +84322,11 @@
 		"type": "hearthstone_game_862_primetime_attackin"
 	},
 	{
-		"completedText": "Ruft mit „Totemreflexion“ ein Totem mit 20_Angriff herbei.",
+		"completedText": "Ruft mit Totemreflexion ein Totem mit 20_Angriff herbei.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Hölzerner Wolkenkratzer",
-		"emptyText": "Ruft mit „Totemreflexion“ ein Totem mit 20_Angriff herbei.",
+		"emptyText": "Ruft mit Totemreflexion ein Totem mit 20_Angriff herbei.",
 		"hsAchievementId": 7429,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 862,
@@ -84337,7 +84337,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Ruft mit „Totemreflexion“ ein Totem mit 20_Angriff herbei.",
+		"text": "Ruft mit Totemreflexion ein Totem mit 20_Angriff herbei.",
 		"type": "hearthstone_game_862_wooden_skyscraper"
 	},
 	{
@@ -84493,11 +84493,11 @@
 		"type": "hearthstone_game_864_dreams_do_come_true"
 	},
 	{
-		"completedText": "Schließt „Macht den Weg frei!“ mit dem herbeigerufenen Greifen (4/4) ab.",
+		"completedText": "Schließt Macht den Weg frei! mit dem herbeigerufenen Greifen (4/4) ab.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Weg ist frei, alles Brei",
-		"emptyText": "Schließt „Macht den Weg frei!“ mit dem herbeigerufenen Greifen (4/4) ab.",
+		"emptyText": "Schließt Macht den Weg frei! mit dem herbeigerufenen Greifen (4/4) ab.",
 		"hsAchievementId": 7438,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 864,
@@ -84508,7 +84508,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Schließt „Macht den Weg frei!“ mit dem herbeigerufenen Greifen (4/4) ab.",
+		"text": "Schließt Macht den Weg frei! mit dem herbeigerufenen Greifen (4/4) ab.",
 		"type": "hearthstone_game_864_way_so_nice_i_cleared_it_twice"
 	},
 	{
@@ -84531,11 +84531,11 @@
 		"type": "hearthstone_game_864_55_feet_of_snow"
 	},
 	{
-		"completedText": "Lasst den von „Refugium“ herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
+		"completedText": "Lasst den von Refugium herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Refugi-Mumm",
-		"emptyText": "Lasst den von „Refugium“ herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
+		"emptyText": "Lasst den von Refugium herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
 		"hsAchievementId": 7440,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 864,
@@ -84546,7 +84546,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Lasst den von „Refugium“ herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
+		"text": "Lasst den von Refugium herbeigerufenen Diener einen Zug lang keinen Schaden erleiden.",
 		"type": "hearthstone_game_864_sanct_you_ary_much"
 	},
 	{
@@ -84664,11 +84664,11 @@
 		"type": "hearthstone_game_864_thats_so_many_ravens"
 	},
 	{
-		"completedText": "Wirkt „ARGH! BIENEN!!!“, ohne dass eine der Bienen angreift.",
+		"completedText": "Wirkt ARGH! BIENEN!!!, ohne dass eine der Bienen angreift.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "… Biiieeenen???",
-		"emptyText": "Wirkt „ARGH! BIENEN!!!“, ohne dass eine der Bienen angreift.",
+		"emptyText": "Wirkt ARGH! BIENEN!!!, ohne dass eine der Bienen angreift.",
 		"hsAchievementId": 7447,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 865,
@@ -84679,7 +84679,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Wirkt „ARGH! BIENEN!!!“, ohne dass eine der Bienen angreift.",
+		"text": "Wirkt ARGH! BIENEN!!!, ohne dass eine der Bienen angreift.",
 		"type": "hearthstone_game_865_beeees"
 	},
 	{
@@ -84816,11 +84816,11 @@
 		"type": "hearthstone_game_865_a_warlocks_truce"
 	},
 	{
-		"completedText": "Schließt „Hackt das System“ im selben Zug aus, in dem es ausgespielt wurde.",
+		"completedText": "Schließt Hackt das System im selben Zug ab, in dem es ausgespielt wurde.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "1337 H4X",
-		"emptyText": "Schließt „Hackt das System“ im selben Zug aus, in dem es ausgespielt wurde.",
+		"emptyText": "Schließt Hackt das System im selben Zug ab, in dem es ausgespielt wurde.",
 		"hsAchievementId": 7455,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 865,
@@ -84831,7 +84831,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Schließt „Hackt das System“ im selben Zug aus, in dem es ausgespielt wurde.",
+		"text": "Schließt Hackt das System im selben Zug ab, in dem es ausgespielt wurde.",
 		"type": "hearthstone_game_865_1337_h4x"
 	},
 	{
@@ -84968,11 +84968,11 @@
 		"type": "hearthstone_game_866_masterful_gambit_sir"
 	},
 	{
-		"completedText": "Verursacht 100_Schaden mit einer einzigen „Hagathas Plan“.",
+		"completedText": "Verursacht 100_Schaden mit einer einzigen Karte Hagathas Plan.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ihr habt mich zum Erzählen verführt",
-		"emptyText": "Verursacht 100_Schaden mit einer einzigen „Hagathas Plan“.",
+		"emptyText": "Verursacht 100_Schaden mit einer einzigen Karte Hagathas Plan.",
 		"hsAchievementId": 7463,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 866,
@@ -84983,15 +84983,15 @@
 		"priority": 0,
 		"quota": 100,
 		"root": true,
-		"text": "Verursacht 100_Schaden mit einer einzigen „Hagathas Plan“.",
+		"text": "Verursacht 100_Schaden mit einer einzigen Karte Hagathas Plan.",
 		"type": "hearthstone_game_866_you_got_me_monologuing"
 	},
 	{
-		"completedText": "Wirkt „Überraschende Wendung“ und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
+		"completedText": "Wirkt Überraschende Wendung und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ich war’s, Duo!",
-		"emptyText": "Wirkt „Überraschende Wendung“ und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
+		"emptyText": "Wirkt Überraschende Wendung und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
 		"hsAchievementId": 7464,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 866,
@@ -85002,7 +85002,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Wirkt „Überraschende Wendung“ und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
+		"text": "Wirkt Überraschende Wendung und erhaltet am Ende die doppelte Menge Karten wie zu anfangs.",
 		"type": "hearthstone_game_866_it_was_me_duo"
 	},
 	{
@@ -85975,11 +85975,11 @@
 		"type": "hearthstone_game_990_under_new_management"
 	},
 	{
-		"completedText": "Spielt 25_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"completedText": "Spielt 25_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Alles in bester Ordnung",
-		"emptyText": "Spielt 25_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"emptyText": "Spielt 25_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"hsAchievementId": 8141,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 934,
@@ -85990,15 +85990,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "Spielt 25_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"text": "Spielt 25_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"type": "hearthstone_game_934_this_is_fine"
 	},
 	{
-		"completedText": "Spielt 50_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"completedText": "Spielt 50_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Alles in bester Ordnung",
-		"emptyText": "Spielt 50_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"emptyText": "Spielt 50_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"hsAchievementId": 8142,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 934,
@@ -86009,15 +86009,15 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "Spielt 50_Karten aus, die von „Ausgebrannt“ in Brand gesetzt wurden.",
+		"text": "Spielt 50_Karten aus, die von Ausgebrannt in Brand gesetzt wurden.",
 		"type": "hearthstone_game_934_this_is_fine"
 	},
 	{
-		"completedText": "Erhaltet 25_Münzen von „Melkkuh“.",
+		"completedText": "Erhaltet 25_Münzen von der Melkkuh.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Münzen sind Muuuhhsik in meinen Ohren",
-		"emptyText": "Erhaltet 25_Münzen von „Melkkuh“.",
+		"emptyText": "Erhaltet 25_Münzen von der Melkkuh.",
 		"hsAchievementId": 8143,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 931,
@@ -86028,15 +86028,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "Erhaltet 25_Münzen von „Melkkuh“.",
+		"text": "Erhaltet 25_Münzen von der Melkkuh.",
 		"type": "hearthstone_game_931_mooovers_and_shakers"
 	},
 	{
-		"completedText": "Erhaltet 50_Münzen von „Melkkuh“.",
+		"completedText": "Erhaltet 50_Münzen von der Melkkuh.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Münzen sind Muuuhhsik in meinen Ohren",
-		"emptyText": "Erhaltet 50_Münzen von „Melkkuh“.",
+		"emptyText": "Erhaltet 50_Münzen von der Melkkuh.",
 		"hsAchievementId": 8144,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 931,
@@ -86047,15 +86047,15 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "Erhaltet 50_Münzen von „Melkkuh“.",
+		"text": "Erhaltet 50_Münzen von der Melkkuh.",
 		"type": "hearthstone_game_931_mooovers_and_shakers"
 	},
 	{
-		"completedText": "Vernichtet 100_Diener mit „Ewiger Zwischenstopp“.",
+		"completedText": "Vernichtet 100_Diener mit dem Ewigen Zwischenstopp.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Sind wir bald da?",
-		"emptyText": "Vernichtet 100_Diener mit „Ewiger Zwischenstopp“.",
+		"emptyText": "Vernichtet 100_Diener mit dem Ewigen Zwischenstopp.",
 		"hsAchievementId": 8145,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 937,
@@ -86066,15 +86066,15 @@
 		"priority": 0,
 		"quota": 100,
 		"root": true,
-		"text": "Vernichtet 100_Diener mit „Ewiger Zwischenstopp“.",
+		"text": "Vernichtet 100_Diener mit dem Ewigen Zwischenstopp.",
 		"type": "hearthstone_game_937_are_we_there_yet"
 	},
 	{
-		"completedText": "Vernichtet 200_Diener mit „Ewiger Zwischenstopp“.",
+		"completedText": "Vernichtet 200_Diener mit dem Ewigen Zwischenstopp.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Sind wir bald da?",
-		"emptyText": "Vernichtet 200_Diener mit „Ewiger Zwischenstopp“.",
+		"emptyText": "Vernichtet 200_Diener mit dem Ewigen Zwischenstopp.",
 		"hsAchievementId": 8146,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 937,
@@ -86085,15 +86085,15 @@
 		"priority": 1,
 		"quota": 200,
 		"root": false,
-		"text": "Vernichtet 200_Diener mit „Ewiger Zwischenstopp“.",
+		"text": "Vernichtet 200_Diener mit dem Ewigen Zwischenstopp.",
 		"type": "hearthstone_game_937_are_we_there_yet"
 	},
 	{
-		"completedText": "Spielt 10_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"completedText": "Spielt 10_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "LOS, TEAM!!!",
-		"emptyText": "Spielt 10_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"emptyText": "Spielt 10_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"hsAchievementId": 8147,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 930,
@@ -86104,15 +86104,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Spielt 10_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"text": "Spielt 10_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"type": "hearthstone_game_930_go_team"
 	},
 	{
-		"completedText": "Spielt 20_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"completedText": "Spielt 20_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "LOS, TEAM!!!",
-		"emptyText": "Spielt 20_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"emptyText": "Spielt 20_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"hsAchievementId": 8148,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 930,
@@ -86123,7 +86123,7 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "Spielt 20_Diener aus, die von „Vertrauensfall“ geschaffen wurden.",
+		"text": "Spielt 20_Diener aus, die vom Vertrauensfall geschaffen wurden.",
 		"type": "hearthstone_game_930_go_team"
 	},
 	{
@@ -86165,11 +86165,11 @@
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
-		"completedText": "Greift 20-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"completedText": "Greift 20-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Loch_… im Kopf!",
-		"emptyText": "Greift 20-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"emptyText": "Greift 20-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"hsAchievementId": 8151,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 928,
@@ -86180,15 +86180,15 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Greift 20-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"text": "Greift 20-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"type": "hearthstone_game_928_clocked_inthe_face"
 	},
 	{
-		"completedText": "Greift 40-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"completedText": "Greift 40-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Loch_… im Kopf!",
-		"emptyText": "Greift 40-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"emptyText": "Greift 40-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"hsAchievementId": 8152,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 928,
@@ -86199,7 +86199,7 @@
 		"priority": 1,
 		"quota": 40,
 		"root": false,
-		"text": "Greift 40-mal mit Eurem Helden an, während der Effekt von „Lochkarte“ besteht.",
+		"text": "Greift 40-mal mit Eurem Helden an, während der Effekt von Lochkarte besteht.",
 		"type": "hearthstone_game_928_clocked_inthe_face"
 	},
 	{
@@ -86317,11 +86317,11 @@
 		"type": "hearthstone_game_935_practice_makes_perfect"
 	},
 	{
-		"completedText": "Spielt einen Bären mit 8/$q oder mehr von „Drohgebärde“ aus.",
+		"completedText": "Spielt einen Bären mit 8/$q oder mehr von Drohgebärde aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Druidenurlaub zu Hause",
-		"emptyText": "Spielt einen Bären mit 8/$q oder mehr von „Drohgebärde“ aus.",
+		"emptyText": "Spielt einen Bären mit 8/$q oder mehr von Drohgebärde aus.",
 		"hsAchievementId": 8159,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 932,
@@ -86332,15 +86332,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Spielt einen Bären mit 8/$q oder mehr von „Drohgebärde“ aus.",
+		"text": "Spielt einen Bären mit 8/$q oder mehr von Drohgebärde aus.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
-		"completedText": "Spielt einen Bären mit 12/$q oder mehr von „Drohgebärde“ aus.",
+		"completedText": "Spielt einen Bären mit 12/$q oder mehr von Drohgebärde aus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Druidenurlaub zu Hause",
-		"emptyText": "Spielt einen Bären mit 12/$q oder mehr von „Drohgebärde“ aus.",
+		"emptyText": "Spielt einen Bären mit 12/$q oder mehr von Drohgebärde aus.",
 		"hsAchievementId": 8160,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 932,
@@ -86351,15 +86351,15 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Spielt einen Bären mit 12/$q oder mehr von „Drohgebärde“ aus.",
+		"text": "Spielt einen Bären mit 12/$q oder mehr von Drohgebärde aus.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
-		"completedText": "Vernichtet 15_Diener mit „Vertragsfrist“.",
+		"completedText": "Vernichtet 15_Diener mit Vertragsfrist.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "In letzter Minute",
-		"emptyText": "Vernichtet 15_Diener mit „Vertragsfrist“.",
+		"emptyText": "Vernichtet 15_Diener mit Vertragsfrist.",
 		"hsAchievementId": 8161,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 933,
@@ -86370,15 +86370,15 @@
 		"priority": 0,
 		"quota": 15,
 		"root": true,
-		"text": "Vernichtet 15_Diener mit „Vertragsfrist“.",
+		"text": "Vernichtet 15_Diener mit Vertragsfrist.",
 		"type": "hearthstone_game_933_eleventh_hour"
 	},
 	{
-		"completedText": "Vernichtet 30_Diener mit „Vertragsfrist“.",
+		"completedText": "Vernichtet 30_Diener mit Vertragsfrist.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "In letzter Minute",
-		"emptyText": "Vernichtet 30_Diener mit „Vertragsfrist“.",
+		"emptyText": "Vernichtet 30_Diener mit Vertragsfrist.",
 		"hsAchievementId": 8162,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 933,
@@ -86389,7 +86389,7 @@
 		"priority": 1,
 		"quota": 30,
 		"root": false,
-		"text": "Vernichtet 30_Diener mit „Vertragsfrist“.",
+		"text": "Vernichtet 30_Diener mit Vertragsfrist.",
 		"type": "hearthstone_game_933_eleventh_hour"
 	},
 	{

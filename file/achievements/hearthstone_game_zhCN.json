@@ -84189,11 +84189,11 @@
 		"type": "hearthstone_game_861_an_elekk_never_forgets"
 	},
 	{
-		"completedText": "在连续个8回合结束时处于恶魔变形状态。",
+		"completedText": "在连续8个回合结束时处于恶魔变形状态。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "万年折磨",
-		"emptyText": "在连续个8回合结束时处于恶魔变形状态。",
+		"emptyText": "在连续8个回合结束时处于恶魔变形状态。",
 		"hsAchievementId": 7422,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 862,
@@ -84204,7 +84204,7 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "在连续个8回合结束时处于恶魔变形状态。",
+		"text": "在连续8个回合结束时处于恶魔变形状态。",
 		"type": "hearthstone_game_862_ten_thousand_years_of_torment"
 	},
 	{
