@@ -4,5 +4,17 @@
 		"name": "RDU",
 		"link": "https://www.twitch.tv/rdulive",
 		"highlights": "Former leaderboard #1"
+	},
+	{
+		"id": "minder",
+		"name": "Minder",
+		"link": "https://x.com/MinderRoots",
+		"highlights": "Former leaderboard #1, hit Top 25 every season played"
+	},
+	{
+		"id": "firestone",
+		"name": "Firestone",
+		"link": "https://www.firestoneapp.com",
+		"highlights": ""
 	}
 ]
