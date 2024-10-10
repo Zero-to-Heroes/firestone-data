@@ -70015,11 +70015,11 @@
 		"type": "hearthstone_game_444_giant_following"
 	},
 	{
-		"completedText": "Conférer Râle d’agonie à 30 serviteurs avec Devs groles.",
+		"completedText": "Conférer Râle d’agonie à 30 serviteurs avec Vibe de la mort.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mur de la mort",
-		"emptyText": "Conférer Râle d’agonie à 30 serviteurs avec Devs groles.",
+		"emptyText": "Conférer Râle d’agonie à 30 serviteurs avec Vibe de la mort.",
 		"hsAchievementId": 5512,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70030,15 +70030,15 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Conférer Râle d’agonie à 30 serviteurs avec Devs groles.",
+		"text": "Conférer Râle d’agonie à 30 serviteurs avec Vibe de la mort.",
 		"type": "hearthstone_game_444_wall_of_death"
 	},
 	{
-		"completedText": "Conférer Râle d’agonie à 60 serviteurs avec Devs groles.",
+		"completedText": "Conférer Râle d’agonie à 60 serviteurs avec Vibe de la mort.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mur de la mort",
-		"emptyText": "Conférer Râle d’agonie à 60 serviteurs avec Devs groles.",
+		"emptyText": "Conférer Râle d’agonie à 60 serviteurs avec Vibe de la mort.",
 		"hsAchievementId": 5513,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70049,15 +70049,15 @@
 		"priority": 1,
 		"quota": 60,
 		"root": false,
-		"text": "Conférer Râle d’agonie à 60 serviteurs avec Devs groles.",
+		"text": "Conférer Râle d’agonie à 60 serviteurs avec Vibe de la mort.",
 		"type": "hearthstone_game_444_wall_of_death"
 	},
 	{
-		"completedText": "Conférer Râle d’agonie à 90 serviteurs avec Devs groles.",
+		"completedText": "Conférer Râle d’agonie à 90 serviteurs avec Vibe de la mort.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mur de la mort",
-		"emptyText": "Conférer Râle d’agonie à 90 serviteurs avec Devs groles.",
+		"emptyText": "Conférer Râle d’agonie à 90 serviteurs avec Vibe de la mort.",
 		"hsAchievementId": 5514,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70068,7 +70068,7 @@
 		"priority": 2,
 		"quota": 90,
 		"root": false,
-		"text": "Conférer Râle d’agonie à 90 serviteurs avec Devs groles.",
+		"text": "Conférer Râle d’agonie à 90 serviteurs avec Vibe de la mort.",
 		"type": "hearthstone_game_444_wall_of_death"
 	},
 	{

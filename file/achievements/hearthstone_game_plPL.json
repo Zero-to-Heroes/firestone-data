@@ -54815,11 +54815,11 @@
 		"type": "hearthstone_game_333_"
 	},
 	{
-		"completedText": "Dobierz efektem Szkła Wykrwawiającego 30 |4(kartę,karty,kart).",
+		"completedText": "Dobierz efektem Szkła wykrwawiającego 30 |4(kartę,karty,kart).",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Trafne spostrzeżenie",
-		"emptyText": "Dobierz efektem Szkła Wykrwawiającego 30 |4(kartę,karty,kart).",
+		"emptyText": "Dobierz efektem Szkła wykrwawiającego 30 |4(kartę,karty,kart).",
 		"hsAchievementId": 4540,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 393,
@@ -54830,7 +54830,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Dobierz efektem Szkła Wykrwawiającego 30 |4(kartę,karty,kart).",
+		"text": "Dobierz efektem Szkła wykrwawiającego 30 |4(kartę,karty,kart).",
 		"type": "hearthstone_game_393_sharp_observation"
 	},
 	{
