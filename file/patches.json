@@ -361,13 +361,20 @@
             "name": "Perils in Paradise 30.6.1",
             "date": "2024-10-15T18:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 210009,
+            "version": "31.0",
+            "name": "The Great Dark Beyond 31.0",
+            "date": "2024-10-15T18:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 209698,
     "currentTwistMetaPatch": 202362,
     "currentBattlegroundsMetaPatch": 209698,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 208591,
+    "currentArenaMetaPatch": 210009,
     "currentMercenariesMetaPatch": 189017,
-    "currentArenaSeasonPatch": 206605
+    "currentArenaSeasonPatch": 210009
 }
