@@ -1,380 +1,387 @@
 {
-	"patches": [
-		{
-			"number": 189016,
-			"version": "28.0",
-			"name": "Showdown in the Badlands 28.0",
-			"date": "2023-11-07"
-		},
-		{
-			"number": 189017,
-			"version": "28.0",
-			"name": "Showdown in the Badlands 28.0",
-			"date": "2023-11-14T18:00:00Z"
-		},
-		{
-			"number": 189384,
-			"version": "28.0.2",
-			"name": "Showdown in the Badlands 28.0.2",
-			"date": "2023-11-18T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 190145,
-			"version": "28.0.3",
-			"name": "Showdown in the Badlands 28.0.3",
-			"date": "2023-11-28T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 190416,
-			"version": "28.2",
-			"name": "Showdown in the Badlands 28.2",
-			"date": "2023-12-05T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 190920,
-			"version": "28.2.1",
-			"name": "Showdown in the Badlands 28.2.1",
-			"date": "2023-12-08T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 191554,
-			"version": "28.2.3",
-			"name": "Showdown in the Badlands 28.2.3",
-			"date": "2023-12-18T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 192412,
-			"version": "28.4",
-			"name": "Showdown in the Badlands 28.4",
-			"date": "2024-01-18T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 193128,
-			"version": "28.4.1",
-			"name": "Showdown in the Badlands 28.4.1",
-			"date": "2024-01-29T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 193541,
-			"version": "28.6",
-			"name": "Showdown in the Badlands 28.6",
-			"date": "2024-02-13T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 193542,
-			"version": "28.6.1",
-			"name": "Showdown in the Badlands 28.6.1",
-			"date": "2024-02-13T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 194648,
-			"version": "28.6.2",
-			"name": "Showdown in the Badlands 28.6.2",
-			"date": "2024-02-22T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 194649,
-			"version": "28.6.3",
-			"name": "Showdown in the Badlands 28.6.3",
-			"date": "2024-02-28T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 194649,
-			"version": "29.0",
-			"name": "Whizbang's Workshop 29.0",
-			"date": "2024-03-11T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 195635,
-			"version": "29.0",
-			"name": "Whizbang's Workshop 29.0",
-			"date": "2024-03-11T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 195635,
-			"version": "29.0.1",
-			"name": "Whizbang's Workshop 29.0.1",
-			"date": "2024-03-19T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 195636,
-			"version": "29.0.1",
-			"name": "Whizbang's Workshop 29.0.1",
-			"date": "2024-03-19T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 195636,
-			"version": "29.0.1",
-			"name": "Whizbang's Workshop 29.0.1",
-			"date": "2024-03-19T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 195636,
-			"version": "29.0.1",
-			"name": "Whizbang's Workshop 29.0.1",
-			"date": "2024-03-19T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 195637,
-			"version": "29.0.2",
-			"name": "Whizbang's Workshop 29.0.2",
-			"date": "2024-03-21T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 197064,
-			"version": "29.0.3",
-			"name": "Whizbang's Workshop 29.0.3",
-			"date": "2024-03-28T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 197064,
-			"version": "29.0.3",
-			"name": "Whizbang's Workshop 29.0.3",
-			"date": "2024-03-28T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 198037,
-			"version": "29.2.0",
-			"name": "Whizbang's Workshop 29.2.0",
-			"date": "2024-04-16T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 198037,
-			"version": "29.2.0",
-			"name": "Whizbang's Workshop 29.2.0",
-			"date": "2024-04-16T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 198608,
-			"version": "29.2.2",
-			"name": "Whizbang's Workshop 29.2.2",
-			"date": "2024-04-25T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 198711,
-			"version": "29.2.2",
-			"name": "Whizbang's Workshop 29.2.2",
-			"date": "2024-04-25T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 198933,
-			"version": "29.4",
-			"name": "Whizbang's Workshop 29.4",
-			"date": "2024-05-13T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 200097,
-			"version": "29.4.2",
-			"name": "Whizbang's Workshop 29.4.2",
-			"date": "2024-05-23T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 200098,
-			"version": "29.4.3",
-			"name": "Whizbang's Workshop 29.4.3",
-			"date": "2024-05-30T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 200099,
-			"version": "29.4.3",
-			"name": "Whizbang's Workshop 29.4.3.20240604",
-			"date": "2024-06-05T01:15:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 200100,
-			"version": "29.4.3",
-			"name": "Whizbang's Workshop 29.4.3.20240608",
-			"date": "2024-06-08T00:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 200101,
-			"version": "29.4.3",
-			"name": "Whizbang's Workshop 29.4.3.20240612",
-			"date": "2024-06-12T00:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 201108,
-			"version": "29.6",
-			"name": "Whizbang's Workshop 29.6",
-			"date": "2024-06-17T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 201108,
-			"version": "29.6",
-			"name": "Whizbang's Workshop 29.6",
-			"date": "2024-06-17T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 201109,
-			"version": "29.6.201109",
-			"name": "Whizbang's Workshop 29.6.201109",
-			"date": "2024-06-18T22:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 201110,
-			"version": "29.6.1",
-			"name": "Whizbang's Workshop 29.6.1",
-			"date": "2024-06-21T16:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 202360,
-			"version": "29.6.2",
-			"name": "Whizbang's Workshop 29.6.2",
-			"date": "2024-06-27T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 202361,
-			"version": "29.6.2",
-			"name": "Whizbang's Workshop 29.6.2",
-			"date": "2024-07-02T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 202362,
-			"version": "29.6.2",
-			"name": "Whizbang's Workshop 29.6.2.202362",
-			"date": "2024-07-08T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 203120,
-			"version": "30.0",
-			"name": "Perils in Paradise 30.0",
-			"date": "2024-07-16T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 203121,
-			"version": "30.0",
-			"name": "Perils in Paradise 30.0",
-			"date": "2024-07-23T17:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 205031,
-			"version": "30.0",
-			"name": "Perils in Paradise 30.0",
-			"date": "2024-07-23T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 205267,
-			"version": "30.2",
-			"name": "Perils in Paradise 30.2",
-			"date": "2024-08-20T17:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 20526,
-			"version": "30.2.1",
-			"name": "Perils in Paradise 30.2.1",
-			"date": "2024-08-23T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 205268,
-			"version": "30.2.1",
-			"name": "Perils in Paradise 30.2.1",
-			"date": "2024-08-23T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 206433,
-			"version": "30.2.2",
-			"name": "Perils in Paradise 30.2.2",
-			"date": "2024-08-29T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 206434,
-			"version": "30.2.3",
-			"name": "Perils in Paradise 30.2.3",
-			"date": "2024-09-05T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 206605,
-			"version": "30.4.0",
-			"name": "Perils in Paradise 30.4.0",
-			"date": "2024-09-10T18:00:00Z",
-			"hasNewBuildNumber": true
-		},
-		{
-			"number": 208182,
-			"version": "30.4.3",
-			"name": "Perils in Paradise 30.4.3",
-			"date": "2024-09-26T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 208591,
-			"version": "30.6",
-			"name": "Perils in Paradise 30.6",
-			"date": "2024-10-10T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 208592,
-			"version": "30.6.1",
-			"name": "Perils in Paradise 30.6.1",
-			"date": "2024-10-15T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 209698,
-			"version": "30.6.1",
-			"name": "Perils in Paradise 30.6.1",
-			"date": "2024-10-15T18:00:00Z",
-			"hasNewBuildNumber": false
-		},
-		{
-			"number": 210009,
-			"version": "31.0",
-			"name": "The Great Dark Beyond 31.0",
-			"date": "2024-10-29T20:00:00Z",
-			"hasNewBuildNumber": false
-		}
-	],
-	"currentConstructedMetaPatch": 209698,
-	"currentTwistMetaPatch": 202362,
-	"currentBattlegroundsMetaPatch": 209698,
-	"currentDuelsMetaPatch": 193541,
-	"currentArenaMetaPatch": 210009,
-	"currentMercenariesMetaPatch": 189017,
-	"currentArenaSeasonPatch": 210009
+    "patches": [
+        {
+            "number": 189016,
+            "version": "28.0",
+            "name": "Showdown in the Badlands 28.0",
+            "date": "2023-11-07"
+        },
+        {
+            "number": 189017,
+            "version": "28.0",
+            "name": "Showdown in the Badlands 28.0",
+            "date": "2023-11-14T18:00:00Z"
+        },
+        {
+            "number": 189384,
+            "version": "28.0.2",
+            "name": "Showdown in the Badlands 28.0.2",
+            "date": "2023-11-18T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 190145,
+            "version": "28.0.3",
+            "name": "Showdown in the Badlands 28.0.3",
+            "date": "2023-11-28T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 190416,
+            "version": "28.2",
+            "name": "Showdown in the Badlands 28.2",
+            "date": "2023-12-05T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 190920,
+            "version": "28.2.1",
+            "name": "Showdown in the Badlands 28.2.1",
+            "date": "2023-12-08T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 191554,
+            "version": "28.2.3",
+            "name": "Showdown in the Badlands 28.2.3",
+            "date": "2023-12-18T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 192412,
+            "version": "28.4",
+            "name": "Showdown in the Badlands 28.4",
+            "date": "2024-01-18T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 193128,
+            "version": "28.4.1",
+            "name": "Showdown in the Badlands 28.4.1",
+            "date": "2024-01-29T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 193541,
+            "version": "28.6",
+            "name": "Showdown in the Badlands 28.6",
+            "date": "2024-02-13T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 193542,
+            "version": "28.6.1",
+            "name": "Showdown in the Badlands 28.6.1",
+            "date": "2024-02-13T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 194648,
+            "version": "28.6.2",
+            "name": "Showdown in the Badlands 28.6.2",
+            "date": "2024-02-22T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 194649,
+            "version": "28.6.3",
+            "name": "Showdown in the Badlands 28.6.3",
+            "date": "2024-02-28T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 194649,
+            "version": "29.0",
+            "name": "Whizbang's Workshop 29.0",
+            "date": "2024-03-11T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 195635,
+            "version": "29.0",
+            "name": "Whizbang's Workshop 29.0",
+            "date": "2024-03-11T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 195635,
+            "version": "29.0.1",
+            "name": "Whizbang's Workshop 29.0.1",
+            "date": "2024-03-19T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 195636,
+            "version": "29.0.1",
+            "name": "Whizbang's Workshop 29.0.1",
+            "date": "2024-03-19T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 195636,
+            "version": "29.0.1",
+            "name": "Whizbang's Workshop 29.0.1",
+            "date": "2024-03-19T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 195636,
+            "version": "29.0.1",
+            "name": "Whizbang's Workshop 29.0.1",
+            "date": "2024-03-19T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 195637,
+            "version": "29.0.2",
+            "name": "Whizbang's Workshop 29.0.2",
+            "date": "2024-03-21T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 197064,
+            "version": "29.0.3",
+            "name": "Whizbang's Workshop 29.0.3",
+            "date": "2024-03-28T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 197064,
+            "version": "29.0.3",
+            "name": "Whizbang's Workshop 29.0.3",
+            "date": "2024-03-28T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 198037,
+            "version": "29.2.0",
+            "name": "Whizbang's Workshop 29.2.0",
+            "date": "2024-04-16T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 198037,
+            "version": "29.2.0",
+            "name": "Whizbang's Workshop 29.2.0",
+            "date": "2024-04-16T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 198608,
+            "version": "29.2.2",
+            "name": "Whizbang's Workshop 29.2.2",
+            "date": "2024-04-25T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 198711,
+            "version": "29.2.2",
+            "name": "Whizbang's Workshop 29.2.2",
+            "date": "2024-04-25T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 198933,
+            "version": "29.4",
+            "name": "Whizbang's Workshop 29.4",
+            "date": "2024-05-13T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 200097,
+            "version": "29.4.2",
+            "name": "Whizbang's Workshop 29.4.2",
+            "date": "2024-05-23T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 200098,
+            "version": "29.4.3",
+            "name": "Whizbang's Workshop 29.4.3",
+            "date": "2024-05-30T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 200099,
+            "version": "29.4.3",
+            "name": "Whizbang's Workshop 29.4.3.20240604",
+            "date": "2024-06-05T01:15:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 200100,
+            "version": "29.4.3",
+            "name": "Whizbang's Workshop 29.4.3.20240608",
+            "date": "2024-06-08T00:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 200101,
+            "version": "29.4.3",
+            "name": "Whizbang's Workshop 29.4.3.20240612",
+            "date": "2024-06-12T00:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 201108,
+            "version": "29.6",
+            "name": "Whizbang's Workshop 29.6",
+            "date": "2024-06-17T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 201108,
+            "version": "29.6",
+            "name": "Whizbang's Workshop 29.6",
+            "date": "2024-06-17T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 201109,
+            "version": "29.6.201109",
+            "name": "Whizbang's Workshop 29.6.201109",
+            "date": "2024-06-18T22:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 201110,
+            "version": "29.6.1",
+            "name": "Whizbang's Workshop 29.6.1",
+            "date": "2024-06-21T16:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 202360,
+            "version": "29.6.2",
+            "name": "Whizbang's Workshop 29.6.2",
+            "date": "2024-06-27T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 202361,
+            "version": "29.6.2",
+            "name": "Whizbang's Workshop 29.6.2",
+            "date": "2024-07-02T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 202362,
+            "version": "29.6.2",
+            "name": "Whizbang's Workshop 29.6.2.202362",
+            "date": "2024-07-08T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 203120,
+            "version": "30.0",
+            "name": "Perils in Paradise 30.0",
+            "date": "2024-07-16T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 203121,
+            "version": "30.0",
+            "name": "Perils in Paradise 30.0",
+            "date": "2024-07-23T17:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 205031,
+            "version": "30.0",
+            "name": "Perils in Paradise 30.0",
+            "date": "2024-07-23T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 205267,
+            "version": "30.2",
+            "name": "Perils in Paradise 30.2",
+            "date": "2024-08-20T17:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 20526,
+            "version": "30.2.1",
+            "name": "Perils in Paradise 30.2.1",
+            "date": "2024-08-23T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 205268,
+            "version": "30.2.1",
+            "name": "Perils in Paradise 30.2.1",
+            "date": "2024-08-23T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 206433,
+            "version": "30.2.2",
+            "name": "Perils in Paradise 30.2.2",
+            "date": "2024-08-29T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 206434,
+            "version": "30.2.3",
+            "name": "Perils in Paradise 30.2.3",
+            "date": "2024-09-05T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 206605,
+            "version": "30.4.0",
+            "name": "Perils in Paradise 30.4.0",
+            "date": "2024-09-10T18:00:00Z",
+            "hasNewBuildNumber": true
+        },
+        {
+            "number": 208182,
+            "version": "30.4.3",
+            "name": "Perils in Paradise 30.4.3",
+            "date": "2024-09-26T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 208591,
+            "version": "30.6",
+            "name": "Perils in Paradise 30.6",
+            "date": "2024-10-10T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 208592,
+            "version": "30.6.1",
+            "name": "Perils in Paradise 30.6.1",
+            "date": "2024-10-15T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 209698,
+            "version": "30.6.1",
+            "name": "Perils in Paradise 30.6.1",
+            "date": "2024-10-15T18:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 210009,
+            "version": "31.0",
+            "name": "The Great Dark Beyond 31.0",
+            "date": "2024-10-29T20:00:00Z",
+            "hasNewBuildNumber": false
+        },
+        {
+            "number": 210010,
+            "version": "31.0.0",
+            "name": "The Great Dark Beyond 31.0.0",
+            "date": "2024-11-05T20:00:00Z",
+            "hasNewBuildNumber": false
+        }
+    ],
+    "currentConstructedMetaPatch": 210010,
+    "currentTwistMetaPatch": 202362,
+    "currentBattlegroundsMetaPatch": 209698,
+    "currentDuelsMetaPatch": 193541,
+    "currentArenaMetaPatch": 210009,
+    "currentMercenariesMetaPatch": 189017,
+    "currentArenaSeasonPatch": 210009
 }
