@@ -375,13 +375,20 @@
             "name": "The Great Dark Beyond 31.0.0",
             "date": "2024-11-05T20:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 212031,
+            "version": "31.0.3",
+            "name": "The Great Dark Beyond 31.0.3",
+            "date": "2024-11-05T20:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
-    "currentConstructedMetaPatch": 210010,
+    "currentConstructedMetaPatch": 212031,
     "currentTwistMetaPatch": 202362,
-    "currentBattlegroundsMetaPatch": 209698,
+    "currentBattlegroundsMetaPatch": 212031,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 210009,
+    "currentArenaMetaPatch": 212031,
     "currentMercenariesMetaPatch": 189017,
     "currentArenaSeasonPatch": 210009
 }
