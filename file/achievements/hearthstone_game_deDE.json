@@ -82289,11 +82289,11 @@
 		"type": "hearthstone_game_768_draenei_together_strong"
 	},
 	{
-		"completedText": "Entdeckt 8 verschiedene Diener mit Endgültiges Ende",
+		"completedText": "Entdeckt 8 verschiedene Diener mit der Letzten Grenze.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Weltraum, der",
-		"emptyText": "Entdeckt 8 verschiedene Diener mit Endgültiges Ende",
+		"emptyText": "Entdeckt 8 verschiedene Diener mit der Letzten Grenze.",
 		"hsAchievementId": 6859,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 769,
@@ -82304,15 +82304,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Entdeckt 8 verschiedene Diener mit Endgültiges Ende",
+		"text": "Entdeckt 8 verschiedene Diener mit der Letzten Grenze.",
 		"type": "hearthstone_game_769_space_the"
 	},
 	{
-		"completedText": "Entdeckt 16 verschiedene Diener mit Endgültiges Ende",
+		"completedText": "Entdeckt 16 verschiedene Diener mit der Letzten Grenze.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Weltraum, der",
-		"emptyText": "Entdeckt 16 verschiedene Diener mit Endgültiges Ende",
+		"emptyText": "Entdeckt 16 verschiedene Diener mit der Letzten Grenze.",
 		"hsAchievementId": 6860,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 769,
@@ -82323,7 +82323,7 @@
 		"priority": 1,
 		"quota": 16,
 		"root": false,
-		"text": "Entdeckt 16 verschiedene Diener mit Endgültiges Ende",
+		"text": "Entdeckt 16 verschiedene Diener mit der Letzten Grenze.",
 		"type": "hearthstone_game_769_space_the"
 	},
 	{
