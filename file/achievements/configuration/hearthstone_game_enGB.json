@@ -3629,6 +3629,27 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1134"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1045_master_cloner"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1201"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1043_out_of_this_world"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1202"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1044_astronomical"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1203"
 						}
 					],
 					"icon": "mode_battlegrounds",

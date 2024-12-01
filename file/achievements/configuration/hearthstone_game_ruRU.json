@@ -3988,6 +3988,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1134",
 							"name": "Менеджер Марин"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1045_master_cloner"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1201",
+							"name": "Клонист Зерек"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1043_out_of_this_world"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1202",
+							"name": "Предсказатель Нобундо"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1044_astronomical"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1203",
+							"name": "Экзарх Отаар"
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -3988,6 +3988,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1134",
 							"name": "지배인 마린"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1045_master_cloner"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1201",
+							"name": "복제의 대가 제레크"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1043_out_of_this_world"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1202",
+							"name": "선견자 노분도"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1044_astronomical"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1203",
+							"name": "총독 오타르"
 						}
 					],
 					"icon": "mode_battlegrounds",
