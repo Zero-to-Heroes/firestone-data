@@ -53732,11 +53732,11 @@
 		"type": "hearthstone_game_328_mary_had_a_little_ram"
 	},
 	{
-		"completedText": "完塔维什的佣兵之书。",
+		"completedText": "完成塔维什的佣兵之书。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "狩猎群虱",
-		"emptyText": "完塔维什的佣兵之书。",
+		"emptyText": "完成塔维什的佣兵之书。",
 		"hsAchievementId": 4467,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 272,
@@ -53747,7 +53747,7 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "完塔维什的佣兵之书。",
+		"text": "完成塔维什的佣兵之书。",
 		"type": "hearthstone_game_272_scarier_fleas"
 	},
 	{
