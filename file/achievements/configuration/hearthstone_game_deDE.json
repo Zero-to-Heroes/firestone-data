@@ -2249,7 +2249,8 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_767_catch_these_hands"
+								"hearthstone_game_767_catch_these_hands",
+								"hearthstone_game_767_fungus_amongus"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1095",
@@ -2257,7 +2258,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_768_draenei_together_strong"
+								"hearthstone_game_768_draenei_together_strong",
+								"hearthstone_game_768_im_a_weirdo"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_1096",
@@ -2265,7 +2267,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_769_space_the"
+								"hearthstone_game_769_space_the",
+								"hearthstone_game_769_imma_end_your_whole_carrier"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_1097",
@@ -2273,7 +2276,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_770_alien_vs_enemy"
+								"hearthstone_game_770_alien_vs_enemy",
+								"hearthstone_game_770_grooved_to_tears"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_1098",
@@ -2281,7 +2285,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_771_spatial_awareness"
+								"hearthstone_game_771_spatial_awareness",
+								"hearthstone_game_771_thermal_lancealot"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_1099",
@@ -2289,7 +2294,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_772_light_reading"
+								"hearthstone_game_772_light_reading",
+								"hearthstone_game_772_stim2win"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_1100",
@@ -2297,7 +2303,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_773_holy_ship"
+								"hearthstone_game_773_holy_ship",
+								"hearthstone_game_773_400400"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_1101",
@@ -2305,7 +2312,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_774_hunk_of_junk"
+								"hearthstone_game_774_hunk_of_junk",
+								"hearthstone_game_774_1_1_1"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_1102",
@@ -2313,7 +2321,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_775_incremental_extinction"
+								"hearthstone_game_775_incremental_extinction",
+								"hearthstone_game_775_tanks_for_the_memories"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_1103",
@@ -2321,7 +2330,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_776_isnt_it_called_hearthstone"
+								"hearthstone_game_776_isnt_it_called_hearthstone",
+								"hearthstone_game_776_dietary_restriction"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_1104",
@@ -2329,7 +2339,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_777_do_you_yield"
+								"hearthstone_game_777_do_you_yield",
+								"hearthstone_game_777_cruise_control"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_1105",
@@ -2340,7 +2351,10 @@
 								"hearthstone_game_778_triple_digies",
 								"hearthstone_game_778_spellbursting_with_flavor",
 								"hearthstone_game_778_the_naarus_chosen",
-								"hearthstone_game_778_some_assembly_required"
+								"hearthstone_game_778_some_assembly_required",
+								"hearthstone_game_778_its_not_easy_being_queen",
+								"hearthstone_game_778_construct_additional_pylons",
+								"hearthstone_game_778_cattle_bruiser"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1106",
@@ -2975,6 +2989,7 @@
 				},
 				{
 					"achievementTypes": [
+						"hearthstone_game_766_dark_beyond_legendary_collector",
 						"hearthstone_game_766_dark_beyond_death_knight_collector",
 						"hearthstone_game_766_dark_beyond_demon_hunter_collector",
 						"hearthstone_game_766_dark_beyond_druid_collector",
@@ -2987,7 +3002,6 @@
 						"hearthstone_game_766_dark_beyond_warlock_collector",
 						"hearthstone_game_766_dark_beyond_warrior_collector",
 						"hearthstone_game_766_dark_beyond_neutral_collector",
-						"hearthstone_game_766_dark_beyond_legendary_collector",
 						"hearthstone_game_766_into_the_infinity"
 					],
 					"icon": "general",
