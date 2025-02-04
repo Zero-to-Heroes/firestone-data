@@ -85500,11 +85500,11 @@
 		"type": "hearthstone_game_861_keep_out_beware_of_dogs"
 	},
 	{
-		"completedText": "Fügt Eurer Hand 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion hinzu.",
+		"completedText": "Erhaltet 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Imaginäre Freunde",
-		"emptyText": "Fügt Eurer Hand 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion hinzu.",
+		"emptyText": "Erhaltet 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion.",
 		"hsAchievementId": 7414,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85515,7 +85515,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "Fügt Eurer Hand 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion hinzu.",
+		"text": "Erhaltet 7_Kopien desselben Dieners mit einem einzigen Trank der Illusion.",
 		"type": "hearthstone_game_861_imaginary_friends"
 	},
 	{
@@ -86355,11 +86355,11 @@
 		"type": "hearthstone_game_866_while_true"
 	},
 	{
-		"completedText": "Fügt Eurer Hand mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber hinzu.",
+		"completedText": "Erhaltet mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Zauberzyklon!!!",
-		"emptyText": "Fügt Eurer Hand mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber hinzu.",
+		"emptyText": "Erhaltet mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber.",
 		"hsAchievementId": 7459,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 866,
@@ -86370,7 +86370,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Fügt Eurer Hand mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber hinzu.",
+		"text": "Erhaltet mit dem Kampfschrei eines einzigen Manazyklons 10_Zauber.",
 		"type": "hearthstone_game_866_spellnado"
 	},
 	{
