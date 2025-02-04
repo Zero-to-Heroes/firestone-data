@@ -24,12 +24,14 @@
 		"og",
 		"kara",
 		"gangs",
+		"ungoro",
 		"caverns_of_time"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"heroes_of_starcraft",
 		"great_dark_beyond",
 		"traveling_travel_agency",
 		"perils_in_paradise",
