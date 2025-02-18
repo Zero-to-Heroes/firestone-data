@@ -4026,6 +4026,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1203",
 							"name": "เอ็กซาร์คโอธาร์"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347",
+							"name": "จิม เรย์เนอร์"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348",
+							"name": "เคอร์ริแกน ราชินีแห่งคมมีด"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349",
+							"name": "อาร์ทานิส"
 						}
 					],
 					"icon": "mode_battlegrounds",

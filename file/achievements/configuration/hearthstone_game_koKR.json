@@ -4026,6 +4026,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1203",
 							"name": "총독 오타르"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347",
+							"name": "짐 레이너"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348",
+							"name": "칼날 여왕 케리건"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349",
+							"name": "아르타니스"
 						}
 					],
 					"icon": "mode_battlegrounds",

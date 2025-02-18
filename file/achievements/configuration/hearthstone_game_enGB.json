@@ -3664,6 +3664,27 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1203"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349"
 						}
 					],
 					"icon": "mode_battlegrounds",

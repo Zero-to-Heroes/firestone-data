@@ -4026,6 +4026,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1203",
 							"name": "Exarch Othaar"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347",
+							"name": "Jim Raynor"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348",
+							"name": "Kerrigan, Königin der Klingen"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349",
+							"name": "Artanis"
 						}
 					],
 					"icon": "mode_battlegrounds",

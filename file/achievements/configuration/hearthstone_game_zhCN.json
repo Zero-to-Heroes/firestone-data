@@ -4026,6 +4026,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1203",
 							"name": "大主教奥萨尔"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347",
+							"name": "吉姆·雷诺"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348",
+							"name": "刀锋女王凯瑞甘"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349",
+							"name": "阿塔尼斯"
 						}
 					],
 					"icon": "mode_battlegrounds",

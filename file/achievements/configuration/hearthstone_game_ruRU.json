@@ -4026,6 +4026,30 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1203",
 							"name": "Экзарх Отаар"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1189_wings_of_liberty"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1347",
+							"name": "Джим Рейнор"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1190_heart_of_the_swarm"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1348",
+							"name": "Керриган, Королева Клинков"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1191_legacy_of_the_void"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1349",
+							"name": "Артанис"
 						}
 					],
 					"icon": "mode_battlegrounds",
