@@ -74024,11 +74024,11 @@
 		"type": "hearthstone_game_466_and_melt_with_you"
 	},
 	{
-		"completedText": "Vernichtet den feindlichen Helden mit einer benutzerdefinierten Waffe von Ignis, die ewige Flamme.",
+		"completedText": "Vernichtet den feindlichen Helden mit einer eigenen Waffe von Ignis, die ewige Flamme.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Aber der hier gehört mir",
-		"emptyText": "Vernichtet den feindlichen Helden mit einer benutzerdefinierten Waffe von Ignis, die ewige Flamme.",
+		"emptyText": "Vernichtet den feindlichen Helden mit einer eigenen Waffe von Ignis, die ewige Flamme.",
 		"hsAchievementId": 5728,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 466,
@@ -74039,7 +74039,7 @@
 		"priority": 0,
 		"quota": 1,
 		"root": true,
-		"text": "Vernichtet den feindlichen Helden mit einer benutzerdefinierten Waffe von Ignis, die ewige Flamme.",
+		"text": "Vernichtet den feindlichen Helden mit einer eigenen Waffe von Ignis, die ewige Flamme.",
 		"type": "hearthstone_game_466_but_this_one_is_mine"
 	},
 	{
