@@ -12,7 +12,9 @@
 		"boom_inventions",
 		"perils_in_paradise",
 		"traveling_travel_agency",
-		"great_dark_beyond"
+		"great_dark_beyond",
+		"heroes_of_starcraft",
+		"into_the_emerald_dream"
 	],
 	"twistSets": [
 		"legacy",
@@ -31,6 +33,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"into_the_emerald_dream",
 		"heroes_of_starcraft",
 		"great_dark_beyond",
 		"traveling_travel_agency",
