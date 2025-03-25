@@ -34181,11 +34181,11 @@
 		"type": "hearthstone_game_182_i_owe_you_one"
 	},
 	{
-		"completedText": "Destruye a tu oponente con un esbirro 30/$q o superior.",
+		"completedText": "Destruye a tu oponente con un esbirro 30/30 o superior.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "El fuego interior",
-		"emptyText": "Destruye a tu oponente con un esbirro 30/$q o superior.",
+		"emptyText": "Destruye a tu oponente con un esbirro 30/30 o superior.",
 		"hsAchievementId": 2643,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 187,
@@ -34196,7 +34196,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Destruye a tu oponente con un esbirro 30/$q o superior.",
+		"text": "Destruye a tu oponente con un esbirro 30/30 o superior.",
 		"type": "hearthstone_game_187_the_fire_within"
 	},
 	{
@@ -44916,11 +44916,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "Invoca un Remanente Arcano 10/$q o superior con Desbordamiento Arcano.",
+		"completedText": "Invoca un Remanente Arcano 10/10 o superior con Desbordamiento Arcano.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "A ver qué sale de aquí",
-		"emptyText": "Invoca un Remanente Arcano 10/$q o superior con Desbordamiento Arcano.",
+		"emptyText": "Invoca un Remanente Arcano 10/10 o superior con Desbordamiento Arcano.",
 		"hsAchievementId": 3914,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -44931,7 +44931,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoca un Remanente Arcano 10/$q o superior con Desbordamiento Arcano.",
+		"text": "Invoca un Remanente Arcano 10/10 o superior con Desbordamiento Arcano.",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -45125,11 +45125,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "Invoca un Remanente Arcano 12/$q o superior con Desbordamiento Arcano.",
+		"completedText": "Invoca un Remanente Arcano 12/12 o superior con Desbordamiento Arcano.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "A ver qué sale de aquí",
-		"emptyText": "Invoca un Remanente Arcano 12/$q o superior con Desbordamiento Arcano.",
+		"emptyText": "Invoca un Remanente Arcano 12/12 o superior con Desbordamiento Arcano.",
 		"hsAchievementId": 3925,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -45140,7 +45140,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Invoca un Remanente Arcano 12/$q o superior con Desbordamiento Arcano.",
+		"text": "Invoca un Remanente Arcano 12/12 o superior con Desbordamiento Arcano.",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -49305,11 +49305,11 @@
 		"type": "hearthstone_game_328_ganksters_paradise"
 	},
 	{
-		"completedText": "Cómete un esbirro 8/$q o superior con Teniente abominable.",
+		"completedText": "Cómete un esbirro 8/8 o superior con Teniente abominable.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Rico y con fundamento",
-		"emptyText": "Cómete un esbirro 8/$q o superior con Teniente abominable.",
+		"emptyText": "Cómete un esbirro 8/8 o superior con Teniente abominable.",
 		"hsAchievementId": 4163,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49320,15 +49320,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Cómete un esbirro 8/$q o superior con Teniente abominable.",
+		"text": "Cómete un esbirro 8/8 o superior con Teniente abominable.",
 		"type": "hearthstone_game_328_yummy_in_my_tummy"
 	},
 	{
-		"completedText": "Juega un Ivus el Señor del Bosque 12/$q o superior.",
+		"completedText": "Juega un Ivus el Señor del Bosque 12/12 o superior.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Los árboles hablan por sí mismos",
-		"emptyText": "Juega un Ivus el Señor del Bosque 12/$q o superior.",
+		"emptyText": "Juega un Ivus el Señor del Bosque 12/12 o superior.",
 		"hsAchievementId": 4164,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49339,7 +49339,7 @@
 		"priority": 0,
 		"quota": 12,
 		"root": true,
-		"text": "Juega un Ivus el Señor del Bosque 12/$q o superior.",
+		"text": "Juega un Ivus el Señor del Bosque 12/12 o superior.",
 		"type": "hearthstone_game_328_the_trees_speak_for_themselves"
 	},
 	{
@@ -51585,11 +51585,11 @@
 		"type": "hearthstone_game_354_treasures_once_lost"
 	},
 	{
-		"completedText": "Inflige 200 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"completedText": "Inflige 200 p. de daño o restaura 200 p. de salud con Lechucibúmico.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Lechucibúmicoespialidoso!",
-		"emptyText": "Inflige 200 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"emptyText": "Inflige 200 p. de daño o restaura 200 p. de salud con Lechucibúmico.",
 		"hsAchievementId": 4331,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51600,15 +51600,15 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Inflige 200 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"text": "Inflige 200 p. de daño o restaura 200 p. de salud con Lechucibúmico.",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
-		"completedText": "Inflige 400 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"completedText": "Inflige 400 p. de daño o restaura 400 p. de salud con Lechucibúmico.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Lechucibúmicoespialidoso!",
-		"emptyText": "Inflige 400 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"emptyText": "Inflige 400 p. de daño o restaura 400 p. de salud con Lechucibúmico.",
 		"hsAchievementId": 4332,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51619,7 +51619,7 @@
 		"priority": 1,
 		"quota": 400,
 		"root": false,
-		"text": "Inflige 400 p. de daño o restaura $q p. de salud con Lechucibúmico.",
+		"text": "Inflige 400 p. de daño o restaura 400 p. de salud con Lechucibúmico.",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
@@ -55670,11 +55670,11 @@
 		"type": "hearthstone_game_390_an_impressive_feat"
 	},
 	{
-		"completedText": "Otorga +7/+$q a esbirros con un solo Extractor de ánima.",
+		"completedText": "Otorga +7/+7 a esbirros con un solo Extractor de ánima.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ciudad del pecado",
-		"emptyText": "Otorga +7/+$q a esbirros con un solo Extractor de ánima.",
+		"emptyText": "Otorga +7/+7 a esbirros con un solo Extractor de ánima.",
 		"hsAchievementId": 4585,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 385,
@@ -55685,7 +55685,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "Otorga +7/+$q a esbirros con un solo Extractor de ánima.",
+		"text": "Otorga +7/+7 a esbirros con un solo Extractor de ánima.",
 		"type": "hearthstone_game_385_sin_city"
 	},
 	{
@@ -63878,11 +63878,11 @@
 		"type": "hearthstone_game_419_death_hurts"
 	},
 	{
-		"completedText": "Otorga +8/+$q a un esbirro con un solo Poder llameante.",
+		"completedText": "Otorga +8/+8 a un esbirro con un solo Poder llameante.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Estás que ardes!",
-		"emptyText": "Otorga +8/+$q a un esbirro con un solo Poder llameante.",
+		"emptyText": "Otorga +8/+8 a un esbirro con un solo Poder llameante.",
 		"hsAchievementId": 5104,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 414,
@@ -63893,7 +63893,7 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Otorga +8/+$q a un esbirro con un solo Poder llameante.",
+		"text": "Otorga +8/+8 a un esbirro con un solo Poder llameante.",
 		"type": "hearthstone_game_414_youre_on_fire"
 	},
 	{
@@ -68609,11 +68609,11 @@
 		"type": "hearthstone_game_443_active_octave"
 	},
 	{
-		"completedText": "Juega una Mordedura de serpiente 10/$q o superior.",
+		"completedText": "Juega una Mordedura de serpiente 10/10 o superior.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Frecuencia taladradora",
-		"emptyText": "Juega una Mordedura de serpiente 10/$q o superior.",
+		"emptyText": "Juega una Mordedura de serpiente 10/10 o superior.",
 		"hsAchievementId": 5438,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 443,
@@ -68624,7 +68624,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Juega una Mordedura de serpiente 10/$q o superior.",
+		"text": "Juega una Mordedura de serpiente 10/10 o superior.",
 		"type": "hearthstone_game_443_piercing_frequencies"
 	},
 	{
@@ -68875,11 +68875,11 @@
 		"type": "hearthstone_game_438_beastly_boys"
 	},
 	{
-		"completedText": "Invoca a elementales 20/$q o superiores con un único Teclado cósmico.",
+		"completedText": "Invoca a elementales 20/20 o superiores con un único Teclado cósmico.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡Haz la ola de estática!",
-		"emptyText": "Invoca a elementales 20/$q o superiores con un único Teclado cósmico.",
+		"emptyText": "Invoca a elementales 20/20 o superiores con un único Teclado cósmico.",
 		"hsAchievementId": 5452,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 441,
@@ -68890,7 +68890,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Invoca a elementales 20/$q o superiores con un único Teclado cósmico.",
+		"text": "Invoca a elementales 20/20 o superiores con un único Teclado cósmico.",
 		"type": "hearthstone_game_441_do_the_waveform"
 	},
 	{
@@ -68970,11 +68970,11 @@
 		"type": "hearthstone_game_441_destroy_them_with_lasers"
 	},
 	{
-		"completedText": "Otorga +80/+$q a esbirros con Maza disco.",
+		"completedText": "Otorga +80/+80 a esbirros con Maza disco.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "De fiesta",
-		"emptyText": "Otorga +80/+$q a esbirros con Maza disco.",
+		"emptyText": "Otorga +80/+80 a esbirros con Maza disco.",
 		"hsAchievementId": 5457,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 437,
@@ -68985,7 +68985,7 @@
 		"priority": 0,
 		"quota": 80,
 		"root": true,
-		"text": "Otorga +80/+$q a esbirros con Maza disco.",
+		"text": "Otorga +80/+80 a esbirros con Maza disco.",
 		"type": "hearthstone_game_437_going_clubbing"
 	},
 	{
@@ -69996,11 +69996,11 @@
 		"type": "hearthstone_game_444_jack_of_all_runes"
 	},
 	{
-		"completedText": "Invoca a un no-muerto 10/$q o superior con Destripadora de arcanita.",
+		"completedText": "Invoca a un no-muerto 10/10 o superior con Destripadora de arcanita.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Público descomunal",
-		"emptyText": "Invoca a un no-muerto 10/$q o superior con Destripadora de arcanita.",
+		"emptyText": "Invoca a un no-muerto 10/10 o superior con Destripadora de arcanita.",
 		"hsAchievementId": 5511,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70011,7 +70011,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoca a un no-muerto 10/$q o superior con Destripadora de arcanita.",
+		"text": "Invoca a un no-muerto 10/10 o superior con Destripadora de arcanita.",
 		"type": "hearthstone_game_444_giant_following"
 	},
 	{
@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Otorga +200/+$q a una Val'kyr con Prueba de fuego.",
+		"completedText": "Otorga +200/+200 a una Val'kyr con Prueba de fuego.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Confianza por los suelos",
-		"emptyText": "Otorga +200/+$q a una Val'kyr con Prueba de fuego.",
+		"emptyText": "Otorga +200/+200 a una Val'kyr con Prueba de fuego.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Otorga +200/+$q a una Val'kyr con Prueba de fuego.",
+		"text": "Otorga +200/+200 a una Val'kyr con Prueba de fuego.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{
@@ -79287,11 +79287,11 @@
 		"type": "hearthstone_game_748_no_nerfs_needed"
 	},
 	{
-		"completedText": "Juega un Expositor de jade 5/$q o superior.",
+		"completedText": "Juega un Expositor de jade 5/5 o superior.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Día breve en Ciudad del Jade",
-		"emptyText": "Juega un Expositor de jade 5/$q o superior.",
+		"emptyText": "Juega un Expositor de jade 5/5 o superior.",
 		"hsAchievementId": 6573,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 744,
@@ -79302,15 +79302,15 @@
 		"priority": 0,
 		"quota": 5,
 		"root": true,
-		"text": "Juega un Expositor de jade 5/$q o superior.",
+		"text": "Juega un Expositor de jade 5/5 o superior.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
-		"completedText": "Juega un Expositor de jade 10/$q o superior.",
+		"completedText": "Juega un Expositor de jade 10/10 o superior.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Día breve en Ciudad del Jade",
-		"emptyText": "Juega un Expositor de jade 10/$q o superior.",
+		"emptyText": "Juega un Expositor de jade 10/10 o superior.",
 		"hsAchievementId": 6574,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 744,
@@ -79321,7 +79321,7 @@
 		"priority": 1,
 		"quota": 10,
 		"root": false,
-		"text": "Juega un Expositor de jade 10/$q o superior.",
+		"text": "Juega un Expositor de jade 10/10 o superior.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
@@ -85462,11 +85462,11 @@
 		"type": "hearthstone_game_861_universal_blood_donor"
 	},
 	{
-		"completedText": "Otorga +10/+$q a Oradora Gidra con su efecto de Magia súbita.",
+		"completedText": "Otorga +10/+10 a Oradora Gidra con su efecto de Magia súbita.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "¡VOCES INTERIORES, POR FAVOR!",
-		"emptyText": "Otorga +10/+$q a Oradora Gidra con su efecto de Magia súbita.",
+		"emptyText": "Otorga +10/+10 a Oradora Gidra con su efecto de Magia súbita.",
 		"hsAchievementId": 7412,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85477,7 +85477,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Otorga +10/+$q a Oradora Gidra con su efecto de Magia súbita.",
+		"text": "Otorga +10/+10 a Oradora Gidra con su efecto de Magia súbita.",
 		"type": "hearthstone_game_861_inside_voices_please"
 	},
 	{
@@ -85614,11 +85614,11 @@
 		"type": "hearthstone_game_861_buildyourown_soul"
 	},
 	{
-		"completedText": "Invoca a un estudiante 11/$q con Maza ceremonial.",
+		"completedText": "Invoca a un estudiante 11/11 con Maza ceremonial.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "La honra del primero de la clase",
-		"emptyText": "Invoca a un estudiante 11/$q con Maza ceremonial.",
+		"emptyText": "Invoca a un estudiante 11/11 con Maza ceremonial.",
 		"hsAchievementId": 7420,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85629,7 +85629,7 @@
 		"priority": 0,
 		"quota": 11,
 		"root": true,
-		"text": "Invoca a un estudiante 11/$q con Maza ceremonial.",
+		"text": "Invoca a un estudiante 11/11 con Maza ceremonial.",
 		"type": "hearthstone_game_861_valedictorians_honor"
 	},
 	{
@@ -86583,11 +86583,11 @@
 		"type": "hearthstone_game_908_outer_demons"
 	},
 	{
-		"completedText": "Invoca un plantagólem 10/$q con Bendición del gólem.",
+		"completedText": "Invoca un plantagólem 10/10 con Bendición del gólem.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Estirón",
-		"emptyText": "Invoca un plantagólem 10/$q con Bendición del gólem.",
+		"emptyText": "Invoca un plantagólem 10/10 con Bendición del gólem.",
 		"hsAchievementId": 7702,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 909,
@@ -86598,15 +86598,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoca un plantagólem 10/$q con Bendición del gólem.",
+		"text": "Invoca un plantagólem 10/10 con Bendición del gólem.",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
-		"completedText": "Invoca un plantagólem 20/$q con Bendición del gólem.",
+		"completedText": "Invoca un plantagólem 20/20 con Bendición del gólem.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Estirón",
-		"emptyText": "Invoca un plantagólem 20/$q con Bendición del gólem.",
+		"emptyText": "Invoca un plantagólem 20/20 con Bendición del gólem.",
 		"hsAchievementId": 7703,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 909,
@@ -86617,7 +86617,7 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "Invoca un plantagólem 20/$q con Bendición del gólem.",
+		"text": "Invoca un plantagólem 20/20 con Bendición del gólem.",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
@@ -89091,11 +89091,11 @@
 		"type": "hearthstone_game_930_go_team"
 	},
 	{
-		"completedText": "Otorga +25/+$q a tus esbirros con Tótem de hidratación.",
+		"completedText": "Otorga +25/+25 a tus esbirros con Tótem de hidratación.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Hay que hidratarse",
-		"emptyText": "Otorga +25/+$q a tus esbirros con Tótem de hidratación.",
+		"emptyText": "Otorga +25/+25 a tus esbirros con Tótem de hidratación.",
 		"hsAchievementId": 8149,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 927,
@@ -89106,15 +89106,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "Otorga +25/+$q a tus esbirros con Tótem de hidratación.",
+		"text": "Otorga +25/+25 a tus esbirros con Tótem de hidratación.",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
-		"completedText": "Otorga +50/+$q a tus esbirros con Tótem de hidratación.",
+		"completedText": "Otorga +50/+50 a tus esbirros con Tótem de hidratación.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Hay que hidratarse",
-		"emptyText": "Otorga +50/+$q a tus esbirros con Tótem de hidratación.",
+		"emptyText": "Otorga +50/+50 a tus esbirros con Tótem de hidratación.",
 		"hsAchievementId": 8150,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 927,
@@ -89125,7 +89125,7 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "Otorga +50/+$q a tus esbirros con Tótem de hidratación.",
+		"text": "Otorga +50/+50 a tus esbirros con Tótem de hidratación.",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
@@ -89281,11 +89281,11 @@
 		"type": "hearthstone_game_935_practice_makes_perfect"
 	},
 	{
-		"completedText": "Juega un oso 8/$q o más grande a partir de Hazlo con osos.",
+		"completedText": "Juega un oso 8/8 o más grande a partir de Hazlo con osos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "El druida Rodríguez",
-		"emptyText": "Juega un oso 8/$q o más grande a partir de Hazlo con osos.",
+		"emptyText": "Juega un oso 8/8 o más grande a partir de Hazlo con osos.",
 		"hsAchievementId": 8159,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 932,
@@ -89296,15 +89296,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Juega un oso 8/$q o más grande a partir de Hazlo con osos.",
+		"text": "Juega un oso 8/8 o más grande a partir de Hazlo con osos.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
-		"completedText": "Juega un oso 12/$q o más grande a partir de Hazlo con osos.",
+		"completedText": "Juega un oso 12/12 o más grande a partir de Hazlo con osos.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "El druida Rodríguez",
-		"emptyText": "Juega un oso 12/$q o más grande a partir de Hazlo con osos.",
+		"emptyText": "Juega un oso 12/12 o más grande a partir de Hazlo con osos.",
 		"hsAchievementId": 8160,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 932,
@@ -89315,7 +89315,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Juega un oso 12/$q o más grande a partir de Hazlo con osos.",
+		"text": "Juega un oso 12/12 o más grande a partir de Hazlo con osos.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{

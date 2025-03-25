@@ -34181,11 +34181,11 @@
 		"type": "hearthstone_game_182_i_owe_you_one"
 	},
 	{
-		"completedText": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/$q หรือสูงกว่า",
+		"completedText": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/30 หรือสูงกว่า",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "แผดเผาจากภายใน",
-		"emptyText": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/$q หรือสูงกว่า",
+		"emptyText": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/30 หรือสูงกว่า",
 		"hsAchievementId": 2643,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 187,
@@ -34196,7 +34196,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/$q หรือสูงกว่า",
+		"text": "ทำลายคู่ต่อสู้ด้วยมินเนี่ยน\nค่าพลัง 30/30 หรือสูงกว่า",
 		"type": "hearthstone_game_187_the_fire_within"
 	},
 	{
@@ -44916,11 +44916,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "เรียกเรมแนนท์มนตราค่าพลัง_10/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"completedText": "เรียกเรมแนนท์มนตราค่าพลัง_10/10 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ข้าชอบของเหลือ",
-		"emptyText": "เรียกเรมแนนท์มนตราค่าพลัง_10/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"emptyText": "เรียกเรมแนนท์มนตราค่าพลัง_10/10 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"hsAchievementId": 3914,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -44931,7 +44931,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "เรียกเรมแนนท์มนตราค่าพลัง_10/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"text": "เรียกเรมแนนท์มนตราค่าพลัง_10/10 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -45125,11 +45125,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "เรียกเรมแนนท์มนตราค่าพลัง_12/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"completedText": "เรียกเรมแนนท์มนตราค่าพลัง_12/12 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ข้าชอบของเหลือ",
-		"emptyText": "เรียกเรมแนนท์มนตราค่าพลัง_12/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"emptyText": "เรียกเรมแนนท์มนตราค่าพลัง_12/12 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"hsAchievementId": 3925,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -45140,7 +45140,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "เรียกเรมแนนท์มนตราค่าพลัง_12/$q หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
+		"text": "เรียกเรมแนนท์มนตราค่าพลัง_12/12 หรือมากกว่า[b]ด้วยมนตราท่วมท้น",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -49305,11 +49305,11 @@
 		"type": "hearthstone_game_328_ganksters_paradise"
 	},
 	{
-		"completedText": "กินมินเนี่ยนค่าพลัง 8/$q หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
+		"completedText": "กินมินเนี่ยนค่าพลัง 8/8 หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "อร่อยพุงกาง",
-		"emptyText": "กินมินเนี่ยนค่าพลัง 8/$q หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
+		"emptyText": "กินมินเนี่ยนค่าพลัง 8/8 หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
 		"hsAchievementId": 4163,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49320,15 +49320,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "กินมินเนี่ยนค่าพลัง 8/$q หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
+		"text": "กินมินเนี่ยนค่าพลัง 8/8 หรือมากกว่า\nด้วยรองแม่ทัพอสูรกาย",
 		"type": "hearthstone_game_328_yummy_in_my_tummy"
 	},
 	{
-		"completedText": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/$q หรือมากกว่า",
+		"completedText": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/12 หรือมากกว่า",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ต้นไม้มีอะไรจะบอก",
-		"emptyText": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/$q หรือมากกว่า",
+		"emptyText": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/12 หรือมากกว่า",
 		"hsAchievementId": 4164,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49339,7 +49339,7 @@
 		"priority": 0,
 		"quota": 12,
 		"root": true,
-		"text": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/$q หรือมากกว่า",
+		"text": "เล่นฟอเรสต์ลอร์ดไอวัสที่มี\nค่าพลัง 12/12 หรือมากกว่า",
 		"type": "hearthstone_game_328_the_trees_speak_for_themselves"
 	},
 	{
@@ -51585,11 +51585,11 @@
 		"type": "hearthstone_game_354_treasures_once_lost"
 	},
 	{
-		"completedText": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"completedText": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต 200 แต้มด้วยบูมคิน",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ป่าระเบิด",
-		"emptyText": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"emptyText": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต 200 แต้มด้วยบูมคิน",
 		"hsAchievementId": 4331,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51600,15 +51600,15 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"text": "สร้างความเสียหาย 200 แต้มหรือ\nฟื้นฟูพลังชีวิต 200 แต้มด้วยบูมคิน",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
-		"completedText": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"completedText": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต 400 แต้มด้วยบูมคิน",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ป่าระเบิด",
-		"emptyText": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"emptyText": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต 400 แต้มด้วยบูมคิน",
 		"hsAchievementId": 4332,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51619,7 +51619,7 @@
 		"priority": 1,
 		"quota": 400,
 		"root": false,
-		"text": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต $q แต้มด้วยบูมคิน",
+		"text": "สร้างความเสียหาย 400 แต้มหรือ\nฟื้นฟูพลังชีวิต 400 แต้มด้วยบูมคิน",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
@@ -55670,11 +55670,11 @@
 		"type": "hearthstone_game_390_an_impressive_feat"
 	},
 	{
-		"completedText": "มอบ +7/+$q ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
+		"completedText": "มอบ +7/+7 ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เมืองคนบาป",
-		"emptyText": "มอบ +7/+$q ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
+		"emptyText": "มอบ +7/+7 ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
 		"hsAchievementId": 4585,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 385,
@@ -55685,7 +55685,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "มอบ +7/+$q ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
+		"text": "มอบ +7/+7 ให้มินเนี่ยนด้วย\nนักสกัดแอนิม่าใบเดียว",
 		"type": "hearthstone_game_385_sin_city"
 	},
 	{
@@ -63878,11 +63878,11 @@
 		"type": "hearthstone_game_419_death_hurts"
 	},
 	{
-		"completedText": "มอบ +8/+$q ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
+		"completedText": "มอบ +8/+8 ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "คนไฟแรง",
-		"emptyText": "มอบ +8/+$q ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
+		"emptyText": "มอบ +8/+8 ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
 		"hsAchievementId": 5104,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 414,
@@ -63893,7 +63893,7 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "มอบ +8/+$q ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
+		"text": "มอบ +8/+8 ให้มินเนี่ยนหนึ่งตัว\nด้วยพลังลุกโชนใบเดียว",
 		"type": "hearthstone_game_414_youre_on_fire"
 	},
 	{
@@ -68609,11 +68609,11 @@
 		"type": "hearthstone_game_443_active_octave"
 	},
 	{
-		"completedText": "เล่นสเนคไบท์ที่มีค่าพลัง 10/$q หรือมากกว่า",
+		"completedText": "เล่นสเนคไบท์ที่มีค่าพลัง 10/10 หรือมากกว่า",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "คลื่นความถี่เสียดแทง",
-		"emptyText": "เล่นสเนคไบท์ที่มีค่าพลัง 10/$q หรือมากกว่า",
+		"emptyText": "เล่นสเนคไบท์ที่มีค่าพลัง 10/10 หรือมากกว่า",
 		"hsAchievementId": 5438,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 443,
@@ -68624,7 +68624,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "เล่นสเนคไบท์ที่มีค่าพลัง 10/$q หรือมากกว่า",
+		"text": "เล่นสเนคไบท์ที่มีค่าพลัง 10/10 หรือมากกว่า",
 		"type": "hearthstone_game_443_piercing_frequencies"
 	},
 	{
@@ -68875,11 +68875,11 @@
 		"type": "hearthstone_game_438_beastly_boys"
 	},
 	{
-		"completedText": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/$q หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
+		"completedText": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/20 หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เล่นเวฟคลื่นเสียง!",
-		"emptyText": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/$q หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
+		"emptyText": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/20 หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
 		"hsAchievementId": 5452,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 441,
@@ -68890,7 +68890,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/$q หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
+		"text": "เรียกวิญญาณธาตุที่มีค่าพลังรวม 20/20 หรือมากกว่าด้วยคีย์บอร์ดจักรวาลใบเดียว",
 		"type": "hearthstone_game_441_do_the_waveform"
 	},
 	{
@@ -68970,11 +68970,11 @@
 		"type": "hearthstone_game_441_destroy_them_with_lasers"
 	},
 	{
-		"completedText": "มอบ +80/+$q ให้มินเนี่ยน\nด้วยดิสโก้มอล",
+		"completedText": "มอบ +80/+80 ให้มินเนี่ยน\nด้วยดิสโก้มอล",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "มันจุกอก",
-		"emptyText": "มอบ +80/+$q ให้มินเนี่ยน\nด้วยดิสโก้มอล",
+		"emptyText": "มอบ +80/+80 ให้มินเนี่ยน\nด้วยดิสโก้มอล",
 		"hsAchievementId": 5457,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 437,
@@ -68985,7 +68985,7 @@
 		"priority": 0,
 		"quota": 80,
 		"root": true,
-		"text": "มอบ +80/+$q ให้มินเนี่ยน\nด้วยดิสโก้มอล",
+		"text": "มอบ +80/+80 ให้มินเนี่ยน\nด้วยดิสโก้มอล",
 		"type": "hearthstone_game_437_going_clubbing"
 	},
 	{
@@ -69996,11 +69996,11 @@
 		"type": "hearthstone_game_444_jack_of_all_runes"
 	},
 	{
-		"completedText": "เรียกอันเดดที่มีค่าพลัง 10/$q หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
+		"completedText": "เรียกอันเดดที่มีค่าพลัง 10/10 หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ผู้ติดตามใหญ่ยักษ์",
-		"emptyText": "เรียกอันเดดที่มีค่าพลัง 10/$q หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
+		"emptyText": "เรียกอันเดดที่มีค่าพลัง 10/10 หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
 		"hsAchievementId": 5511,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70011,7 +70011,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "เรียกอันเดดที่มีค่าพลัง 10/$q หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
+		"text": "เรียกอันเดดที่มีค่าพลัง 10/10 หรือ\nมากกว่าด้วยอาร์เคไนต์ริปเปอร์",
 		"type": "hearthstone_game_444_giant_following"
 	},
 	{
@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
+		"completedText": "มอบ +200/+200 ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ทิ้งตัวไม่ทิ้งกัน",
-		"emptyText": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
+		"emptyText": "มอบ +200/+200 ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "มอบ +200/+$q ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
+		"text": "มอบ +200/+200 ให้[b]วาลเคียร์[b]ด้วย[b]ลุยไฟ[b]พิสูจน์[b]ตน",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{
@@ -79287,11 +79287,11 @@
 		"type": "hearthstone_game_748_no_nerfs_needed"
 	},
 	{
-		"completedText": "เล่นตุ๊กตาเจดค่าพลัง 5/$q หรือมากกว่า",
+		"completedText": "เล่นตุ๊กตาเจดค่าพลัง 5/5 หรือมากกว่า",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ทัศนาจรเมืองเจด",
-		"emptyText": "เล่นตุ๊กตาเจดค่าพลัง 5/$q หรือมากกว่า",
+		"emptyText": "เล่นตุ๊กตาเจดค่าพลัง 5/5 หรือมากกว่า",
 		"hsAchievementId": 6573,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 744,
@@ -79302,15 +79302,15 @@
 		"priority": 0,
 		"quota": 5,
 		"root": true,
-		"text": "เล่นตุ๊กตาเจดค่าพลัง 5/$q หรือมากกว่า",
+		"text": "เล่นตุ๊กตาเจดค่าพลัง 5/5 หรือมากกว่า",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
-		"completedText": "เล่นตุ๊กตาเจดค่าพลัง 10/$q หรือมากกว่า",
+		"completedText": "เล่นตุ๊กตาเจดค่าพลัง 10/10 หรือมากกว่า",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "ทัศนาจรเมืองเจด",
-		"emptyText": "เล่นตุ๊กตาเจดค่าพลัง 10/$q หรือมากกว่า",
+		"emptyText": "เล่นตุ๊กตาเจดค่าพลัง 10/10 หรือมากกว่า",
 		"hsAchievementId": 6574,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 744,
@@ -79321,7 +79321,7 @@
 		"priority": 1,
 		"quota": 10,
 		"root": false,
-		"text": "เล่นตุ๊กตาเจดค่าพลัง 10/$q หรือมากกว่า",
+		"text": "เล่นตุ๊กตาเจดค่าพลัง 10/10 หรือมากกว่า",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
@@ -85462,11 +85462,11 @@
 		"type": "hearthstone_game_861_universal_blood_donor"
 	},
 	{
-		"completedText": "มอบ +10/+$q ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
+		"completedText": "มอบ +10/+10 ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เบาเสียงหน่อย ขอร้อง!",
-		"emptyText": "มอบ +10/+$q ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
+		"emptyText": "มอบ +10/+10 ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
 		"hsAchievementId": 7412,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85477,7 +85477,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "มอบ +10/+$q ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
+		"text": "มอบ +10/+10 ให้สปีคเกอร์กีดรา[b]ด้วยผลสำแดงเวทของเธอ",
 		"type": "hearthstone_game_861_inside_voices_please"
 	},
 	{
@@ -85614,11 +85614,11 @@
 		"type": "hearthstone_game_861_buildyourown_soul"
 	},
 	{
-		"completedText": "เรียกนักเรียน_11/$q ด้วยค้อนพิธีการ",
+		"completedText": "เรียกนักเรียน_11/11 ด้วยค้อนพิธีการ",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เกียรติของตัวแทนนักเรียน",
-		"emptyText": "เรียกนักเรียน_11/$q ด้วยค้อนพิธีการ",
+		"emptyText": "เรียกนักเรียน_11/11 ด้วยค้อนพิธีการ",
 		"hsAchievementId": 7420,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85629,7 +85629,7 @@
 		"priority": 0,
 		"quota": 11,
 		"root": true,
-		"text": "เรียกนักเรียน_11/$q ด้วยค้อนพิธีการ",
+		"text": "เรียกนักเรียน_11/11 ด้วยค้อนพิธีการ",
 		"type": "hearthstone_game_861_valedictorians_honor"
 	},
 	{
@@ -86583,11 +86583,11 @@
 		"type": "hearthstone_game_908_outer_demons"
 	},
 	{
-		"completedText": "เรียกโกเล็มต้นไม้ 10/$q ด้วยพรของโกเล็ม",
+		"completedText": "เรียกโกเล็มต้นไม้ 10/10 ด้วยพรของโกเล็ม",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เติบโตรวดเร็ว",
-		"emptyText": "เรียกโกเล็มต้นไม้ 10/$q ด้วยพรของโกเล็ม",
+		"emptyText": "เรียกโกเล็มต้นไม้ 10/10 ด้วยพรของโกเล็ม",
 		"hsAchievementId": 7702,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 909,
@@ -86598,15 +86598,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "เรียกโกเล็มต้นไม้ 10/$q ด้วยพรของโกเล็ม",
+		"text": "เรียกโกเล็มต้นไม้ 10/10 ด้วยพรของโกเล็ม",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
-		"completedText": "เรียกโกเล็มต้นไม้ 20/$q ด้วยพรของโกเล็ม",
+		"completedText": "เรียกโกเล็มต้นไม้ 20/20 ด้วยพรของโกเล็ม",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "เติบโตรวดเร็ว",
-		"emptyText": "เรียกโกเล็มต้นไม้ 20/$q ด้วยพรของโกเล็ม",
+		"emptyText": "เรียกโกเล็มต้นไม้ 20/20 ด้วยพรของโกเล็ม",
 		"hsAchievementId": 7703,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 909,
@@ -86617,7 +86617,7 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "เรียกโกเล็มต้นไม้ 20/$q ด้วยพรของโกเล็ม",
+		"text": "เรียกโกเล็มต้นไม้ 20/20 ด้วยพรของโกเล็ม",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
@@ -89091,11 +89091,11 @@
 		"type": "hearthstone_game_930_go_team"
 	},
 	{
-		"completedText": "มอบ +25/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"completedText": "มอบ +25/+25 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "อย่าลืมดื่มน้ำ",
-		"emptyText": "มอบ +25/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"emptyText": "มอบ +25/+25 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"hsAchievementId": 8149,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 927,
@@ -89106,15 +89106,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "มอบ +25/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"text": "มอบ +25/+25 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
-		"completedText": "มอบ +50/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"completedText": "มอบ +50/+50 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "อย่าลืมดื่มน้ำ",
-		"emptyText": "มอบ +50/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"emptyText": "มอบ +50/+50 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"hsAchievementId": 8150,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 927,
@@ -89125,7 +89125,7 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "มอบ +50/+$q ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
+		"text": "มอบ +50/+50 ให้มินเนี่ยนของคุณ[b]ทั้งหมดด้วยโทเท็มกดน้ำ",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
@@ -89281,11 +89281,11 @@
 		"type": "hearthstone_game_935_practice_makes_perfect"
 	},
 	{
-		"completedText": "เล่นหมีที่มีค่าพลัง 8/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"completedText": "เล่นหมีที่มีค่าพลัง 8/8 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "พักร้อนสบายสไตล์ดรูอิด",
-		"emptyText": "เล่นหมีที่มีค่าพลัง 8/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"emptyText": "เล่นหมีที่มีค่าพลัง 8/8 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"hsAchievementId": 8159,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 932,
@@ -89296,15 +89296,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "เล่นหมีที่มีค่าพลัง 8/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"text": "เล่นหมีที่มีค่าพลัง 8/8 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
-		"completedText": "เล่นหมีที่มีค่าพลัง 12/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"completedText": "เล่นหมีที่มีค่าพลัง 12/12 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "พักร้อนสบายสไตล์ดรูอิด",
-		"emptyText": "เล่นหมีที่มีค่าพลัง 12/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"emptyText": "เล่นหมีที่มีค่าพลัง 12/12 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"hsAchievementId": 8160,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 932,
@@ -89315,7 +89315,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "เล่นหมีที่มีค่าพลัง 12/$q หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
+		"text": "เล่นหมีที่มีค่าพลัง 12/12 หรือสูงกว่า[b]จากคนแบกหุ่นหมี",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{

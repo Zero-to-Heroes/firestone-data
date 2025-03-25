@@ -34181,11 +34181,11 @@
 		"type": "hearthstone_game_182_i_owe_you_one"
 	},
 	{
-		"completedText": "Détruire votre adversaire avec un serviteur 30/$q ou plus.",
+		"completedText": "Détruire votre adversaire avec un serviteur 30/30 ou plus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Effet d’émulation",
-		"emptyText": "Détruire votre adversaire avec un serviteur 30/$q ou plus.",
+		"emptyText": "Détruire votre adversaire avec un serviteur 30/30 ou plus.",
 		"hsAchievementId": 2643,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 187,
@@ -34196,7 +34196,7 @@
 		"priority": 0,
 		"quota": 30,
 		"root": true,
-		"text": "Détruire votre adversaire avec un serviteur 30/$q ou plus.",
+		"text": "Détruire votre adversaire avec un serviteur 30/30 ou plus.",
 		"type": "hearthstone_game_187_the_fire_within"
 	},
 	{
@@ -44916,11 +44916,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "Invoquer un vestige des Arcanes 10/$q ou plus avec Débordement arcanique.",
+		"completedText": "Invoquer un vestige des Arcanes 10/10 ou plus avec Débordement arcanique.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Débordement d’énergie",
-		"emptyText": "Invoquer un vestige des Arcanes 10/$q ou plus avec Débordement arcanique.",
+		"emptyText": "Invoquer un vestige des Arcanes 10/10 ou plus avec Débordement arcanique.",
 		"hsAchievementId": 3914,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -44931,7 +44931,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoquer un vestige des Arcanes 10/$q ou plus avec Débordement arcanique.",
+		"text": "Invoquer un vestige des Arcanes 10/10 ou plus avec Débordement arcanique.",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -45125,11 +45125,11 @@
 		"type": "hearthstone_game_301_carrion_my_wayward_son"
 	},
 	{
-		"completedText": "Invoquer un vestige des Arcanes 12/$q ou plus avec Débordement arcanique.",
+		"completedText": "Invoquer un vestige des Arcanes 12/12 ou plus avec Débordement arcanique.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Débordement d’énergie",
-		"emptyText": "Invoquer un vestige des Arcanes 12/$q ou plus avec Débordement arcanique.",
+		"emptyText": "Invoquer un vestige des Arcanes 12/12 ou plus avec Débordement arcanique.",
 		"hsAchievementId": 3925,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 304,
@@ -45140,7 +45140,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Invoquer un vestige des Arcanes 12/$q ou plus avec Débordement arcanique.",
+		"text": "Invoquer un vestige des Arcanes 12/12 ou plus avec Débordement arcanique.",
 		"type": "hearthstone_game_304_i_prefer_leftovers"
 	},
 	{
@@ -49305,11 +49305,11 @@
 		"type": "hearthstone_game_328_ganksters_paradise"
 	},
 	{
-		"completedText": "Manger un serviteur 8/$q ou plus avec le lieutenant abominable.",
+		"completedText": "Manger un serviteur 8/8 ou plus avec le lieutenant abominable.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Plein la panse",
-		"emptyText": "Manger un serviteur 8/$q ou plus avec le lieutenant abominable.",
+		"emptyText": "Manger un serviteur 8/8 ou plus avec le lieutenant abominable.",
 		"hsAchievementId": 4163,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49320,15 +49320,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Manger un serviteur 8/$q ou plus avec le lieutenant abominable.",
+		"text": "Manger un serviteur 8/8 ou plus avec le lieutenant abominable.",
 		"type": "hearthstone_game_328_yummy_in_my_tummy"
 	},
 	{
-		"completedText": "Jouer un Ivus, seigneur de la forêt 12/$q ou plus.",
+		"completedText": "Jouer un Ivus, seigneur de la forêt 12/12 ou plus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Ils avaient leur voix propre",
-		"emptyText": "Jouer un Ivus, seigneur de la forêt 12/$q ou plus.",
+		"emptyText": "Jouer un Ivus, seigneur de la forêt 12/12 ou plus.",
 		"hsAchievementId": 4164,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 328,
@@ -49339,7 +49339,7 @@
 		"priority": 0,
 		"quota": 12,
 		"root": true,
-		"text": "Jouer un Ivus, seigneur de la forêt 12/$q ou plus.",
+		"text": "Jouer un Ivus, seigneur de la forêt 12/12 ou plus.",
 		"type": "hearthstone_game_328_the_trees_speak_for_themselves"
 	},
 	{
@@ -51585,11 +51585,11 @@
 		"type": "hearthstone_game_354_treasures_once_lost"
 	},
 	{
-		"completedText": "Infliger 200 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"completedText": "Infliger 200 points de dégâts ou rendre 200 PV avec la trolle sélénienne.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Sélénophilie",
-		"emptyText": "Infliger 200 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"emptyText": "Infliger 200 points de dégâts ou rendre 200 PV avec la trolle sélénienne.",
 		"hsAchievementId": 4331,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51600,15 +51600,15 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Infliger 200 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"text": "Infliger 200 points de dégâts ou rendre 200 PV avec la trolle sélénienne.",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
-		"completedText": "Infliger 400 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"completedText": "Infliger 400 points de dégâts ou rendre 400 PV avec la trolle sélénienne.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Sélénophilie",
-		"emptyText": "Infliger 400 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"emptyText": "Infliger 400 points de dégâts ou rendre 400 PV avec la trolle sélénienne.",
 		"hsAchievementId": 4332,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 336,
@@ -51619,7 +51619,7 @@
 		"priority": 1,
 		"quota": 400,
 		"root": false,
-		"text": "Infliger 400 points de dégâts ou rendre $q PV avec la trolle sélénienne.",
+		"text": "Infliger 400 points de dégâts ou rendre 400 PV avec la trolle sélénienne.",
 		"type": "hearthstone_game_336_here_comes_the_boomkin"
 	},
 	{
@@ -55670,11 +55670,11 @@
 		"type": "hearthstone_game_390_an_impressive_feat"
 	},
 	{
-		"completedText": "Donner +7/+$q à des serviteurs avec un seul extracteur d’anima.",
+		"completedText": "Donner +7/+7 à des serviteurs avec un seul extracteur d’anima.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Capitale du péché",
-		"emptyText": "Donner +7/+$q à des serviteurs avec un seul extracteur d’anima.",
+		"emptyText": "Donner +7/+7 à des serviteurs avec un seul extracteur d’anima.",
 		"hsAchievementId": 4585,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 385,
@@ -55685,7 +55685,7 @@
 		"priority": 0,
 		"quota": 7,
 		"root": true,
-		"text": "Donner +7/+$q à des serviteurs avec un seul extracteur d’anima.",
+		"text": "Donner +7/+7 à des serviteurs avec un seul extracteur d’anima.",
 		"type": "hearthstone_game_385_sin_city"
 	},
 	{
@@ -63878,11 +63878,11 @@
 		"type": "hearthstone_game_419_death_hurts"
 	},
 	{
-		"completedText": "Donner +8/+$q à un serviteur avec une seule puissance incandescente.",
+		"completedText": "Donner +8/+8 à un serviteur avec une seule puissance incandescente.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Vous êtes en feu !",
-		"emptyText": "Donner +8/+$q à un serviteur avec une seule puissance incandescente.",
+		"emptyText": "Donner +8/+8 à un serviteur avec une seule puissance incandescente.",
 		"hsAchievementId": 5104,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 414,
@@ -63893,7 +63893,7 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Donner +8/+$q à un serviteur avec une seule puissance incandescente.",
+		"text": "Donner +8/+8 à un serviteur avec une seule puissance incandescente.",
 		"type": "hearthstone_game_414_youre_on_fire"
 	},
 	{
@@ -68609,11 +68609,11 @@
 		"type": "hearthstone_game_443_active_octave"
 	},
 	{
-		"completedText": "Jouer une Morsure de serpent 10/$q ou plus.",
+		"completedText": "Jouer une Morsure de serpent 10/10 ou plus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Fréquences perforantes",
-		"emptyText": "Jouer une Morsure de serpent 10/$q ou plus.",
+		"emptyText": "Jouer une Morsure de serpent 10/10 ou plus.",
 		"hsAchievementId": 5438,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 443,
@@ -68624,7 +68624,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Jouer une Morsure de serpent 10/$q ou plus.",
+		"text": "Jouer une Morsure de serpent 10/10 ou plus.",
 		"type": "hearthstone_game_443_piercing_frequencies"
 	},
 	{
@@ -68875,11 +68875,11 @@
 		"type": "hearthstone_game_438_beastly_boys"
 	},
 	{
-		"completedText": "Invoquer des Élémentaires pour un total de caractéristiques de 20/$q avec un seul Clavier cosmique.",
+		"completedText": "Invoquer des Élémentaires pour un total de caractéristiques de 20/20 avec un seul Clavier cosmique.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Porté par le flot",
-		"emptyText": "Invoquer des Élémentaires pour un total de caractéristiques de 20/$q avec un seul Clavier cosmique.",
+		"emptyText": "Invoquer des Élémentaires pour un total de caractéristiques de 20/20 avec un seul Clavier cosmique.",
 		"hsAchievementId": 5452,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 441,
@@ -68890,7 +68890,7 @@
 		"priority": 0,
 		"quota": 20,
 		"root": true,
-		"text": "Invoquer des Élémentaires pour un total de caractéristiques de 20/$q avec un seul Clavier cosmique.",
+		"text": "Invoquer des Élémentaires pour un total de caractéristiques de 20/20 avec un seul Clavier cosmique.",
 		"type": "hearthstone_game_441_do_the_waveform"
 	},
 	{
@@ -68970,11 +68970,11 @@
 		"type": "hearthstone_game_441_destroy_them_with_lasers"
 	},
 	{
-		"completedText": "Donner +80/+$q à des serviteurs avec Masse disco.",
+		"completedText": "Donner +80/+80 à des serviteurs avec Masse disco.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Soirée disco",
-		"emptyText": "Donner +80/+$q à des serviteurs avec Masse disco.",
+		"emptyText": "Donner +80/+80 à des serviteurs avec Masse disco.",
 		"hsAchievementId": 5457,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 437,
@@ -68985,7 +68985,7 @@
 		"priority": 0,
 		"quota": 80,
 		"root": true,
-		"text": "Donner +80/+$q à des serviteurs avec Masse disco.",
+		"text": "Donner +80/+80 à des serviteurs avec Masse disco.",
 		"type": "hearthstone_game_437_going_clubbing"
 	},
 	{
@@ -69996,11 +69996,11 @@
 		"type": "hearthstone_game_444_jack_of_all_runes"
 	},
 	{
-		"completedText": "Invoquer un Mort-vivant 10/$q ou plus avec Éventreur en arcanite.",
+		"completedText": "Invoquer un Mort-vivant 10/10 ou plus avec Éventreur en arcanite.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Mort-géant",
-		"emptyText": "Invoquer un Mort-vivant 10/$q ou plus avec Éventreur en arcanite.",
+		"emptyText": "Invoquer un Mort-vivant 10/10 ou plus avec Éventreur en arcanite.",
 		"hsAchievementId": 5511,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 444,
@@ -70011,7 +70011,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoquer un Mort-vivant 10/$q ou plus avec Éventreur en arcanite.",
+		"text": "Invoquer un Mort-vivant 10/10 ou plus avec Éventreur en arcanite.",
 		"type": "hearthstone_game_444_giant_following"
 	},
 	{
@@ -73530,11 +73530,11 @@
 		"type": "hearthstone_game_468_from_the_armoory"
 	},
 	{
-		"completedText": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
+		"completedText": "Donner +200/+200 à une Val’kyr avec Épreuve du feu.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Chute en toute confiance",
-		"emptyText": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
+		"emptyText": "Donner +200/+200 à une Val’kyr avec Épreuve du feu.",
 		"hsAchievementId": 5702,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 468,
@@ -73545,7 +73545,7 @@
 		"priority": 0,
 		"quota": 200,
 		"root": true,
-		"text": "Donner +200/+$q à une Val’kyr avec Épreuve du feu.",
+		"text": "Donner +200/+200 à une Val’kyr avec Épreuve du feu.",
 		"type": "hearthstone_game_468_trust_fall"
 	},
 	{
@@ -75791,11 +75791,11 @@
 		"type": "hearthstone_game_476_mental_gymnastics"
 	},
 	{
-		"completedText": "Gagnez 70 ATQ ou $q points d’armure avec Fruit interdit.",
+		"completedText": "Gagnez 70 ATQ ou 70 points d’armure avec Fruit interdit.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Péché originel",
-		"emptyText": "Gagnez 70 ATQ ou $q points d’armure avec Fruit interdit.",
+		"emptyText": "Gagnez 70 ATQ ou 70 points d’armure avec Fruit interdit.",
 		"hsAchievementId": 5865,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 472,
@@ -75806,15 +75806,15 @@
 		"priority": 0,
 		"quota": 70,
 		"root": true,
-		"text": "Gagnez 70 ATQ ou $q points d’armure avec Fruit interdit.",
+		"text": "Gagnez 70 ATQ ou 70 points d’armure avec Fruit interdit.",
 		"type": "hearthstone_game_472_tasty_temptations"
 	},
 	{
-		"completedText": "Gagnez 140 ATQ ou $q points d’armure avec Fruit interdit.",
+		"completedText": "Gagnez 140 ATQ ou 140 points d’armure avec Fruit interdit.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Péché originel",
-		"emptyText": "Gagnez 140 ATQ ou $q points d’armure avec Fruit interdit.",
+		"emptyText": "Gagnez 140 ATQ ou 140 points d’armure avec Fruit interdit.",
 		"hsAchievementId": 5866,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 472,
@@ -75825,7 +75825,7 @@
 		"priority": 1,
 		"quota": 140,
 		"root": false,
-		"text": "Gagnez 140 ATQ ou $q points d’armure avec Fruit interdit.",
+		"text": "Gagnez 140 ATQ ou 140 points d’armure avec Fruit interdit.",
 		"type": "hearthstone_game_472_tasty_temptations"
 	},
 	{
@@ -79287,11 +79287,11 @@
 		"type": "hearthstone_game_748_no_nerfs_needed"
 	},
 	{
-		"completedText": "Jouer une figurine de jade 5/$q ou plus.",
+		"completedText": "Jouer une figurine de jade 5/5 ou plus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Jade, j’adore",
-		"emptyText": "Jouer une figurine de jade 5/$q ou plus.",
+		"emptyText": "Jouer une figurine de jade 5/5 ou plus.",
 		"hsAchievementId": 6573,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 744,
@@ -79302,15 +79302,15 @@
 		"priority": 0,
 		"quota": 5,
 		"root": true,
-		"text": "Jouer une figurine de jade 5/$q ou plus.",
+		"text": "Jouer une figurine de jade 5/5 ou plus.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
-		"completedText": "Jouer une figurine de jade 10/$q ou plus.",
+		"completedText": "Jouer une figurine de jade 10/10 ou plus.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Jade, j’adore",
-		"emptyText": "Jouer une figurine de jade 10/$q ou plus.",
+		"emptyText": "Jouer une figurine de jade 10/10 ou plus.",
 		"hsAchievementId": 6574,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 744,
@@ -79321,7 +79321,7 @@
 		"priority": 1,
 		"quota": 10,
 		"root": false,
-		"text": "Jouer une figurine de jade 10/$q ou plus.",
+		"text": "Jouer une figurine de jade 10/10 ou plus.",
 		"type": "hearthstone_game_744_one_short_day_in_the_jade_city"
 	},
 	{
@@ -85462,11 +85462,11 @@
 		"type": "hearthstone_game_861_universal_blood_donor"
 	},
 	{
-		"completedText": "Donner +10/+$q à l’oratrice Gidra avec son effet de Salve.",
+		"completedText": "Donner +10/+10 à l’oratrice Gidra avec son effet de Salve.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Voix intérieures",
-		"emptyText": "Donner +10/+$q à l’oratrice Gidra avec son effet de Salve.",
+		"emptyText": "Donner +10/+10 à l’oratrice Gidra avec son effet de Salve.",
 		"hsAchievementId": 7412,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85477,7 +85477,7 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Donner +10/+$q à l’oratrice Gidra avec son effet de Salve.",
+		"text": "Donner +10/+10 à l’oratrice Gidra avec son effet de Salve.",
 		"type": "hearthstone_game_861_inside_voices_please"
 	},
 	{
@@ -85614,11 +85614,11 @@
 		"type": "hearthstone_game_861_buildyourown_soul"
 	},
 	{
-		"completedText": "Invoquer une étudiante 11/$q avec Maillet de cérémonie.",
+		"completedText": "Invoquer une étudiante 11/11 avec Maillet de cérémonie.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Brillantes études",
-		"emptyText": "Invoquer une étudiante 11/$q avec Maillet de cérémonie.",
+		"emptyText": "Invoquer une étudiante 11/11 avec Maillet de cérémonie.",
 		"hsAchievementId": 7420,
 		"hsRewardTrackXp": 0,
 		"hsSectionId": 861,
@@ -85629,7 +85629,7 @@
 		"priority": 0,
 		"quota": 11,
 		"root": true,
-		"text": "Invoquer une étudiante 11/$q avec Maillet de cérémonie.",
+		"text": "Invoquer une étudiante 11/11 avec Maillet de cérémonie.",
 		"type": "hearthstone_game_861_valedictorians_honor"
 	},
 	{
@@ -86583,11 +86583,11 @@
 		"type": "hearthstone_game_908_outer_demons"
 	},
 	{
-		"completedText": "Invoquer un golem végétal 10/$q avec Bénédiction du golem.",
+		"completedText": "Invoquer un golem végétal 10/10 avec Bénédiction du golem.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pic de croissance",
-		"emptyText": "Invoquer un golem végétal 10/$q avec Bénédiction du golem.",
+		"emptyText": "Invoquer un golem végétal 10/10 avec Bénédiction du golem.",
 		"hsAchievementId": 7702,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 909,
@@ -86598,15 +86598,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "Invoquer un golem végétal 10/$q avec Bénédiction du golem.",
+		"text": "Invoquer un golem végétal 10/10 avec Bénédiction du golem.",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
-		"completedText": "Invoquer un golem végétal 20/$q avec Bénédiction du golem.",
+		"completedText": "Invoquer un golem végétal 20/20 avec Bénédiction du golem.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pic de croissance",
-		"emptyText": "Invoquer un golem végétal 20/$q avec Bénédiction du golem.",
+		"emptyText": "Invoquer un golem végétal 20/20 avec Bénédiction du golem.",
 		"hsAchievementId": 7703,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 909,
@@ -86617,7 +86617,7 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "Invoquer un golem végétal 20/$q avec Bénédiction du golem.",
+		"text": "Invoquer un golem végétal 20/20 avec Bénédiction du golem.",
 		"type": "hearthstone_game_909_growth_spurt"
 	},
 	{
@@ -89091,11 +89091,11 @@
 		"type": "hearthstone_game_930_go_team"
 	},
 	{
-		"completedText": "Donner +25/+$q à vos serviteurs avec le totem d’hydratation.",
+		"completedText": "Donner +25/+25 à vos serviteurs avec le totem d’hydratation.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Bonne hydratation",
-		"emptyText": "Donner +25/+$q à vos serviteurs avec le totem d’hydratation.",
+		"emptyText": "Donner +25/+25 à vos serviteurs avec le totem d’hydratation.",
 		"hsAchievementId": 8149,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 927,
@@ -89106,15 +89106,15 @@
 		"priority": 0,
 		"quota": 25,
 		"root": true,
-		"text": "Donner +25/+$q à vos serviteurs avec le totem d’hydratation.",
+		"text": "Donner +25/+25 à vos serviteurs avec le totem d’hydratation.",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
-		"completedText": "Donner +50/+$q à vos serviteurs avec le totem d’hydratation.",
+		"completedText": "Donner +50/+50 à vos serviteurs avec le totem d’hydratation.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Bonne hydratation",
-		"emptyText": "Donner +50/+$q à vos serviteurs avec le totem d’hydratation.",
+		"emptyText": "Donner +50/+50 à vos serviteurs avec le totem d’hydratation.",
 		"hsAchievementId": 8150,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 927,
@@ -89125,7 +89125,7 @@
 		"priority": 1,
 		"quota": 50,
 		"root": false,
-		"text": "Donner +50/+$q à vos serviteurs avec le totem d’hydratation.",
+		"text": "Donner +50/+50 à vos serviteurs avec le totem d’hydratation.",
 		"type": "hearthstone_game_927_stay_hydrated"
 	},
 	{
@@ -89281,11 +89281,11 @@
 		"type": "hearthstone_game_935_practice_makes_perfect"
 	},
 	{
-		"completedText": "Jouer un ours 8/$q ou plus avec Balours.",
+		"completedText": "Jouer un ours 8/8 ou plus avec Balours.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pause druidique",
-		"emptyText": "Jouer un ours 8/$q ou plus avec Balours.",
+		"emptyText": "Jouer un ours 8/8 ou plus avec Balours.",
 		"hsAchievementId": 8159,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 932,
@@ -89296,15 +89296,15 @@
 		"priority": 0,
 		"quota": 8,
 		"root": true,
-		"text": "Jouer un ours 8/$q ou plus avec Balours.",
+		"text": "Jouer un ours 8/8 ou plus avec Balours.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
-		"completedText": "Jouer un ours 12/$q ou plus avec Balours.",
+		"completedText": "Jouer un ours 12/12 ou plus avec Balours.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Pause druidique",
-		"emptyText": "Jouer un ours 12/$q ou plus avec Balours.",
+		"emptyText": "Jouer un ours 12/12 ou plus avec Balours.",
 		"hsAchievementId": 8160,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 932,
@@ -89315,7 +89315,7 @@
 		"priority": 1,
 		"quota": 12,
 		"root": false,
-		"text": "Jouer un ours 12/$q ou plus avec Balours.",
+		"text": "Jouer un ours 12/12 ou plus avec Balours.",
 		"type": "hearthstone_game_932_druidic_staycation"
 	},
 	{
