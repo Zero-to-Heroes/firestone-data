@@ -1,12 +1,6 @@
 {
 	"standardSets": [
 		"core",
-		"battle_of_the_bands",
-		"audiopocalypse",
-		"titans",
-		"ulduar",
-		"wild_west",
-		"deepholm",
 		"gift",
 		"whizbangs_workshop",
 		"boom_inventions",
@@ -34,13 +28,13 @@
 	],
 	"wildSets": [
 		"into_the_emerald_dream",
+		"gift",
 		"heroes_of_starcraft",
 		"great_dark_beyond",
 		"traveling_travel_agency",
 		"perils_in_paradise",
 		"boom_inventions",
 		"whizbangs_workshop",
-		"gift",
 		"deepholm",
 		"wild_west",
 		"ulduar",
