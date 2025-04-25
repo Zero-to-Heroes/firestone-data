@@ -3320,7 +3320,7 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_155",
-							"name": "Brann"
+							"name": "Brann der Dinozähmer"
 						},
 						{
 							"achievementTypes": [
@@ -4177,6 +4177,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1349",
 							"name": "Artanis"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1322_put_a_pin_in_it"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1493",
+							"name": "Knöpfchen"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1323_best_case_cenarius"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1494",
+							"name": "Waldlord Cenarius"
 						}
 					],
 					"icon": "mode_battlegrounds",

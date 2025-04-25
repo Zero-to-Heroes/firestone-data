@@ -3798,6 +3798,20 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1349"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1322_put_a_pin_in_it"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1493"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1323_best_case_cenarius"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1494"
 						}
 					],
 					"icon": "mode_battlegrounds",

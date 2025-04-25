@@ -3320,7 +3320,7 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_155",
-							"name": "브란"
+							"name": "공룡조련사 브란"
 						},
 						{
 							"achievementTypes": [
@@ -4177,6 +4177,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1349",
 							"name": "아르타니스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1322_put_a_pin_in_it"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1493",
+							"name": "똑딱이"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1323_best_case_cenarius"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1494",
+							"name": "숲의 군주 세나리우스"
 						}
 					],
 					"icon": "mode_battlegrounds",
