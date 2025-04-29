@@ -2160,77 +2160,88 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_907_blood_drive"
+								"hearthstone_game_907_blood_drive",
+								"hearthstone_game_907_dont_volcoross_me"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1161"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_908_outer_demons"
+								"hearthstone_game_908_outer_demons",
+								"hearthstone_game_908_a_fel_of_a_time"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_1162"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_909_growth_spurt"
+								"hearthstone_game_909_growth_spurt",
+								"hearthstone_game_909_crown_of_harmony"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_1164"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_910_hop_to_it"
+								"hearthstone_game_910_hop_to_it",
+								"hearthstone_game_910_that_was_wild"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_1165"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_911_wisps_in_the_wind"
+								"hearthstone_game_911_wisps_in_the_wind",
+								"hearthstone_game_911_put_some_ice_on_that_burn"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_1166"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_912_thinking_with_portals"
+								"hearthstone_game_912_thinking_with_portals",
+								"hearthstone_game_912_we_demand_to_be_taken_seariously"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_1167"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_913_total_eclipse_of_the_cards"
+								"hearthstone_game_913_total_eclipse_of_the_cards",
+								"hearthstone_game_913_many_moons_ago"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_1168"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_914_stepping_out_of_the_shadows"
+								"hearthstone_game_914_stepping_out_of_the_shadows",
+								"hearthstone_game_914_freenix"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_1169"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_915_here_be_giant_dragons"
+								"hearthstone_game_915_here_be_giant_dragons",
+								"hearthstone_game_915_whelp_played"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_1170"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_916_gift_exchange"
+								"hearthstone_game_916_gift_exchange",
+								"hearthstone_game_916_conflagration_station"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_1171"
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_917_shadowy_side_up"
+								"hearthstone_game_917_shadowy_side_up",
+								"hearthstone_game_917_regifting"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_1172"
@@ -2240,7 +2251,9 @@
 								"hearthstone_game_918_shadows_of_the_world_tree",
 								"hearthstone_game_918_emerald_dream_team",
 								"hearthstone_game_918_natural_instincts",
-								"hearthstone_game_918_night_terrors"
+								"hearthstone_game_918_night_terrors",
+								"hearthstone_game_918_hot_potato",
+								"hearthstone_game_918_druids_of_the_flame"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1173"
