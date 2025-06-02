@@ -91485,11 +91485,11 @@
 		"type": "hearthstone_game_915_whelp_played"
 	},
 	{
-		"completedText": "점화로 카드 10장 뽑기",
+		"completedText": "분화로 카드 10장 뽑기",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "점화 기지",
-		"emptyText": "점화로 카드 10장 뽑기",
+		"emptyText": "분화로 카드 10장 뽑기",
 		"hsAchievementId": 10250,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 916,
@@ -91500,15 +91500,15 @@
 		"priority": 0,
 		"quota": 10,
 		"root": true,
-		"text": "점화로 카드 10장 뽑기",
+		"text": "분화로 카드 10장 뽑기",
 		"type": "hearthstone_game_916_conflagration_station"
 	},
 	{
-		"completedText": "점화로 카드 20장 뽑기",
+		"completedText": "분화로 카드 20장 뽑기",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "점화 기지",
-		"emptyText": "점화로 카드 20장 뽑기",
+		"emptyText": "분화로 카드 20장 뽑기",
 		"hsAchievementId": 10251,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 916,
@@ -91519,7 +91519,7 @@
 		"priority": 1,
 		"quota": 20,
 		"root": false,
-		"text": "점화로 카드 20장 뽑기",
+		"text": "분화로 카드 20장 뽑기",
 		"type": "hearthstone_game_916_conflagration_station"
 	},
 	{
