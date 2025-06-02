@@ -8,7 +8,8 @@
 		"traveling_travel_agency",
 		"great_dark_beyond",
 		"heroes_of_starcraft",
-		"into_the_emerald_dream"
+		"into_the_emerald_dream",
+		"embers_of_the_world_tree"
 	],
 	"twistSets": [
 		"legacy",
@@ -27,6 +28,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"embers_of_the_world_tree",
 		"into_the_emerald_dream",
 		"gift",
 		"heroes_of_starcraft",
