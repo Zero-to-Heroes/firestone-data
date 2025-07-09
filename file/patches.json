@@ -517,18 +517,25 @@
             "hasNewBuildNumber": true
         },
         {
-            "number": 223542,
+            "number": 223541,
             "version": "33.0",
             "name": "The Great Dark Beyond 33.0",
             "date": "2025-07-01T20:00:00Z",
             "hasNewBuildNumber": true
+        },
+        {
+            "number": 223542,
+            "version": "33.0",
+            "name": "The Great Dark Beyond 33.0",
+            "date": "2025-07-09T20:00:00Z",
+            "hasNewBuildNumber": true
         }
     ],
-    "currentConstructedMetaPatch": 223184,
+    "currentConstructedMetaPatch": 223542,
     "currentTwistMetaPatch": 202362,
     "currentBattlegroundsMetaPatch": 223184,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 223542,
+    "currentArenaMetaPatch": 223541,
     "currentMercenariesMetaPatch": 189017,
-    "currentArenaSeasonPatch": 223542
+    "currentArenaSeasonPatch": 223541
 }
