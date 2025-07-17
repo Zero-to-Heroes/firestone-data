@@ -536,6 +536,13 @@
             "name": "The Great Dark Beyond 33.0.3",
             "date": "2025-07-17T20:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 225000,
+            "version": "33.0.3",
+            "name": "The Great Dark Beyond 33.0.3",
+            "date": "2025-07-17T20:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 225000,
