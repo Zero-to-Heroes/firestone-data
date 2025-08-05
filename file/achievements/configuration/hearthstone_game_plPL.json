@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "Cenarius, Władca Kniei"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "Loh, Żywa Legenda"
 						}
 					],
 					"icon": "mode_battlegrounds",

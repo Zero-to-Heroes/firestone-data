@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "森の王セナリウス"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "生ける伝説ロー"
 						}
 					],
 					"icon": "mode_battlegrounds",

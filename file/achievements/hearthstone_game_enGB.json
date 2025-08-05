@@ -68710,5 +68710,47 @@
 		"quota": 1,
 		"root": false,
 		"type": "hearthstone_game_1323_best_case_cenarius"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 10542,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 1364,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_10542",
+		"points": 10,
+		"priority": 0,
+		"quota": 1,
+		"root": true,
+		"type": "hearthstone_game_1364_all_time_loh"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 10543,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 1364,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_10543",
+		"points": 10,
+		"priority": 1,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_1364_all_time_loh"
+	},
+	{
+		"displayCardId": "ULDA_111",
+		"displayCardType": "spell",
+		"hsAchievementId": 10544,
+		"hsRewardTrackXp": 0,
+		"hsSectionId": 1364,
+		"icon": "boss_victory",
+		"id": "hearthstone_game_10544",
+		"points": 20,
+		"priority": 2,
+		"quota": 1,
+		"root": false,
+		"type": "hearthstone_game_1364_all_time_loh"
 	}
 ]

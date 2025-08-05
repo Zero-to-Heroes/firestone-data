@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "숲의 군주 세나리우스"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "살아 있는 전설 로"
 						}
 					],
 					"icon": "mode_battlegrounds",

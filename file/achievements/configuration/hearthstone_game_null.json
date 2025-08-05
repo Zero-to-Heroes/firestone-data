@@ -3938,6 +3938,13 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1494"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548"
 						}
 					],
 					"icon": "mode_battlegrounds",

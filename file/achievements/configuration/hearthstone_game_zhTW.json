@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "森林之王塞納留斯"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "『活蹦亂跳的傳奇』樂樂"
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "Cénarius, seigneur de la forêt"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "Loh, la légende vivante"
 						}
 					],
 					"icon": "mode_battlegrounds",

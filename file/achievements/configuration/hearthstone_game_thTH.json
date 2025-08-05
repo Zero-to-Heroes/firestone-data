@@ -4333,6 +4333,14 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1494",
 							"name": "ฟอเรสต์ลอร์ดเซนาเรียส"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1364_all_time_loh"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1548",
+							"name": "โลฮ์ ตำนานที่มีลมหายใจ"
 						}
 					],
 					"icon": "mode_battlegrounds",
