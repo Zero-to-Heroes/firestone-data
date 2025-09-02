@@ -2488,7 +2488,8 @@
 					"categories": [
 						{
 							"achievementTypes": [
-								"hearthstone_game_978_theyre_sort_of_aliiiiive"
+								"hearthstone_game_978_theyre_sort_of_aliiiiive",
+								"hearthstone_game_978_the_price_we_pay_for_love"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1480",
@@ -2496,7 +2497,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_979_pest_control"
+								"hearthstone_game_979_pest_control",
+								"hearthstone_game_979_clever_girls"
 							],
 							"icon": "demon_hunter",
 							"id": "hearthstone_game_section_1481",
@@ -2504,7 +2506,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_980_mouths_to_feed"
+								"hearthstone_game_980_mouths_to_feed",
+								"hearthstone_game_980_seismic_proportions"
 							],
 							"icon": "druid",
 							"id": "hearthstone_game_section_1482",
@@ -2512,7 +2515,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_981_you_cant_even"
+								"hearthstone_game_981_you_cant_even",
+								"hearthstone_game_981_krush_the_competition"
 							],
 							"icon": "hunter",
 							"id": "hearthstone_game_section_1483",
@@ -2520,7 +2524,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_982_uncovering_history"
+								"hearthstone_game_982_uncovering_history",
+								"hearthstone_game_982_baa_ram_ewe"
 							],
 							"icon": "mage",
 							"id": "hearthstone_game_section_1484",
@@ -2528,7 +2533,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_983_you_are_murloc"
+								"hearthstone_game_983_you_are_murloc",
+								"hearthstone_game_983_the_gangs_all_here"
 							],
 							"icon": "paladin",
 							"id": "hearthstone_game_section_1485",
@@ -2536,7 +2542,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_984_balance_in_all_things"
+								"hearthstone_game_984_balance_in_all_things",
+								"hearthstone_game_984_light_in_the_distance"
 							],
 							"icon": "priest",
 							"id": "hearthstone_game_section_1486",
@@ -2544,7 +2551,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_985_ninjas_in_a_half_shell"
+								"hearthstone_game_985_ninjas_in_a_half_shell",
+								"hearthstone_game_985_mirror_mirror_in_the_cave"
 							],
 							"icon": "rogue",
 							"id": "hearthstone_game_section_1487",
@@ -2552,7 +2560,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_986_return_to_cinder"
+								"hearthstone_game_986_return_to_cinder",
+								"hearthstone_game_986_shivers_down_my_spine"
 							],
 							"icon": "shaman",
 							"id": "hearthstone_game_section_1488",
@@ -2560,7 +2569,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_987_divergent_evolution"
+								"hearthstone_game_987_divergent_evolution",
+								"hearthstone_game_987_suffocation_no_breathing"
 							],
 							"icon": "warlock",
 							"id": "hearthstone_game_section_1489",
@@ -2568,7 +2578,8 @@
 						},
 						{
 							"achievementTypes": [
-								"hearthstone_game_988_legends_of_the_ungoro_crater"
+								"hearthstone_game_988_legends_of_the_ungoro_crater",
+								"hearthstone_game_988_why_friend_shaped"
 							],
 							"icon": "warrior",
 							"id": "hearthstone_game_section_1490",
@@ -2579,7 +2590,9 @@
 								"hearthstone_game_989_senior_navigation",
 								"hearthstone_game_989_clean_plate_club",
 								"hearthstone_game_989_on_the_trail_we_blaze",
-								"hearthstone_game_989_found_family"
+								"hearthstone_game_989_found_family",
+								"hearthstone_game_989_liveosaurs",
+								"hearthstone_game_989_the_egg_came_first"
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1491",
