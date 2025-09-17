@@ -10,7 +10,8 @@
 		"heroes_of_starcraft",
 		"into_the_emerald_dream",
 		"embers_of_the_world_tree",
-		"lost_city_of_ungoro"
+		"lost_city_of_ungoro",
+		"day_of_rebirth"
 	],
 	"twistSets": [
 		"legacy",
@@ -29,6 +30,7 @@
 		"vanilla"
 	],
 	"wildSets": [
+		"day_of_rebirth",
 		"lost_city_of_ungoro",
 		"embers_of_the_world_tree",
 		"into_the_emerald_dream",
