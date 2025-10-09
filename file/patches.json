@@ -606,11 +606,18 @@
             "name": "The Great Dark Beyond 33.6.0",
             "date": "2025-09-29T20:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 229543,
+            "version": "33.6.2",
+            "name": "The Great Dark Beyond 33.6.2",
+            "date": "2025-10-09T20:00:00Z",
+            "hasNewBuildNumber": false
         }
     ],
     "currentConstructedMetaPatch": 228587,
     "currentTwistMetaPatch": 202362,
-    "currentBattlegroundsMetaPatch": 228587,
+    "currentBattlegroundsMetaPatch": 229543,
     "currentDuelsMetaPatch": 193541,
     "currentArenaMetaPatch": 228587,
     "currentMercenariesMetaPatch": 189017,
