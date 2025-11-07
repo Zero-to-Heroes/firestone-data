@@ -626,10 +626,10 @@
             "version": "34.0.0",
             "name": "The Great Dark Beyond 34.0.0",
             "date": "2025-11-04T20:00:00Z",
-            "hasNewBuildNumber": true
+            "hasNewBuildNumber": false
         }
     ],
-    "currentConstructedMetaPatch": 228587,
+    "currentConstructedMetaPatch": 229985,
     "currentTwistMetaPatch": 202362,
     "currentBattlegroundsMetaPatch": 229984,
     "currentDuelsMetaPatch": 193541,
