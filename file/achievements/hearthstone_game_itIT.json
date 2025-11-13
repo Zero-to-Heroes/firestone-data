@@ -92074,11 +92074,11 @@
 		"type": "hearthstone_game_1031_boon_or_doom"
 	},
 	{
-		"completedText": "Gioca 40 servitori creati da Attesa Infinita.",
+		"completedText": "Gioca 40 servitori creati da Bastione Eterno.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "La sua chiamata è molto importante per noi",
-		"emptyText": "Gioca 40 servitori creati da Attesa Infinita.",
+		"emptyText": "Gioca 40 servitori creati da Bastione Eterno.",
 		"hsAchievementId": 8464,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 1032,
@@ -92089,15 +92089,15 @@
 		"priority": 0,
 		"quota": 40,
 		"root": true,
-		"text": "Gioca 40 servitori creati da Attesa Infinita.",
+		"text": "Gioca 40 servitori creati da Bastione Eterno.",
 		"type": "hearthstone_game_1032_your_call_is_very_important_to_us"
 	},
 	{
-		"completedText": "Gioca 80 servitori creati da Attesa Infinita.",
+		"completedText": "Gioca 80 servitori creati da Bastione Eterno.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "La sua chiamata è molto importante per noi",
-		"emptyText": "Gioca 80 servitori creati da Attesa Infinita.",
+		"emptyText": "Gioca 80 servitori creati da Bastione Eterno.",
 		"hsAchievementId": 8465,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 1032,
@@ -92108,7 +92108,7 @@
 		"priority": 1,
 		"quota": 80,
 		"root": false,
-		"text": "Gioca 80 servitori creati da Attesa Infinita.",
+		"text": "Gioca 80 servitori creati da Bastione Eterno.",
 		"type": "hearthstone_game_1032_your_call_is_very_important_to_us"
 	},
 	{
