@@ -4481,6 +4481,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1548",
 							"name": "살아 있는 전설 로"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1419_hmm_havent_we_done_this_before"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1601",
+							"name": "시간 왜곡자 크로미"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1418_your_time_has_come"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1602",
+							"name": "해방된 무르도즈노"
 						}
 					],
 					"icon": "mode_battlegrounds",

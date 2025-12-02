@@ -4481,6 +4481,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1548",
 							"name": "Loh, la légende vivante"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1419_hmm_havent_we_done_this_before"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1601",
+							"name": "Chromie, manipulatrice du temps"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1418_your_time_has_come"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1602",
+							"name": "Murozond déchaîné"
 						}
 					],
 					"icon": "mode_battlegrounds",

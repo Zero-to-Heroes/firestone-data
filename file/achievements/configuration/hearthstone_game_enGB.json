@@ -4071,6 +4071,20 @@
 							],
 							"icon": "general",
 							"id": "hearthstone_game_section_1548"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1419_hmm_havent_we_done_this_before"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1601"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1418_your_time_has_come"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1602"
 						}
 					],
 					"icon": "mode_battlegrounds",

@@ -4481,6 +4481,22 @@
 							"icon": "general",
 							"id": "hearthstone_game_section_1548",
 							"name": "『活蹦亂跳的傳奇』樂樂"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1419_hmm_havent_we_done_this_before"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1601",
+							"name": "時光轉繞者克羅米"
+						},
+						{
+							"achievementTypes": [
+								"hearthstone_game_1418_your_time_has_come"
+							],
+							"icon": "general",
+							"id": "hearthstone_game_section_1602",
+							"name": "『無縛者』姆多茲諾"
 						}
 					],
 					"icon": "mode_battlegrounds",
