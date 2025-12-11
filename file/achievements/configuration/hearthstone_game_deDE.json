@@ -22,7 +22,7 @@
 						"hearthstone_game_445_death_knight_victory",
 						"hearthstone_game_445_death_knight_mastery"
 					],
-					"icon": "general",
+					"icon": "death_knight",
 					"id": "hearthstone_game_section_637",
 					"name": "Todesritter"
 				},
@@ -117,7 +117,7 @@
 					"name": "Krieger"
 				}
 			],
-			"icon": "general",
+			"icon": "progression",
 			"id": "hearthstone_game_1",
 			"name": "Fortschritt"
 		},
@@ -139,7 +139,7 @@
 								"hearthstone_game_162_over_encumbered",
 								"hearthstone_game_162_corpse_husbandry"
 							],
-							"icon": "general",
+							"icon": "classes",
 							"id": "hearthstone_game_section_99",
 							"name": "Klassen"
 						},
@@ -159,7 +159,7 @@
 								"hearthstone_game_78_for_the_achievement",
 								"hearthstone_game_78_the_reborn_identity"
 							],
-							"icon": "general",
+							"icon": "neutral_keywords",
 							"id": "hearthstone_game_section_22",
 							"name": "Neutrale Schlüsselwörter"
 						},
@@ -175,7 +175,7 @@
 								"hearthstone_game_173_totemly_awesome",
 								"hearthstone_game_173_up_to_my_quills"
 							],
-							"icon": "general",
+							"icon": "minion_types",
 							"id": "hearthstone_game_section_112",
 							"name": "Dienertypen"
 						},
@@ -189,7 +189,7 @@
 								"hearthstone_game_174_holy_moly",
 								"hearthstone_game_174_all_fel_breaks_loose"
 							],
-							"icon": "general",
+							"icon": "spell_schools",
 							"id": "hearthstone_game_section_113",
 							"name": "Zaubertypen"
 						},
@@ -211,7 +211,7 @@
 								"hearthstone_game_175_i_could_do_this_all_day",
 								"hearthstone_game_175_cant_spell_minion_without_no"
 							],
-							"icon": "general",
+							"icon": "special",
 							"id": "hearthstone_game_section_114",
 							"name": "Spezial"
 						}
@@ -346,7 +346,7 @@
 								"hearthstone_game_89_cant_touch_this",
 								"hearthstone_game_89_who_let_the_dragon_out"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_33",
 							"name": "Neutral"
 						}
@@ -462,7 +462,7 @@
 								"hearthstone_game_178_what_do_you_mean_random",
 								"hearthstone_game_178_auctionmaster"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_148",
 							"name": "Neutral"
 						}
@@ -486,7 +486,7 @@
 								"hearthstone_game_199_jaraxxus_face_you",
 								"hearthstone_game_199_lootbox"
 							],
-							"icon": "general",
+							"icon": "classes",
 							"id": "hearthstone_game_section_137",
 							"name": "Klassen"
 						},
@@ -499,12 +499,12 @@
 								"hearthstone_game_189_twilight_of_the_aspects",
 								"hearthstone_game_189_itll_be_done_in_no_time"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_147",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "core_(gryphon)",
 					"id": "hearthstone_game_sub_62",
 					"name": "Kern (Greif)"
 				},
@@ -639,12 +639,12 @@
 								"hearthstone_game_200_adventure_is_out_there",
 								"hearthstone_game_200_hungry_hungry_murloc"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_136",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "barrens",
 					"id": "hearthstone_game_sub_63",
 					"name": "Brachland"
 				},
@@ -784,12 +784,12 @@
 								"hearthstone_game_296_magicians_assistant",
 								"hearthstone_game_296_sneeds_new_shredder"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_365",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "stormwind",
 					"id": "hearthstone_game_sub_149",
 					"name": "Sturmwind"
 				},
@@ -935,12 +935,12 @@
 								"hearthstone_game_328_mary_had_a_little_ram",
 								"hearthstone_game_328_"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_511",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "alterac_valley",
 					"id": "hearthstone_game_sub_157",
 					"name": "Alteractal"
 				},
@@ -1078,12 +1078,12 @@
 								"hearthstone_game_354_sevensided_strike",
 								"hearthstone_game_354_all_your_mechs_are_belong_to_us"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_544",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "sunken_city",
 					"id": "hearthstone_game_sub_160",
 					"name": "Versunkene Stadt"
 				},
@@ -1221,12 +1221,12 @@
 								"hearthstone_game_383_",
 								"hearthstone_game_383_was_i_a_good_card"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_585",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "castle_nathria",
 					"id": "hearthstone_game_sub_167",
 					"name": "Schloss Nathria"
 				},
@@ -1252,7 +1252,7 @@
 								"hearthstone_game_396_death_frozen_over",
 								"hearthstone_game_396_throw_you_a_bone"
 							],
-							"icon": "general",
+							"icon": "classes",
 							"id": "hearthstone_game_section_587",
 							"name": "Klassen"
 						},
@@ -1263,12 +1263,12 @@
 								"hearthstone_game_395_toasty",
 								"hearthstone_game_395_great_great_granddragon"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_588",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "core_(hydra)",
 					"id": "hearthstone_game_sub_168",
 					"name": "Kern (Hydra)"
 				},
@@ -1391,7 +1391,7 @@
 								"hearthstone_game_423_blight_widow",
 								"hearthstone_game_423_the_ice_dragon_cometh"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_614",
 							"name": "Todesritter"
 						},
@@ -1413,12 +1413,12 @@
 								"hearthstone_game_412_on_a_pale_horse",
 								"hearthstone_game_412_no_mana_left_behind"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_603",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "lich_king",
 					"id": "hearthstone_game_sub_169",
 					"name": "Lichkönig"
 				},
@@ -1530,7 +1530,7 @@
 								"hearthstone_game_444_giant_following",
 								"hearthstone_game_444_wall_of_death"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_635",
 							"name": "Todesritter"
 						},
@@ -1548,7 +1548,7 @@
 								"hearthstone_game_752_mana_face_doomkin",
 								"hearthstone_game_752_too_ghoul_for_school"
 							],
-							"icon": "general",
+							"icon": "dual_class",
 							"id": "hearthstone_game_section_879",
 							"name": "Doppelklassen"
 						},
@@ -1570,12 +1570,12 @@
 								"hearthstone_game_433_now_thats_what_i_call_etc",
 								"hearthstone_game_433_rrrremix"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_624",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "festival_of_legends",
 					"id": "hearthstone_game_sub_172",
 					"name": "Festival der Legenden"
 				},
@@ -1588,7 +1588,7 @@
 								"hearthstone_game_477_superspreader",
 								"hearthstone_game_477_poor_social_distancing"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_657",
 							"name": "Todesritter"
 						},
@@ -1720,12 +1720,12 @@
 								"hearthstone_game_466_tentacular_trouble",
 								"hearthstone_game_466_old_god_on_your_shoulder"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_668",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "titans",
 					"id": "hearthstone_game_sub_174",
 					"name": "Titanen"
 				},
@@ -1745,7 +1745,7 @@
 								"hearthstone_game_480_acting_sus",
 								"hearthstone_game_480_runes_not_included"
 							],
-							"icon": "general",
+							"icon": "classes",
 							"id": "hearthstone_game_section_671",
 							"name": "Klassen"
 						},
@@ -1754,12 +1754,12 @@
 								"hearthstone_game_479_opposites_attract",
 								"hearthstone_game_479_boom_goes_the_bot"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_672",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "core_(wolf)",
 					"id": "hearthstone_game_sub_178",
 					"name": "Kern (Wolf)"
 				},
@@ -1771,7 +1771,7 @@
 								"hearthstone_game_513_from_one_legend_to_another",
 								"hearthstone_game_513_the_minion_with_no_health"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_681",
 							"name": "Todesritter"
 						},
@@ -1889,7 +1889,7 @@
 								"hearthstone_game_751_pop_rocks",
 								"hearthstone_game_751_lend_a_hand"
 							],
-							"icon": "general",
+							"icon": "dual_class",
 							"id": "hearthstone_game_section_878",
 							"name": "Doppelklassen"
 						},
@@ -1911,12 +1911,12 @@
 								"hearthstone_game_502_call_of_the_stonemother",
 								"hearthstone_game_502_iridescent_into_irideepholm"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_692",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "badlands",
 					"id": "hearthstone_game_sub_185",
 					"name": "Ödland"
 				},
@@ -1927,7 +1927,7 @@
 								"hearthstone_game_749_puppy_power",
 								"hearthstone_game_749_its_foam_or_nothing"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_865",
 							"name": "Todesritter"
 						},
@@ -2030,12 +2030,12 @@
 								"hearthstone_game_738_on_the_shoulders_of_giants",
 								"hearthstone_game_738_gg_ez"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_876",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "whizbang",
 					"id": "hearthstone_game_sub_215",
 					"name": "Wurbelfitz"
 				},
@@ -2053,7 +2053,7 @@
 						"hearthstone_game_861_valedictorians_honor",
 						"hearthstone_game_861_an_elekk_never_forgets"
 					],
-					"icon": "general",
+					"icon": "scholomance",
 					"id": "hearthstone_game_sub_234",
 					"name": "Scholomance"
 				},
@@ -2071,7 +2071,7 @@
 						"hearthstone_game_862_match_fixing",
 						"hearthstone_game_862_modamage"
 					],
-					"icon": "general",
+					"icon": "outland",
 					"id": "hearthstone_game_sub_235",
 					"name": "Scherbenwelt"
 				},
@@ -2133,7 +2133,7 @@
 								"hearthstone_game_937_i_scream_you_scream",
 								"hearthstone_game_937_are_we_there_yet"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_1056",
 							"name": "Todesritter"
 						},
@@ -2236,12 +2236,12 @@
 								"hearthstone_game_926_vacation_destinations",
 								"hearthstone_game_926_planned_to_potential_pefection"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_1067",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "paradise",
 					"id": "hearthstone_game_sub_247",
 					"name": "Paradies"
 				},
@@ -2252,7 +2252,7 @@
 								"hearthstone_game_767_catch_these_hands",
 								"hearthstone_game_767_fungus_amongus"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_1095",
 							"name": "Todesritter"
 						},
@@ -2356,12 +2356,12 @@
 								"hearthstone_game_778_construct_additional_pylons",
 								"hearthstone_game_778_cattle_bruiser"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_1106",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "great_dark_beyond",
 					"id": "hearthstone_game_sub_253",
 					"name": "Große Dunkle Weiten"
 				},
@@ -2372,7 +2372,7 @@
 								"hearthstone_game_907_blood_drive",
 								"hearthstone_game_907_dont_volcoross_me"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_1161",
 							"name": "Todesritter"
 						},
@@ -2475,12 +2475,12 @@
 								"hearthstone_game_918_hot_potato",
 								"hearthstone_game_918_druids_of_the_flame"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_1173",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "emerald_dream",
 					"id": "hearthstone_game_sub_263",
 					"name": "Der Smaragdgrüne Traum"
 				},
@@ -2491,7 +2491,7 @@
 								"hearthstone_game_978_theyre_sort_of_aliiiiive",
 								"hearthstone_game_978_the_price_we_pay_for_love"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_1480",
 							"name": "Todesritter"
 						},
@@ -2594,12 +2594,12 @@
 								"hearthstone_game_989_liveosaurs",
 								"hearthstone_game_989_the_egg_came_first"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_1491",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "lost_city",
 					"id": "hearthstone_game_sub_311",
 					"name": "Verlorene Stadt"
 				},
@@ -2609,7 +2609,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1031_boon_or_doom"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_1508",
 							"name": "Todesritter"
 						},
@@ -2700,17 +2700,17 @@
 								"hearthstone_game_1042_ctrl_z",
 								"hearthstone_game_1042_stand_the_test_of_time"
 							],
-							"icon": "general",
+							"icon": "neutral",
 							"id": "hearthstone_game_section_1519",
 							"name": "Neutral"
 						}
 					],
-					"icon": "general",
+					"icon": "time_travel",
 					"id": "hearthstone_game_sub_315",
 					"name": "Zeitreise"
 				}
 			],
-			"icon": "general",
+			"icon": "gameplay",
 			"id": "hearthstone_game_2",
 			"name": "Gameplay"
 		},
@@ -2721,7 +2721,7 @@
 						"hearthstone_game_100_its_cozy_by_the_fire",
 						"hearthstone_game_100_corrupted_blood"
 					],
-					"icon": "general",
+					"icon": "cosmetics",
 					"id": "hearthstone_game_sub_6",
 					"name": "Kosmetische Gegenstände"
 				},
@@ -3109,7 +3109,7 @@
 						"hearthstone_game_177_barrens_neutral_collector",
 						"hearthstone_game_177_for_the_horde"
 					],
-					"icon": "general",
+					"icon": "forged_in_the_barrens",
 					"id": "hearthstone_game_sub_60",
 					"name": "Geschmiedet im Brachland"
 				},
@@ -3129,7 +3129,7 @@
 						"hearthstone_game_295_stormwind_neutral_collector",
 						"hearthstone_game_295_for_the_alliance"
 					],
-					"icon": "general",
+					"icon": "united_in_stormwind",
 					"id": "hearthstone_game_sub_150",
 					"name": "Vereint in Sturmwind"
 				},
@@ -3161,7 +3161,7 @@
 						"hearthstone_game_329_alterac_warrior_collector",
 						"hearthstone_game_329_alterac_neutral_collector"
 					],
-					"icon": "general",
+					"icon": "fractured_in_alterac_valley",
 					"id": "hearthstone_game_sub_158",
 					"name": "Gespalten im Alteractal"
 				},
@@ -3181,7 +3181,7 @@
 						"hearthstone_game_353_sunken_city_neutral_collector",
 						"hearthstone_game_353_sunken_city_of_zinazshari"
 					],
-					"icon": "general",
+					"icon": "voyage_to_the_sunken_city",
 					"id": "hearthstone_game_sub_161",
 					"name": "Reise in die Versunkene Stadt"
 				},
@@ -3202,7 +3202,7 @@
 						"hearthstone_game_411_the_lich_kings_wrath",
 						"hearthstone_game_411_lich_king_death_knight_collector"
 					],
-					"icon": "general",
+					"icon": "march_of_the_lich_king",
 					"id": "hearthstone_game_sub_170",
 					"name": "Marsch des Lichkönigs"
 				},
@@ -3222,7 +3222,7 @@
 						"hearthstone_game_382_castle_nathria_neutral_collector",
 						"hearthstone_game_382_a_sanguine_affair"
 					],
-					"icon": "general",
+					"icon": "murder_at_castle_nathria",
 					"id": "hearthstone_game_sub_171",
 					"name": "Mord auf Schloss Nathria"
 				},
@@ -3243,7 +3243,7 @@
 						"hearthstone_game_432_battle_of_the_bands",
 						"hearthstone_game_432_festival_death_knight_collector"
 					],
-					"icon": "general",
+					"icon": "festival_of_legends",
 					"id": "hearthstone_game_sub_173",
 					"name": "Festival der Legenden"
 				},
@@ -3264,7 +3264,7 @@
 						"hearthstone_game_465_age_of_mythology",
 						"hearthstone_game_465_titans_death_knight_collector"
 					],
-					"icon": "general",
+					"icon": "titans",
 					"id": "hearthstone_game_sub_175",
 					"name": "TITANEN"
 				},
@@ -3285,7 +3285,7 @@
 						"hearthstone_game_501_badlands_neutral_collector",
 						"hearthstone_game_501_new_sheriff_in_town"
 					],
-					"icon": "general",
+					"icon": "showdown_in_the_badlands",
 					"id": "hearthstone_game_sub_184",
 					"name": "Showdown im Ödland"
 				},
@@ -3306,7 +3306,7 @@
 						"hearthstone_game_737_whizbang_neutral_collector",
 						"hearthstone_game_737_wondrous_workshop"
 					],
-					"icon": "general",
+					"icon": "whizbang's_workshop",
 					"id": "hearthstone_game_sub_216",
 					"name": "Wurbelfitz’ Werkstatt"
 				},
@@ -3327,7 +3327,7 @@
 						"hearthstone_game_925_paradise_neutral_collector",
 						"hearthstone_game_925_getaway_of_a_lifetime"
 					],
-					"icon": "general",
+					"icon": "perils_in_paradise",
 					"id": "hearthstone_game_sub_248",
 					"name": "Gefahr im Paradies"
 				},
@@ -3348,7 +3348,7 @@
 						"hearthstone_game_766_dark_beyond_neutral_collector",
 						"hearthstone_game_766_into_the_infinity"
 					],
-					"icon": "general",
+					"icon": "the_great_dark_beyond",
 					"id": "hearthstone_game_sub_254",
 					"name": "Die Großen Dunklen Weiten"
 				},
@@ -3369,7 +3369,7 @@
 						"hearthstone_game_906_emerald_dream_legendary_collector",
 						"hearthstone_game_906_dreams_of_creation"
 					],
-					"icon": "general",
+					"icon": "emerald_dream",
 					"id": "hearthstone_game_sub_264",
 					"name": "Der Smaragdgrüne Traum"
 				},
@@ -3390,7 +3390,7 @@
 						"hearthstone_game_977_lost_city_legendary_collector",
 						"hearthstone_game_977_life_finds_a_way"
 					],
-					"icon": "general",
+					"icon": "lost_city",
 					"id": "hearthstone_game_sub_312",
 					"name": "Verlorene Stadt"
 				},
@@ -3411,12 +3411,12 @@
 						"hearthstone_game_1030_timeways_legendary_collector",
 						"hearthstone_game_1030_the_converging_timeways"
 					],
-					"icon": "general",
+					"icon": "time_travel",
 					"id": "hearthstone_game_sub_316",
 					"name": "Zeitreise"
 				}
 			],
-			"icon": "general",
+			"icon": "collection",
 			"id": "hearthstone_game_3",
 			"name": "Sammlung"
 		},
@@ -3480,17 +3480,17 @@
 								"hearthstone_game_272_the_moment_came",
 								"hearthstone_game_272_save_the_draenei_save_the_world"
 							],
-							"icon": "general",
+							"icon": "book_of_mercenaries",
 							"id": "hearthstone_game_section_177",
 							"name": "Buch der Söldner"
 						}
 					],
-					"icon": "general",
+					"icon": "books",
 					"id": "hearthstone_game_sub_24",
 					"name": "Bücher"
 				}
 			],
-			"icon": "general",
+			"icon": "adventures",
 			"id": "hearthstone_game_4",
 			"name": "Abenteuer"
 		},
@@ -3536,7 +3536,7 @@
 								"hearthstone_game_114_life_and_undeath",
 								"hearthstone_game_114_cold_hearts_of_gold"
 							],
-							"icon": "general",
+							"icon": "challenges",
 							"id": "hearthstone_game_section_48",
 							"name": "Herausforderungen"
 						},
@@ -3549,7 +3549,7 @@
 								"hearthstone_game_924_funnel_cakes",
 								"hearthstone_game_924_cinnamon_funnel_cakes"
 							],
-							"icon": "general",
+							"icon": "duos_-_challenges",
 							"id": "hearthstone_game_section_1051",
 							"name": "Duos – Herausforderungen"
 						},
@@ -3558,7 +3558,7 @@
 								"hearthstone_game_215_brb",
 								"hearthstone_game_215_idle_idol"
 							],
-							"icon": "general",
+							"icon": "a.f.kay",
 							"id": "hearthstone_game_section_150",
 							"name": "A. F. Karla"
 						},
@@ -3566,7 +3566,7 @@
 							"achievementTypes": [
 								"hearthstone_game_216_wrath_of_the_windlord"
 							],
-							"icon": "general",
+							"icon": "al'akir",
 							"id": "hearthstone_game_section_151",
 							"name": "Al’Akir"
 						},
@@ -3574,7 +3574,7 @@
 							"achievementTypes": [
 								"hearthstone_game_217_life_and_hope"
 							],
-							"icon": "general",
+							"icon": "alexstrasza",
 							"id": "hearthstone_game_section_152",
 							"name": "Alexstrasza"
 						},
@@ -3582,7 +3582,7 @@
 							"achievementTypes": [
 								"hearthstone_game_218_outlandish"
 							],
-							"icon": "general",
+							"icon": "aranna_starseeker",
 							"id": "hearthstone_game_section_153",
 							"name": "Aranna Sternensucher"
 						},
@@ -3590,7 +3590,7 @@
 							"achievementTypes": [
 								"hearthstone_game_219_supreme_tavernologist"
 							],
-							"icon": "general",
+							"icon": "arch-villain_rafaam",
 							"id": "hearthstone_game_section_154",
 							"name": "Erzschurke Rafaam"
 						},
@@ -3598,7 +3598,7 @@
 							"achievementTypes": [
 								"hearthstone_game_220_wheres_the_action"
 							],
-							"icon": "general",
+							"icon": "dinotamer_brann",
 							"id": "hearthstone_game_section_155",
 							"name": "Brann der Dinozähmer"
 						},
@@ -3606,7 +3606,7 @@
 							"achievementTypes": [
 								"hearthstone_game_221_mathematically_impossible"
 							],
-							"icon": "general",
+							"icon": "c'thun",
 							"id": "hearthstone_game_section_156",
 							"name": "C’Thun"
 						},
@@ -3614,7 +3614,7 @@
 							"achievementTypes": [
 								"hearthstone_game_222_can_you_dig_it"
 							],
-							"icon": "general",
+							"icon": "captain_eudora",
 							"id": "hearthstone_game_section_157",
 							"name": "Käpt’n Eudora"
 						},
@@ -3622,7 +3622,7 @@
 							"achievementTypes": [
 								"hearthstone_game_223_never_fight_fair"
 							],
-							"icon": "general",
+							"icon": "captain_hooktusk",
 							"id": "hearthstone_game_section_158",
 							"name": "Käpt’n Haizahn"
 						},
@@ -3630,7 +3630,7 @@
 							"achievementTypes": [
 								"hearthstone_game_224_is_it_cold_in_here"
 							],
-							"icon": "general",
+							"icon": "chenvaala",
 							"id": "hearthstone_game_section_159",
 							"name": "Chenvaala"
 						},
@@ -3639,7 +3639,7 @@
 								"hearthstone_game_225_hats_on_hats_on_hats",
 								"hearthstone_game_225_show_me_your_moves"
 							],
-							"icon": "general",
+							"icon": "dancin'_deryl",
 							"id": "hearthstone_game_section_160",
 							"name": "Der steppende Steppke"
 						},
@@ -3647,7 +3647,7 @@
 							"achievementTypes": [
 								"hearthstone_game_226_power_incarnate"
 							],
-							"icon": "general",
+							"icon": "deathwing",
 							"id": "hearthstone_game_section_161",
 							"name": "Todesschwinge"
 						},
@@ -3655,7 +3655,7 @@
 							"achievementTypes": [
 								"hearthstone_game_227_for_the_brotherhood"
 							],
-							"icon": "general",
+							"icon": "edwin_vancleef",
 							"id": "hearthstone_game_section_162",
 							"name": "Edwin van Cleef"
 						},
@@ -3663,7 +3663,7 @@
 							"achievementTypes": [
 								"hearthstone_game_228_always_bring_a_map"
 							],
-							"icon": "general",
+							"icon": "elise_starseeker",
 							"id": "hearthstone_game_section_163",
 							"name": "Elise Sternensucher"
 						},
@@ -3671,7 +3671,7 @@
 							"achievementTypes": [
 								"hearthstone_game_229_nowhere_left_to_grow"
 							],
-							"icon": "general",
+							"icon": "forest_warden_omu",
 							"id": "hearthstone_game_section_165",
 							"name": "Waldwächterin Omu"
 						},
@@ -3679,7 +3679,7 @@
 							"achievementTypes": [
 								"hearthstone_game_230_wishies_for_fishies"
 							],
-							"icon": "general",
+							"icon": "fungalmancer_flurgl",
 							"id": "hearthstone_game_section_166",
 							"name": "Fungumant Flrrgl"
 						},
@@ -3688,7 +3688,7 @@
 								"hearthstone_game_231_long_term_investment",
 								"hearthstone_game_231_the_progenitor"
 							],
-							"icon": "general",
+							"icon": "galakrond",
 							"id": "hearthstone_game_section_167",
 							"name": "Galakrond"
 						},
@@ -3696,7 +3696,7 @@
 							"achievementTypes": [
 								"hearthstone_game_232_for_karl"
 							],
-							"icon": "general",
+							"icon": "george_the_fallen",
 							"id": "hearthstone_game_section_168",
 							"name": "Gustav der Gefallene"
 						},
@@ -3704,7 +3704,7 @@
 							"achievementTypes": [
 								"hearthstone_game_233_sprouting_your_roots"
 							],
-							"icon": "general",
+							"icon": "greybough",
 							"id": "hearthstone_game_section_169",
 							"name": "Grauzweig"
 						},
@@ -3712,7 +3712,7 @@
 							"achievementTypes": [
 								"hearthstone_game_234_you_are_prepared"
 							],
-							"icon": "general",
+							"icon": "illidan_stormrage",
 							"id": "hearthstone_game_section_170",
 							"name": "Illidan Sturmgrimm"
 						},
@@ -3720,7 +3720,7 @@
 							"achievementTypes": [
 								"hearthstone_game_235_the_ideal_timeline"
 							],
-							"icon": "general",
+							"icon": "infinite_toki",
 							"id": "hearthstone_game_section_171",
 							"name": "Toki die Unendliche"
 						},
@@ -3728,7 +3728,7 @@
 							"achievementTypes": [
 								"hearthstone_game_236_swap_meet"
 							],
-							"icon": "general",
+							"icon": "jandice_barov",
 							"id": "hearthstone_game_section_172",
 							"name": "Jandice Barov"
 						},
@@ -3736,7 +3736,7 @@
 							"achievementTypes": [
 								"hearthstone_game_237_no_more_setbacks"
 							],
-							"icon": "general",
+							"icon": "kael'thas_sunstrider",
 							"id": "hearthstone_game_section_173",
 							"name": "Kael’thas Sonnenwanderer"
 						},
@@ -3744,7 +3744,7 @@
 							"achievementTypes": [
 								"hearthstone_game_238_phylactery_mastery"
 							],
-							"icon": "general",
+							"icon": "lich_baz'hial",
 							"id": "hearthstone_game_section_174",
 							"name": "Lich Baz’hial"
 						},
@@ -3753,7 +3753,7 @@
 								"hearthstone_game_239_salty_bets",
 								"hearthstone_game_239_lord_of_the_manor"
 							],
-							"icon": "general",
+							"icon": "lord_barov",
 							"id": "hearthstone_game_section_175",
 							"name": "Lord Barov"
 						},
@@ -3761,7 +3761,7 @@
 							"achievementTypes": [
 								"hearthstone_game_240_infernal_overdrive"
 							],
-							"icon": "general",
+							"icon": "lord_jaraxxus",
 							"id": "hearthstone_game_section_176",
 							"name": "Lord Jaraxxus"
 						},
@@ -3769,7 +3769,7 @@
 							"achievementTypes": [
 								"hearthstone_game_241_iron_hand_of_justice"
 							],
-							"icon": "general",
+							"icon": "maiev",
 							"id": "hearthstone_game_section_178",
 							"name": "Maiev"
 						},
@@ -3777,7 +3777,7 @@
 							"achievementTypes": [
 								"hearthstone_game_242_the_essence_of_magic"
 							],
-							"icon": "general",
+							"icon": "malygos",
 							"id": "hearthstone_game_section_179",
 							"name": "Malygos"
 						},
@@ -3785,7 +3785,7 @@
 							"achievementTypes": [
 								"hearthstone_game_243_light_you_up_sweetcheeks"
 							],
-							"icon": "general",
+							"icon": "millhouse_manastorm",
 							"id": "hearthstone_game_section_180",
 							"name": "Millhaus Manasturm"
 						},
@@ -3793,7 +3793,7 @@
 							"achievementTypes": [
 								"hearthstone_game_244_meching_it_happen"
 							],
-							"icon": "general",
+							"icon": "millificent_manastorm",
 							"id": "hearthstone_game_section_181",
 							"name": "Millificent Manasturm"
 						},
@@ -3801,7 +3801,7 @@
 							"achievementTypes": [
 								"hearthstone_game_245_whose_cat_is_this"
 							],
-							"icon": "general",
+							"icon": "mr._bigglesworth",
 							"id": "hearthstone_game_section_182",
 							"name": "Mr. Bigglesworth"
 						},
@@ -3809,7 +3809,7 @@
 							"achievementTypes": [
 								"hearthstone_game_246_banana_slamma"
 							],
-							"icon": "general",
+							"icon": "mukla",
 							"id": "hearthstone_game_section_183",
 							"name": "Mukla"
 						},
@@ -3817,7 +3817,7 @@
 							"achievementTypes": [
 								"hearthstone_game_247_gone_fishing"
 							],
-							"icon": "general",
+							"icon": "n'zoth",
 							"id": "hearthstone_game_section_184",
 							"name": "N’Zoth"
 						},
@@ -3825,7 +3825,7 @@
 							"achievementTypes": [
 								"hearthstone_game_248_just_a_matter_of_time"
 							],
-							"icon": "general",
+							"icon": "nozdormu",
 							"id": "hearthstone_game_section_185",
 							"name": "Nozdormu"
 						},
@@ -3833,7 +3833,7 @@
 							"achievementTypes": [
 								"hearthstone_game_249_might_of_the_horde"
 							],
-							"icon": "general",
+							"icon": "overlord_saurfang",
 							"id": "hearthstone_game_section_186",
 							"name": "Hochfürst Saurfang"
 						},
@@ -3841,7 +3841,7 @@
 							"achievementTypes": [
 								"hearthstone_game_250_whos_in_charrrrge"
 							],
-							"icon": "general",
+							"icon": "patches_the_pirate",
 							"id": "hearthstone_game_section_187",
 							"name": "Käpt’n Glubschauge"
 						},
@@ -3849,7 +3849,7 @@
 							"achievementTypes": [
 								"hearthstone_game_251_werkin_it"
 							],
-							"icon": "general",
+							"icon": "patchwerk",
 							"id": "hearthstone_game_section_188",
 							"name": "Flickwerk"
 						},
@@ -3857,7 +3857,7 @@
 							"achievementTypes": [
 								"hearthstone_game_252_brick_house"
 							],
-							"icon": "general",
+							"icon": "pyramad",
 							"id": "hearthstone_game_section_189",
 							"name": "Pyramidos"
 						},
@@ -3865,7 +3865,7 @@
 							"achievementTypes": [
 								"hearthstone_game_253_me_win_candle"
 							],
-							"icon": "general",
+							"icon": "queen_wagtoggle",
 							"id": "hearthstone_game_section_190",
 							"name": "Königin Wagtoggel"
 						},
@@ -3873,7 +3873,7 @@
 							"achievementTypes": [
 								"hearthstone_game_254_by_fire_be_purged"
 							],
-							"icon": "general",
+							"icon": "ragnaros",
 							"id": "hearthstone_game_section_191",
 							"name": "Ragnaros"
 						},
@@ -3881,7 +3881,7 @@
 							"achievementTypes": [
 								"hearthstone_game_255_hot_hot_hot"
 							],
-							"icon": "general",
+							"icon": "rakanishu",
 							"id": "hearthstone_game_section_192",
 							"name": "Rakanishu"
 						},
@@ -3889,7 +3889,7 @@
 							"achievementTypes": [
 								"hearthstone_game_256_arent_i_amazing"
 							],
-							"icon": "general",
+							"icon": "reno_jackson",
 							"id": "hearthstone_game_section_193",
 							"name": "Reno Jackson"
 						},
@@ -3897,7 +3897,7 @@
 							"achievementTypes": [
 								"hearthstone_game_257_o_frabjous_day"
 							],
-							"icon": "general",
+							"icon": "shudderwock",
 							"id": "hearthstone_game_section_194",
 							"name": "Der Grauselhurz"
 						},
@@ -3905,7 +3905,7 @@
 							"achievementTypes": [
 								"hearthstone_game_258_greatest_show_on_azeroth"
 							],
-							"icon": "general",
+							"icon": "silas_darkmoon",
 							"id": "hearthstone_game_section_195",
 							"name": "Silas Dunkelmond"
 						},
@@ -3913,7 +3913,7 @@
 							"achievementTypes": [
 								"hearthstone_game_259_icy_wings_of_northrend"
 							],
-							"icon": "general",
+							"icon": "sindragosa",
 							"id": "hearthstone_game_section_196",
 							"name": "Sindragosa"
 						},
@@ -3921,7 +3921,7 @@
 							"achievementTypes": [
 								"hearthstone_game_260_how_about_a_new_adventure"
 							],
-							"icon": "general",
+							"icon": "sir_finley_mrrgglton",
 							"id": "hearthstone_game_section_197",
 							"name": "Sir Finley Mrrgglton"
 						},
@@ -3930,7 +3930,7 @@
 								"hearthstone_game_261_rainy_day_fund",
 								"hearthstone_game_261_im_the_capn_now"
 							],
-							"icon": "general",
+							"icon": "skycap'n_kragg",
 							"id": "hearthstone_game_section_198",
 							"name": "Himmelskäpt’n Kragg"
 						},
@@ -3938,7 +3938,7 @@
 							"achievementTypes": [
 								"hearthstone_game_262_couldnt_do_it_without_you"
 							],
-							"icon": "general",
+							"icon": "tess_greymane",
 							"id": "hearthstone_game_section_199",
 							"name": "Tess Graumähne"
 						},
@@ -3947,7 +3947,7 @@
 								"hearthstone_game_263_lost_dog_call_curator",
 								"hearthstone_game_263_menagerie_manager"
 							],
-							"icon": "general",
+							"icon": "the_curator",
 							"id": "hearthstone_game_section_200",
 							"name": "Der Kurator"
 						},
@@ -3955,7 +3955,7 @@
 							"achievementTypes": [
 								"hearthstone_game_264_the_magicians_code"
 							],
-							"icon": "general",
+							"icon": "the_great_akazamzarak",
 							"id": "hearthstone_game_section_201",
 							"name": "Der Große Akazamzarak"
 						},
@@ -3963,7 +3963,7 @@
 							"achievementTypes": [
 								"hearthstone_game_265_there_must_always_be_a_lich_king"
 							],
-							"icon": "general",
+							"icon": "the_lich_king",
 							"id": "hearthstone_game_section_202",
 							"name": "Der Lichkönig"
 						},
@@ -3971,7 +3971,7 @@
 							"achievementTypes": [
 								"hearthstone_game_266_there_must_always_be_a_rat_king"
 							],
-							"icon": "general",
+							"icon": "the_rat_king",
 							"id": "hearthstone_game_section_203",
 							"name": "Der Rattenkönig"
 						},
@@ -3980,7 +3980,7 @@
 								"hearthstone_game_267_and_you_get_prize_cards",
 								"hearthstone_game_267_ticketmaster"
 							],
-							"icon": "general",
+							"icon": "tickatus",
 							"id": "hearthstone_game_section_204",
 							"name": "Tickatus"
 						},
@@ -3988,7 +3988,7 @@
 							"achievementTypes": [
 								"hearthstone_game_268_rage_your_dream"
 							],
-							"icon": "general",
+							"icon": "y'shaarj",
 							"id": "hearthstone_game_section_205",
 							"name": "Y’Shaarj"
 						},
@@ -3996,7 +3996,7 @@
 							"achievementTypes": [
 								"hearthstone_game_269_madness_in_the_tavern"
 							],
-							"icon": "general",
+							"icon": "yogg-saron,_hope's_end",
 							"id": "hearthstone_game_section_206",
 							"name": "Yogg-Saron, Hoffnungsende"
 						},
@@ -4004,7 +4004,7 @@
 							"achievementTypes": [
 								"hearthstone_game_270_a_dream_come_true"
 							],
-							"icon": "general",
+							"icon": "ysera",
 							"id": "hearthstone_game_section_207",
 							"name": "Ysera"
 						},
@@ -4012,7 +4012,7 @@
 							"achievementTypes": [
 								"hearthstone_game_271_phenomenal_cosmic_powers"
 							],
-							"icon": "general",
+							"icon": "zephrys_the_great",
 							"id": "hearthstone_game_section_208",
 							"name": "Zephrys der Große"
 						},
@@ -4020,7 +4020,7 @@
 							"achievementTypes": [
 								"hearthstone_game_274_brightest_kid_around"
 							],
-							"icon": "general",
+							"icon": "xyrella",
 							"id": "hearthstone_game_section_215",
 							"name": "Xyrella"
 						},
@@ -4028,7 +4028,7 @@
 							"achievementTypes": [
 								"hearthstone_game_276_da_voodoo_shuffle"
 							],
-							"icon": "general",
+							"icon": "vol'jin",
 							"id": "hearthstone_game_section_216",
 							"name": "Vol’jin"
 						},
@@ -4036,7 +4036,7 @@
 							"achievementTypes": [
 								"hearthstone_game_275_killer_speech"
 							],
-							"icon": "general",
+							"icon": "death_speaker_blackthorn",
 							"id": "hearthstone_game_section_217",
 							"name": "Todessprecher Schwarzdorn"
 						},
@@ -4044,7 +4044,7 @@
 							"achievementTypes": [
 								"hearthstone_game_281_insatiable"
 							],
-							"icon": "general",
+							"icon": "mutanus_the_devourer",
 							"id": "hearthstone_game_section_350",
 							"name": "Mutanus der Verschlinger"
 						},
@@ -4052,7 +4052,7 @@
 							"achievementTypes": [
 								"hearthstone_game_282_perfectly_balanced"
 							],
-							"icon": "general",
+							"icon": "guff_runetotem",
 							"id": "hearthstone_game_section_351",
 							"name": "Guff Runentotem"
 						},
@@ -4060,7 +4060,7 @@
 							"achievementTypes": [
 								"hearthstone_game_307_ashfallen_in_love_with_you"
 							],
-							"icon": "general",
+							"icon": "kurtrus_ashfallen",
 							"id": "hearthstone_game_section_498",
 							"name": "Kurtrus Aschensturz"
 						},
@@ -4068,7 +4068,7 @@
 							"achievementTypes": [
 								"hearthstone_game_308_profit_prophet"
 							],
-							"icon": "general",
+							"icon": "trade_prince_gallywix",
 							"id": "hearthstone_game_section_499",
 							"name": "Handelsprinz Gallywix"
 						},
@@ -4076,14 +4076,14 @@
 							"achievementTypes": [
 								"hearthstone_game_321_take_to_the_skies"
 							],
-							"icon": "general",
+							"icon": "galewing",
 							"id": "hearthstone_game_section_504",
 							"name": "Sturmschwinge"
 						},
 						{
 							"achievementTypes": [
 							],
-							"icon": "general",
+							"icon": "hero_skins",
 							"id": "hearthstone_game_section_506",
 							"name": "Heldenskins"
 						},
@@ -4091,7 +4091,7 @@
 							"achievementTypes": [
 								"hearthstone_game_325_courageous_conviction"
 							],
-							"icon": "general",
+							"icon": "cariel_roame",
 							"id": "hearthstone_game_section_508",
 							"name": "Cariel Roame"
 						},
@@ -4099,7 +4099,7 @@
 							"achievementTypes": [
 								"hearthstone_game_326_a_masters_tribute"
 							],
-							"icon": "general",
+							"icon": "master_nguyen",
 							"id": "hearthstone_game_section_509",
 							"name": "Meister Nguyen"
 						},
@@ -4107,7 +4107,7 @@
 							"achievementTypes": [
 								"hearthstone_game_366_mind_if_i_roll_sneed"
 							],
-							"icon": "general",
+							"icon": "sneed",
 							"id": "hearthstone_game_section_546",
 							"name": "Sneed"
 						},
@@ -4115,7 +4115,7 @@
 							"achievementTypes": [
 								"hearthstone_game_367_3star_chef"
 							],
-							"icon": "general",
+							"icon": "cookie_the_cook",
 							"id": "hearthstone_game_section_547",
 							"name": "Krümel der Smutje"
 						},
@@ -4123,7 +4123,7 @@
 							"achievementTypes": [
 								"hearthstone_game_369_aroameatherapy"
 							],
-							"icon": "general",
+							"icon": "tamsin_roame",
 							"id": "hearthstone_game_section_549",
 							"name": "Tamsin Roame"
 						},
@@ -4131,7 +4131,7 @@
 							"achievementTypes": [
 								"hearthstone_game_371_you_made_this_i_made_this"
 							],
-							"icon": "general",
+							"icon": "scabbs_cutterbutter",
 							"id": "hearthstone_game_section_550",
 							"name": "Schnipps Butterbeil"
 						},
@@ -4139,7 +4139,7 @@
 							"achievementTypes": [
 								"hearthstone_game_370_360_no_scope"
 							],
-							"icon": "general",
+							"icon": "tavish_stormpike",
 							"id": "hearthstone_game_section_551",
 							"name": "Tavish Sturmlanze"
 						},
@@ -4147,7 +4147,7 @@
 							"achievementTypes": [
 								"hearthstone_game_372_elements_of_style"
 							],
-							"icon": "general",
+							"icon": "bru'kan",
 							"id": "hearthstone_game_section_563",
 							"name": "Bru’kan"
 						},
@@ -4155,7 +4155,7 @@
 							"achievementTypes": [
 								"hearthstone_game_373_frostwolf_fame"
 							],
-							"icon": "general",
+							"icon": "drek'thar",
 							"id": "hearthstone_game_section_564",
 							"name": "Drek’Thar"
 						},
@@ -4163,7 +4163,7 @@
 							"achievementTypes": [
 								"hearthstone_game_374_stormpike_stardom"
 							],
-							"icon": "general",
+							"icon": "vanndar_stormpike",
 							"id": "hearthstone_game_section_565",
 							"name": "Vanndar Sturmlanze"
 						},
@@ -4171,7 +4171,7 @@
 							"achievementTypes": [
 								"hearthstone_game_379_more_dots"
 							],
-							"icon": "general",
+							"icon": "onyxia",
 							"id": "hearthstone_game_section_572",
 							"name": "Onyxia"
 						},
@@ -4179,7 +4179,7 @@
 							"achievementTypes": [
 								"hearthstone_game_380_chill_out"
 							],
-							"icon": "general",
+							"icon": "varden_dawngrasp",
 							"id": "hearthstone_game_section_573",
 							"name": "Varden Dämmergriff"
 						},
@@ -4187,7 +4187,7 @@
 							"achievementTypes": [
 								"hearthstone_game_381_not_too_young_to_fight"
 							],
-							"icon": "general",
+							"icon": "rokara",
 							"id": "hearthstone_game_section_574",
 							"name": "Rokara"
 						},
@@ -4195,7 +4195,7 @@
 							"achievementTypes": [
 								"hearthstone_game_394_all_according_to_plan"
 							],
-							"icon": "general",
+							"icon": "ambassador_faelin",
 							"id": "hearthstone_game_section_586",
 							"name": "Botschafter Faelin"
 						},
@@ -4203,7 +4203,7 @@
 							"achievementTypes": [
 								"hearthstone_game_401_the_stormcoil_override"
 							],
-							"icon": "general",
+							"icon": "ini_stormcoil",
 							"id": "hearthstone_game_section_594",
 							"name": "Ini Sturmspule"
 						},
@@ -4211,7 +4211,7 @@
 							"achievementTypes": [
 								"hearthstone_game_406_the_waters_fine"
 							],
-							"icon": "general",
+							"icon": "queen_azshara",
 							"id": "hearthstone_game_section_598",
 							"name": "Königin Azshara"
 						},
@@ -4219,7 +4219,7 @@
 							"achievementTypes": [
 								"hearthstone_game_407_throne_of_the_tides"
 							],
-							"icon": "general",
+							"icon": "ozumat",
 							"id": "hearthstone_game_section_599",
 							"name": "Ozumat"
 						},
@@ -4227,7 +4227,7 @@
 							"achievementTypes": [
 								"hearthstone_game_410_handmaidens_tail"
 							],
-							"icon": "general",
+							"icon": "lady_vashj",
 							"id": "hearthstone_game_section_602",
 							"name": "Lady Vashj"
 						},
@@ -4235,7 +4235,7 @@
 							"achievementTypes": [
 								"hearthstone_game_425_who_the_king_i_the_king"
 							],
-							"icon": "general",
+							"icon": "heistbaron_togwaggle",
 							"id": "hearthstone_game_section_618",
 							"name": "Meisterdieb Togwaggel"
 						},
@@ -4243,7 +4243,7 @@
 							"achievementTypes": [
 								"hearthstone_game_426_amazing_detectivegenius"
 							],
-							"icon": "general",
+							"icon": "murloc_holmes",
 							"id": "hearthstone_game_section_619",
 							"name": "Murloc Holmes"
 						},
@@ -4253,7 +4253,7 @@
 								"hearthstone_game_427_i_am_revendreth",
 								"hearthstone_game_427_handsomely_rewarded"
 							],
-							"icon": "general",
+							"icon": "sire_denathrius",
 							"id": "hearthstone_game_section_620",
 							"name": "Graf Denathrius"
 						},
@@ -4261,7 +4261,7 @@
 							"achievementTypes": [
 								"hearthstone_game_431_let_none_survive"
 							],
-							"icon": "general",
+							"icon": "sylvanas_windrunner",
 							"id": "hearthstone_game_section_623",
 							"name": "Sylvanas Windläufer"
 						},
@@ -4269,7 +4269,7 @@
 							"achievementTypes": [
 								"hearthstone_game_459_master_of_the_maw"
 							],
-							"icon": "general",
+							"icon": "the_jailer",
 							"id": "hearthstone_game_section_651",
 							"name": "Der Kerkermeister"
 						},
@@ -4277,7 +4277,7 @@
 							"achievementTypes": [
 								"hearthstone_game_462_the_little_bot_that_could"
 							],
-							"icon": "general",
+							"icon": "enhance-o_mechano",
 							"id": "hearthstone_game_section_654",
 							"name": "Aufwert-o-Bot"
 						},
@@ -4285,7 +4285,7 @@
 							"achievementTypes": [
 								"hearthstone_game_463_plague_perfected"
 							],
-							"icon": "general",
+							"icon": "professor_putricide",
 							"id": "hearthstone_game_section_655",
 							"name": "Professor Seuchenmord"
 						},
@@ -4293,7 +4293,7 @@
 							"achievementTypes": [
 								"hearthstone_game_464_that_was_goreious"
 							],
-							"icon": "general",
+							"icon": "teron_gorefiend",
 							"id": "hearthstone_game_section_656",
 							"name": "Teron Blutschatten"
 						},
@@ -4302,7 +4302,7 @@
 								"hearthstone_game_478_friend_of_a_friend",
 								"hearthstone_game_478_chart_topper"
 							],
-							"icon": "general",
+							"icon": "e.t.c.,_band_manager",
 							"id": "hearthstone_game_section_670",
 							"name": "Band Manager E.T.C."
 						},
@@ -4310,7 +4310,7 @@
 							"achievementTypes": [
 								"hearthstone_game_481_ready_to_rock"
 							],
-							"icon": "general",
+							"icon": "rock_master_voone",
 							"id": "hearthstone_game_section_673",
 							"name": "Rockmeister Voone"
 						},
@@ -4318,7 +4318,7 @@
 							"achievementTypes": [
 								"hearthstone_game_482_ingenious"
 							],
-							"icon": "general",
+							"icon": "inge,_the_iron_hymn",
 							"id": "hearthstone_game_section_674",
 							"name": "Inge, die Eiserne Hymne"
 						},
@@ -4326,7 +4326,7 @@
 							"achievementTypes": [
 								"hearthstone_game_483_sailing_to_victory"
 							],
-							"icon": "general",
+							"icon": "cap'n_hoggarr",
 							"id": "hearthstone_game_section_675",
 							"name": "Käpt’n Hoggarr "
 						},
@@ -4334,7 +4334,7 @@
 							"achievementTypes": [
 								"hearthstone_game_514_a_tier_above_the_rest"
 							],
-							"icon": "general",
+							"icon": "thorim,_stormlord",
 							"id": "hearthstone_game_section_693",
 							"name": "Thorim, Sturmherr"
 						},
@@ -4342,7 +4342,7 @@
 							"achievementTypes": [
 								"hearthstone_game_831_this_is_how_i_roll"
 							],
-							"icon": "general",
+							"icon": "snake_eyes",
 							"id": "hearthstone_game_section_958",
 							"name": "Schlangenaugen"
 						},
@@ -4350,7 +4350,7 @@
 							"achievementTypes": [
 								"hearthstone_game_832_rewarding_research"
 							],
-							"icon": "general",
+							"icon": "tae'thelan_bloodwatcher",
 							"id": "hearthstone_game_section_959",
 							"name": "Tae’thelan Blutwächter"
 						},
@@ -4358,7 +4358,7 @@
 							"achievementTypes": [
 								"hearthstone_game_833_happy_hollidaes"
 							],
-							"icon": "general",
+							"icon": "doctor_holli'dae",
 							"id": "hearthstone_game_section_960",
 							"name": "Doktor Holli’dae"
 						},
@@ -4366,7 +4366,7 @@
 							"achievementTypes": [
 								"hearthstone_game_919_floop_de_loop"
 							],
-							"icon": "general",
+							"icon": "flobbidinous_floop",
 							"id": "hearthstone_game_section_1046",
 							"name": "Flubbidinius Flurp"
 						},
@@ -4374,7 +4374,7 @@
 							"achievementTypes": [
 								"hearthstone_game_920_no_ones_a_winner"
 							],
-							"icon": "general",
+							"icon": "the_nameless_one",
 							"id": "hearthstone_game_section_1047",
 							"name": "Der Namenlose"
 						},
@@ -4382,7 +4382,7 @@
 							"achievementTypes": [
 								"hearthstone_game_921_passed_with_flying_colors"
 							],
-							"icon": "general",
+							"icon": "madam_goya",
 							"id": "hearthstone_game_section_1048",
 							"name": "Madame Goya"
 						},
@@ -4390,7 +4390,7 @@
 							"achievementTypes": [
 								"hearthstone_game_922_i_won"
 							],
-							"icon": "general",
+							"icon": "cho",
 							"id": "hearthstone_game_section_1049",
 							"name": "Cho"
 						},
@@ -4398,7 +4398,7 @@
 							"achievementTypes": [
 								"hearthstone_game_923_no_i_won"
 							],
-							"icon": "general",
+							"icon": "gall",
 							"id": "hearthstone_game_section_1050",
 							"name": "Gall"
 						},
@@ -4406,7 +4406,7 @@
 							"achievementTypes": [
 								"hearthstone_game_990_under_new_management"
 							],
-							"icon": "general",
+							"icon": "marin_the_manager",
 							"id": "hearthstone_game_section_1134",
 							"name": "Marin der Manager"
 						},
@@ -4414,7 +4414,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1045_master_cloner"
 							],
-							"icon": "general",
+							"icon": "zerek,_master_cloner",
 							"id": "hearthstone_game_section_1201",
 							"name": "Klonmeister Zerek"
 						},
@@ -4422,7 +4422,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1043_out_of_this_world"
 							],
-							"icon": "general",
+							"icon": "farseer_nobundo",
 							"id": "hearthstone_game_section_1202",
 							"name": "Scharfseher Nobundo"
 						},
@@ -4430,7 +4430,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1044_astronomical"
 							],
-							"icon": "general",
+							"icon": "exarch_othaar",
 							"id": "hearthstone_game_section_1203",
 							"name": "Exarch Othaar"
 						},
@@ -4438,7 +4438,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1189_wings_of_liberty"
 							],
-							"icon": "general",
+							"icon": "jim_raynor",
 							"id": "hearthstone_game_section_1347",
 							"name": "Jim Raynor"
 						},
@@ -4446,7 +4446,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1190_heart_of_the_swarm"
 							],
-							"icon": "general",
+							"icon": "kerrigan,_queen_of_blades",
 							"id": "hearthstone_game_section_1348",
 							"name": "Kerrigan, Königin der Klingen"
 						},
@@ -4454,7 +4454,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1191_legacy_of_the_void"
 							],
-							"icon": "general",
+							"icon": "artanis",
 							"id": "hearthstone_game_section_1349",
 							"name": "Artanis"
 						},
@@ -4462,7 +4462,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1322_put_a_pin_in_it"
 							],
-							"icon": "general",
+							"icon": "buttons",
 							"id": "hearthstone_game_section_1493",
 							"name": "Knöpfchen"
 						},
@@ -4470,7 +4470,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1323_best_case_cenarius"
 							],
-							"icon": "general",
+							"icon": "forest_lord_cenarius",
 							"id": "hearthstone_game_section_1494",
 							"name": "Waldlord Cenarius"
 						},
@@ -4478,7 +4478,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1364_all_time_loh"
 							],
-							"icon": "general",
+							"icon": "loh,_the_living_legend",
 							"id": "hearthstone_game_section_1548",
 							"name": "Na'logo, lebende Legende"
 						},
@@ -4486,7 +4486,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1419_hmm_havent_we_done_this_before"
 							],
-							"icon": "general",
+							"icon": "time_twister_chromie",
 							"id": "hearthstone_game_section_1601",
 							"name": "Zeitverdreherin Chromie"
 						},
@@ -4494,7 +4494,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1418_your_time_has_come"
 							],
-							"icon": "general",
+							"icon": "murozond,_unbounded",
 							"id": "hearthstone_game_section_1602",
 							"name": "Entfesselter Murozond"
 						}
@@ -4522,7 +4522,7 @@
 						{
 							"achievementTypes": [
 							],
-							"icon": "general",
+							"icon": "hidden",
 							"id": "hearthstone_game_section_507",
 							"name": "Versteckt"
 						},
@@ -4531,7 +4531,7 @@
 								"hearthstone_game_116_stelina_duelist",
 								"hearthstone_game_116_flawless_stelina_duelist"
 							],
-							"icon": "general",
+							"icon": "stelina",
 							"id": "hearthstone_game_section_50",
 							"name": "Stelina"
 						},
@@ -4540,7 +4540,7 @@
 								"hearthstone_game_153_omu_duelist",
 								"hearthstone_game_153_flawless_omu_duelist"
 							],
-							"icon": "general",
+							"icon": "omu",
 							"id": "hearthstone_game_section_90",
 							"name": "Omu"
 						},
@@ -4549,7 +4549,7 @@
 								"hearthstone_game_154_slate_duelist",
 								"hearthstone_game_154_flawless_slate_duelist"
 							],
-							"icon": "general",
+							"icon": "slate",
 							"id": "hearthstone_game_section_91",
 							"name": "Snehp"
 						},
@@ -4558,7 +4558,7 @@
 								"hearthstone_game_155_mozaki_duelist",
 								"hearthstone_game_155_flawless_mozaki_duelist"
 							],
-							"icon": "general",
+							"icon": "mozaki",
 							"id": "hearthstone_game_section_92",
 							"name": "Mozaki"
 						},
@@ -4567,7 +4567,7 @@
 								"hearthstone_game_156_turalyon_duelist",
 								"hearthstone_game_156_flawless_turalyon_duelist"
 							],
-							"icon": "general",
+							"icon": "turalyon",
 							"id": "hearthstone_game_section_93",
 							"name": "Turalyon"
 						},
@@ -4576,7 +4576,7 @@
 								"hearthstone_game_157_illucia_duelist",
 								"hearthstone_game_157_flawless_illucia_duelist"
 							],
-							"icon": "general",
+							"icon": "illucia",
 							"id": "hearthstone_game_section_94",
 							"name": "Illucia"
 						},
@@ -4585,7 +4585,7 @@
 								"hearthstone_game_158_lilian_duelist",
 								"hearthstone_game_158_flawless_lilian_duelist"
 							],
-							"icon": "general",
+							"icon": "lilian",
 							"id": "hearthstone_game_section_95",
 							"name": "Lilian"
 						},
@@ -4594,7 +4594,7 @@
 								"hearthstone_game_159_fireheart_duelist",
 								"hearthstone_game_159_flawless_fireheart_duelist"
 							],
-							"icon": "general",
+							"icon": "fireheart",
 							"id": "hearthstone_game_section_96",
 							"name": "Feuerherz"
 						},
@@ -4603,7 +4603,7 @@
 								"hearthstone_game_160_willow_duelist",
 								"hearthstone_game_160_flawless_willow_duelist"
 							],
-							"icon": "general",
+							"icon": "willow",
 							"id": "hearthstone_game_section_97",
 							"name": "Walpurga"
 						},
@@ -4612,7 +4612,7 @@
 								"hearthstone_game_161_rattlegore_duelist",
 								"hearthstone_game_161_flawless_rattlegore_duelist"
 							],
-							"icon": "general",
+							"icon": "rattlegore",
 							"id": "hearthstone_game_section_98",
 							"name": "Blutrippe"
 						},
@@ -4621,7 +4621,7 @@
 								"hearthstone_game_368_diablo_duelist",
 								"hearthstone_game_368_flawless_diablo_duelist"
 							],
-							"icon": "general",
+							"icon": "diablo",
 							"id": "hearthstone_game_section_548",
 							"name": "Diablo"
 						},
@@ -4630,7 +4630,7 @@
 								"hearthstone_game_376_drekthar_duelist",
 								"hearthstone_game_376_flawless_drekthar_duelist"
 							],
-							"icon": "general",
+							"icon": "drek'thar",
 							"id": "hearthstone_game_section_566",
 							"name": "Drek’Thar"
 						},
@@ -4639,7 +4639,7 @@
 								"hearthstone_game_375_vanndar_duelist",
 								"hearthstone_game_375_flawless_vanndar_duelist"
 							],
-							"icon": "general",
+							"icon": "vanndar",
 							"id": "hearthstone_game_section_567",
 							"name": "Vanndar"
 						},
@@ -4648,7 +4648,7 @@
 								"hearthstone_game_400_finley_duelist",
 								"hearthstone_game_400_flawless_finley_duelist"
 							],
-							"icon": "general",
+							"icon": "finley",
 							"id": "hearthstone_game_section_589",
 							"name": "Finley"
 						},
@@ -4657,7 +4657,7 @@
 								"hearthstone_game_399_elise_duelist",
 								"hearthstone_game_399_flawless_elise_duelist"
 							],
-							"icon": "general",
+							"icon": "elise",
 							"id": "hearthstone_game_section_590",
 							"name": "Elise"
 						},
@@ -4666,7 +4666,7 @@
 								"hearthstone_game_397_reno_duelist",
 								"hearthstone_game_397_flawless_reno_duelist"
 							],
-							"icon": "general",
+							"icon": "reno",
 							"id": "hearthstone_game_section_591",
 							"name": "Reno"
 						},
@@ -4675,7 +4675,7 @@
 								"hearthstone_game_398_brann_duelist",
 								"hearthstone_game_398_flawless_brann_duelist"
 							],
-							"icon": "general",
+							"icon": "brann",
 							"id": "hearthstone_game_section_592",
 							"name": "Brann"
 						},
@@ -4684,7 +4684,7 @@
 								"hearthstone_game_402_tess_duelist",
 								"hearthstone_game_402_flawless_tess_duelist"
 							],
-							"icon": "general",
+							"icon": "tess",
 							"id": "hearthstone_game_section_595",
 							"name": "Tess!"
 						},
@@ -4693,7 +4693,7 @@
 								"hearthstone_game_404_darius_duelist",
 								"hearthstone_game_404_flawless_darius_duelist"
 							],
-							"icon": "general",
+							"icon": "darius",
 							"id": "hearthstone_game_section_596",
 							"name": "Darius!"
 						},
@@ -4702,7 +4702,7 @@
 								"hearthstone_game_405_shaw_duelist",
 								"hearthstone_game_405_flawless_shaw_duelist"
 							],
-							"icon": "general",
+							"icon": "shaw",
 							"id": "hearthstone_game_section_597",
 							"name": "Shaw!"
 						},
@@ -4711,7 +4711,7 @@
 								"hearthstone_game_428_sai_duelist",
 								"hearthstone_game_428_flawless_sai_duelist"
 							],
-							"icon": "general",
+							"icon": "sai",
 							"id": "hearthstone_game_section_621",
 							"name": "Sai"
 						},
@@ -4720,12 +4720,12 @@
 								"hearthstone_game_429_scarlet_duelist",
 								"hearthstone_game_429_flawless_scarlet_duelist"
 							],
-							"icon": "general",
+							"icon": "scarlet",
 							"id": "hearthstone_game_section_622",
 							"name": "Scarlet"
 						}
 					],
-					"icon": "general",
+					"icon": "duels_(retired)",
 					"id": "hearthstone_game_sub_14",
 					"name": "Duelle (beendet)"
 				},
@@ -4846,12 +4846,12 @@
 								"hearthstone_game_460_death_knight_gladiator",
 								"hearthstone_game_460_flawless_death_knight_gladiator"
 							],
-							"icon": "general",
+							"icon": "death_knight",
 							"id": "hearthstone_game_section_652",
 							"name": "Todesritter"
 						}
 					],
-					"icon": "general",
+					"icon": "mode_arena",
 					"id": "hearthstone_game_sub_15",
 					"name": "Arena"
 				},
@@ -4860,7 +4860,7 @@
 						"hearthstone_game_118_lord_of_the_brawl",
 						"hearthstone_game_118_timeways_prerelease_champion"
 					],
-					"icon": "general",
+					"icon": "mode_tavernbrawl",
 					"id": "hearthstone_game_sub_16",
 					"name": "Kartenchaos"
 				},
@@ -4910,7 +4910,7 @@
 								"hearthstone_game_312_bounties_ragnaros",
 								"hearthstone_game_312_there_is_no_cow_level"
 							],
-							"icon": "general",
+							"icon": "bounties",
 							"id": "hearthstone_game_section_503",
 							"name": "Kopfgelder"
 						},
@@ -4922,7 +4922,7 @@
 								"hearthstone_game_309_maxed",
 								"hearthstone_game_309_unlock_10_peices_of_equipment"
 							],
-							"icon": "general",
+							"icon": "progression",
 							"id": "hearthstone_game_section_500",
 							"name": "Fortschritt"
 						},
@@ -4932,7 +4932,7 @@
 								"hearthstone_game_311_fighter_equipment_collector",
 								"hearthstone_game_311_caster_equipment_collector"
 							],
-							"icon": "general",
+							"icon": "equipment",
 							"id": "hearthstone_game_section_502",
 							"name": "Ausrüstung"
 						},
@@ -4949,7 +4949,7 @@
 								"hearthstone_game_322_a_mountain_of_tasks",
 								"hearthstone_game_322_the_task_master"
 							],
-							"icon": "general",
+							"icon": "village",
 							"id": "hearthstone_game_section_505",
 							"name": "Dorf"
 						},
@@ -4965,7 +4965,7 @@
 								"hearthstone_game_409_wet_bed_redemption",
 								"hearthstone_game_409_shut_up_dad"
 							],
-							"icon": "general",
+							"icon": "travel_point",
 							"id": "hearthstone_game_section_601",
 							"name": "Reisepunkt"
 						},
@@ -4977,7 +4977,7 @@
 								"hearthstone_game_408_i_have_some_idea",
 								"hearthstone_game_408_jump_on_in_it"
 							],
-							"icon": "general",
+							"icon": "fighting_pit",
 							"id": "hearthstone_game_section_600",
 							"name": "Kampfgrube"
 						},
@@ -4993,7 +4993,7 @@
 								"hearthstone_game_310_fighter_expert_training",
 								"hearthstone_game_310_caster_expert_training"
 							],
-							"icon": "general",
+							"icon": "training",
 							"id": "hearthstone_game_section_501",
 							"name": "Training"
 						},
@@ -5122,17 +5122,17 @@
 								"hearthstone_game_327_geared_up_lilian_voss",
 								"hearthstone_game_327_geared_up_jandice_barov"
 							],
-							"icon": "general",
+							"icon": "mercenary_mastery",
 							"id": "hearthstone_game_section_510",
 							"name": "Söldnermeisterschaft"
 						}
 					],
-					"icon": "general",
+					"icon": "mercenaries",
 					"id": "hearthstone_game_sub_156",
 					"name": "Söldner"
 				}
 			],
-			"icon": "general",
+			"icon": "game_modes",
 			"id": "hearthstone_game_6",
 			"name": "Spielmodi"
 		}
