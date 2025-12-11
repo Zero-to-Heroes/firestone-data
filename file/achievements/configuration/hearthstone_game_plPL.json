@@ -504,7 +504,7 @@
 							"name": "Neutralne"
 						}
 					],
-					"icon": "core_(gryphon)",
+					"icon": "core_gryphon",
 					"id": "hearthstone_game_sub_62",
 					"name": "Bazowe (Rok Gryfa)"
 				},
@@ -1268,7 +1268,7 @@
 							"name": "Neutralne"
 						}
 					],
-					"icon": "core_(hydra)",
+					"icon": "core_hydra",
 					"id": "hearthstone_game_sub_168",
 					"name": "Bazowe (Rok Hydry)"
 				},
@@ -1759,7 +1759,7 @@
 							"name": "Neutralne"
 						}
 					],
-					"icon": "core_(wolf)",
+					"icon": "core_wolf",
 					"id": "hearthstone_game_sub_178",
 					"name": "Bazowe (Wilk)"
 				},
@@ -3306,7 +3306,7 @@
 						"hearthstone_game_737_whizbang_neutral_collector",
 						"hearthstone_game_737_wondrous_workshop"
 					],
-					"icon": "whizbang's_workshop",
+					"icon": "whizbang_s_workshop",
 					"id": "hearthstone_game_sub_216",
 					"name": "Majsternia Świstomiga"
 				},
@@ -3549,7 +3549,7 @@
 								"hearthstone_game_924_funnel_cakes",
 								"hearthstone_game_924_cinnamon_funnel_cakes"
 							],
-							"icon": "duos_-_challenges",
+							"icon": "duos___challenges",
 							"id": "hearthstone_game_section_1051",
 							"name": "Duety – wyzwania"
 						},
@@ -3558,7 +3558,7 @@
 								"hearthstone_game_215_brb",
 								"hearthstone_game_215_idle_idol"
 							],
-							"icon": "a.f.kay",
+							"icon": "afkay",
 							"id": "hearthstone_game_section_150",
 							"name": "B.R.B. Ara"
 						},
@@ -3566,7 +3566,7 @@
 							"achievementTypes": [
 								"hearthstone_game_216_wrath_of_the_windlord"
 							],
-							"icon": "al'akir",
+							"icon": "al_akir",
 							"id": "hearthstone_game_section_151",
 							"name": "Al'Akir"
 						},
@@ -3590,7 +3590,7 @@
 							"achievementTypes": [
 								"hearthstone_game_219_supreme_tavernologist"
 							],
-							"icon": "arch-villain_rafaam",
+							"icon": "arch_villain_rafaam",
 							"id": "hearthstone_game_section_154",
 							"name": "Arcyzłoczyńca Rafaam"
 						},
@@ -3606,7 +3606,7 @@
 							"achievementTypes": [
 								"hearthstone_game_221_mathematically_impossible"
 							],
-							"icon": "c'thun",
+							"icon": "c_thun",
 							"id": "hearthstone_game_section_156",
 							"name": "C'Thun"
 						},
@@ -3639,7 +3639,7 @@
 								"hearthstone_game_225_hats_on_hats_on_hats",
 								"hearthstone_game_225_show_me_your_moves"
 							],
-							"icon": "dancin'_deryl",
+							"icon": "dancin__deryl",
 							"id": "hearthstone_game_section_160",
 							"name": "Pląsający Daryl"
 						},
@@ -3736,7 +3736,7 @@
 							"achievementTypes": [
 								"hearthstone_game_237_no_more_setbacks"
 							],
-							"icon": "kael'thas_sunstrider",
+							"icon": "kael_thas_sunstrider",
 							"id": "hearthstone_game_section_173",
 							"name": "Kael'thas Słońcobieżca"
 						},
@@ -3744,7 +3744,7 @@
 							"achievementTypes": [
 								"hearthstone_game_238_phylactery_mastery"
 							],
-							"icon": "lich_baz'hial",
+							"icon": "lich_baz_hial",
 							"id": "hearthstone_game_section_174",
 							"name": "Lisza Pani Baz'hial"
 						},
@@ -3801,7 +3801,7 @@
 							"achievementTypes": [
 								"hearthstone_game_245_whose_cat_is_this"
 							],
-							"icon": "mr._bigglesworth",
+							"icon": "mr_bigglesworth",
 							"id": "hearthstone_game_section_182",
 							"name": "Pan Sierściuch"
 						},
@@ -3817,7 +3817,7 @@
 							"achievementTypes": [
 								"hearthstone_game_247_gone_fishing"
 							],
-							"icon": "n'zoth",
+							"icon": "n_zoth",
 							"id": "hearthstone_game_section_184",
 							"name": "N'Zoth"
 						},
@@ -3930,7 +3930,7 @@
 								"hearthstone_game_261_rainy_day_fund",
 								"hearthstone_game_261_im_the_capn_now"
 							],
-							"icon": "skycap'n_kragg",
+							"icon": "skycap_n_kragg",
 							"id": "hearthstone_game_section_198",
 							"name": "Lotny Kapitan Kragg"
 						},
@@ -3988,7 +3988,7 @@
 							"achievementTypes": [
 								"hearthstone_game_268_rage_your_dream"
 							],
-							"icon": "y'shaarj",
+							"icon": "y_shaarj",
 							"id": "hearthstone_game_section_205",
 							"name": "Y'Shaarj"
 						},
@@ -3996,7 +3996,7 @@
 							"achievementTypes": [
 								"hearthstone_game_269_madness_in_the_tavern"
 							],
-							"icon": "yogg-saron,_hope's_end",
+							"icon": "yogg_saron_hope_s_end",
 							"id": "hearthstone_game_section_206",
 							"name": "Yogg-Saron, Kres Nadziei"
 						},
@@ -4028,7 +4028,7 @@
 							"achievementTypes": [
 								"hearthstone_game_276_da_voodoo_shuffle"
 							],
-							"icon": "vol'jin",
+							"icon": "vol_jin",
 							"id": "hearthstone_game_section_216",
 							"name": "Vol'jin"
 						},
@@ -4147,7 +4147,7 @@
 							"achievementTypes": [
 								"hearthstone_game_372_elements_of_style"
 							],
-							"icon": "bru'kan",
+							"icon": "bru_kan",
 							"id": "hearthstone_game_section_563",
 							"name": "Bru'kan"
 						},
@@ -4155,7 +4155,7 @@
 							"achievementTypes": [
 								"hearthstone_game_373_frostwolf_fame"
 							],
-							"icon": "drek'thar",
+							"icon": "drek_thar",
 							"id": "hearthstone_game_section_564",
 							"name": "Drek'Tar"
 						},
@@ -4277,7 +4277,7 @@
 							"achievementTypes": [
 								"hearthstone_game_462_the_little_bot_that_could"
 							],
-							"icon": "enhance-o_mechano",
+							"icon": "enhance_o_mechano",
 							"id": "hearthstone_game_section_654",
 							"name": "Mechano Wzmacniano"
 						},
@@ -4302,7 +4302,7 @@
 								"hearthstone_game_478_friend_of_a_friend",
 								"hearthstone_game_478_chart_topper"
 							],
-							"icon": "e.t.c.,_band_manager",
+							"icon": "etc_band_manager",
 							"id": "hearthstone_game_section_670",
 							"name": "E.T.C., Menedżer Zespołu"
 						},
@@ -4318,7 +4318,7 @@
 							"achievementTypes": [
 								"hearthstone_game_482_ingenious"
 							],
-							"icon": "inge,_the_iron_hymn",
+							"icon": "inge_the_iron_hymn",
 							"id": "hearthstone_game_section_674",
 							"name": "Inge, Żelazny Hymn"
 						},
@@ -4326,7 +4326,7 @@
 							"achievementTypes": [
 								"hearthstone_game_483_sailing_to_victory"
 							],
-							"icon": "cap'n_hoggarr",
+							"icon": "cap_n_hoggarr",
 							"id": "hearthstone_game_section_675",
 							"name": "Kapitan Wyżerrr "
 						},
@@ -4334,7 +4334,7 @@
 							"achievementTypes": [
 								"hearthstone_game_514_a_tier_above_the_rest"
 							],
-							"icon": "thorim,_stormlord",
+							"icon": "thorim_stormlord",
 							"id": "hearthstone_game_section_693",
 							"name": "Thorim, Pan Burzy"
 						},
@@ -4350,7 +4350,7 @@
 							"achievementTypes": [
 								"hearthstone_game_832_rewarding_research"
 							],
-							"icon": "tae'thelan_bloodwatcher",
+							"icon": "tae_thelan_bloodwatcher",
 							"id": "hearthstone_game_section_959",
 							"name": "Tae'thelan Krwiowidzący"
 						},
@@ -4358,7 +4358,7 @@
 							"achievementTypes": [
 								"hearthstone_game_833_happy_hollidaes"
 							],
-							"icon": "doctor_holli'dae",
+							"icon": "doctor_holli_dae",
 							"id": "hearthstone_game_section_960",
 							"name": "Znachorka Holli'dae"
 						},
@@ -4414,7 +4414,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1045_master_cloner"
 							],
-							"icon": "zerek,_master_cloner",
+							"icon": "zerek_master_cloner",
 							"id": "hearthstone_game_section_1201",
 							"name": "Klonował Zerek"
 						},
@@ -4446,7 +4446,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1190_heart_of_the_swarm"
 							],
-							"icon": "kerrigan,_queen_of_blades",
+							"icon": "kerrigan_queen_of_blades",
 							"id": "hearthstone_game_section_1348",
 							"name": "Kerrigan, Królowa Ostrzy"
 						},
@@ -4478,7 +4478,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1364_all_time_loh"
 							],
-							"icon": "loh,_the_living_legend",
+							"icon": "loh_the_living_legend",
 							"id": "hearthstone_game_section_1548",
 							"name": "Loh, Żywa Legenda"
 						},
@@ -4494,7 +4494,7 @@
 							"achievementTypes": [
 								"hearthstone_game_1418_your_time_has_come"
 							],
-							"icon": "murozond,_unbounded",
+							"icon": "murozond_unbounded",
 							"id": "hearthstone_game_section_1602",
 							"name": "Murozond Wyzwolony"
 						}
@@ -4630,7 +4630,7 @@
 								"hearthstone_game_376_drekthar_duelist",
 								"hearthstone_game_376_flawless_drekthar_duelist"
 							],
-							"icon": "drek'thar",
+							"icon": "drek_thar",
 							"id": "hearthstone_game_section_566",
 							"name": "Drek'Tar"
 						},
@@ -4725,7 +4725,7 @@
 							"name": "Scarlet"
 						}
 					],
-					"icon": "duels_(retired)",
+					"icon": "duels_retired",
 					"id": "hearthstone_game_sub_14",
 					"name": "Starcia (wycofane)"
 				},
