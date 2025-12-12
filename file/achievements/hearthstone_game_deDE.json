@@ -92340,11 +92340,11 @@
 		"type": "hearthstone_game_1038_canon_event"
 	},
 	{
-		"completedText": "Hebt 50_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"completedText": "Hebt 50_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Was Euch nicht tötet...",
-		"emptyText": "Hebt 50_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"emptyText": "Hebt 50_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"hsAchievementId": 8478,
 		"hsRewardTrackXp": 300,
 		"hsSectionId": 1039,
@@ -92355,15 +92355,15 @@
 		"priority": 0,
 		"quota": 50,
 		"root": true,
-		"text": "Hebt 50_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"text": "Hebt 50_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"type": "hearthstone_game_1039_what_doesnt_kill_you"
 	},
 	{
-		"completedText": "Hebt 100_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"completedText": "Hebt 100_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Was Euch nicht tötet...",
-		"emptyText": "Hebt 100_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"emptyText": "Hebt 100_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"hsAchievementId": 8479,
 		"hsRewardTrackXp": 400,
 		"hsSectionId": 1039,
@@ -92374,7 +92374,7 @@
 		"priority": 1,
 		"quota": 100,
 		"root": false,
-		"text": "Hebt 100_Naturzauberschaden mit Fluxklagegeist oder Sturmkrähe auf.",
+		"text": "Hebt 100_Naturzauberschaden mit Fluxwiedergänger oder Sturmkrähe auf.",
 		"type": "hearthstone_game_1039_what_doesnt_kill_you"
 	},
 	{
