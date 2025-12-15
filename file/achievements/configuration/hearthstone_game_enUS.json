@@ -3306,7 +3306,7 @@
 						"hearthstone_game_737_whizbang_neutral_collector",
 						"hearthstone_game_737_wondrous_workshop"
 					],
-					"icon": "whizbang_s_workshop",
+					"icon": "whizbangs_workshop",
 					"id": "hearthstone_game_sub_216",
 					"name": "Whizbang's Workshop"
 				},
@@ -3566,7 +3566,7 @@
 							"achievementTypes": [
 								"hearthstone_game_216_wrath_of_the_windlord"
 							],
-							"icon": "al_akir",
+							"icon": "alakir",
 							"id": "hearthstone_game_section_151",
 							"name": "Al'Akir"
 						},
@@ -3606,7 +3606,7 @@
 							"achievementTypes": [
 								"hearthstone_game_221_mathematically_impossible"
 							],
-							"icon": "c_thun",
+							"icon": "cthun",
 							"id": "hearthstone_game_section_156",
 							"name": "C'Thun"
 						},
@@ -3639,7 +3639,7 @@
 								"hearthstone_game_225_hats_on_hats_on_hats",
 								"hearthstone_game_225_show_me_your_moves"
 							],
-							"icon": "dancin__deryl",
+							"icon": "dancin_deryl",
 							"id": "hearthstone_game_section_160",
 							"name": "Dancin' Deryl"
 						},
@@ -3736,7 +3736,7 @@
 							"achievementTypes": [
 								"hearthstone_game_237_no_more_setbacks"
 							],
-							"icon": "kael_thas_sunstrider",
+							"icon": "kaelthas_sunstrider",
 							"id": "hearthstone_game_section_173",
 							"name": "Kael'thas Sunstrider"
 						},
@@ -3744,7 +3744,7 @@
 							"achievementTypes": [
 								"hearthstone_game_238_phylactery_mastery"
 							],
-							"icon": "lich_baz_hial",
+							"icon": "lich_bazhial",
 							"id": "hearthstone_game_section_174",
 							"name": "Lich Baz'hial"
 						},
@@ -3817,7 +3817,7 @@
 							"achievementTypes": [
 								"hearthstone_game_247_gone_fishing"
 							],
-							"icon": "n_zoth",
+							"icon": "nzoth",
 							"id": "hearthstone_game_section_184",
 							"name": "N'Zoth"
 						},
@@ -3930,7 +3930,7 @@
 								"hearthstone_game_261_rainy_day_fund",
 								"hearthstone_game_261_im_the_capn_now"
 							],
-							"icon": "skycap_n_kragg",
+							"icon": "skycapn_kragg",
 							"id": "hearthstone_game_section_198",
 							"name": "Skycap'n Kragg"
 						},
@@ -3988,7 +3988,7 @@
 							"achievementTypes": [
 								"hearthstone_game_268_rage_your_dream"
 							],
-							"icon": "y_shaarj",
+							"icon": "yshaarj",
 							"id": "hearthstone_game_section_205",
 							"name": "Y'Shaarj"
 						},
@@ -3996,7 +3996,7 @@
 							"achievementTypes": [
 								"hearthstone_game_269_madness_in_the_tavern"
 							],
-							"icon": "yogg_saron_hope_s_end",
+							"icon": "yogg_saron_hopes_end",
 							"id": "hearthstone_game_section_206",
 							"name": "Yogg-Saron, Hope's End"
 						},
@@ -4028,7 +4028,7 @@
 							"achievementTypes": [
 								"hearthstone_game_276_da_voodoo_shuffle"
 							],
-							"icon": "vol_jin",
+							"icon": "voljin",
 							"id": "hearthstone_game_section_216",
 							"name": "Vol'jin"
 						},
@@ -4147,7 +4147,7 @@
 							"achievementTypes": [
 								"hearthstone_game_372_elements_of_style"
 							],
-							"icon": "bru_kan",
+							"icon": "brukan",
 							"id": "hearthstone_game_section_563",
 							"name": "Bru'kan"
 						},
@@ -4155,7 +4155,7 @@
 							"achievementTypes": [
 								"hearthstone_game_373_frostwolf_fame"
 							],
-							"icon": "drek_thar",
+							"icon": "drekthar",
 							"id": "hearthstone_game_section_564",
 							"name": "Drek'Thar"
 						},
@@ -4326,7 +4326,7 @@
 							"achievementTypes": [
 								"hearthstone_game_483_sailing_to_victory"
 							],
-							"icon": "cap_n_hoggarr",
+							"icon": "capn_hoggarr",
 							"id": "hearthstone_game_section_675",
 							"name": "Cap'n Hoggarr "
 						},
@@ -4350,7 +4350,7 @@
 							"achievementTypes": [
 								"hearthstone_game_832_rewarding_research"
 							],
-							"icon": "tae_thelan_bloodwatcher",
+							"icon": "taethelan_bloodwatcher",
 							"id": "hearthstone_game_section_959",
 							"name": "Tae'thelan Bloodwatcher"
 						},
@@ -4358,7 +4358,7 @@
 							"achievementTypes": [
 								"hearthstone_game_833_happy_hollidaes"
 							],
-							"icon": "doctor_holli_dae",
+							"icon": "doctor_hollidae",
 							"id": "hearthstone_game_section_960",
 							"name": "Doctor Holli'dae"
 						},
@@ -4630,7 +4630,7 @@
 								"hearthstone_game_376_drekthar_duelist",
 								"hearthstone_game_376_flawless_drekthar_duelist"
 							],
-							"icon": "drek_thar",
+							"icon": "drekthar",
 							"id": "hearthstone_game_section_566",
 							"name": "Drek'Thar"
 						},
