@@ -669,13 +669,20 @@
             "name": "The Great Dark Beyond 34.2.2",
             "date": "2025-12-12T20:00:00Z",
             "hasNewBuildNumber": false
+        },
+        {
+            "number": 233275,
+            "version": "34.4",
+            "name": "Across the Timeways 34.4",
+            "date": "2026-01-13T20:00:00Z",
+            "hasNewBuildNumber": true
         }
     ],
-    "currentConstructedMetaPatch": 233025,
+    "currentConstructedMetaPatch": 233275,
     "currentTwistMetaPatch": 202362,
     "currentBattlegroundsMetaPatch": 233025,
     "currentDuelsMetaPatch": 193541,
-    "currentArenaMetaPatch": 233025,
+    "currentArenaMetaPatch": 233275,
     "currentMercenariesMetaPatch": 189017,
-    "currentArenaSeasonPatch": 229984
+    "currentArenaSeasonPatch": 233275
 }
