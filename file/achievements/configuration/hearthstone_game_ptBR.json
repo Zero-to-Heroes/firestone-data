@@ -2695,10 +2695,30 @@
 						},
 						{
 							"achievementTypes": [
+								"hearthstone_game_1337_imbue_2_end_time_boogaloo",
+								"hearthstone_game_1337_comboneless_wings",
+								"hearthstone_game_1337_fourtunately_four_you",
+								"hearthstone_game_1337_whole_lotta_nothing",
+								"hearthstone_game_1337_frozen_in_fear",
+								"hearthstone_game_1337_die_or_dont_i_dont_care",
+								"hearthstone_game_1337_chro_no_cards",
+								"hearthstone_game_1337_the_dark_timeline",
+								"hearthstone_game_1337_time_flies_when_youre_having_1",
+								"hearthstone_game_1337_it_which_remains",
+								"hearthstone_game_1337_shadows_of_heroes"
+							],
+							"icon": "dual_class",
+							"id": "hearthstone_game_section_1521",
+							"name": "Classe Dupla"
+						},
+						{
+							"achievementTypes": [
 								"hearthstone_game_1042_poisonous_with_style",
 								"hearthstone_game_1042_remember_me",
 								"hearthstone_game_1042_ctrl_z",
-								"hearthstone_game_1042_stand_the_test_of_time"
+								"hearthstone_game_1042_stand_the_test_of_time",
+								"hearthstone_game_1042_crushing_it",
+								"hearthstone_game_1042_across_the_chromieverse"
 							],
 							"icon": "neutral",
 							"id": "hearthstone_game_section_1519",
