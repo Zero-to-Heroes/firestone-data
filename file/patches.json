@@ -683,11 +683,18 @@
             "name": "Across the Timeways 34.4.1",
             "date": "2026-01-21T03:00:00+01:00",
             "hasNewBuildNumber": true
+        },
+        {
+            "number": 234747,
+            "version": "34.4.2",
+            "name": "Across the Timeways 34.4.2",
+            "date": "2026-01-27T19:00:00+01:00",
+            "hasNewBuildNumber": false
         }
     ],
-    "currentConstructedMetaPatch": 233275,
+    "currentConstructedMetaPatch": 234747,
     "currentTwistMetaPatch": 202362,
-    "currentBattlegroundsMetaPatch": 233025,
+    "currentBattlegroundsMetaPatch": 234747,
     "currentDuelsMetaPatch": 193541,
     "currentArenaMetaPatch": 233276,
     "currentMercenariesMetaPatch": 189017,
