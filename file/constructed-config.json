@@ -12,25 +12,16 @@
 		"embers_of_the_world_tree",
 		"lost_city_of_ungoro",
 		"day_of_rebirth",
-		"across_the_timeways"
+		"across_the_timeways",
+		"echoes_of_the_infinite"
 	],
 	"twistSets": [
-		"legacy",
-		"return_to_naxxramas",
-		"gvg",
-		"brm",
-		"tgt",
-		"loe",
-		"og",
-		"kara",
-		"gangs",
-		"ungoro",
-		"caverns_of_time"
 	],
 	"vanillaSets": [
 		"vanilla"
 	],
 	"wildSets": [
+		"echoes_of_the_infinite",
 		"across_the_timeways",
 		"day_of_rebirth",
 		"lost_city_of_ungoro",
