@@ -95760,11 +95760,11 @@
 		"type": "hearthstone_game_986_shivers_down_my_spine"
 	},
 	{
-		"completedText": "Destruir 15 lacaio com O Grande Dracorex.",
+		"completedText": "Destruir 15 lacaios com O Grande Dracorex.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Fofo, porém Letal",
-		"emptyText": "Destruir 15 lacaio com O Grande Dracorex.",
+		"emptyText": "Destruir 15 lacaios com O Grande Dracorex.",
 		"hsAchievementId": 10713,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 988,
@@ -95775,15 +95775,15 @@
 		"priority": 0,
 		"quota": 15,
 		"root": true,
-		"text": "Destruir 15 lacaio com O Grande Dracorex.",
+		"text": "Destruir 15 lacaios com O Grande Dracorex.",
 		"type": "hearthstone_game_988_why_friend_shaped"
 	},
 	{
-		"completedText": "Destruir 30 lacaio com O Grande Dracorex.",
+		"completedText": "Destruir 30 lacaios com O Grande Dracorex.",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "Fofo, porém Letal",
-		"emptyText": "Destruir 30 lacaio com O Grande Dracorex.",
+		"emptyText": "Destruir 30 lacaios com O Grande Dracorex.",
 		"hsAchievementId": 10714,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 988,
@@ -95794,7 +95794,7 @@
 		"priority": 1,
 		"quota": 30,
 		"root": false,
-		"text": "Destruir 30 lacaio com O Grande Dracorex.",
+		"text": "Destruir 30 lacaios com O Grande Dracorex.",
 		"type": "hearthstone_game_988_why_friend_shaped"
 	},
 	{

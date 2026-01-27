@@ -94753,11 +94753,11 @@
 		"type": "hearthstone_game_1323_best_case_cenarius"
 	},
 	{
-		"completedText": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能6次。",
+		"completedText": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能6次。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "灌注2：末世之战",
-		"emptyText": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能6次。",
+		"emptyText": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能6次。",
 		"hsAchievementId": 10344,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 1337,
@@ -94768,15 +94768,15 @@
 		"priority": 0,
 		"quota": 6,
 		"root": true,
-		"text": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能6次。",
+		"text": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能6次。",
 		"type": "hearthstone_game_1337_imbue_2_end_time_boogaloo"
 	},
 	{
-		"completedText": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能8次。",
+		"completedText": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能8次。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "灌注2：末世之战",
-		"emptyText": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能8次。",
+		"emptyText": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能8次。",
 		"hsAchievementId": 10345,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 1337,
@@ -94787,7 +94787,7 @@
 		"priority": 1,
 		"quota": 8,
 		"root": false,
-		"text": "使用死亡骑士或潜行者，再一局对战中灌注你的英雄技能8次。",
+		"text": "使用死亡骑士或潜行者，在一局对战中灌注你的英雄技能8次。",
 		"type": "hearthstone_game_1337_imbue_2_end_time_boogaloo"
 	},
 	{
@@ -94943,11 +94943,11 @@
 		"type": "hearthstone_game_1337_frozen_in_fear"
 	},
 	{
-		"completedText": "施放永时辛劳40次。",
+		"completedText": "施放永时困苦40次。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "死不死随你",
-		"emptyText": "施放永时辛劳40次。",
+		"emptyText": "施放永时困苦40次。",
 		"hsAchievementId": 10354,
 		"hsRewardTrackXp": 100,
 		"hsSectionId": 1337,
@@ -94958,15 +94958,15 @@
 		"priority": 0,
 		"quota": 40,
 		"root": true,
-		"text": "施放永时辛劳40次。",
+		"text": "施放永时困苦40次。",
 		"type": "hearthstone_game_1337_die_or_dont_i_dont_care"
 	},
 	{
-		"completedText": "施放永时辛劳80次。",
+		"completedText": "施放永时困苦80次。",
 		"displayCardId": "ULDA_111",
 		"displayCardType": "spell",
 		"displayName": "死不死随你",
-		"emptyText": "施放永时辛劳80次。",
+		"emptyText": "施放永时困苦80次。",
 		"hsAchievementId": 10355,
 		"hsRewardTrackXp": 200,
 		"hsSectionId": 1337,
@@ -94977,7 +94977,7 @@
 		"priority": 1,
 		"quota": 80,
 		"root": false,
-		"text": "施放永时辛劳80次。",
+		"text": "施放永时困苦80次。",
 		"type": "hearthstone_game_1337_die_or_dont_i_dont_care"
 	},
 	{
